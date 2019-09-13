@@ -1,3 +1,9 @@
+[Adblock Plus 2.0]
+! Version: 2019.09.13
+! Title: Blocklist based on annual W3tech survey 
+! Last modified: 13 september 2019
+! Expires: 365 days (update frequency once a year)
+! Homepage: https://github.com/Kees1958/WS3_annual_most_used_survey_blocklist
 !
 ! --- Block Google advertising & related services
 !

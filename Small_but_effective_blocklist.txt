@@ -97,7 +97,7 @@
 ||edigitalsurvey.com^$third-party
 ||effectivemeasure.net^$third-party
 ||emxdgt.com^$third-party
-||eroadvertising.com^$third-party
+||ero-advertising.com^$third-party
 ||evidon.com^$third-party
 ||exelator.com^$third-party
 ||exoclick.com^$third-party

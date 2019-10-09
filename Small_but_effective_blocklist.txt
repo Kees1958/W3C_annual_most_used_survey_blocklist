@@ -9,7 +9,7 @@
 !
 ||adservice.google.*^$third-party
 ||id.google.*^$third-party
-||metric.gstatic.com^$third-part
+||metric.gstatic.com^$third-party
 ||pagead2.googlesyndication.com^$third-party
 !
 ! --- Block most common advertising & tracking services

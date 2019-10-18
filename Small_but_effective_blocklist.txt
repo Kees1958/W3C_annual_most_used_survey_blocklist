@@ -36,7 +36,6 @@
 ||adyoulike.com^$third-party
 ||amazon-adsystem.com^$third-party
 ||appnexus.com^$third-party
-||appspot.com^$third-party
 ||awin.com^$third-party
 ||bat.bing.com^$third-party
 ||beachfront.com^$third-party

@@ -86,6 +86,7 @@
 ||exoclick.com^$third-party
 ||exosrv.com^$third-party
 ||exponential.com^$third-party
+||facebook.com^$third-party
 ||facebook.net^$third-party$domain=~facebook.com
 ||fwmrm.net^$third-party
 ||fyber.com^$third-party

@@ -9,7 +9,7 @@
 !
 ||adservice.google.*^$third-party
 ||google-analytics.com^$third-party
-||googletagmanaer.com^$third-party
+||googletagmanager.com^$third-party
 ||googletagservices.com^$third-party
 ||id.google.*^$third-party
 ||metric.gstatic.com^$third-party

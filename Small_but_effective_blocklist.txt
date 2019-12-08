@@ -39,6 +39,8 @@
 ||adyoulike.com^$third-party
 ||amazon-adsystem.com^$third-party
 ||appnexus.com^$third-party
+||assets.adobedtm.net^$third-party
+||aswpsdkus.com^$third-party
 ||awin.com^$third-party
 ||bat.bing.com^$third-party
 ||beachfront.com^$third-party
@@ -72,6 +74,7 @@
 ||conviva.com^$third-party
 ||cookielaw.org^$third-party
 ||coxmt.com^$third-party
+||crazyegg.com^$third-party
 ||criteo.com^$third-party
 ||criteo.net^$third-party
 ||crwdcntrl.net^$third-party
@@ -82,6 +85,7 @@
 ||edgekey.net^$third-party
 ||edigitalsurvey.com^$third-party
 ||effectivemeasure.net^$third-party
+||elogua.com^$third-party
 ||emxdgt.com^$third-party
 ||ero-advertising.com^$third-party
 ||etahub.com^$third-party
@@ -120,6 +124,8 @@
 ||mathtag.com^$third-party
 ||media.net^$third-party
 ||metrica.yandex.com^$third-party
+||metrics.brightcove.com^$third-party
+||mfadsrv.com^$third-party
 ||mnet-ad.net^$third-party
 ||moatads.com^$third-party
 ||moatpixel.com^$third-party
@@ -132,15 +138,18 @@
 ||nugg.ad^$third-party
 ||oath.com^$third-party
 ||omniture.com^$third-party
+||omtrdc.net^$third-party
 ||onetrust.com^$third-party
 ||openx.com^$third-party
 ||optimatic.com^$third-party
 ||optimizely.com^$third-party
 ||outbrain.com^$third-party
 ||outbrainimg.com^$third-party
+||p.typekit.net^$third-party
 ||pagefair.com^$third-party
 ||pagefair.net^$third-party
 ||parsely.com^$third-party
+||placeholdit.imgix.net^$third-party
 ||pixel.facebook.com^$third-party
 ||popads.com^$third-party
 ||postrelease.com^$third-party
@@ -176,6 +185,7 @@
 ||spotx.tv^$third-party
 ||spotxchange.com^$third-party
 ||springserve.com^$third-party
+||storygize.net^$third-party
 ||summerhamster.com^$third-party
 ||synacor.com^$third-party
 ||taboola.com^$third-party
@@ -195,6 +205,7 @@
 ||tynt.com^$third-party
 ||unrulymedia.com^$third-party
 ||usabilla.com^$third-party
+||vendorlist.consensu.org^$third-party
 ||vertamedia.com^$third-party
 ||vi.ai^$third-party
 ||viglink.com^$third-party

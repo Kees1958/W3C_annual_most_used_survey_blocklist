@@ -67,6 +67,7 @@ criteo.com
 criteo.net
 crwdcntrl.net
 cxense.com
+demdex.net
 doubleclick.net
 dynamicyield.com
 edgekey.net
@@ -132,7 +133,6 @@ optimatic.com
 optimizely.com
 outbrain.com
 outbrainimg.com
-p.typekit.net
 pagefair.com
 pagefair.net
 parsely.com

@@ -86,8 +86,6 @@ fwmrm.net
 fyber.com
 getintent.com
 google-analytics.com
-googletagmanager.com
-googletagservices.com
 gscontxt.net
 gumgum.com
 hotjar.com

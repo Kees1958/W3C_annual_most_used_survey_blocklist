@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Version: 2019
-! Title: Blocklist with top200 most used advertising and tracking services based on annual W3tech survey 
+! Title: Small but effective adblockplus format blocklist based on the annual W3tech most used advertising services survey 
 ! Last modified: 30 december 2019
 ! Expires: 7 days (update frequency once a month)
 ! Homepage: https://github.com/Kees1958/WS3_annual_most_used_survey_blocklist

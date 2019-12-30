@@ -7,9 +7,9 @@
 !
 ! --- Block Google advertising & tracking services
 !
-||adservice.google.*^$third-party
+||adservice.google.*^
 ||google-analytics.com^$third-party
-||id.google.*^$third-party
+||id.google.*^
 ||metric.gstatic.com^$third-party
 ||pagead2.googlesyndication.com^$third-party
 !

@@ -16,7 +16,9 @@
 ! --- Block most common advertising & tracking services
 !
 ||2mdn.net^$third-party
+||2o7.net^$third-party
 ||33across.com^$third-party
+||3lift.com^$third-party
 ||360yield.com^$third-party
 ||adblade.com^$third-party
 ||adform.com^$third-party
@@ -34,6 +36,7 @@
 ||adserver.adtech.de^$third-party
 ||adsrvr.org^$third-party
 ||ads-twitter.com^$third-party
+||adtechus.com^$third-party
 ||advertising.com^$third-party
 ||adyoulike.com^$third-party
 ||amazon-adsystem.com^$third-party
@@ -58,6 +61,7 @@
 ||brightcom.com^$third-party
 ||brightroll.com^$third-party
 ||bttrack.com^$third-party
+||btrll.com^$third-party
 ||c1exchange.com^$third-party
 ||casalemedia.com^$third-party
 ||cedato.com^$third-party
@@ -89,6 +93,7 @@
 ||ero-advertising.com^$third-party
 ||etahub.com^$third-party
 ||evidon.com^$third-party
+||exelate.com^$third-party
 ||exelator.com^$third-party
 ||exoclick.com^$third-party
 ||exosrv.com^$third-party
@@ -117,11 +122,14 @@
 ||lijit.com^$third-party
 ||livefyre.com^$third-party
 ||liveintent.com^$third-party
+||liverail.com^$third-party
 ||lkqd.com^$third-party
 ||lkqd.net^$third-party
 ||matamo.org^$third-party
 ||mathtag.com^$third-party
 ||media.net^$third-party
+||media6degrees.com^$third-party
+||mediavoice.com^$third-party
 ||metrica.yandex.com^$third-party
 ||metrics.brightcove.com^$third-party
 ||mfadsrv.com^$third-party
@@ -129,9 +137,11 @@
 ||moatads.com^$third-party
 ||moatpixel.com^$third-party
 ||mobfox.com^$third-party
+||mookie1.com^$third-party
 ||nativo.com^$third-party
 ||nervoussummer.com^$third-party
 ||newrelic.com^$third-party
+||nexac.com^$third-party
 ||npttech.com^$third-party
 ||nr-data.net^$third-party
 ||nugg.ad^$third-party
@@ -163,7 +173,9 @@
 ||quantum-advertising.com^$third-party
 ||ranker.com^$third-party
 ||revcontent.com^$third-party
+||rfihub.com^$third-party
 ||rhythmone.com^$third-party
+||rlcdn.com^$third-party
 ||rs-stripe.com^$third-party
 ||rubicon.com^$third-party
 ||rubiconproject.com^$third-party
@@ -189,6 +201,7 @@
 ||synacor.com^$third-party
 ||taboola.com^$third-party
 ||tagmanager.yahoo.*^$third-party
+||tapad.com^$third-party
 ||teads.tv^$third-party
 ||tealium.com^$third-party
 ||tidaltv.com^$third-party

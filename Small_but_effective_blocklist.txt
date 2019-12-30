@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2019.12.08
+! Version: 2019
 ! Title: Blocklist with top200 most used advertising and tracking services based on annual W3tech survey 
-! Last modified: 8 december 2019
+! Last modified: 30 december 2019
 ! Expires: 7 days (update frequency once a month)
 ! Homepage: https://github.com/Kees1958/WS3_annual_most_used_survey_blocklist
 !
@@ -22,6 +22,7 @@
 ||adform.com^$third-party
 ||adform.net^$third-party
 ||adglare.net^$third-party
+||adhese.com^$third-party
 ||adhigh.net^$third-party
 ||adition.com^$third-party
 ||admantx.com^$third-party

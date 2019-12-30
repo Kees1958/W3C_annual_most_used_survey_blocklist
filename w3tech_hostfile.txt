@@ -10,8 +10,10 @@ id.google.com
 metric.gstatic.com
 pagead2.googlesyndication.com
 2mdn.net
+2o7.net
 33across.com
 360yield.com
+3lift.com
 adblade.com
 adform.com
 adform.net
@@ -28,6 +30,7 @@ adsafeprotected.com
 adserver.adtech.de
 adsrvr.org
 ads-twitter.com
+adtechus.com
 advertising.com
 adyoulike.com
 amazon-adsystem.com
@@ -52,6 +55,7 @@ bouncex.net
 brightcom.com
 brightroll.com
 bttrack.com
+btrll.com
 c1exchange.com
 casalemedia.com
 cedato.com
@@ -83,6 +87,7 @@ emxdgt.com
 ero-advertising.com
 etahub.com
 evidon.com
+exelate.com
 exelator.com
 exoclick.com
 exosrv.com
@@ -109,11 +114,14 @@ krxd.net
 lijit.com
 livefyre.com
 liveintent.com
+liverail.com
 lkqd.com
 lkqd.net
 matamo.org
 mathtag.com
 media.net
+media6degrees.com
+mediavoice.com
 metrica.yandex.com
 metrics.brightcove.com
 mfadsrv.com
@@ -121,9 +129,11 @@ mnet-ad.net
 moatads.com
 moatpixel.com
 mobfox.com
+mookie1.com
 nativo.com
 nervoussummer.com
 newrelic.com
+nexac.com
 npttech.com
 nr-data.net
 nugg.ad
@@ -154,7 +164,9 @@ quantserve.com
 quantum-advertising.com
 ranker.com
 revcontent.com
+rfihub.com
 rhythmone.com
+rlcdn.com
 rs-stripe.com
 rubicon.com
 rubiconproject.com
@@ -180,6 +192,7 @@ summerhamster.com
 synacor.com
 taboola.com
 tagmanager.yahoo.com
+tapad.com
 teads.tv
 tealium.com
 tidaltv.com

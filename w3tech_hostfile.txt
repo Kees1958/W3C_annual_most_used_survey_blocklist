@@ -1,5 +1,9 @@
-# This hosts file is based on W3tech annual survey on most used ad and tracking technology
-# You are free to copy and distribute this file for non-commercial uses
+# Version: 2019
+# Title: Blocklist with top200 most used advertising and tracking services based on annual W3tech survey 
+# Last modified: 30 december 2019
+# Expires: 7 days (update frequency once a month)
+# Homepage: https://github.com/Kees1958/WS3_annual_most_used_survey_blocklist
+# You are free to copy and distribute this file for non-commercial use
 #
 adservice.google.com
 id.google.com
@@ -12,6 +16,7 @@ adblade.com
 adform.com
 adform.net
 adglare.net
+adhese.com
 adhigh.net
 adition.com
 admantx.com

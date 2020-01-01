@@ -1,6 +1,6 @@
-# Version: 2019
+# Version: 2020
 # Title: Small but effective hostfile format blocklist based on the annual W3tech most used advertising services survey 
-# Last modified: 30 december 2019
+# Last modified: 01 January 2020
 # Expires: 7 days (update frequency once a month)
 # Homepage: https://github.com/Kees1958/WS3_annual_most_used_survey_blocklist
 # You are free to copy and distribute this file for non-commercial use
@@ -187,6 +187,7 @@ sovrn.com
 spotx.tv
 spotxchange.com
 springserve.com
+stickyadstv.com
 storygize.net
 summerhamster.com
 synacor.com

@@ -15,7 +15,6 @@
 !
 ! --- Block most common advertising & tracking services
 !
-||2mdn.net^$third-party
 ||2o7.net^$third-party
 ||33across.com^$third-party
 ||3lift.com^$third-party

@@ -9,7 +9,6 @@ adservice.google.com
 id.google.com
 metric.gstatic.com
 pagead2.googlesyndication.com
-2mdn.net
 2o7.net
 33across.com
 360yield.com

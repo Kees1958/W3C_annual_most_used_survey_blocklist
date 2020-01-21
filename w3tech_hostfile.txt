@@ -1,6 +1,6 @@
 # Version: 2020
 # Title: Small but effective hostfile format blocklist based on the annual W3tech most used advertising services survey 
-# Last modified: 05 January 2020
+#
 # Expires: 365 days (update frequency once a year)
 # Homepage: https://github.com/Kees1958/WS3_annual_most_used_survey_blocklist
 # You are free to copy and distribute this file for non-commercial use

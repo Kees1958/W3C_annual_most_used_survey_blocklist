@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Version: 2020
 ! Title: Small but effective adblockplus format blocklist based on the annual W3tech most used advertising services survey 
-! Last modified: 05 Januari 2020
-! Expires: 7 days (update frequency once a month)
+! 
+! Expires: 365 days (update frequency once a year)
 ! Homepage: https://github.com/Kees1958/WS3_annual_most_used_survey_blocklist
 !
 ! --- Block Google advertising & tracking services

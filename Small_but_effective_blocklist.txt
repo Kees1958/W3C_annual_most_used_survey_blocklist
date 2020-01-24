@@ -118,7 +118,6 @@
 ||juicyads.com^$third-party
 ||krxd.net^$third-party
 ||lijit.com^$third-party
-||livefyre.com^$third-party
 ||liveintent.com^$third-party
 ||liverail.com^$third-party
 ||lkqd.com^$third-party

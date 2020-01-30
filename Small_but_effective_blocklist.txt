@@ -75,7 +75,6 @@
 ||contextweb.com^$third-party
 ||conversantmedia.com^$third-party
 ||conviva.com^$third-party
-||cookielaw.org^$third-party
 ||coxmt.com^$third-party
 ||crazyegg.com^$third-party
 ||criteo.com^$third-party

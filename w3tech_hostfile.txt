@@ -69,7 +69,6 @@ content-ad.net
 contextweb.com
 conversantmedia.com
 conviva.com
-cookielaw.org
 coxmt.com
 crazyegg.com
 criteo.com
@@ -216,4 +215,3 @@ visualwebsiteoptimizer.com
 wsod.com
 yieldmo.com
 zqtk.net
-

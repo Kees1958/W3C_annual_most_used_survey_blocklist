@@ -36,6 +36,7 @@
 ||adsrvr.org^$third-party
 ||ads-twitter.com^$third-party
 ||adtechus.com^$third-party
+||adux.com^$third-party
 ||advertising.com^$third-party
 ||adyoulike.com^$third-party
 ||amazon-adsystem.com^$third-party

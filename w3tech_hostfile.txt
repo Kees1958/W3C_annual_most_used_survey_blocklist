@@ -6,7 +6,9 @@
 # You are free to copy and distribute this file for non-commercial use
 #
 adservice.google.com
+adservice.google.nl
 id.google.com
+id.google.nl
 metric.gstatic.com
 pagead2.googlesyndication.com
 2o7.net

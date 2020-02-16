@@ -58,7 +58,7 @@
 ||bkrtx.com^$third-party
 ||blueconic.net^$third-party
 ||bluekai.com^$third-party
-||||boomtrain.com^^$third-party
+||boomtrain.com^^$third-party
 ||bounceexchange.com^$third-party
 ||bouncex.net^$third-party
 ||brightcom.com^$third-party

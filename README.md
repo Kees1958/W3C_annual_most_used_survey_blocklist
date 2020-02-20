@@ -15,10 +15,11 @@ URL's (like Opera's and Brave's build-in adblockers claim to do).
 
 Opera performed an analysis on the effectiveness of Easylist and reported in a blog that 20 percent of the listed URLs were dead and
 another 60% had a 'hit rate' of less than 1% of all the traffic of the Opera browser users (having agreed to provide telemetry data). 
-Scientific studies show that large blocklist are a little more effective on 'long tail' websites (not in Alexa top 500.000 with more
-than 2000 unique visitors per day), but a little less effective on Alexa top top 300000 (websites with more than 3000+ visitors per
-day). Websites with many visitors are more likely to install adblock walls to protect advertising income. Anti-adblock walls often
-check for popular content filters (like Easylist), see for instance https://browserleaks.com/proxy 
+Scientific studies also showed that large blocklist adblockers (AdBlockPlus and uBlock0rigin) were a little more effective for websites
+not in Alexa top 500.000 (with more than 2000 unique visitors per day), but a little less effective on Alexa top top 300000 (websites 
+with more than 3000+ visitors per day), compared with small blocklist adblockers (Ghostery and Privacy Possum) (Websites with many 
+visitors are more likely to install adblock walls to protect advertising income. Anti-adblock walls often check for popular content
+filters (like Easylist), see for instance https://browserleaks.com/proxy 
 
                                                       ALTERNATIVES
 When you want a common use well maintained small blocklist, use Disconnect's Simple Ad-filter or Peter Low's blocklist (both have over

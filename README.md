@@ -6,9 +6,9 @@ In advertising the number one (Google) has a marketshare of around 40 percent, F
 while the number three Comscore just has a little over 2.5% marketshare. For comparison Amazon with its huge webstore generates
 about the same advertising traffic on its own website. 
 
-Advertising networks advertise their marketshare to indicate how succesful they are. In stead of looking at websites, I looked at the 
-advertising industry itself. to block the bulk of the mainstream advertising services with the obvious benefit of low maintenance effort 
-(for me) and low performance impact (for the adblocker you are using).
+Advertising networks advertise their marketshare to indicate how succesful they are. In stead of crawling the web analyzing Alexa's 
+TOP 500.000 websites, I looked at the advertising industry itself, to block the bulk of the mainstream advertising services with the 
+obvious benefit of low maintenance effort (for me) and low performance impact (for the adblocker you are using).
 
                                                WHY USE A MINIMAL BLOCKLIST?
 Number 250 on this list only has a marginal market share of 0.1% on the Alexa top 10000. That is why I use an adblock extension with an

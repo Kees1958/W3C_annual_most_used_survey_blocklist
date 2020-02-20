@@ -35,10 +35,12 @@
 !
 ! --- Block rest of the top200 most common analytics, advertising, tagmanagement and tracking services
 !
+||2mdn.net^third-party
 ||2o7.net^$third-party
 ||33across.com^$third-party
 ||3lift.com^$third-party
 ||360yield.com^$third-party
+||adadvisor.net^third-party
 ||adblade.com^$third-party
 ||adform.com^$third-party
 ||adform.net^$third-party
@@ -46,6 +48,8 @@
 ||adhese.com^$third-party
 ||adhigh.net^$third-party
 ||adition.com^$third-party
+||adkernel.com^third-party
+||adlucent.com^third-party
 ||admantx.com^$third-party
 ||admixer.net^$third-party
 ||adnxs.com^$third-party
@@ -55,6 +59,7 @@
 ||adserver.adtech.de^$third-party
 ||adsrvr.org^$third-party
 ||ads-twitter.com^$third-party
+||adtech.de^third-party
 ||adtechus.com^$third-party
 ||adux.com^$third-party
 ||advertising.com^$third-party
@@ -63,6 +68,8 @@
 ||appnexus.com^$third-party
 ||assets.adobedtm.net^$third-party
 ||aswpsdkus.com^$third-party
+||atdmt.com^third-party
+||atwola.com^third-party
 ||awin.com^$third-party
 ||beachfront.com^$third-party
 ||beemray.com^$third-party
@@ -73,6 +80,7 @@
 ||bidtellect.com^$third-party
 ||bidtheatre.com^$third-party
 ||bizible.com^$third-party
+||bizrate.com^third-party
 ||bkrtx.com^$third-party
 ||blueconic.net^$third-party
 ||bluekai.com^$third-party
@@ -91,16 +99,20 @@
 ||celtra.com^$third-party
 ||chartbeat.com^$third-party
 ||chartbeat.net^$third-party
+||choicestream.com^third-party
 ||cintnetworks.com^$third-party
+||clickagy.com^third-party
 ||comscore.com^$third-party
 ||conductrics.com^$third-party
 ||connatix.com^$third-party
 ||content-ad.net^$third-party
 ||contextweb.com^$third-party
 ||conversantmedia.com^$third-party
+||conversionlogic.net^third-party
 ||conviva.com^$third-party
 ||coxmt.com^$third-party
 ||crazyegg.com^$third-party
+||crispadvertising.com^third-party
 ||criteo.com^$third-party
 ||criteo.net^$third-party
 ||crwdcntrl.net^$third-party
@@ -121,6 +133,7 @@
 ||exosrv.com^$third-party
 ||exponential.com^$third-party
 ||faktor.io^$third-party
+||fqtag.com^third-party
 ||fwmrm.net^$third-party
 ||fyber.com^$third-party
 ||getintent.com^$third-party
@@ -135,6 +148,8 @@
 ||indexexchange.com^$third-party
 ||indexww.com^$third-party
 ||inner-active.com^$third-party
+||insightexpressai.com^third-party
+||instinctiveads.com^third-party
 ||insticator.com^$third-party
 ||iteratehq.com^$third-party
 ||juicyads.com^$third-party
@@ -149,12 +164,14 @@
 ||media.net^$third-party
 ||media6degrees.com^$third-party
 ||mediavoice.com^$third-party
+||mentad.com^third-party
 ||mfadsrv.com^$third-party
 ||mnet-ad.net^$third-party
 ||moatads.com^$third-party
 ||moatpixel.com^$third-party
 ||mobfox.com^$third-party
 ||mookie1.com^$third-party
+||nativeads.com^third-party
 ||nativo.com^$third-party
 ||nervoussummer.com^$third-party
 ||newrelic.com^$third-party
@@ -162,15 +179,18 @@
 ||npttech.com^$third-party
 ||nr-data.net^$third-party
 ||nugg.ad^$third-party
+||nuggad.net^third-party
 ||oath.com^$third-party
 ||omniture.com^$third-party
 ||omtrdc.net^$third-party
 ||onetrust.com^$third-party
 ||openx.com^$third-party
 ||optimatic.com^$third-party
+||optimahub.com^third-party
 ||optimizely.com^$third-party
 ||outbrain.com^$third-party
 ||outbrainimg.com^$third-party
+||owneriq.net^third-party
 ||p.typekit.net^$third-party
 ||pagefair.com^$third-party
 ||pagefair.net^$third-party
@@ -180,6 +200,7 @@
 ||popads.com^$third-party
 ||postrelease.com^$third-party
 ||prebid.org^$third-party
+||pro-market.net^third-party
 ||pubmatic.com^$third-party
 ||pulsepoint.com^$third-party
 ||pusher.com^$third-party
@@ -193,6 +214,7 @@
 ||rfihub.com^$third-party
 ||rhythmone.com^$third-party
 ||rlcdn.com^$third-party
+||rqtrk.eu^third-party
 ||rs-stripe.com^$third-party
 ||rubicon.com^$third-party
 ||rubiconproject.com^$third-party
@@ -203,8 +225,10 @@
 ||segment.io^$third-party
 ||sekindo.com^$third-party
 ||serving-sys.com^$third-party
+||servedbyopenx.com^third-party
 ||shareaholic.net^$third-party
 ||sharethrough.com^$third-party
+||skimresources.com^third-party
 ||smaato.com^$third-party
 ||smartadserver.com^$third-party
 ||smartclip.net^$third-party
@@ -220,6 +244,7 @@
 ||summerhamster.com^$third-party
 ||synacor.com^$third-party
 ||taboola.com^$third-party
+||tailsweep.com^third-party
 ||tapad.com^$third-party
 ||teads.tv^$third-party
 ||tealium.com^$third-party
@@ -241,7 +266,12 @@
 ||vi.ai^$third-party
 ||viglink.com^$third-party
 ||vilynx.com^$third-party
+||visualdna.com^third-party
 ||visualwebsiteoptimizer.com^$third-party
 ||wsod.com^$third-party
+||yieldmanager.com^third-party
+||yieldmanager.net^third-party
 ||yieldmo.com^$third-party
+||yieldpartners.com^third-party
+||zergnet.com^third-party
 ||zqtk.net^$third-party

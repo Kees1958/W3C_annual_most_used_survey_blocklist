@@ -14,9 +14,10 @@ AdGuard 'use optimized filters' option) or periodically filter out dead URL's (O
 
 Opera performed an analysis on the effectiveness of Easylist and reported in a blog that 20 percent of the listed URL were dead and
 another 60% had a 'hit rate' of less than 1% of all the traffic of the Opera browser users (having agreed to provide telemetry data). 
-Scientific studies show that large blocklist are a little more effective on 'long tail' websites (not in Alexa top 500.000), but 
-less effective on Alexa top top 500000 (websites with more than 2000+ visitors per day), because common blocklist (like Easylist)
-often trigger adblock walls and anti-adblock measures or even help to identify you (see for instance https://browserleaks.com/proxy).
+Scientific studies show that large blocklist are a little more effective on 'long tail' websites (not in Alexa top 500.000 with more
+than 2000 unique visitors per day), but a little less effective on Alexa top top 300000 (websites with more than 3000+ visitors per
+day). Websites with many visitors are more likely to install adblock walls to protect advertising income. Anti-adblock walls often
+check for popular content filters (like Easylist), see for instance https://browserleaks.com/proxy 
 
                                                       ALTERNATIVES
 When you want a common use well maintained small blocklist, use Disconnect's Simple Ad-filter or Peter Low's blocklist (both have over

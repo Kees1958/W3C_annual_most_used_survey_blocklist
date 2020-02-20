@@ -10,7 +10,7 @@ Advertising networks advertise their marketshare to indicate how succesful they 
 advertising industry itself. to block the bulk of the mainstream advertising services with the obvious benefit of low maintenance effort 
 (for me) and low performance impact (for the adblocker you are using).
 
-                                                 WHY USE A MINIMAL BLOCKLIST?
+                                               WHY USE A MINIMAL BLOCKLIST?
 Number 250 on this list only has a marginal market share of 0.1% on the Alexa top 10000. That is why I use an adblock extension with an
 easy point and click mechanisme to block or hide annoying stuff on the websites I have added to my bookmarks. No matter how large the 
 blocklist will be, your blocklist will always be missing trackers on websites with low visitors.
@@ -21,11 +21,11 @@ of the Opera browser users (having agreed to provide telemetry data). Scientific
 more effective on 'long tail' websites (not in Alexa top 500.000), but a little less effective on Alexa top top 500000 (websitws with
 more than 2000+ visitors per day), because common blocklist trigger adblock walls and anti-adblock measures.
 
-                                                       ALTERNATIVES
+                                                      ALTERNATIVES
 When you want a common use well maintained small blocklist, use most Disconnet common Ad-filter or Peter Low's blocklist (over 3000
 blacklisted URL's). When a well maintained medium sized blocklist, use Steven Black's blocklist (50K+ blacklisted URL's). When you 
 want a large blocklist have a look at the 'ultimate' blocklist of Energized.pro (over 700K URL's blacklisted).
 
-                                                      ERRORS & ISSUES
+                                                    ERRORS & ISSUES
 When you still want to use this blocklist, feel free to use it and provide feedback on errors. You can post issues, but I will only have 
 a look at it when the issue causes a problem on an COM, INF, NET or ORG domain.

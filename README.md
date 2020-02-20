@@ -28,4 +28,5 @@ When you still want to use this blocklist, feel free to use it and provide feedb
 a look at it when the issue causes a problem on an COM, INF, NET or ORG domain. You can fix a problem easily yourself in most adblock 
 extensions (e.g. AdBlockPlus, Adguard, uBlockOrigin). Look for UserFilter or MyFilter in the extension options. For instance when this 
 filter causes a problem on website ABC_example.com, simply add a badfilter using this syntax: 
+
 ||ABC_example.com$badfilter

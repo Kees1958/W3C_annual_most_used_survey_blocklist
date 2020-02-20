@@ -8,7 +8,7 @@ In advertising the number one (Google) has a marketshare of around 40 percent, F
 while the number three Comscore just has a little over 2.5% marketshare. For comparison Amazon with its huge webstore generates
 about the same advertising traffic on its own website. 
 
-Number 250 on this list only has a marginal market share of 0.1 % 1n the Alexa top 10000. Imagine how effective URL number 50.000 will
+Number 200 on this list only has a marginal market share of 0.1 % 1n the Alexa top 10000. Imagine how effective URL number 50.000 will
 be of your blocklist. Fair chance it will never be triggered. Some adblockers have an option to exclude URL's with low usage (like
 AdGuard 'use optimized filters' option) or periodically filter out dead URL's (Opera's and Brave's build-in adblockers). 
 

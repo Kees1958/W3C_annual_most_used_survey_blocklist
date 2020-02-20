@@ -1,7 +1,7 @@
-                                                      NOTICE
+                                                         NOTICE
 This is a minimial blocklist based on the W3Tech annual surveys on most webtechnology used on websites
 
-                                                      USEAGE
+                                                         USEAGE
 In advertising the number one (Google) has a marketshare of around 40 percent, Facebook the number two hits the 20 percent mark
 while the number three Comscore just has a little over 2.5% marketshare. For comparison Amazon with its huge webstore generates
 about the same advertising traffic on its own website. 
@@ -18,7 +18,7 @@ Problem withmost community based blocklists is that they are not well maintained
 reported in a blog that 20 percent of the listed URL were dead and another 60% had a 'hit rate' of less than 1% of all the traffic 
 measured of Opera users (having enabled Opera's build-in adblocker and agreed wih providing telemetry data).
 
-                                                      ALTERNATIVES
+                                                       ALTERNATIVES
 When you want a common use well maintained small blocklist, use most common adblockers of Disconnet or Peter Low's blocklist (both 
 around 3000 rules). When a well maintained medium sized blocklist, use Steven Black's blocklist. When you want a large blocklist have a look at the 'ultimate' blocklist of Energized.pro
 

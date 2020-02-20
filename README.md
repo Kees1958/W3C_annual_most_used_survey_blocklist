@@ -19,7 +19,7 @@ Opera performed an analysis on the effectiveness of Easylist and reported in a b
 another 60% had a 'hit rate' of less than 1% of all the traffic of the Opera browser users (having agreed to provide telemetry data). 
 Scientifics studies showe that large blocklist are (a little) more effective on 'long tail' websites (not in Alexa top 500.000), but 
 a little less effective on Alexa top top 500000 (websitws with more than 2000+ visitors per day), because common blocklist trigger 
-adblock walls and anti-adblock measures (or even help to tag you, see https://browserleaks.com/proxy).
+adblock walls and anti-adblock measures or even help to tag you (https://browserleaks.com/proxy).
 
                                                       ALTERNATIVES
 When you want a common use well maintained small blocklist, use most Disconnet common Ad-filter or Peter Low's blocklist (over 3000

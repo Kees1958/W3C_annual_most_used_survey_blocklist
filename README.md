@@ -1,16 +1,13 @@
-                                                         NOTICE
-This is a minimial blocklist based on the W3Tech annual surveys on most used webtechnology.
+                                                         SOURCES
+This is a minimial blocklist based on the W3Tech annual surveys on most used webtechnology. In stead of crawling the web analyzing
+Alexa's TOP 500.000 websites, I looked at the web industry itself, to block the bulk of the mainstream advertising services with the 
+obvious benefit of low maintenance effort (for me) and low performance impact (for the adblocker you are using).
 
-                                                         USEAGE
+                                               WHY USE A MINIMAL BLOCKLIST?                                               
 In advertising the number one (Google) has a marketshare of around 40 percent, Facebook the number two hits the 20 percent mark
 while the number three Comscore just has a little over 2.5% marketshare. For comparison Amazon with its huge webstore generates
 about the same advertising traffic on its own website. 
 
-Advertising networks advertise their marketshare to indicate how succesful they are. In stead of crawling the web analyzing Alexa's 
-TOP 500.000 websites, I looked at the advertising industry itself, to block the bulk of the mainstream advertising services with the 
-obvious benefit of low maintenance effort (for me) and low performance impact (for the adblocker you are using).
-
-                                               WHY USE A MINIMAL BLOCKLIST?
 Number 250 on this list only has a marginal market share of 0.1 % 1n the Alexa top 10000. Imagine how effective URL number 50.000 will
 be of your blocklist. Fair chance it will never be triggered. Some adblockers have an option to exclude URL's with low usage (like
 AdGuard 'use optimized filters' option) or periodically filter out dead URL's (Opera's and Brave's build-in adblockers). 

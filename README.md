@@ -19,9 +19,9 @@ reported in a blog that 20 percent of the listed URL were dead and another 60% h
 measured of Opera users (having enabled Opera's build-in adblocker and agreed wih providing telemetry data).
 
                                                       ALTERNATIVES
-When you want a common use well maintained small blocklist, use most common adblockers of Disconnet or Peter Low's blocklist (both around
-3000 rules). When a well maintained medium sized blocklist, use Steven Black's blocklist. When you want a large blocklist have a look at 
-the 'ultimate' blocklist of Energized.pro
+When you want a common use well maintained small blocklist, use most common adblockers of Disconnet or Peter Low's blocklist (both 
+around 3000 rules). When a well maintained medium sized blocklist, use Steven Black's blocklist. When you want a large blocklist have a look at the 'ultimate' blocklist of Energized.pro
 
+                                                      ERRORS & ISSUES
 When you still want to use this blocklist, feel free to use it and provide feedback on errors. You can post issues, but I will only have 
 a look at it when the issue causes a problem on an COM, INF, NET or ORG domain.

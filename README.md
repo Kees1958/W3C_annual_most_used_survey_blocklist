@@ -1,5 +1,5 @@
                                                          NOTICE
-This is a minimial blocklist based on the W3Tech annual surveys on most webtechnology used on websites
+This is a minimial blocklist based on the W3Tech annual surveys on most used webtechnology.
 
                                                          USEAGE
 In advertising the number one (Google) has a marketshare of around 40 percent, Facebook the number two hits the 20 percent mark

@@ -25,4 +25,7 @@ blacklisted). When you want a large blocklist have a look at the 'ultimate' bloc
 
                                                     ERRORS & ISSUES
 When you still want to use this blocklist, feel free to use it and provide feedback on errors. You can post issues, but I will only have 
-a look at it when the issue causes a problem on an COM, INF, NET or ORG domain.
+a look at it when the issue causes a problem on an COM, INF, NET or ORG domain. Most adblocker-extensions with an option to add your own
+custom filyters (e.g. AdBlockPlus, Adguard, uBlockOrigin) have an option to correct problems in filters with 'badfilter' option (look 
+for UserFilter or MyFilter). When this filter causes a problem on website ABC_example.com, simply add a badfilter using this syntax: 
+||ABC_example.com$badfilter

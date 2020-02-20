@@ -11,7 +11,7 @@ TOP 500.000 websites, I looked at the advertising industry itself, to block the 
 obvious benefit of low maintenance effort (for me) and low performance impact (for the adblocker you are using).
 
                                                WHY USE A MINIMAL BLOCKLIST?
-Number 250 on this list only has a marginal market share of 0.1 % on the Alexa top 100000. Imagine how effective URL number 50.000 will
+Number 250 on this list only has a marginal market share of 0.1 % 1n the Alexa top 10000. Imagine how effective URL number 50.000 will
 be of your blocklist. Fair chance it will never be triggered. Some adblockers have an option to exclude URL's with low usage (like
 AdGuard 'use optimized filters' option) or periodically filter out dead URL's (Opera's and Brave's build-in adblockers). 
 

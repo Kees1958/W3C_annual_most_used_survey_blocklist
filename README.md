@@ -3,7 +3,7 @@ This is a minimial blocklist based on the W3Tech annual surveys on most used web
 Alexa's TOP 500.000 websites, I looked at the web industry itself, to block the bulk of the mainstream advertising services with the 
 obvious benefit of low maintenance effort (for me) and low performance impact (for the adblocker you are using).
 
-                                               WHY USE A MINIMAL BLOCKLIST?                                               
+                                               WHY USE A MINIMAL BLOCKLIST?                                        
 In advertising the number one (Google) has a marketshare of around 40 percent, Facebook the number two hits the 20 percent mark
 while the number three Comscore just has a little over 2.5% marketshare. For comparison Amazon with its huge webstore generates
 about the same advertising traffic on its own website. 

@@ -138,6 +138,7 @@
 ||fyber.com^$third-party
 ||getintent.com^$third-party
 ||gscontxt.net^$third-party
+||gscounters.eu1.gigya.com^$third-party
 ||gumgum.com^$third-party
 ||hotjar.com^$third-party
 ||imonomy.com^$third-party

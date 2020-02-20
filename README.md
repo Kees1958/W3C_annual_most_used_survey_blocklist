@@ -23,8 +23,8 @@ adblock walls and anti-adblock measures or even help to identify you (see for in
 
                                                       ALTERNATIVES
 When you want a common use well maintained small blocklist, use Disconnect's common Ad-filter or Peter Low's blocklist (over 3000
-blacklisted URL's). When a well maintained medium sized blocklist, use Steven Black's blocklist (50K+ blacklisted URL's). When you 
-want a large blocklist have a look at the 'ultimate' blocklist of Energized.pro (over 700K URL's blacklisted).
+blacklisted URL's). When a well maintained medium sized blocklist, use Steven Black's blocklist (more than 50.000 blacklisted URL's). 
+When you want a large blocklist have a look at the 'ultimate' blocklist of Energized.pro (over 700K URL's blacklisted).
 
                                                     ERRORS & ISSUES
 When you still want to use this blocklist, feel free to use it and provide feedback on errors. You can post issues, but I will only have 

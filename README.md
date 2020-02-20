@@ -9,8 +9,9 @@ while the number three Comscore just has a little over 2.5% marketshare. For com
 about the same advertising traffic on its own website. 
 
 Number 200 on this list only has a marginal market share of 0.1 % 1n the Alexa top 10000. Imagine how effective URL number 50.000 will
-be of your blocklist. Fair chance it will never be triggered. Some adblockers have an option to exclude URL's with low usage (like
-AdGuard 'use optimized filters' option) or periodically filter out dead URL's (Opera's and Brave's build-in adblockers). 
+be of your blocklist. Fair chance it will never be triggered, because you never surf to the websites this tracker is used. Some adblock
+extensions have an option to exclude URL's with low usage (like AdGuard 'use optimized filters' option) or periodically filter out dead 
+URL's (like Opera's and Brave's build-in adblockers claim to do). 
 
 Opera performed an analysis on the effectiveness of Easylist and reported in a blog that 20 percent of the listed URL were dead and
 another 60% had a 'hit rate' of less than 1% of all the traffic of the Opera browser users (having agreed to provide telemetry data). 

@@ -1,7 +1,7 @@
-NOTICE & USAGE: This is minimial blocklist based on the W3Tech annual surveys on most webtechnology used on websites
+                                                           NOTICE
+This is minimial blocklist based on the W3Tech annual surveys on most webtechnology used on websites
 
-W3Tech analysis which analytics, advertisement, tracking and tagmanagement services are most used
-
+                                                            USEAGE
 In advertising the number one (Google) has a marketshare of around 40 percent, Facebook the number two hits the 20 percent mark
 while the number three Comscore just has a little over 2.5% marketshare. For comparison Amazon with its huge webstore generates
 about the same advertising traffic on its own website. 

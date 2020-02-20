@@ -11,15 +11,15 @@ TOP 500.000 websites, I looked at the advertising industry itself, to block the 
 obvious benefit of low maintenance effort (for me) and low performance impact (for the adblocker you are using).
 
                                                WHY USE A MINIMAL BLOCKLIST?
-Number 250 on this list only has a marginal market share of 0.1% on the Alexa top 10000. That is why I use an adblock extension with an
-easy point and click mechanisme to block or hide annoying stuff on the websites I have added to my bookmarks. No matter how large the 
-blocklist will be, your blocklist will always be missing trackers on websites with low visitors.
+Number 250 on this list only has a marginal market share of 0.1 % on the Alexa top 100000. Imagine how effective URL number 50.000 will
+be of your blocklist. Fair chance it will never be triggered. Some adblockers have an option to exclude URL's with low usage (like
+AdGuard 'use optimized filters' option) or periodically filter out dead URL's (Opera's and Brave's build-in adblockers). 
 
-Problem with most community based blocklists is that they are not well maintained. Opera once checked the effectiveness of Easylist and
-reported in a blog that 20 percent of the listed URL were dead and another 60% had a 'hit rate' of less than 1% of all the traffic
-of the Opera browser users (having agreed to provide telemetry data). Scientifics studies showed that large blocklist are (a little)
-more effective on 'long tail' websites (not in Alexa top 500.000), but a little less effective on Alexa top top 500000 (websitws with
-more than 2000+ visitors per day), because common blocklist trigger adblock walls and anti-adblock measures.
+Opera performed an analysis on the effectiveness of Easylist and reported in a blog that 20 percent of the listed URL were dead and
+another 60% had a 'hit rate' of less than 1% of all the traffic of the Opera browser users (having agreed to provide telemetry data). 
+Scientifics studies showe that large blocklist are (a little) more effective on 'long tail' websites (not in Alexa top 500.000), but 
+a little less effective on Alexa top top 500000 (websitws with more than 2000+ visitors per day), because common blocklist trigger 
+adblock walls and anti-adblock measures (or even help to tag you, see https://browserleaks.com/proxy).
 
                                                       ALTERNATIVES
 When you want a common use well maintained small blocklist, use most Disconnet common Ad-filter or Peter Low's blocklist (over 3000

@@ -1,17 +1,11 @@
-IMPORTANT NOTICE: PETER LOW's BLOCKLIST HAS MOST OF THESE DOMAINS INCORPORATED NOW, SO USE PETER LOW's INSTEAD 
+IMPORTANT NOTICE: This is minimial blocklist 
 
-https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&mimetype=plaintext for Adblock Plus format
+W3Tech analysis which analytics, advertisement, tracking and tagmanagement services are most used
 
-https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=1&mimetype=plaintext for Host file format
+In advertising the number one (Google) has a marketshare of around 40 percent, Facebook the number two hits the 20 percent mark
+while the number three Somscore just has a little over 2.5% marketshare. For comparison Amazon with its huge webstore generates
+about the same advertising traffic on its own website. The numbers 3 to 200 together account for (only) 20 percent market share.
 
-
-# WS3_annual_most_used_survey_blocklist
-The website w3tech publishes surveys on most used internet technology including advertising, tagging and traffic analysis services:
-
-https://w3techs.com/technologies/overview/advertising/all
-
-https://w3techs.com/technologies/overview/traffic_analysis/all
-
-https://w3techs.com/technologies/overview/tag_manager/all
-
-This small but effective list is simply based on the annual surveys of W3C technology
+Advertising networks advertise their marketshare to indicate how succesful they are. In stead of looking at websites, I looked at the 
+advertising industry itself. to block the bulk of the mainstream advertising services with the obvious benefit of low maintenance effort 
+(for me) and low performance impact (for the adblocker you are using).

@@ -1,21 +1,39 @@
 [Adblock Plus 2.0]
 ! Version: 2020
-! Title: Small but effective adblockplus format blocklist based on the annual W3tech most used advertising services survey 
+! Title: Small but effective adblockplus format blocklist based on the annual W3tech most used webtechnology survey 
 ! 
 ! Expires: 365 days (update frequency once a year)
 ! Homepage: https://github.com/Kees1958/WS3_annual_most_used_survey_blocklist
 !
 ! --- Block Google advertising & tracking services
 !
-||adservice.google.com^
-||adservice.google.nl^
 ||google-analytics.com^$third-party
-||id.google.com^
-||id.google.nl^
+||doubleclick.net^$third-party
+||2mnd.net^$third-party
 ||metric.gstatic.com^$third-party
+||adservice.google.*^
+||id.google.*^
+||google.*/gen_204^
+||google.*/xjs/_/*
 ||pagead2.googlesyndication.com^$third-party
+||googletagservices.com^$third-party
+||googletagmanager.com^$third-party
 !
-! --- Block most common advertising & tracking services
+! --- Block Facebook advertising & tracking services
+!
+||facebook.com^$third-party
+||facebook.net^$third-party,domain=~facebook.com
+!
+!
+! --- Block (other) search engine tracking (bing, yahoo, yandex) and ads (startpage resultpage)
+!
+||startpage.com^$cript
+||bing.com^$third-party
+||yahoo.com^$third-party
+||yandex.com^$third-party
+!
+!
+! --- Block rest of the top200 most common analytics, advertising, tagmanagement and tracking services
 !
 ||2o7.net^$third-party
 ||33across.com^$third-party
@@ -46,10 +64,10 @@
 ||assets.adobedtm.net^$third-party
 ||aswpsdkus.com^$third-party
 ||awin.com^$third-party
-||bat.bing.com^$third-party
 ||beachfront.com^$third-party
 ||beemray.com^$third-party
 ||betrad.com^$third-party
+||biddercore.io^$third-party
 ||bidfluence.com^$third-party
 ||bidswitch.net^$third-party
 ||bidtellect.com^$third-party
@@ -62,6 +80,8 @@
 ||bounceexchange.com^$third-party
 ||bouncex.net^$third-party
 ||brightcom.com^$third-party
+||brightcove.com$third-party
+||brightcove.net$third-party
 ||brightroll.com^$third-party
 ||bttrack.com^$third-party
 ||btrll.com^$third-party
@@ -84,8 +104,8 @@
 ||criteo.net^$third-party
 ||crwdcntrl.net^$third-party
 ||cxense.com^$third-party
+||cxpublic.com^$third-party
 ||demdex.net^$third-party
-||doubleclick.net^$third-party
 ||dynamicyield.com^$third-party
 ||edigitalsurvey.com^$third-party
 ||effectivemeasure.net^$third-party
@@ -99,9 +119,7 @@
 ||exoclick.com^$third-party
 ||exosrv.com^$third-party
 ||exponential.com^$third-party
-||facebook.com^$third-party
-||facebook.net^$third-party
-@@facebook.net^$domain=facebook.com
+||faktor.io^$third-party
 ||fwmrm.net^$third-party
 ||fyber.com^$third-party
 ||getintent.com^$third-party
@@ -130,8 +148,6 @@
 ||media.net^$third-party
 ||media6degrees.com^$third-party
 ||mediavoice.com^$third-party
-||metrica.yandex.com^$third-party
-||metrics.brightcove.com^$third-party
 ||mfadsrv.com^$third-party
 ||mnet-ad.net^$third-party
 ||moatads.com^$third-party
@@ -159,7 +175,7 @@
 ||pagefair.net^$third-party
 ||parsely.com^$third-party
 ||placeholdit.imgix.net^$third-party
-||pixel.facebook.com^$third-party
+!|polyfill.io^$third-party
 ||popads.com^$third-party
 ||postrelease.com^$third-party
 ||prebid.org^$third-party
@@ -186,6 +202,7 @@
 ||segment.io^$third-party
 ||sekindo.com^$third-party
 ||serving-sys.com^$third-party
+||shareaholic.net^$third-party
 ||sharethrough.com^$third-party
 ||smaato.com^$third-party
 ||smartadserver.com^$third-party
@@ -197,11 +214,11 @@
 ||spotxchange.com^$third-party
 ||springserve.com^$third-party
 ||stickyadstv.com^$third-party
+||stormyachiever.com^$third-party
 ||storygize.net^$third-party
 ||summerhamster.com^$third-party
 ||synacor.com^$third-party
 ||taboola.com^$third-party
-||tagmanager.yahoo.*^$third-party
 ||tapad.com^$third-party
 ||teads.tv^$third-party
 ||tealium.com^$third-party

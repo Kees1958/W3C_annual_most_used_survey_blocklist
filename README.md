@@ -19,9 +19,10 @@ less effective on Alexa top top 500000 (websites with more than 2000+ visitors p
 often trigger adblock walls and anti-adblock measures or even help to identify you (see for instance https://browserleaks.com/proxy).
 
                                                       ALTERNATIVES
-When you want a common use well maintained small blocklist, use Disconnect's common Ad-filter or Peter Low's blocklist (over 3000
-blacklisted URL's). When you want a well maintained medium sized blocklist, use Steven Black's blocklist (more than 50.000 URL's 
-blacklisted). When you want a large blocklist have a look at the 'ultimate' blocklist of Energized.pro (over 700K URL's blacklisted).
+When you want a common use well maintained small blocklist, use Disconnect's Simple Ad-filter or Peter Low's blocklist (both have over
+3000 blacklisted URL's). Disconnect filter is used by Firefox and Edge anti-tracking. When you want a well maintained medium sized 
+blocklist, use Steven Black's blocklist (more than 50.000 URL's blacklisted). When you want a large blocklist have a look at the 
+'ultimate' blocklist of Energized.pro (over 700K URL's blacklisted). Benefit of Energized is that they rempve dead URL's. 
 
                                                     ERRORS & ISSUES
 When you still want to use this blocklist, feel free to use it and provide feedback on errors. You can post issues, but I will only have 

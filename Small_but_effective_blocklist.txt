@@ -91,6 +91,7 @@
 ||celtra.com^$third-party
 ||chartbeat.com^$third-party
 ||chartbeat.net^$third-party
+||cintnetworks.com^$third-party
 ||comscore.com^$third-party
 ||conductrics.com^$third-party
 ||connatix.com^$third-party

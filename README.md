@@ -1,4 +1,4 @@
-IMPORTANT NOTICE: This is minimial blocklist 
+IMPORTANT NOTICE: This is minimial blocklist based on the W3Tech annual surveys on most webtechnology used on websites
 
 W3Tech analysis which analytics, advertisement, tracking and tagmanagement services are most used
 

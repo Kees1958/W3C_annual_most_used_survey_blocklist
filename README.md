@@ -10,16 +10,9 @@ about the same advertising traffic on its own website.
 
 Number 200 on this list only has a marginal market share of 0.1 % 1n the Alexa top 10000. Imagine how effective URL number 50.000 will
 be of your blocklist. Fair chance it will never be triggered, because you never surf to the websites on which this tracker is used. 
-Some adblock extensions have an option to exclude URL's with low usage (like AdGuard or SmartAdblock) or periodically filter out dead
-URL's (like Opera's and Brave's build-in adblockers claim to do). 
-
-Opera performed an analysis on the effectiveness of Easylist and reported in a blog that 20 percent of the listed URLs were dead and
-another 60% had a 'hit rate' of less than 1% of all the traffic of the Opera browser users (having agreed to provide telemetry data). 
-Scientific studies also showed that large blocklist adblockers (AdBlockPlus and uBlock0rigin) were a little more effective for websites
-not in Alexa top 500.000 (with more than 2000 unique visitors per day), but a little less effective on Alexa top top 300000 (websites 
-with more than 3000+ visitors per day), compared with small blocklist adblockers (Ghostery and Privacy Possum). Websites with many 
-visitors are more likely to install adblock walls to protect advertising income. Anti-adblock walls often check for popular content
-filters, making it more likely to run into a adblock wall with for instance Easylist, see https://browserleaks.com/proxy 
+Another problem with community based blocklists, is that they contain a lot dead URL's. Low prevalence and low maintenance probably 
+is the reason that some adblock extensions have an option to exclude URL's with low usage (like AdGuard or SmartAdblock) or periodically
+filter out dead URL's (like Opera's and Brave's build-in adblockers claim to do). 
 
                                                       ALTERNATIVES
 When you want a common use well maintained small blocklist, use Disconnect's Simple Ad-filter or Peter Low's blocklist (both have over

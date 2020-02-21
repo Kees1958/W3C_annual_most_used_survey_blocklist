@@ -8,21 +8,14 @@ In advertising the number one (Google) has a marketshare of around 40 percent, F
 while the number three Comscore just has a little over 2.5% marketshare. For comparison Amazon with its huge webstore generates
 about the same advertising traffic on its own website. 
 
-Number 200 on this list only has a marginal market share of 0.1 % 1n the Alexa top 10000. Imagine how effective URL number 50.000 will
-be of your blocklist. Fair chance it will never be triggered, because you never surf to the websites on which this tracker is used. 
-Another problem with community based blocklists, is that they contain a lot dead URL's. Low hit rate's and low maintenance probably 
-is the reason that some adblock extensions have an option to exclude URL's with low usage (like AdGuard or SmartAdblock) or periodically
-filter out dead URL's (like Opera's and Brave's build-in adblockers claim to do). 
-
                                                       ALTERNATIVES
-When you want a common use well maintained small blocklist, use Disconnect's Simple Ad-filter or Peter Low's blocklist (both have over
-3000 blacklisted URL's). Disconnect filter is also used by Firefox and Edge anti-tracking. When you want a well maintained medium sized 
-blocklist, use Steven Black's blocklist (more than 50.000 URL's blacklisted). When you want a large blocklist have a look at the 
-'ultimate' blocklist of Energized.pro (over 700K URL's blacklisted). Benefit of Energized is that they rempve dead URL's. 
+When you want a common use well maintained small blocklist, use Disconnect's Simple Ad-filter or Peter Low's blocklist. These lists also
+aim to block adnetworks in stead of adsvertismens on websites (that is why theu only have over 3000 blacklisted URL's). When you prefer
+large blocklist have a look at Energized.pro. They claim to have an automated process to remove dead links and duplicates. 
 
                                                     ERRORS & ISSUES
 When you still want to use this blocklist, feel free to use it and provide feedback on errors. You can post issues, but I will only have 
-a look at it when the issue causes a problem on an COM, INF, NET or ORG domain. You can fix a problem easily yourself in most adblock 
+a look at it when the issue causes a problem on an COMefer , INF, NET or ORG domain. You can fix a problem easily yourself in most adblock 
 extensions (e.g. AdBlockPlus, Adguard, uBlockOrigin). Look for UserFilter or MyFilter in the extension options. For instance when this 
 filter causes a problem on website ABC_example.com, simply add a badfilter using this syntax: 
 

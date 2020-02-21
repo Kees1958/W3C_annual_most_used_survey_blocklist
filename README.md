@@ -10,7 +10,7 @@ about the same advertising traffic on its own website.
 
                                                       ALTERNATIVES
 When you want a common use well maintained small blocklist, use Disconnect's Simple Ad-filter or Peter Low's blocklist. These lists also
-aim to block adnetworks in stead of adsvertismens on websites (that is why theu only have over 3000 blacklisted URL's). When you prefer
+aim to block adnetworks in stead of adsvertismens on websites (that is why they only have over 3000 blacklisted URL's). When you prefer
 large blocklist have a look at Energized.pro. They claim to have an automated process to remove dead links and duplicates. 
 
                                                     ERRORS & ISSUES

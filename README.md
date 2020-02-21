@@ -10,7 +10,7 @@ about the same advertising traffic on its own website.
 
 Number 200 on this list only has a marginal market share of 0.1 % 1n the Alexa top 10000. Imagine how effective URL number 50.000 will
 be of your blocklist. Fair chance it will never be triggered, because you never surf to the websites on which this tracker is used. 
-Another problem with community based blocklists, is that they contain a lot dead URL's. Low prevalence and low maintenance probably 
+Another problem with community based blocklists, is that they contain a lot dead URL's. Low hit rate's and low maintenance probably 
 is the reason that some adblock extensions have an option to exclude URL's with low usage (like AdGuard or SmartAdblock) or periodically
 filter out dead URL's (like Opera's and Brave's build-in adblockers claim to do). 
 

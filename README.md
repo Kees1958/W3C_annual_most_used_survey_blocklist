@@ -4,9 +4,10 @@ of crawling the web analyzing Alexa's TOP 500.000 websites, I looked at the web 
 advertising services with the obvious benefit of low maintenance effort (for me) and low performance impact (for your adblocker).
 
                                                WHY USE A MINIMAL BLOCKLIST?                                        
-In advertising the number one (Google) has a marketshare of around 40 percent, Facebook the number two hits the 20 percent mark
-while the number three Comscore just has a little over 2.5% marketshare. For comparison Amazon with its huge webstore generates
-about the same advertising traffic on its own website. 
+In advertising the number one (Google) has a marketshare of around 40 percent, Facebook the number two hits the 20 percent mark while the
+number three Comscore just has a little over 2.5% marketshare. For comparison Amazon with its huge webstore generates about the same
+advertising traffic on its own website. Number 100 on this list is probably used at 5000 websites of the Alexa Top 300.000 websites, while
+number 250 may only track you on 500 websites of the Alexa Top 300.000 (websited with more than 3000 unique visitors per day). 
 
                                                       ALTERNATIVES
 When you want a common use well maintained small blocklist, use Disconnect's Simple Ad-filter or Peter Low's blocklist. These lists also

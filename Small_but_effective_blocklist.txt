@@ -9,7 +9,6 @@
 !
 ||google-analytics.com^$third-party
 ||doubleclick.net^$third-party
-||2mdn.net^$third-party
 ||metric.gstatic.com^$third-party
 ||adservice.google.*^
 ||id.google.*^

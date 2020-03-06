@@ -14,7 +14,7 @@ large blocklist have a look at Energized.pro. They claim to have an automated pr
 
                                                     ERRORS & ISSUES
 When you still want to use this blocklist, feel free to use it and provide feedback on errors. You can post issues, but I will only have 
-a look at it when the issue causes a problem on an COMefer , INF, NET or ORG domain. You can fix a problem easily yourself in most adblock 
+a look at it when the issue causes a problem on an COM, INF, NET or ORG domain. You can fix a problem easily yourself in most adblock 
 extensions (e.g. AdBlockPlus, Adguard, uBlockOrigin). Look for UserFilter or MyFilter in the extension options. For instance when this 
 filter causes a problem on website ABC_example.com, simply add a badfilter using this syntax: 
 

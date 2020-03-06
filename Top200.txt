@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Version: 2020
-! Title: Small but effective adblockplus format blocklist based on the (annal) W3tech and Cookiebot surveys 
+! Title: Small but effective adblockplus format blocklist top 200 
 ! 
 ! Expires: 365 days (update frequency once a year)
 ! Homepage: https://github.com/Kees1958/WS3_annual_most_used_survey_blocklist

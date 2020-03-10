@@ -1,0 +1,113 @@
+[AdBlockPlus 2.0]
+#
+# Version: 2020 
+# Format: domains (so it can be used as hostfile and adblockplus format)
+# Title: Supplementary blocklist for Edge-chromium anti-tracking
+#
+# Expires: 365 days (I am still testing this under-development-list)
+# You are free to copy and distribute this file for non-commercial use
+#
+2mdn.net
+360yield.com
+adhese.com
+adlooxtracking.com
+adnxs.com
+ads-twitter.com
+ads.deliverimp.com
+ads.topsrvimp.com
+adsafeprotected.com
+adservice.google.com
+adservice.google.nl
+adsrvr.org
+advertising.com
+amazon-adsystem.com
+amplitude.com
+ampproject.org
+analytics.twitter.com
+apollo.io
+aswpsdkus.com
+bat.bing.com
+beemray.com
+biddercore.io
+bidswitch.net
+bkrtx.com
+bluekai.com
+boomtrain.com
+bounceexchange.com
+bouncex.net
+brandwatch.com
+bttrack.com
+bugsnag.com
+casalemedia.com
+chartbeat.com
+chartbeat.net
+cintnetworks.com
+clicky.com
+com allow
+consensu.org
+contextweb.com
+cookielaw.org
+creativecdn.com
+criteo.com
+criteo.net
+crwdcntrl.net
+cxense.com
+cxpublic.com
+data.*
+demdex.net
+deployads.com
+doubleclick.net
+ensighten.com
+everesttech.net
+exelator.com
+facebook.com
+facebook.net
+faktor.io
+google-analytics.com
+googletagmanager.com
+googletagservices.com
+gscounters.eu1.gigya.com
+hotjar.com
+imrworldwide.com
+kismetrics.com
+krxd.net
+marphezis.com
+mathtag.com
+mfadsrvr.com
+mixpanel.com
+moatads.com
+net allow
+nl allow
+omtrdc.net
+openx.net
+optimizely.com
+org allow
+outbrain.com
+outbrainimg.com
+pagead2.googlesyndication.com
+pixel.anyclip.com
+postrelease.com
+pubmatic.com
+quantcount.com
+quantserve.com
+rubiconproject.com
+salemachine.io
+scorecardresearch.com
+segment.com
+shareaholic.com
+shareaholic.net
+sharethrough.com
+smartocto.com
+spotxchange.com
+springserve.com
+stackpathcdn.com
+stickyadstv.com
+stormyachiever.com
+summerhamster.com
+taboola.com
+tags.tiqcdn.com
+usabilla.com
+viafoura.com
+visualwebsiteoptimizer.com
+woopra.com
+zqtk.net

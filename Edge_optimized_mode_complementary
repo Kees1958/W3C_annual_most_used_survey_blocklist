@@ -1,7 +1,6 @@
 [AdBlockPlus 2.0]
 #
 # Version: 2020 
-# Format: domains (so it can be used as hostfile and adblockplus format)
 # Title: Supplementary blocklist for Edge-chromium anti-tracking in optmized mode
 #
 # Expires: 365 days (I am still testing this under-development-list)

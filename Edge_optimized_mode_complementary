@@ -1,11 +1,11 @@
 [AdBlockPlus 2.0]
-#
-# Version: 2020 
-# Title: Supplementary blocklist for Edge-chromium anti-tracking in optmized mode
-#
-# Expires: 365 days (I am still testing this under-development-list)
-# You are free to copy and distribute this file for non-commercial use
-#
+!
+! Version: 2020 
+! Title: Supplementary blocklist for Edge-chromium anti-tracking in optmized mode
+!
+! Expires: 365 days (I am still testing this under-development-list)
+! You are free to copy and distribute this file for non-commercial use
+!
 ||1rx.io^$third-party
 ||23video.com^$third-party
 ||247realmedia.com^$third-party

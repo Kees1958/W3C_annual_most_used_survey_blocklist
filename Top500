@@ -20,6 +20,7 @@
 ||acidpigs.com^$third-party
 ||acuityplatform.com^$third-party
 ||acxiomapac.com^$third-party
+||ad-maven.com^$third-party
 ||adadvisor.net^$third-party
 ||adblade.com^$third-party
 ||addthis.com^$third-party
@@ -72,6 +73,7 @@
 ||ampproject.org^$third-party
 ||amung.us^$third-party
 ||analytics.twitter.com^$third-party
+||api.gemini.yahoo.com/v2/rest/tag/*$third-party
 ||apollo.io^$third-party
 ||app.link^$third-party
 ||appnexus.com^$third-party
@@ -79,6 +81,7 @@
 ||assoc-amazon.com^$third-party
 ||aswpsdkus.com^$third-party
 ||atdmt.com^$third-party
+||atlassolutions.com^$third-party
 ||atwola.com^$third-party
 ||audience.systems^$third-party
 ||avocet.io^$third-party
@@ -90,6 +93,7 @@
 ||beemray.com^$third-party
 ||betrad.com^$third-party
 ||bfmio.com^$third-party
+||bid.yahoo.com^$third-party
 ||biddercore.io^$third-party
 ||bidfluence.com^$third-party
 ||bidr.io^$third-party
@@ -120,6 +124,7 @@
 ||c.appier.net^$third-party
 ||c1exchange.com^$third-party
 ||c3tag.com^$third-party
+||cannavu.net^$third-party
 ||casalemedia.com^$third-party
 ||cedato.com^$third-party
 ||celtra.com^$third-party
@@ -190,10 +195,12 @@
 ||emxdgt.com^$third-party
 ||en25.com^$third-party
 ||ensighten.com^$third-party
+||epom.com^$third-party
 ||eqads.com^$third-party
 ||erne.co^$third-party
 ||ero-advertising.com^$third-party
 ||etahub.com^$third-party
+||evadav.com^$third-party
 ||everesttech.net^$third-party
 ||evidon.com^$third-party
 ||exdynsrv.com^$third-party
@@ -238,6 +245,7 @@
 ||ibillboard.com^$third-party
 ||id5-sync.com^$third-party
 ||igodigital.com^$third-party
+||inmobi.com^$third-party
 ||imonomy.com^$third-party
 ||impactradius-event.com^$third-party
 ||impdesk.com^$third-party
@@ -298,6 +306,7 @@
 ||mediaplex.com^$third-party
 ||mediavine.com^$third-party
 ||mediavoice.com^$third-party
+||megapu.sh^$third-party
 ||meetrics.com^$third-party
 ||meetrics.net^$third-party
 ||mentad.com^$third-party
@@ -313,6 +322,7 @@
 ||moatads.com^$third-party
 ||moatpixel.com^$third-party
 ||mobfox.com^$third-party
+||mobidea.com^$third-party
 ||mobileadtrading.com^$third-party
 ||monetate.net^$third-party
 ||mookie1.com^$third-party
@@ -364,9 +374,11 @@
 ||pixel.anyclip.com^$third-party
 ||placeholdit.imgix.net^$third-party
 ||playground.xyz^$third-party
+||plugrush.com^$third-party
 ||polyfill.io^$third-party
 ||popads.com^$third-party
 ||popads.net^$third-party
+||popcash.net^$third-party
 ||postrelease.com^$third-party
 ||powerlinks.com^$third-party
 ||prebid.org^$third-party
@@ -398,6 +410,7 @@
 ||rhythmone.com^$third-party
 ||rkdms.com^$third-party
 ||rlcdn.com^$third-party
+||richpush.com^$third-party
 ||rmtag.com^$third-party
 ||rqtrk.eu^$third-party
 ||rs-stripe.com^$third-party
@@ -406,6 +419,8 @@
 ||rubicon.com^$third-party
 ||rubiconproject.com^$third-party
 ||rundsp.com^$third-party
+||s.yimg.com/wi/ytc.js$script,third-party
+||s3.amazonaws.com^$third-party
 ||sail-track.com^$third-party
 ||salesmachine.io^$third-party
 ||sascdn.com^$third-party

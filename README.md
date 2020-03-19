@@ -10,7 +10,7 @@ number 250 may only track you on 500 websites of the Alexa Top 300.000 (websited
                                                       ALTERNATIVES
 When you want a common use well maintained small blocklist, use Disconnect's Simple Ad-filter or Peter Low's blocklist. These lists also
 aim to block adnetworks in stead of adsvertismens on websites (that is why they only have over 3000 blacklisted URL's). When you prefer
-large blocklist have a look at Energized.pro. They claim to have an automated process to remove dead links and duplicates. 
+large blocklist have a look at Steven's Black hostfile.   
 
                                                     ERRORS & ISSUES
 When you still want to use this blocklist, feel free to use it and provide feedback on errors. You can post issues, but I will only have 

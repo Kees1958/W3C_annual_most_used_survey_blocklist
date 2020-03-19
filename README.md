@@ -1,5 +1,5 @@
                                                          SOURCES
-This is a minimial blocklist based on surveys on most used webtechnology related to advertising and tracking. It has two versions (top200/top500)
+This is a minimial blocklist based on surveys on most used webtechnology related to advertising and tracking in Western Europe and North America. Although title is Top500, it are actually a over 500 analysis, advertising, tagmanagement and tracking servers (domains).
 
                                                WHY USE A MINIMAL BLOCKLIST?                                        
 In advertising the number one (Google) has a marketshare of around 40 percent, Facebook the number two hits the 20 percent mark while the

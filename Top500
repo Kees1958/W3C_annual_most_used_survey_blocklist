@@ -73,6 +73,7 @@
 ||amplitude.com^$third-party
 ||ampproject.org^$third-party
 ||amung.us^$third-party
+||analytics.shareaholic.com^$third-party
 ||analytics.twitter.com^$third-party
 ||api.gemini.yahoo.com/v2/rest/tag/*$third-party
 ||apollo.io^$third-party
@@ -437,8 +438,6 @@
 ||servebom.com^$third-party
 ||servedbyopenx.com^$third-party
 ||serving-sys.com^$third-party
-||shareaholic.com^$third-party
-||shareaholic.net^$third-party
 ||sharethis.com^$third-party
 ||sharethrough.com^$third-party
 ||simpli.fi^$third-party

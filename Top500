@@ -52,8 +52,7 @@
 ||adsafety.net^$third-party
 ||adsco.re^$third-party
 ||adserver.adtech.de^$third-party
-||adservice.google.com^$third-party
-||adservice.google.nl^$third-party
+||adservice.google.*
 ||adsnative.com^$third-party
 ||adsrvr.org^$third-party
 ||adstanding.com^$third-party

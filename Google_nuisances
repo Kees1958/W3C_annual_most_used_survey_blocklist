@@ -19,14 +19,14 @@ google.*###fsl
 ! Youtube
 /.*pagead.*/$domain=youtube.com
 /.*scheduler.*/$domain=youtube.com
-/.*preroll.*/$domain=youtube.com
-/.*midroll.*/$domain=youtube.com
 /.*instream.*/$domain=youtube.com
+/.*midroll.*/$domain=youtube.com
+
 youtube.com##iframe[src^="https://www.youtube.com/embed/"]
 youtube.com#?#div:has(> iframe[src^="https://www.youtube.com/embed/")
 youtube.com##a[href^="https://www.youtube.com/embed/"]
 youtube.com##.style-scope.ytd-popup-container
-!
+
 ||*/generate_204$domain=youtube.com
 ||youtube.com/ptracking$domain=youtube.com
 ||youtube.com/api/stats/$domain=youtube.com

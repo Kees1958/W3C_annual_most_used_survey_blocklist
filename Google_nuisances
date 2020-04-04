@@ -10,10 +10,12 @@
 !
 ! Google search
 google.*##.xFNJP
-google.*###taw
-google.*l###rhs
 google.*##fsr > a.Fx4vi:nth-child(2)
+google.*###taw
+google.*###rhs
 google.*###fsl
+google.*###gws-product_ads__pla-dnsrc
+google.*##fsr > a.Fx4vi:nth-child(2)
 ||google.*$cookie
 !
 ! Youtube

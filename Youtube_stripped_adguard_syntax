@@ -1,6 +1,6 @@
 [AdbBlockPlus 3.5]
 !
-! Youtube ads
+! Strip youtube with Adguard extension
 !
 ||youtube.com/pagead/$domain=youtube.com
 ||google.com/pagead/$domain=youtube.com
@@ -8,12 +8,10 @@
 /youtube\.com\/.*scheduler.*/$domain=youtube.com
 /youtube\.com\/.*preroll.*/$domain=youtube.com
 /youtube\.com\/.*midroll.*/$domain=youtube.com
-youtube.com##.style-scope.ytd-popup-container
 youtube.com##iframe[src^="https://www.youtube.com/embed/"]
 youtube.com#?#div:has(> iframe[src^="https://www.youtube.com/embed/")
 youtube.com##a[href^="https://www.youtube.com/embed/"]
-!
-! Youtube tracking
+youtube.com##.style-scope.ytd-popup-container
 !
 ||youtube.com/generate_204
 ||googlevideo.com/generate_204

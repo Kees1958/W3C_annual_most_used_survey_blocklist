@@ -1,5 +1,8 @@
 [AdbBlockPlus 3.5]
 !
+! This blocklist uses Adguard extension syntax (does not work with uBlock or AdblockPlus)
+!
+!
 ! Google reminder and ads
 !
 google.nl##.xFNJP

@@ -1,14 +1,12 @@
 [AdbBlockPlus 3.5]
 !
 ! Version: 2020 
-! Title: Reduce Google nuisance
+! Title: Alphabet knows and shows enough
+! Expires: 365 days (use this at own risk)
 !
-! Expires: 365 days (I am still testing this under-development-list)
-! You are free to copy and distribute this file for non-commercial use
-! This filter uses Adguard syntax (set to trusted in Adguard extension)
-! ergo these rules might not work with uBlockOrigin or AdblockPlus
+! This filter uses Adguard advanced syntax (so probably does not work with uBlockOrigin or AdblockPlus)
 !
-! Google search
+! Show and know less on Google search 
 google.*##.xFNJP
 google.*##fsr > a.Fx4vi:nth-child(2)
 google.*###taw
@@ -18,7 +16,7 @@ google.*###gws-product_ads__pla-dnsrc
 google.*##fsr > a.Fx4vi:nth-child(2)
 ||google.*$cookie
 !
-! Youtube
+! Show and know less on Youtube
 /.*pagead.*/$domain=youtube.com
 /.*scheduler.*/$domain=youtube.com
 /.*instream.*/$domain=youtube.com

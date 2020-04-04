@@ -1,6 +1,11 @@
 [AdbBlockPlus 3.5]
 !
-! This blocklist uses Adguard extension syntax (does not work with uBlock or AdblockPlus)
+! Version: 2020 
+! Title: Reduce Google nuisance
+!
+! Expires: 365 days (I am still testing this under-development-list)
+! You are free to copy and distribute this file for non-commercial use
+! This filter uses Adguard syntax (might not work with uBlockO or Adblock+)
 !
 ! Google search
 google.*##.xFNJP

@@ -1,6 +1,6 @@
 [AdbBlockPlus 3.5]
 !
-! Google reminder en advertenties
+! Google reminder and ads
 !
 google.nl##.xFNJP
 google.nl###taw
@@ -10,7 +10,7 @@ google.nl###fsl
 ||google.com^$cookie
 ||google.nl^$cookie
 !
-! Strip youtube with Adguard extension
+! Youtube ads and tracking
 !
 ||youtube.com/pagead/$domain=youtube.com
 ||google.com/pagead/$domain=youtube.com

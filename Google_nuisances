@@ -1,5 +1,15 @@
 [AdbBlockPlus 3.5]
 !
+! Google reminder en advertenties
+!
+google.nl##.xFNJP
+google.nl###taw
+google.nl###rhs
+google.nl###fsr > a.Fx4vi:nth-child(2)
+google.nl###fsl
+||google.com^$cookie
+||google.nl^$cookie
+!
 ! Strip youtube with Adguard extension
 !
 ||youtube.com/pagead/$domain=youtube.com

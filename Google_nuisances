@@ -5,7 +5,8 @@
 !
 ! Expires: 365 days (I am still testing this under-development-list)
 ! You are free to copy and distribute this file for non-commercial use
-! This filter uses Adguard syntax (might not work with uBlockO or Adblock+)
+! This filter uses Adguard syntax (set to trusted in Adguard extension)
+! ergo these rules might not work with uBlockOrigin or AdblockPlus
 !
 ! Google search
 google.*##.xFNJP

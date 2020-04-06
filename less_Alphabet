@@ -13,6 +13,7 @@ google.*###rhs
 google.*###fsl
 ||google.*/gen_204
 ||google.*/client_204
+||gstatic.com/shopping
 !
 ! Show and know less on Youtube
 /.*pagead.*/$domain=youtube.com

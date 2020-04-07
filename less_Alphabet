@@ -29,6 +29,6 @@ google.*###bottomads
 ||youtube.com/youtubei/$domain=youtube.com
 ||gstatic.com/inputtools/images/$domain=youtube.com
 
-youtube.com##ytd-video-masthead-ad-advertiser-info-renderer
-youtube.com##ytd-promoted-sparkles-web-renderer
 youtube.com##.ytd-popup-container
+youtube.com##div:contains(/.*promoted.*/)
+youtube.com##div:contains(/.*consent.*/)

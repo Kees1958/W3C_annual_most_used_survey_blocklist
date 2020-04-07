@@ -22,11 +22,13 @@ google.*###bottomads
 /.*scheduler.*/$domain=youtube.com
 /.*instream.*/$domain=youtube.com
 /.*midroll.*/$domain=youtube.com
-youtube.com##.ytd-compact-promoted-video-renderer
-youtube.com##.ytd-promoted-sparkles-web-renderer
 
 ||*/generate_204$domain=youtube.com
 ||youtube.com/ptracking$domain=youtube.com
 ||youtube.com/api/stats/$domain=youtube.com
 ||youtube.com/youtubei/$domain=youtube.com
 ||gstatic.com/inputtools/images/$domain=youtube.com
+
+youtube.com##ytd-video-masthead-ad-advertiser-info-renderer
+youtube.com##ytm-promoted-sparkles-web-renderer
+youtube.com##.ytd-popup-container

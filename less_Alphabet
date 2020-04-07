@@ -30,6 +30,7 @@ google.*###bottomads
 ||gstatic.com/inputtools/images/$domain=youtube.com
 
 youtube.com##ytd-video-masthead-ad-advertiser-info-renderer
-youtube.com##ytm-promoted-sparkles-web-renderer
+youtube.com##ytd-promoted-sparkles-web-renderer
 youtube.com##.ytd-popup-container
-youtube.com##.ytd-promoted-sparkles-web-renderer
+youtube.com##div:contains(/.*promoted.*/)
+youtube.com##div:has("promoted")

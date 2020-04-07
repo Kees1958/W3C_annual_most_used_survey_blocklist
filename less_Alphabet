@@ -30,15 +30,3 @@ youtube.com##.ytd-promoted-sparkles-web-renderer
 ||youtube.com/api/stats/$domain=youtube.com
 ||youtube.com/youtubei/$domain=youtube.com
 ||gstatic.com/inputtools/images/$domain=youtube.com
-
-youtube.com##iframe[src^="https://www.pagead2.googlesyndication.com"]
-youtube.com#?#div:has(> iframe[src^="https://www.pagead2.googlesyndication.com")
-youtube.com##a[href^=https://www.pagead2.googlesyndication.com"]
-
-youtube.com##iframe[src^="https://www.lh5.googleusercontent.com"]
-youtube.com#?#div:has(> iframe[src^="https://www.pagead2.googlesyndication.com")
-youtube.com##a[href^=https://www.pagead2.googlesyndication.com"]
-
-youtube.com##iframe[src^="https://www.youtube.com/embed"]
-youtube.com#?#div:has(> iframe[src^="https://www.youtube.com/embed")
-youtube.com##a[href^="https://www.youtube.com/embed"]

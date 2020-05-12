@@ -248,7 +248,7 @@
 ||iasds01.com$third-party
 ||ibillboard.com$third-party
 ||id5-sync.com$third-party
-||id.google.*$third-party
+||id.google.*$image,domain=google.*
 ||igodigital.com$third-party
 ||inmobi.com$third-party
 ||imonomy.com$third-party

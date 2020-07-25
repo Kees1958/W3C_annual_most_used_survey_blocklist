@@ -1,7 +1,6 @@
                                                          SOURCES
-This is a minimial blocklist based on surveys on most used webtechnology related to advertising and tracking in Western Europe and North 
-America. Although title is Top500, it are actually a over 500 analysis, advertising, tagmanagement and tracking servers (domains), because
-new players mentioned in advertising websites which were also mentioned on Google's Ad technology list were added also.
+The blocklist based on surveys on most used webtechnology related to advertising and tracking. The list come in two versions. The top 500 has a
+a cut-off point of 1% in Alexa's top 300.000 and the top 2500 a 1% cut-off point in the top 1000.000 of Alexa.
 
                                                WHY USE A MINIMAL BLOCKLIST?                                        
 In advertising the number one (Google) has a marketshare of around 40 percent, Facebook the number two hits the 20 percent mark while the

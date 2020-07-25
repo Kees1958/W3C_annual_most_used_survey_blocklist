@@ -14,9 +14,15 @@ aim to block adnetworks in stead of adsvertismens on websites (that is why they 
 large blocklist have a look at Steven's Black hostfile.   
 
                                                     ERRORS & ISSUES
-When you still want to use this blocklist, feel free to use it and provide feedback on errors. You can post issues, but I will only have 
-a look at it when the issue causes a problem on an COM, INF, NET or ORG domain. You can fix a problem easily yourself in most adblock 
-extensions (e.g. AdBlockPlus, Adguard, uBlockOrigin). Look for UserFilter or MyFilter in the extension options. For instance when this 
-filter causes a problem on website ABC_example.com, simply add a badfilter using this syntax: 
+When you still want to use this blocklist, feel free to use it and provide feedback on errors. I will correct the issue as soon as possible.  
+When you encounter an issue.
+
+You can fix a problem easily yourself in most adblock extensions (e.g. AdBlockPlus, Adguard, uBlockOrigin). 
+Look for UserFilter or MyFilter in the extension options an add a badfilter for the domain which is blocked while it should not. In the
+example below the domain ABC_example.com is ignored with the badfilter option.
 
 ||ABC_example.com$badfilter
+
+When your adblocker does not has the badfilter option, you can create an allow rule for that domain by adding (as last resort):
+
+@@||ABC_example.com 

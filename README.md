@@ -1,7 +1,8 @@
                                                          SOURCES
 The blocklist based on surveys on most used webtechnology related to advertising and tracking. The list come in two versions. The top 500 has a
 a cut-off point of 1% in Alexa's top 300.000 and the top 3000 a 1% cut-off point in the top 1000.000 of Alexa. Important to know that these
-are only advertisement and trackking networks used in websites from Europe and North America. 
+are only advertisement and trackking networks used in websites from Europe and North America. The Top500 actually has a little more than 500 
+domains listed, the Top3000 a little less.
 
                                                WHY USE A MINIMAL BLOCKLIST?                                        
 In advertising the number one (Google) has a marketshare of around 40 percent, Facebook the number two hits the 20 percent mark while the

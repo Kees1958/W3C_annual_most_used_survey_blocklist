@@ -89,7 +89,6 @@
 ||adbutler.com$third-party
 ||adbutler.de$third-party
 ||adbuyer.com$third-party
-||adcash.com
 ||adcash.com$third-party
 ||adcde.com$third-party
 ||adcell.de$third-party
@@ -165,7 +164,6 @@
 ||adkeeper.com$third-party
 ||adkernel.com$third-party
 ||adknife.com$third-party
-||adknowledge.com
 ||adknowledge.com$third-party
 ||adlabs.com$third-party
 ||adlantic.nl$third-party
@@ -192,7 +190,6 @@
 ||admarketplace.net$third-party
 ||admarvel.com$third-party
 ||admaster.com.cn$third-party
-||ad-maven.com
 ||ad-maven.com$third-party
 ||admaxim.com$third-party
 ||admaximizer.com$third-party
@@ -252,7 +249,7 @@
 ||adready.com$third-party
 ||adreadypixels.com$third-party
 ||adreadytractions.com$third-party
-||adrecover.com
+||adrecover.com$third-party
 ||adretarget.me$third-party
 ||adrevolution.com$third-party
 ||adrevolver.com$third-party
@@ -286,7 +283,6 @@
 ||adserverpub.com$third-party
 ||adservice.google.ca$third-party
 ||adservice.google.com
-||adservice.google.com$third-party
 ||adservice.google.nl
 ||adsfac.eu$third-party
 ||adsfac.info$third-party
@@ -362,7 +358,7 @@
 ||adverticum.net$third-party
 ||advertise.com$third-party
 ||advertisespace.com$third-party
-||advertising.aol.com
+||advertising.aol.com$third-party
 ||advertising.com$third-party
 ||advertising.yahoo.com$third-party
 ||advertising-tracker.msedgedemo.example$third-party
@@ -424,7 +420,6 @@
 ||aim4media.com$third-party
 ||aimatch.com$third-party
 ||airpr.com$third-party
-||airpush.com
 ||airpush.com$third-party
 ||airtory.com$third-party
 ||aivalabs.com$third-party
@@ -601,7 +596,6 @@
 ||betweendigital.com$third-party
 ||bfmio.com$third-party
 ||bgclck.me$third-party
-||bid.yahoo.com
 ||bid.yahoo.com$third-party
 ||biddercore.io$third-party
 ||bidease.com$third-party
@@ -714,7 +708,6 @@
 ||campaign-archive1.com$third-party
 ||campaigngrid.com$third-party
 ||cams.com$third-party
-||cannavu.net
 ||cannavu.net$third-party
 ||capitaldata.fr$third-party
 ||captify.co.uk$third-party
@@ -769,7 +762,7 @@
 ||clearstream.tv$third-party
 ||clic2buy.com$third-party
 ||clickable.net$third-party
-||clickadu.com
+||clickadu.com$third-party
 ||clickagy.com$third-party
 ||clickaider.com$third-party
 ||clickbooth.com$third-party
@@ -950,7 +943,7 @@
 ||dativa.com$third-party
 ||datonics.com$third-party
 ||datranmedia.com$third-party
-||datspush.com
+||datspush.com$third-party
 ||datvantage.com$third-party
 ||dc-storm.com$third-party
 ||de17a.com$third-party
@@ -1106,7 +1099,6 @@
 ||epicmarketplace.com$third-party
 ||epicmobileads.com$third-party
 ||e-planning.net$third-party
-||epom.com
 ||epom.com$third-party
 ||eproof.com$third-party
 ||epsilon.com$third-party
@@ -1134,7 +1126,6 @@
 ||eulerian.com$third-party
 ||eulerian.net$third-party
 ||euroclick.com$third-party
-||evadav.com
 ||evadav.com$third-party
 ||everestads.net$third-party
 ||everestjs.net$third-party
@@ -1409,7 +1400,6 @@
 ||igaworks.com$third-party
 ||ignitad.com$third-party
 ||ignition.ai$third-party
-||ignitionone.com
 ||ignitionone.com$third-party
 ||ignitionone.net$third-party
 ||igodigital.com$third-party
@@ -1447,7 +1437,6 @@
 ||infra-ad.com$third-party
 ||ingenio.com$third-party
 ||ingenioustechnologies.com$third-party
-||inmobi.com
 ||inmobi.com$third-party
 ||inner-active.com$third-party
 ||innity.com$third-party
@@ -1578,7 +1567,6 @@
 ||lduhtrp.net$third-party
 ||lead-alliance.net$third-party
 ||leadback.com$third-party
-||leadbolt.com
 ||leadbolt.com$third-party
 ||leadforce1.com$third-party
 ||leadforensics.com$third-party
@@ -1738,7 +1726,6 @@
 ||meetic-partners.com$third-party
 ||meetrics.com$third-party
 ||meetrics.net$third-party
-||megapu.sh
 ||megapu.sh$third-party
 ||mentad.com$third-party
 ||mercent.com$third-party
@@ -1785,7 +1772,6 @@
 ||mobclix.com$third-party
 ||mobfox.com$third-party
 ||mobials.com$third-party
-||mobidea.com
 ||mobidea.com$third-party
 ||mobilcom-debitel.de$third-party
 ||mobileadtrading.com$third-party
@@ -2035,7 +2021,6 @@
 ||peerfly.com$third-party
 ||peerset.com$third-party
 ||percentmobile.com$third-party
-||perfectaudience.com
 ||perfectaudience.com$third-party
 ||perfectmarket.com$third-party
 ||perfiliate.com$third-party
@@ -2346,7 +2331,7 @@
 ||segment.io$third-party
 ||sekindo.com$third-party
 ||selectablemedia.com$third-party
-||selfadvertiser.com
+||selfadvertiser.com$third-party
 ||semantiqo.com$third-party
 ||semasio.com$third-party
 ||semasio.net$third-party
@@ -2622,10 +2607,10 @@
 ||tradelab.com$third-party
 ||tradetracker.com$third-party
 ||tradetracker.net$third-party
-||trafficfactory.com
+||trafficfactory.com$third-party
 ||trafficfacts.com$third-party
 ||trafficforce.com$third-party
-||trafficforme.com
+||trafficforme.com$third-party
 ||trafficguard.ai$third-party
 ||traffichaus.com$third-party
 ||traffichouse.com$third-party
@@ -2933,7 +2918,6 @@
 ||zentrick.com$third-party
 ||zeotap.com$third-party
 ||zergnet.com$third-party
-||zeropark.com
 ||zestad.com$third-party
 ||zetaemailsolutions.com$third-party
 ||zetaglobal.com$third-party

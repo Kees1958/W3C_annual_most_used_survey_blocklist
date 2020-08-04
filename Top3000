@@ -438,12 +438,6 @@
 ||am.ua$third-party
 ||amadesa.com$third-party
 ||amazingcounters.com$third-party
-||amazon.ca$third-party
-||amazon.co.uk$third-party
-||amazon.de$third-party
-||amazon.es$third-party
-||amazon.fr$third-party
-||amazon.it$third-party
 ||amazon-adsystem.com$third-party
 ||ambientdigital.com.vn$third-party
 ||amgdgt.com$third-party
@@ -2284,7 +2278,6 @@
 ||rvty.net$third-party
 ||s.yimg.com/wi/ytc.js$script,third-party
 ||s.yimg.com/wi/ytc.js$third-party$script
-||s3.amazonaws.com$third-party
 ||s4m.io$third-party
 ||sa-as.com$third-party
 ||sabavision.com$third-party

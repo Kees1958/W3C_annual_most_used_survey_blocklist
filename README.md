@@ -15,7 +15,7 @@ number 250 may only track you on 500 websites of the Alexa Top 300.000 (websited
 
                                           ALTERNATIVES WITH SIMULAR BLOCKING APPROACH
 When you want a common use well maintained small blocklist, you can also use Disconnect's Simple Ad-filter or Peter Low's blocklist. 
-These lists also aim to block adnetworks in stead of adsvertismens on websites (that is why they only have over 3000 blacklisted URL's). 
+These lists also aim to block adnetworks instead of adsvertismens on websites (that is why they only have over 3000 blacklisted URL's). 
 
                                                     ERRORS & ISSUES
 When you still want to use this blocklist, feel free to use it and provide feedback on errors. I will correct the issue as soon as possible.  

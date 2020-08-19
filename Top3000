@@ -1,6 +1,6 @@
 [AdBlockPlus 2.0]
 !
-! Version: 2020-08-12
+! Version: 2020-08-19
 ! Title: Top3000 most prevalent advertising and tracking networks used by Western Europe and North American websites.
 !
 ! Expires: 365 days 
@@ -328,6 +328,7 @@
 ||adtechus.com$third-party
 ||adtegrity.com$third-party
 ||adtegrity.net$third-party
+||adtelli.comt$third-party
 ||adtelligence.com$third-party
 ||adtelligence.de$third-party
 ||adtelligent.com$third-party
@@ -2437,6 +2438,7 @@
 ||sportradar.com$third-party
 ||spot200.com$third-party
 ||spotad.co$third-party
+||spotim.market$third-party
 ||spotx.tv$third-party
 ||spotxchange.com$third-party
 ||springserve.com$third-party
@@ -2474,6 +2476,8 @@
 ||storygize.com$third-party
 ||storygize.net$third-party
 ||stratigent.com$third-party
+||streamrail.com$third-party
+||streamrail.net$third-party
 ||streamray.com$third-party
 ||strikead.com$third-party
 ||stroeer.de$third-party
@@ -2682,6 +2686,7 @@
 ||uniqlick.com$third-party
 ||unitymedia.de$third-party
 ||universalmediasolutions.net$third-party
+||unoadsrv.comthird-party
 ||unruly.co$third-party
 ||unrulymedia.com$third-party
 ||up-value.de$third-party

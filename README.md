@@ -3,9 +3,8 @@ The blocklist based on surveys on most used webtechnology related to advertising
 This is the reason of the low update frequency (once a year a new version, ad hoc corrections to prevent website breakage). 
 
                                                           USAGE 
-Important to know that both the Top500 and Top3000 mostly contain advertisement and tracking networks used in West Europe and North America.
-Therefore it is adviced to add you language specific Easylist filter when using these filters. All domains of Top500 are also blocked by the
-Top3000 list. The Top500 actually has a little more than 500 domains listed, the Top3000 a little less.
+Important to know that the Top3000 mostly contains advertisement and tracking networks used in West Europe and North America.
+Therefore it is adviced to add you language specific Easylist filter when using these filters. 
 
                                                WHY USE A SMALL BLOCK BLOCK LIST?                                        
 In advertising the number one (Google) has a marketshare of around 40 percent, Facebook the number two hits the 20 percent mark while the

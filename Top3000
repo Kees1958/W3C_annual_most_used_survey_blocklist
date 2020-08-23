@@ -1,7 +1,7 @@
 [AdBlockPlus 2.0]
 !
-! Version: 2020-08-19
-! Title: Top3000 most prevalent advertising and tracking networks used by Western Europe and North American websites.
+! Version: 2020-08-23
+! Title: Top3000 most prevalent advertising and tracking networks in Western Europe and North American websites based on annual web-tech surveys.
 !
 ! Expires: 365 days 
 ! You are free to copy and distribute this file for non-commercial use
@@ -362,7 +362,6 @@
 ||advertising.aol.com$third-party
 ||advertising.com$third-party
 ||advertising.yahoo.com$third-party
-||advertising-tracker.msedgedemo.example$third-party
 ||advertserve.com$third-party
 ||advertstream.com$third-party
 ||advisormedia.cz$third-party
@@ -465,7 +464,6 @@
 ||antvoice.com$third-party
 ||aolcloud.net$third-party
 ||apartena.net$third-party
-||api.gemini.yahoo.com/v2/rest/tag/$third-party$
 ||api.gemini.yahoo.com/v2/rest/tag/*$third-party
 ||apmebf.com$third-party
 ||apnewsregistry.com$third-party
@@ -1991,7 +1989,7 @@
 ||p.brsrvr.com$third-party
 ||p.typekit.net$third-party
 ||p-advg.com$third-party
-||pagead2.googlesyndication.com$third-party
+||pagead2.googlesyndication^
 ||pagefair.com$third-party
 ||pagefair.net$third-party
 ||pages05.net$third-party
@@ -2853,9 +2851,6 @@
 ||xtendmedia.com$third-party
 ||xxxlutz.de$third-party
 ||yabuka.com$third-party
-||yahoo.com$third-party
-||yandex.com$third-party
-||yandex.ru$third-party
 ||yastatic.net$third-party
 ||ybp.yahoo.com$third-party
 ||ybrantdigital.com$third-party

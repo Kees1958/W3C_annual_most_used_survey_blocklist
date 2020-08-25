@@ -1,7 +1,7 @@
                                                          SOURCES
 This blocklist is based on surveys of most used advertising and tracking technology (e.g. surveys of W3C, W3Tech and the
 on-line marketing community itself). These tech surveys are held once a year. This is the reason of the low update frequency 
-(365 days and ad hoc corrections to correct website breakage).Those surveys are oriented on Europe and North America, this is
+(365 days and ad hoc corrections to correct website breakage). The surveys are oriented on Europe and North America, this is
 the reason this blocklist contains mostly EU and US based advertising and tracking networks. 
 
                                 WHY USE A SMALL ADVERTISING AND TRACKING NETWORKS BLOCK LIST? 

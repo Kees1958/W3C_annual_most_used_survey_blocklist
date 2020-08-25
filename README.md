@@ -16,4 +16,4 @@ often contain specific block and hide rules of teh websites you visit (first par
 and tracking networks which are used on the websites you visit (third-party). That is why they supplement each other well.    
 
                                                     ERRORS & ISSUES
-Feel free to use it and provide feedback on errors. we (the maintainers) will try to correct website breakage as soon as possible.  
+Feel free to use it and provide feedback on errors, the maintainers will try to correct website breakage as soon as possible.  

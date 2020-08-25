@@ -4,7 +4,7 @@ on-line marketing community itself). These tech surveys are held once a year. Th
 (365 days and ad hoc corrections to correct website breakage).Those surveys are oriented on Europe and North America, this is
 the reason this blocklist contains mostly EU and US based advertising and tracking networks. 
 
-                 WHY USE A SMALL AD&TRACKING NETWORKS BLOCK LIST WITH YOUR COUNTRY SPECIFIC EASYLIST BLOCKLIST? 
+                                WHY USE A SMALL ADVERTISING AND TRACKING NETWORKS BLOCK LIST? 
 In advertising the number one (Google) has a marketshare of around 40 percent, Facebook the number two hits the 20 percent mark 
 while the number three Comscore just has a little over 2.5% marketshare. For comparison Amazon with its huge webstore generates 
 about the same advertising traffic on its own website. Number 100 on this list is probably used at 5000 websites of the Alexa 

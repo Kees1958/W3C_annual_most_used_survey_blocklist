@@ -1,6 +1,6 @@
 [AdBlockPlus 2.0]
 !
-! Version: 2020-07-27
+! Version: 2020-08-26
 ! Title: Top500 most prevalent advertising and tracking networks used by Western Europe and North American websites.
 !
 ! Expires: 365 days (I am still testing this under-development-list)
@@ -159,7 +159,6 @@
 ||conversantmedia.com$third-party
 ||conversionlogic.net$third-party
 ||conviva.com$third-party
-||cookielaw.org$third-party
 ||coxmt.com$third-party
 ||cpx.to$third-party
 ||crazyegg.com$third-party
@@ -361,7 +360,6 @@
 ||omniture.com$third-party
 ||omtrdc.net$third-party
 ||oneaudience$third-party
-||onetrust.com$third-party
 ||openx.com$third-party
 ||openx.net$third-party
 ||opmnstr.com$third-party

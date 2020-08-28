@@ -1,6 +1,6 @@
 [AdBlockPlus 2.0]
 !
-! Version: 2020-08-24
+! Version: 2020-08-28
 ! Title: Most prevalent advertising and tracking networks in Western Europe and North American websites based on annual web-tech surveys.
 !
 ! Expires: 365 days 
@@ -875,7 +875,6 @@
 ||bannernow.com$third-party
 ||bannerpower.com$third-party
 ||banner-rotation.com$third-party
-
 ||bannerserver.com$third-party
 ||bannersgomlm.com$third-party
 ||bannershotlink.perfectgonzo.com$third-party
@@ -1606,7 +1605,6 @@
 ||easyplatform.com$third-party
 ||eazy.de$third-party
 ||e-bannerx.com$third-party
-||ebay.com$third-party
 ||ebayadvertising.com$third-party
 ||ebocornac.com$third-party
 ||ebuilders.nl$third-party
@@ -2996,16 +2994,6 @@
 ||pagead2.googlesyndication^
 ||pagefair.com$third-party
 ||pagefair.net$third-party
-||pagerank4u.eu$third-party
-||pagerank4you.com$third-party
-||pagerank-ranking.com$third-party
-||pagerank-ranking.de$third-party
-||pagerank-server7.de$third-party
-||pagerank-submitter.com$third-party
-||pagerank-submitter.de$third-party
-||pagerank-suchmaschine.de$third-party
-||pageranktop.com$third-party
-||pagerank-united.de$third-party
 ||pages05.net$third-party
 ||paid-to-promote.net$third-party
 ||pantherssl.com$third-party
@@ -3159,13 +3147,6 @@
 ||primevisibility.com$third-party
 ||primo.design$third-party
 ||prismapp.io$third-party
-||privacy.adtriba.com$third-party
-||privacy.advertserve.com$third-party
-||privacy.audienceproject.com$third-party
-||privacy.microsoft.com$third-party
-||privacy.polar.me$third-party
-||privacy.uber.com$third-party
-||privacy-portal.smartclip.net$third-party
 ||privatecash.com$third-party
 ||pro.i-doctor.co.kr$third-party
 ||pro-advertising.com$third-party
@@ -3283,19 +3264,6 @@
 ||rambla.be$third-party
 ||rampanel.com$third-party
 ||rampidads.com$third-party
-||rankchamp.de$third-party
-||ranker.com$third-party
-||rankingchart.de$third-party
-||ranking-charts.de$third-party
-||ranking-hits.de$third-party
-||ranking-id.de$third-party
-||ranking-links.de$third-party
-||ranking-liste.de$third-party
-||rankingscout.com$third-party
-||ranking-street.de$third-party
-||rank-master.com$third-party
-||rank-master.de$third-party
-||rankyou.com$third-party
 ||rapidcounter.com$third-party
 ||rapleaf.com$third-party
 ||ratevoice.com$third-party
@@ -3911,12 +3879,7 @@
 ||toprebates.com$third-party
 ||topsafelist.net$third-party
 ||topsearcher.com$third-party
-||topsir.com$third-party
-||topsite.lv$third-party
-||top-site-list.com$third-party
-||topsites.com.br$third-party
 ||topstats.com$third-party
-||totaljobs.com$third-party
 ||totemcash.com$third-party
 ||touchads.com$third-party
 ||touchclarity.com$third-party
@@ -3930,14 +3893,7 @@
 ||track.gawker.com$third-party
 ||trackalyzer.com$third-party
 ||trackcmp.net$third-party
-||tracker.icerocket.com$third-party
-||tracker.marinsm.com$third-party
 ||trackersimulator.org$third-party
-||tracking.crunchiemedia.com$third-party
-||tracking.friends2follow.com$third-party
-||tracking.gajmp.com$third-party
-||tracking.internetstores.de$third-party
-||tracking.yourfilehost.com$third-party
 ||tracking101.com$third-party
 ||trackingsoft.com$third-party
 ||trackmysales.com$third-party

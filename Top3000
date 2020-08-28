@@ -1,6 +1,6 @@
 [AdBlockPlus 2.0]
 !
-! Version: 2020-08-23
+! Version: 2020-08-28
 ! Title: Top3000 most prevalent advertising and tracking networks in Western Europe and North American websites based on annual web-tech surveys.
 !
 ! Expires: 365 days 
@@ -1044,7 +1044,6 @@
 ||easy-m.de$third-party
 ||easyplatform.com$third-party
 ||eazy.de$third-party
-||ebay.com$third-party
 ||ebuilders.nl$third-party
 ||ebuzzing.com$third-party
 ||echosearch.com$third-party

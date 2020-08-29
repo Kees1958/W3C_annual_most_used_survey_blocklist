@@ -217,7 +217,7 @@
 ||eyeviewads.com$third-party
 ||ezoic.net$third-party
 ||facebook.com$third-party
-||facebook.net$domain=~facebook.com
+||facebook.net$third-part,domain=~facebook.com
 ||faktor.io$third-party
 ||fg8dgt.com$third-party
 ||fiftyt.com$third-party

@@ -245,7 +245,7 @@
 ||iasds01.com$third-party
 ||ibillboard.com$third-party
 ||id5-sync.com$third-party
-||id.google.*$image,domain=google.*
+||id.google.^$image,third-party
 ||igodigital.com$third-party
 ||inmobi.com$third-party
 ||imonomy.com$third-party
@@ -313,7 +313,6 @@
 ||meetrics.net$third-party
 ||mentad.com$third-party
 ||metrics.brightcove.com$third-party
-||mfadsrv.com$third-party
 ||mfadsrvr.com$third-party
 ||mgid.com$third-party
 ||micpn.com$third-party
@@ -365,7 +364,6 @@
 ||outbrainimg.com$third-party
 ||owneriq.net$third-party
 ||p.typekit.net$third-party
-||pagead2.googlesyndication.^
 ||pagefair.com$third-party
 ||pagefair.net$third-party
 ||pardot.com$third-party

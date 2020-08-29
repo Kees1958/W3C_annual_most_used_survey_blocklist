@@ -1,15 +1,11 @@
 [AdBlockPlus 2.0]
 !
-! Version: 2020-08-26
-! Title: Top500 most prevalent advertising and tracking networks used by Western Europe and North American websites.
+! Version: 2020-08-29
+! Title: Most prevalent advertising and tracking networks used in Western Europe and North American websites.
 !
 ! Expires: 365 days (I am still testing this under-development-list)
 ! You are free to copy and distribute this file for non-commercial use
 !
-! ______________________________________________________________________________________________________________________________________________
-! PLEASE USE TOP3000                                          TOP 500 WILL BE DISCONTINUED                                    PLEASE USE TOP3000
-! PLEASE USE TOP3000                                          TOP 500 WILL BE DISCONTINUED                                    PLEASE USE TOP3000
-! PLEASE USE TOP3000                                          TOP 500 WILL BE DISCONTINUED                                    PLEASE USE TOP3000
 !
 ||1dmp.io$third-party
 ||1rx.io$third-party
@@ -58,7 +54,7 @@
 ||adsafety.net$third-party
 ||adsco.re$third-party
 ||adserver.adtech.de$third-party
-||adservice.google.*
+||adservice.google.^
 ||adsnative.com$third-party
 ||adsrvr.org$third-party
 ||adstanding.com$third-party
@@ -80,7 +76,6 @@
 ||amung.us$third-party
 ||analytics.shareaholic.com$third-party
 ||analytics.twitter.com$third-party
-||api.gemini.yahoo.com/v2/rest/tag/*$third-party
 ||apollo.io$third-party
 ||app.link$third-party
 ||appnexus.com$third-party
@@ -100,7 +95,6 @@
 ||beemray.com$third-party
 ||betrad.com$third-party
 ||bfmio.com$third-party
-||bid.yahoo.com$third-party
 ||biddercore.io$third-party
 ||bidfluence.com$third-party
 ||bidr.io$third-party
@@ -371,7 +365,7 @@
 ||outbrainimg.com$third-party
 ||owneriq.net$third-party
 ||p.typekit.net$third-party
-||pagead2.googlesyndication.com$third-party
+||pagead2.googlesyndication.^
 ||pagefair.com$third-party
 ||pagefair.net$third-party
 ||pardot.com$third-party
@@ -428,7 +422,6 @@
 ||rubicon.com$third-party
 ||rubiconproject.com$third-party
 ||rundsp.com$third-party
-||s.yimg.com/wi/ytc.js$script,third-party
 ||sail-track.com$third-party
 ||salesmachine.io$third-party
 ||sascdn.com$third-party
@@ -477,7 +470,6 @@
 ||switchadhub.com$third-party
 ||synacor.com$third-party
 ||syndication.twitter.com$third-party
-||t.co$third-party
 ||taboola.com$third-party
 ||tagcommander.com$third-party
 ||tags.tiqcdn.com$third-party
@@ -540,6 +532,8 @@
 ||wt-safetag.com$third-party
 ||xiti.com$third-party
 ||xplosion.de$third-party
+||yahoo.com$third-party
+||yandex.com$third-party
 ||yastatic.net$third-party
 ||yieldlab.net$third-party
 ||yieldlove.com$third-party

@@ -1,6 +1,6 @@
 [AdBlockPlus 2.0]
 !
-! Version: 2020-08-28
+! Version: 2020-09-20
 ! Title: Most prevalent advertising and tracking networks in Western Europe and North American websites based on annual web-tech surveys.
 !
 ! Expires: 365 days 
@@ -1940,6 +1940,7 @@
 ||goodeed.com$third-party
 ||goodwaygroup.com$third-party
 ||googleadservices.com$third-party
+||google.com/pagead/$third-party
 ||google-analytics.com$third-party
 ||googlesyndication.com$third-party
 ||googletagmanager.com$third-party

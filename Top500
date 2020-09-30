@@ -1,6 +1,6 @@
 [AdBlockPlus 2.0]
 !
-! Version: 2020-20-29
+! Version: 2020-09-30
 ! Title: Most prevalent advertising and tracking networks used in Western Europe and North American websites.
 !
 ! Expires: 365 days (I am still testing this under-development-list)
@@ -533,7 +533,6 @@
 ||wt-safetag.com$third-party
 ||xiti.com$third-party
 ||xplosion.de$third-party
-||yastatic.net$third-party
 ||yieldlab.net$third-party
 ||yieldlove.com$third-party
 ||yieldlove-ad-serving.net$third-party

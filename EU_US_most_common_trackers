@@ -2107,8 +2107,7 @@
 ||iconadserver.com$third-party
 ||icptrack.com$third-party
 ||icrossing.com$third-party
-||id.google.com$image
-||id.google.nl$image
+||id.google.^$image
 ||id5-sync.com$third-party
 ||idcounter.com$third-party
 ||iddiction.com$third-party

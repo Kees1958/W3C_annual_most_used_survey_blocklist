@@ -1,6 +1,6 @@
 [AdBlockPlus 2.0]
 !
-! Version: 2020-09-20
+! Version: 2020-10-04
 ! Title: Most prevalent advertising and tracking networks in Western Europe and North American websites based on annual web-tech surveys.
 !
 ! Expires: 365 days 
@@ -76,6 +76,7 @@
 ||abaxinteractive.com$third-party
 ||abc-ads.com$third-party
 ||absoluteclickscom.com$third-party
+||abtasty.com$third-party
 ||abz.com$third-party
 ||ac.rnm.ca$third-party
 ||accelerator-media.com$third-party
@@ -1253,6 +1254,7 @@
 ||clkads.com$third-party
 ||clkrev.com$third-party
 ||clmbtech.com$third-party
+||cloudflareinsights.com$third-party
 ||cloudinary.com$third-party
 ||clovenetwork.com$third-party
 ||clrstm.com$third-party
@@ -1318,10 +1320,11 @@
 ||contaxe.de$third-party
 ||content.acc-hd.de$third-party
 ||content.ad$third-party
-||contentabc.com$third-party
 ||content-ad.net$third-party
+||contentabc.com$third-party
 ||contentignite.com$third-party
 ||contentspread.net$third-party
+||contentsquare.net$third-party
 ||contentwidgets.net$third-party
 ||contextin.com$third-party
 ||contextuads.com$third-party
@@ -1449,6 +1452,7 @@
 ||dapper.net$third-party
 ||dashboardad.net$third-party
 ||data2decisions.com$third-party
+||datadome.co$third-party
 ||dataexchanger.pl$third-party
 ||datafy-software.com$third-party
 ||dataium.com$third-party
@@ -2066,6 +2070,7 @@
 ||hubapi.com$third-party
 ||hubdsp.com$third-party
 ||hubspot.com$third-party
+||hubvisor.io$third-party
 ||humandemand.com$third-party
 ||huntmads.com$third-party
 ||hurra.com$third-party
@@ -2088,6 +2093,7 @@
 ||iaded.com$third-party
 ||iadnet.com$third-party
 ||iadsdk.apple.com$third-party
+||iadvize.com$third-party
 ||iasds01.com$third-party
 ||i-behavior.com$third-party
 ||ib-ibi.com$third-party
@@ -2183,6 +2189,7 @@
 ||inner-active.mobi$third-party
 ||innity.com$third-party
 ||innovid.com$third-party
+||inpagepush.com$third-party
 ||inq.com$third-party
 ||inres.sk$third-party
 ||inringtone.com$third-party
@@ -2296,6 +2303,8 @@
 ||jysk.ee$third-party
 ||k.iinfo.cz$third-party
 ||kadam.net$third-party
+||kameleoon.com$third-party
+||kameleoon.eu$third-party
 ||kanoodle.com$third-party
 ||kantarmedia.com$third-party
 ||kaplanindex.com$third-party
@@ -2917,6 +2926,7 @@
 ||oneiota.co.uk$third-party
 ||onenetworkdirect.com$third-party
 ||oneplanetonly.com$third-party
+||onesignal.com$third-party
 ||onestat.com$third-party
 ||onestatfree.com$third-party
 ||onetag.net$third-party
@@ -3620,6 +3630,7 @@
 ||specificmedia.com$third-party
 ||specificpop.com$third-party
 ||spectate.com$third-party
+||speedcurve.com$third-party
 ||spezialreporte.de$third-party
 ||sphere.com$third-party
 ||spideraf.com$third-party
@@ -3700,6 +3711,7 @@
 ||streamray.com$third-party
 ||strikead.com$third-party
 ||strikeiron.com$third-party
+||stripst.com$third-party
 ||stroeer.de$third-party
 ||struq.com$third-party
 ||suavalds.com$third-party
@@ -4021,6 +4033,7 @@
 ||unitymedia.de$third-party
 ||universalmediasolutions.net$third-party
 ||unoadsrv.comthird-party
+||unpkg.com$third-party
 ||unruly.co$third-party
 ||unrulymedia.com$third-party
 ||untd.com$third-party

@@ -1,6 +1,6 @@
 [AdBlockPlus 2.0]
 !
-! Version: 2020-10-04
+! Version: 2020-10-11
 ! Title: Most prevalent advertising and tracking networks in Western Europe and North American websites based on annual web-tech surveys.
 !
 ! Expires: 365 days 
@@ -455,8 +455,6 @@
 ||adserverpub.com$third-party
 ||adserversolutions.com$third-party
 ||adservice.google.ca$third-party
-||adservice.google.com
-||adservice.google.nl
 ||adservinginternational.com$third-party
 ||adsfac.eu$third-party
 ||adsfac.info$third-party
@@ -1943,12 +1941,15 @@
 ||go-mpulse.net$third-party
 ||goodeed.com$third-party
 ||goodwaygroup.com$third-party
+||adservice.google.^
+||id.google.^
 ||googleadservices.com$third-party
 ||google.com/pagead/$third-party
 ||google-analytics.com$third-party
 ||googlesyndication.com/pagead/$third-party
 ||googletagmanager.com$third-party
 ||googletagservices.com$third-party
+||pagead2.googlesyndication.com^
 ||go-rank.de$third-party
 ||gorillanation.com$third-party
 ||gosquared.com$third-party
@@ -3001,7 +3002,6 @@
 ||p.adpdx.com$third-party
 ||p.brsrvr.com$third-party
 ||p-advg.com$third-party
-||pagead2.googlesyndication.com$third-party
 ||pagefair.com$third-party
 ||pagefair.net$third-party
 ||pages05.net$third-party

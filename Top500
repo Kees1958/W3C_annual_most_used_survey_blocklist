@@ -1,6 +1,6 @@
 [AdBlockPlus 2.0]
 !
-! Version: 2020-09-30
+! Version: 2020-11-10
 ! Title: Most prevalent advertising and tracking networks used in Western Europe and North American websites.
 !
 ! Expires: 365 days (I am still testing this under-development-list)
@@ -54,7 +54,7 @@
 ||adsafety.net$third-party
 ||adsco.re$third-party
 ||adserver.adtech.de$third-party
-||adservice.google.^
+!|adservice.google.*^
 ||adsnative.com$third-party
 ||adsrvr.org$third-party
 ||adstanding.com$third-party
@@ -233,7 +233,7 @@
 ||googlesyndication.com/pagead/$third-party
 ||googletagmanager.com$third-party
 ||googletagservices.com$third-party
-||pagead2.googlesyndication.com$third-party
+||pagead2.googlesyndication.com$^
 ||gscontxt.net$third-party
 ||gscounters.eu1.gigya.com$third-party
 ||gssprt.jp$third-party

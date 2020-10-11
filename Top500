@@ -54,7 +54,6 @@
 ||adsafety.net$third-party
 ||adsco.re$third-party
 ||adserver.adtech.de$third-party
-!|adservice.google.*^
 ||adsnative.com$third-party
 ||adsrvr.org$third-party
 ||adstanding.com$third-party
@@ -227,6 +226,8 @@
 ||fwmrm.net$third-party
 ||fyber.com$third-party
 ||getintent.com$third-party
+||adservice.google.^
+||id.google.^
 ||google.com/pagead/$third-party
 ||google-analytics.com$third-party
 ||googleadservices.com$third-party

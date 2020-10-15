@@ -232,8 +232,6 @@
 ||google-analytics.com$third-party
 ||googleadservices.com$third-party
 ||googlesyndication.com/pagead/$third-party
-||googletagmanager.com$third-party
-||googletagservices.com$third-party
 ||pagead2.googlesyndication.com$^
 ||gscontxt.net$third-party
 ||gscounters.eu1.gigya.com$third-party

@@ -1,6 +1,6 @@
 [AdBlockPlus 2.0]
 !
-! Version: 2020-11-10
+! Version: 2020-11-16
 ! Title: Most prevalent advertising and tracking networks used in Western Europe and North American websites.
 !
 ! Expires: 365 days (I am still testing this under-development-list)
@@ -216,7 +216,7 @@
 ||eyeviewads.com$third-party
 ||ezoic.net$third-party
 ||facebook.com$third-party
-||facebook.net$third-part,domain=~facebook.com
+||facebook.net$third-party,domain=~facebook.com
 ||faktor.io$third-party
 ||fg8dgt.com$third-party
 ||fiftyt.com$third-party

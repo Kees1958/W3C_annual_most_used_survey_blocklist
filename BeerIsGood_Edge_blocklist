@@ -1,3 +1,8 @@
+# Warning!
+# using this list in Edge "Other" file under C:\Users\%username%\AppData\Local\Microsoft\Edge\User Data\Trust Protection Lists\%version% will get restored after every Edge major update
+#
+# last update from upstream: Oct 11, 2020
+#
 101com.com/
 101order.com/
 103092804.com/

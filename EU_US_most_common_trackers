@@ -1,6 +1,6 @@
-[AdBlockPlus 2.0]
+AdBlockPlus 2.0]
 !
-! Version: 2020-10-11
+! Version: 2020-11-10
 ! Title: Most prevalent advertising and tracking networks in Western Europe and North American websites based on annual web-tech surveys.
 !
 ! Expires: 365 days 
@@ -454,6 +454,7 @@
 ||adserverplus.com$third-party
 ||adserverpub.com$third-party
 ||adserversolutions.com$third-party
+||adservice.google.^
 ||adservice.google.ca$third-party
 ||adservinginternational.com$third-party
 ||adsfac.eu$third-party
@@ -1012,6 +1013,7 @@
 ||boom.ro$third-party
 ||boomads.com$third-party
 ||boomtrain.com$third-party
+||boostbox.com.br$third-party
 ||boost-my-pr.de$third-party
 ||bose.co.uk$third-party
 ||boudja.com$third-party
@@ -1318,8 +1320,8 @@
 ||contaxe.de$third-party
 ||content.acc-hd.de$third-party
 ||content.ad$third-party
-||content-ad.net$third-party
 ||contentabc.com$third-party
+||content-ad.net$third-party
 ||contentignite.com$third-party
 ||contentspread.net$third-party
 ||contentsquare.net$third-party
@@ -1803,6 +1805,7 @@
 ||findcommerce.com$third-party
 ||findyourcasino.com$third-party
 ||fineclicks.com$third-party
+||fingerprinter.msedgedemo.example$third-party
 ||firebase.google.com$third-party
 ||first.nova.cz$third-party
 ||firstlightera.com$third-party
@@ -1941,15 +1944,12 @@
 ||go-mpulse.net$third-party
 ||goodeed.com$third-party
 ||goodwaygroup.com$third-party
-||adservice.google.^
-||id.google.^
-||googleadservices.com$third-party
 ||google.com/pagead/$third-party
+||googleadservices.com$third-party
 ||google-analytics.com$third-party
 ||googlesyndication.com/pagead/$third-party
 ||googletagmanager.com$third-party
 ||googletagservices.com$third-party
-||pagead2.googlesyndication.com^
 ||go-rank.de$third-party
 ||gorillanation.com$third-party
 ||gosquared.com$third-party
@@ -1961,6 +1961,7 @@
 ||grabit.media$third-party
 ||grafstat.ro$third-party
 ||grapeshot.co.uk$third-party
+||graphenedigitalanalytics.in$third-party
 ||green.erne.co$third-party
 ||greystripe.com$third-party
 ||groceryshopping.net$third-party
@@ -2108,6 +2109,7 @@
 ||iconadserver.com$third-party
 ||icptrack.com$third-party
 ||icrossing.com$third-party
+||id.google.^
 ||id.google.^$image
 ||id5-sync.com$third-party
 ||idcounter.com$third-party
@@ -3002,6 +3004,7 @@
 ||p.adpdx.com$third-party
 ||p.brsrvr.com$third-party
 ||p-advg.com$third-party
+||pagead2.googlesyndication.com^
 ||pagefair.com$third-party
 ||pagefair.net$third-party
 ||pages05.net$third-party
@@ -3699,6 +3702,7 @@
 ||steelhousemedia.com$third-party
 ||step.dk$third-party
 ||stickyadstv.com$third-party
+||storeland.ru$third-party
 ||storetail.io$third-party
 ||stormiq.com$third-party
 ||stormyachiever.com$third-party

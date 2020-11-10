@@ -1,6 +1,6 @@
 [AdBlockPlus 2.0]
 !
-! Version: 2020-10-31
+! Version: 2020-11-10
 ! Title: Most prevalent advertising and tracking networks used in Western Europe and North American websites.
 !
 ! Expires: 365 days (I am still testing this under-development-list)
@@ -165,7 +165,7 @@
 ||crwdcntrl.net$third-party
 ||ctnsnet.com$third-party
 ||cxense.com$third-party
-!||cxpublic.com$third-party
+||cxpublic.com$third-party
 ||dailymotion.com$third-party
 ||dc-storm.com$third-party
 ||de17a.com$third-party
@@ -229,7 +229,6 @@
 ||adservice.google.^
 ||id.google.^
 ||google.com/pagead/$third-party
-||google-analytics.com$third-party
 ||googleadservices.com$third-party
 ||googlesyndication.com/pagead/$third-party
 ||pagead2.googlesyndication.com^
@@ -472,7 +471,6 @@
 ||syndication.twitter.com$third-party
 ||taboola.com$third-party
 ||tagcommander.com$third-party
-||tags.tiqcdn.com$third-party
 ||tailsweep.com$third-party
 ||tapad.com$third-party
 ||target.com$third-party

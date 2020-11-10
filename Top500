@@ -226,9 +226,11 @@
 ||fwmrm.net$third-party
 ||fyber.com$third-party
 ||getintent.com$third-party
-||adservice.google.^
-||id.google.^
-||google.com/pagead/$third-party
+||adservice.google.com$third-party
+||adservice.google.nl$third-party
+||id.google.com^
+||id.google.nl^
+||google.com/pagead/^
 ||googleadservices.com$third-party
 ||googlesyndication.com/pagead/$third-party
 ||pagead2.googlesyndication.com^
@@ -245,7 +247,6 @@
 ||iasds01.com$third-party
 ||ibillboard.com$third-party
 ||id5-sync.com$third-party
-||id.google.^$image,third-party
 ||igodigital.com$third-party
 ||inmobi.com$third-party
 ||imonomy.com$third-party

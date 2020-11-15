@@ -1,7 +1,7 @@
 # Warning!
 # using this list in Edge "Other" file under C:\Users\%username%\AppData\Local\Microsoft\Edge\User Data\Trust Protection Lists\%version% will get restored after every Edge major update
 #
-# last update from upstream: Nov 12, 2020
+# last update from upstream: Nov 15, 2020
 #
 101com.com/
 101order.com/
@@ -3678,7 +3678,6 @@ src.kitcode.net/
 srwww1.com/
 stackadapt.com/
 stackpath.com/
-stackpathcdn.com/
 stageflag.com/
 star-advertising.com/
 starffa.com/

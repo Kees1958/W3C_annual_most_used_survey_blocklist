@@ -1,11 +1,14 @@
 [AdBlockPlus 2.0]
 !
-! Version: 2020-11-10
-! Title: Most prevalent advertising and tracking networks used in Western Europe and North American websites.
+! Version: 2020-11-19
+! Title: Top 500 advertising and tracking networks used in Western Europe and North American websites.
 !
 ! Expires: 365 days (I am still testing this under-development-list)
 ! You are free to copy and distribute this file for non-commercial use
 !
+! ***********************************************************************************************************************************************************************
+! NOTICE: I have all my relatives converted to the larger list (with nearly 5000 domains), so I am planning to remove this top500 version on black friday (27th Nov 2020)
+! ***********************************************************************************************************************************************************************
 !
 ||1dmp.io$third-party
 ||1rx.io$third-party

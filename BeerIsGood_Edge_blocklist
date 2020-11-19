@@ -1,7 +1,7 @@
 # Warning!
 # using this list in Edge "Other" file under C:\Users\%username%\AppData\Local\Microsoft\Edge\User Data\Trust Protection Lists\%version% will get restored after every Edge major update
 #
-# last update from upstream: Nov 15, 2020
+# last update from upstream: Nov 19, 2020
 #
 101com.com/
 101order.com/
@@ -619,6 +619,7 @@ adways.com/
 adwhirl.com/
 adwitserver.com/
 adwords.google.com/
+adworldmedia.com/
 adworldnetwork.com/
 adworx.at/
 adworx.be/
@@ -3518,6 +3519,7 @@ sessioncam.com/
 sessionm.com/
 sevenads.net/
 sexaddpro.de/
+sexadnetwork.com/
 sexadvertentiesite.nl/
 sexcounter.com/
 sexinyourcity.com/

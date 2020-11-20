@@ -1,6 +1,6 @@
 [AdBlockPlus 2.0]
 !
-! Version: 2020-11-19
+! Version: 2020-11-20
 ! Title: Most prevalent advertising and tracking networks in Western Europe and North American websites based on annual web-tech surveys.
 !
 ! Expires: 365 days 
@@ -453,8 +453,7 @@
 ||adserverplus.com$third-party
 ||adserverpub.com$third-party
 ||adserversolutions.com$third-party
-||adservice.google.^
-||adservice.google.ca$third-party
+||adservice.google.*
 ||adservinginternational.com$third-party
 ||adsfac.eu$third-party
 ||adsfac.info$third-party
@@ -1552,7 +1551,6 @@
 ||dnps.com$third-party
 ||doc.good-loop.com$third-party
 ||doclix.com$third-party
-||docs.google.com$third-party
 ||docs.rees46.com$third-party
 ||domaining.in$third-party
 ||domainsponsor.com$third-party
@@ -1944,10 +1942,10 @@
 ||go-mpulse.net$third-party
 ||goodeed.com$third-party
 ||goodwaygroup.com$third-party
-||google.com/pagead/$third-party
+||google.*/pagead/$third-party
 ||googleadservices.com$third-party
 ||google-analytics.com$third-party
-||googlesyndication.com/pagead/$third-party
+||googlesyndication.*/pagead/$third-party
 ||googletagmanager.com$third-party
 ||googletagservices.com$third-party
 ||go-rank.de$third-party
@@ -2109,8 +2107,7 @@
 ||iconadserver.com$third-party
 ||icptrack.com$third-party
 ||icrossing.com$third-party
-||id.google.^
-||id.google.^$image
+||id.google.*$image
 ||id5-sync.com$third-party
 ||idcounter.com$third-party
 ||iddiction.com$third-party
@@ -2906,6 +2903,7 @@
 ||offerfusion.com$third-party
 ||offermatica.com$third-party
 ||oggifinogi.com$third-party
+||ogs.google.*/widget/callout$subdocument,domain=google.*
 ||ogury.com$third-party
 ||ohana-media.com$third-party
 ||ohanaqb.com$third-party
@@ -3004,7 +3002,7 @@
 ||p.adpdx.com$third-party
 ||p.brsrvr.com$third-party
 ||p-advg.com$third-party
-||pagead2.googlesyndication.com^
+||pagead2.googlesyndication.*
 ||pagefair.com$third-party
 ||pagefair.net$third-party
 ||pages05.net$third-party

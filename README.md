@@ -12,7 +12,7 @@ Top 300.000 websites, while number 250 may only track you on 500 websites of the
 
                                                          USAGE 
 When you decide to use this filter, it is good practice to add you language specific Easylist filter. Language specific filters
-often contain specific block and hide rules of teh websites you visit (first party). This blocklist aims to block advertising 
+often contain specific block and hide rules of the websites you visit (first party). This blocklist aims to block advertising 
 and tracking networks which are used on the websites you visit (third-party). That is why they supplement each other well.    
 
                                                     ERRORS & ISSUES

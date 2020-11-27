@@ -1,6 +1,6 @@
 [AdBlockPlus 2.0]
 !
-! Version: 2020.11.23
+! Version: 2020.11.27
 ! Title: Most prevalent advertising and tracking networks in Western Europe and North American websites based on annual web-tech surveys.
 !
 ! Expires: 365 days 
@@ -4113,7 +4113,6 @@
 ||viewwonder.com$third-party
 ||viglink.com$third-party
 ||vilynx.com$third-party
-||vimeo.com$third-party
 ||vindicosuite.com$third-party
 ||virgul.com$third-party
 ||virtualminds.de$third-party

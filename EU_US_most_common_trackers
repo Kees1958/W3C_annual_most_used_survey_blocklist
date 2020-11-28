@@ -1,6 +1,6 @@
 [AdBlockPlus 2.0]
 !
-! Version: 2020.11.27
+! Version: 2020.11.29
 ! Title: Most prevalent advertising and tracking networks in Western Europe and North American websites based on annual web-tech surveys.
 !
 ! Expires: 365 days 
@@ -711,7 +711,6 @@
 ||aminopay.com$third-party
 ||amobee.com$third-party
 ||amplitude.com$third-party
-||ampproject.org$third-party
 ||ampxchange.com$third-party
 ||amung.us$third-party
 ||an.tacoda.net$third-party

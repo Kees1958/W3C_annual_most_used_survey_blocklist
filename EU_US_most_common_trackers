@@ -1,10 +1,15 @@
 [AdBlockPlus 2.0]
 !
-! Version: 2020.11.29
+! Version: 2020.11.30
 ! Title: Most prevalent advertising and tracking networks in Western Europe and North American websites based on annual web-tech surveys.
 !
 ! Expires: 365 days 
 ! You are free to copy and distribute this file for non-commercial use
+!
+! *************************************************************************************************************************************
+!
+! This list contains block $cookie extended ABP-syntax of AdGuard, e.g ||example.org$cookie,third-party
+!
 !
 ||101com.com$third-party
 ||101order.com$third-party
@@ -711,6 +716,7 @@
 ||aminopay.com$third-party
 ||amobee.com$third-party
 ||amplitude.com$third-party
+||ampproject.org$cookie,third-party
 ||ampxchange.com$third-party
 ||amung.us$third-party
 ||an.tacoda.net$third-party
@@ -1253,7 +1259,7 @@
 ||clkrev.com$third-party
 ||clmbtech.com$third-party
 ||cloudflareinsights.com$third-party
-||cloudinary.com$third-party
+||cloudinary.com$cookie,third-party
 ||clovenetwork.com$third-party
 ||clrstm.com$third-party
 ||cls.vrvm.com$third-party
@@ -3000,6 +3006,7 @@
 ||oxford-biochron.com$third-party
 ||p.adpdx.com$third-party
 ||p.brsrvr.com$third-party
+||p.typekit.net$cookie,third-party
 ||p-advg.com$third-party
 ||pagead2.googlesyndication.*
 ||pagefair.com$third-party

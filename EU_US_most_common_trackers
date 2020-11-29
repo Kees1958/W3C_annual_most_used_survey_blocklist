@@ -685,6 +685,7 @@
 ||airtory.com$third-party
 ||aistat.net$third-party
 ||aivalabs.com$third-party
+||ajax.googleapis.com$cookie,third-party
 ||ajouter.net$third-party
 ||akamai.com$third-party
 ||akncdn.com$third-party
@@ -1978,6 +1979,7 @@
 ||gsicommerce.com$third-party
 ||gsimedia.net$third-party
 ||gsi-one.org$third-party
+||gstatic.com$cookie,third-party
 ||gtop.ro$third-party
 ||gtop100.com$third-party
 ||gtopstats.com$third-party
@@ -2634,6 +2636,7 @@
 ||meteorsolutions.com$third-party
 ||methodcash.com$third-party
 ||methodmi.com$third-party
+||metric.gstatic.com$image,third-party
 ||metrics.brightcove.com$third-party
 ||metrics.windowsitpro.com$third-party
 ||metricsdirect.com$third-party

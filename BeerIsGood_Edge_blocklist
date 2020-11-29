@@ -1,7 +1,7 @@
 # Warning!
 # using this list in Edge "Other" file under C:\Users\%username%\AppData\Local\Microsoft\Edge\User Data\Trust Protection Lists\%version% will get restored after every Edge major update
 #
-# last update from upstream: Nov 27, 2020
+# last update from upstream: Nov 29, 2020
 #
 101com.com/
 101order.com/
@@ -3094,6 +3094,7 @@ pixel.adsafeprotected.com/
 pixel.anyclip.com/
 pixel.jumptap.com/
 pixel.sg/
+pixel.wp.com/
 piximedia.com/
 pixlee.com/
 placecast.net/
@@ -3702,6 +3703,7 @@ statistik-gallup.net/
 statm.the-adult-company.com/
 stats.blogger.com/
 stats.cts-bv.nl/
+stats.wp.com/
 stats4all.com/
 statsie.com/
 statsit.com/

@@ -71,7 +71,6 @@
 ||a.xanga.com$third-party
 ||a1platform.co.kr$third-party
 ||a2dfp.net$third-party
-||a32.g.a.yimg.com$third-party
 ||a9.com$third-party
 ||aaddzz.com$third-party
 ||a-ads.com$third-party
@@ -3006,7 +3005,6 @@
 ||oxford-biochron.com$third-party
 ||p.adpdx.com$third-party
 ||p.brsrvr.com$third-party
-||p.typekit.net$cookie,third-party
 ||p-advg.com$third-party
 ||pagead2.googlesyndication.*
 ||pagefair.com$third-party
@@ -3091,6 +3089,7 @@
 ||pixel.anyclip.com$third-party
 ||pixel.jumptap.com$third-party
 ||pixel.sg$third-party
+||pixel.wp.com$image,third-party
 ||piximedia.com$third-party
 ||pixlee.com$third-party
 ||placecast.net$third-party
@@ -3698,6 +3697,7 @@
 ||statm.the-adult-company.com$third-party
 ||stats.blogger.com$third-party
 ||stats.cts-bv.nl$third-party
+||stats.wp.com$script,third-party
 ||stats4all.com$third-party
 ||statsie.com$third-party
 ||statsit.com$third-party
@@ -4015,6 +4015,8 @@
 ||twyn-group.com$third-party
 ||txtimpact.com$third-party
 ||tynt.com$third-party
+||typekit.com$cookie,third-party
+||typekit.net$cookie,third-party
 ||tyroo.com$third-party
 ||uarating.com$third-party
 ||ubermedia.com$third-party
@@ -4319,6 +4321,7 @@
 ||yieldpartners.com$third-party
 ||yieldr.com$third-party
 ||yieldtraffic.com$third-party
+||yimg.com$cookie,third-party
 ||yldbt.com$third-party
 ||yldmgrimg.net$third-party
 ||ynxs.io$third-party
@@ -4334,6 +4337,7 @@
 ||yp.com$third-party
 ||yt1187.net$third-party
 ||y-track.com$third-party
+||ytimg.com$cookie,third-party
 ||ytsa.net$third-party
 ||yuilop.com$third-party
 ||yume.com$third-party

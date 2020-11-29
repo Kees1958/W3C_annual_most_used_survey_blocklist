@@ -1,7 +1,7 @@
 # Title: EU US most commen ads & trackers HOST format
 # Expires: 365 days
 #
-# blocked: 4375 domains
+# blocked: 4376 domains
 # updated: Nov 29, 2020
 #
 # please report issues related to website breakage at
@@ -251,7 +251,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 adhese.com
 0.0.0.0 adhigh.net
 0.0.0.0 adhood.com
-0.0.0.0 adi.mainichi.co.jp
 0.0.0.0 adiant.com
 0.0.0.0 adify.com
 0.0.0.0 adikteev.com
@@ -347,8 +346,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 admoda.com
 0.0.0.0 admonitor.com
 0.0.0.0 admost.com
-0.0.0.0 admotion.com.ar
 0.0.0.0 admotion.com
+0.0.0.0 admotion.com.ar
 0.0.0.0 admtpmp123.com
 0.0.0.0 admtpmp124.com
 0.0.0.0 adnami.io
@@ -828,7 +827,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 athena-ads.wikia.com
 0.0.0.0 atinternet.com
 0.0.0.0 atlassolutions.com
-0.0.0.0 atlassolutions.com
 0.0.0.0 at-o.net
 0.0.0.0 atoomic.com
 0.0.0.0 atrinsic.com
@@ -1029,7 +1027,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 bnmla.com
 0.0.0.0 boersego-ads.de
 0.0.0.0 boldchat.com
-0.0.0.0 boostbox.com.br
 0.0.0.0 bombora.com
 0.0.0.0 bongacash.com
 0.0.0.0 bonzai.co
@@ -1038,6 +1035,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 boom.ro
 0.0.0.0 boomads.com
 0.0.0.0 boomtrain.com
+0.0.0.0 boostbox.com.br
 0.0.0.0 boost-my-pr.de
 0.0.0.0 bose.co.uk
 0.0.0.0 boudja.com
@@ -1803,8 +1801,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 fanplayr.com
 0.0.0.0 fast-adv.it
 0.0.0.0 fastbooking.com
-0.0.0.0 fastclick.com.edgesuite.net
 0.0.0.0 fastclick.com
+0.0.0.0 fastclick.com.edgesuite.net
 0.0.0.0 fastclick.net
 0.0.0.0 fathomdelivers.com
 0.0.0.0 fathomseo.com
@@ -1822,12 +1820,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 fiftyt.com
 0.0.0.0 fiksu.com
 0.0.0.0 fimc.net
-0.0.0.0 fingerprinter.msedgedemo.example
 0.0.0.0 fimserve.com
 0.0.0.0 financialcontent.com
 0.0.0.0 findcommerce.com
 0.0.0.0 findyourcasino.com
 0.0.0.0 fineclicks.com
+0.0.0.0 fingerprinter.msedgedemo.example
 0.0.0.0 firebase.google.com
 0.0.0.0 first.nova.cz
 0.0.0.0 firstlightera.com
@@ -1981,8 +1979,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 gpr.hu
 0.0.0.0 grabit.media
 0.0.0.0 grafstat.ro
-0.0.0.0 graphenedigitalanalytics.in
 0.0.0.0 grapeshot.co.uk
+0.0.0.0 graphenedigitalanalytics.in
 0.0.0.0 green.erne.co
 0.0.0.0 greystripe.com
 0.0.0.0 groceryshopping.net
@@ -2903,8 +2901,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 ntv.io
 0.0.0.0 nuconomy.com
 0.0.0.0 nudatasecurity.com
-0.0.0.0 nuffnang.com.my
 0.0.0.0 nuffnang.com
+0.0.0.0 nuffnang.com.my
 0.0.0.0 nugg.ad
 0.0.0.0 nuggad.net
 0.0.0.0 numax.nu-1.com

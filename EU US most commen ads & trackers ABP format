@@ -7,3 +7,16 @@
 # please report issues related to website breakage at
 # https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
 #
+[AdBlockPlus 2.0]
+!
+! Title: EU US most commen ads & trackers ABP format.
+! Expires: 365 days 
+!
+! Version: 2020.11.30
+!
+! please report issues related to website breakage at
+! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
+!
+! Warning: This list contains block $cookie extended ABP-syntax of AdGuard, e.g ||example.org$cookie,third-party
+!
+! 

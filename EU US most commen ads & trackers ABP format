@@ -1,12 +1,3 @@
-# Title: EU US most commen ads & trackers EDGE format
-# Expires: 365 days
-#
-# blocked: 2446 domains 
-# updated: Nov 30, 2020
-#
-# please report issues related to website breakage at
-# https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
-#
 [AdBlockPlus 2.0]
 !
 ! Title: EU US most commen ads & trackers ABP format.

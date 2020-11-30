@@ -1,8 +1,8 @@
 # Title: EU US most commen ads & trackers HOST format
 # Expires: 365 days
 #
-# blocked: 4376 domains
-# updated: Nov 29, 2020
+# blocked: 4374 domains
+# updated: Nov 30, 2020
 #
 # please report issues related to website breakage at
 # https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -1789,8 +1789,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 eztexting.com
 0.0.0.0 ezula.com
 0.0.0.0 f5biz.com
-0.0.0.0 facebook.com
-0.0.0.0 facebook.net
 0.0.0.0 facilitatedigital.com
 0.0.0.0 factortg.com
 0.0.0.0 factual.com
@@ -4061,7 +4059,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 uniqlick.com
 0.0.0.0 unitymedia.de
 0.0.0.0 universalmediasolutions.net
-0.0.0.0 unoadsrv.comthird-party
+0.0.0.0 unoadsrv.com
 0.0.0.0 unruly.co
 0.0.0.0 unrulymedia.com
 0.0.0.0 untd.com

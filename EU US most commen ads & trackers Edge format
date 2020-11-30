@@ -4,8 +4,13 @@
 # blocked: 2446 domains 
 # updated: Nov 30, 2020
 #
-# please report issues related to website breakage at
+# Please report issues related to website breakage at
 # https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
+#
+# This list contains the most common ad and tracker networks in the EU and US
+# which are not included in the Edge default blocklists located in the folder
+# %USERPROFILE%\AppData\Local\Microsoft\Edge\User Data\Trust Protection Lists
+# Copy below content in the OTHER blocklist to get this extra protection.
 #
 101com.com/
 101order.com/

@@ -9,7 +9,7 @@
 # This list contains the most common ad and tracker networks in the EU and US
 # which are not included in the Edge default blocklists located in the folder
 # %USERPROFILE%\AppData\Local\Microsoft\Edge\User Data\Trust Protection Lists
-# (this is the reason why it contains less domains that the other formats).
+# (this is the reason why it contains less domains than the other formats).
 # Copy below content in the OTHER blocklist to get this extra protection.
 #
 101com.com/

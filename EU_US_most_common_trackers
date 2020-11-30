@@ -1,5 +1,8 @@
 [AdBlockPlus 2.0]
 !
+!########################################################################
+!#####    Use file >>  EU US most commen ads & trackers ABP format  #####
+!########################################################################
 ! Version: 2020.11.30
 ! Title: Most prevalent advertising and tracking networks in Western Europe and North American websites based on annual web-tech surveys.
 !
@@ -8,7 +11,7 @@
 !
 ! *************************************************************************************************************************************
 !
-! This list contains block $cookie extended ABP-syntax of AdGuard, e.g ||example.org$cookie,third-party
+! This list will be replaced by EU US most commen ads & trackers ABP format
 !
 !
 ||101com.com$third-party

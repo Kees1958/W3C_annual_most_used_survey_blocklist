@@ -1,4 +1,9 @@
 # Warning!
+#
+#########################################################################
+######    Use file >>  EU US most commen ads & trackers Edge format #####
+#########################################################################
+#
 # using this list in Edge "Other" file under C:\Users\%username%\AppData\Local\Microsoft\Edge\User Data\Trust Protection Lists\%version% will get restored after every Edge major update
 #
 # last update from upstream: Nov 29, 2020

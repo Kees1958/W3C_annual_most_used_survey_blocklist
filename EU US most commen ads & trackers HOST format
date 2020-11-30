@@ -1,10 +1,9 @@
 # Title: EU US most commen ads & trackers HOST format
 # Expires: 365 days
 #
-# blocked: 4374 domains
-# updated: Nov 30, 2020
+# Updated: Nov 30, 2020
 #
-# please report issues related to website breakage at
+# Please report issues related to website breakage at
 # https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
 #
 127.0.0.1 localhost

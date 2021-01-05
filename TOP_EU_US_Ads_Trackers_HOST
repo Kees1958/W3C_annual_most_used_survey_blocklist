@@ -3,8 +3,8 @@
 #
 # Updated: Jan 6, 2021
 #
-# Please report issues related to website breakage at
-# https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
+# Please report issues related to website breakage at github
+# Kees1958/W3C_annual_most_used_survey_blocklist/issues
 #
 127.0.0.1 localhost
 127.0.0.1 localhost.localdomain

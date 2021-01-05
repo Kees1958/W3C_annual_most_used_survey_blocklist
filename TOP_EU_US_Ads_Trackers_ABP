@@ -3763,6 +3763,7 @@
 ||sx.trhnt.com$third-party
 ||synacor.com$third-party
 ||syncapse.com$third-party
+||syndication.twitter.com$third-party
 ||syndigonetworks.com$third-party
 ||systemina.dk$third-party
 ||t.insigit.com$third-party
@@ -4012,7 +4013,7 @@
 ||tweetdeck.com$third-party
 ||twelvefold.com$third-party
 ||twiago.com$third-party
-||twimg.com$cookie,$cookie,third-party
+||twimg.com$cookie
 ||twinpinenetwork.com$third-party
 ||twittad.com$third-party
 ||twyn.com$third-party

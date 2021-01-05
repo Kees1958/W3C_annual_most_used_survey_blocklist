@@ -3,7 +3,7 @@
 ! Title: EU US most prevalent ads & trackers ABP format.
 ! Expires: 365 days 
 !
-! Version: 2020.12.09
+! Version: 2021.01.05
 !
 ! Please report issues related to website breakage at
 ! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -509,6 +509,7 @@
 ||ad-stir.com$third-party
 ||adstours.com$third-party
 ||ads-twitter.com$third-party
+||ads.twitter.com$third-party
 ||adsty.com$third-party
 ||adsummos.com$third-party
 ||adsummos.net$third-party
@@ -3762,7 +3763,6 @@
 ||sx.trhnt.com$third-party
 ||synacor.com$third-party
 ||syncapse.com$third-party
-||syndication.twitter.com$third-party
 ||syndigonetworks.com$third-party
 ||systemina.dk$third-party
 ||t.insigit.com$third-party

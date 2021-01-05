@@ -1,7 +1,7 @@
 # Title: EU US most prevalent ads & trackers HOST format
 # Expires: 365 days
 #
-# Updated: Jan 5, 2021
+# Updated: Jan 6, 2021
 #
 # Please report issues related to website breakage at
 # https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -3774,6 +3774,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 swordfishdc.com
 0.0.0.0 sx.trhnt.com
 0.0.0.0 synacor.com
+0.0.0.0 syndication.twitter.com
 0.0.0.0 syncapse.com
 0.0.0.0 syndigonetworks.com
 0.0.0.0 systemina.dk
@@ -4024,7 +4025,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 tweetdeck.com
 0.0.0.0 twelvefold.com
 0.0.0.0 twiago.com
-0.0.0.0 twimg.com
 0.0.0.0 twinpinenetwork.com
 0.0.0.0 twittad.com
 0.0.0.0 twyn.com

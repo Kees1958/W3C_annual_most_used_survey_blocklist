@@ -1,7 +1,7 @@
 # Title: EU US most prevalent ads & trackers HOST format
 # Expires: 365 days
 #
-# Updated: Dec 3, 2020
+# Updated: Jan 5, 2021
 #
 # Please report issues related to website breakage at
 # https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -525,6 +525,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ad-stir.com
 0.0.0.0 adstours.com
 0.0.0.0 ads-twitter.com
+0.0.0.0 ads.twitter.com
 0.0.0.0 adsty.com
 0.0.0.0 adsummos.com
 0.0.0.0 adsummos.net
@@ -3774,7 +3775,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 sx.trhnt.com
 0.0.0.0 synacor.com
 0.0.0.0 syncapse.com
-0.0.0.0 syndication.twitter.com
 0.0.0.0 syndigonetworks.com
 0.0.0.0 systemina.dk
 0.0.0.0 t.insigit.com

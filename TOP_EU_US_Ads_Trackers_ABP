@@ -3,7 +3,7 @@
 ! Title: EU US most prevalent ads & trackers ABP format.
 ! Expires: 365 days 
 !
-! Version: 2021.01.06
+! Version: 2021.01.10
 !
 ! Please report issues related to website breakage at
 ! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -1067,6 +1067,7 @@
 ||budsinc.com$third-party
 ||bugsense.com$third-party
 ||bugsnag.com$third-party
+||bullionyield.com$third-party
 ||bullseye.backbeatmedia.com$third-party
 ||burstbeacon.com$third-party
 ||burstdirectads.com$third-party

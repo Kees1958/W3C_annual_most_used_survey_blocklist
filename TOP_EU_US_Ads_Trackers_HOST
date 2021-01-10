@@ -1,7 +1,7 @@
 # Title: EU US most prevalent ads & trackers HOST format
 # Expires: 365 days
 #
-# Updated: Jan 6, 2021
+# Updated: Jan 10, 2021
 #
 # Please report issues related to website breakage at github
 # Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -1082,6 +1082,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 budsinc.com
 0.0.0.0 bugsense.com
 0.0.0.0 bugsnag.com
+0.0.0.0 bullionyield.com
 0.0.0.0 bullseye.backbeatmedia.com
 0.0.0.0 burstbeacon.com
 0.0.0.0 burstdirectads.com

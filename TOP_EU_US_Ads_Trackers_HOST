@@ -6,14 +6,14 @@
 # Please report issues related to website breakage at github
 # Kees1958/W3C_annual_most_used_survey_blocklist/issues
 #
-127.0.0.1 localhost
+1127.0.0.1 localhost
 127.0.0.1 localhost.localdomain
 127.0.0.1 local
 255.255.255.255 broadcasthost
 ::1 localhost
 ::1 ip6-localhost
 ::1 ip6-loopback
-fe80::1 1o0 localhost
+fe80::1%lo0 localhost
 ff00::0 ip6-localnet
 ff00::0 ip6-mcastprefix
 ff02::1 ip6-allnodes

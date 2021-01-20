@@ -1,7 +1,7 @@
 # Title: EU US most prevalent ads & trackers HOST format
 # Expires: 365 days
 #
-# Updated: Jan 19, 2021
+# Updated: Jan 20, 2021
 #
 # Please report issues related to website breakage at github
 # Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -355,7 +355,6 @@
 0.0.0.0 adnordic.eu
 0.0.0.0 adnotch.com
 0.0.0.0 adnxs.com
-0.0.0.0 adobe.com
 0.0.0.0 adobedtm.com
 0.0.0.0 adocean.pl
 0.0.0.0 adocean-global.com
@@ -689,7 +688,6 @@
 0.0.0.0 aistat.net
 0.0.0.0 aivalabs.com
 0.0.0.0 ajouter.net
-0.0.0.0 akamai.com
 0.0.0.0 akncdn.com
 0.0.0.0 aktrack.pubmatic.com
 0.0.0.0 albacross.com
@@ -718,7 +716,6 @@
 0.0.0.0 aminopay.com
 0.0.0.0 amobee.com
 0.0.0.0 amplitude.com
-0.0.0.0 ampproject.org
 0.0.0.0 ampxchange.com
 0.0.0.0 amung.us
 0.0.0.0 an.tacoda.net
@@ -816,7 +813,6 @@
 0.0.0.0 at-o.net
 0.0.0.0 atoomic.com
 0.0.0.0 atrinsic.com
-0.0.0.0 att.com
 0.0.0.0 attracta.com
 0.0.0.0 attracto.com
 0.0.0.0 attributionmodel.com
@@ -909,7 +905,6 @@
 0.0.0.0 batch.ba
 0.0.0.0 bauhof.ee
 0.0.0.0 baypops.com
-0.0.0.0 bazaarvoice.com
 0.0.0.0 bbelements.com
 0.0.0.0 bbn.img.com.ua
 0.0.0.0 bcfads.com
@@ -1017,7 +1012,6 @@
 0.0.0.0 bongacash.com
 0.0.0.0 bonzai.co
 0.0.0.0 boo-box.com
-0.0.0.0 booking.com
 0.0.0.0 boom.ro
 0.0.0.0 boomads.com
 0.0.0.0 boomtrain.com
@@ -1113,8 +1107,6 @@
 0.0.0.0 caraytech.com.ar
 0.0.0.0 carbonads.com
 0.0.0.0 carbonads.net
-0.0.0.0 cardlytics.com
-0.0.0.0 carrefour.es
 0.0.0.0 cart.ro
 0.0.0.0 carts.guru
 0.0.0.0 casalemedia.com
@@ -1291,7 +1283,6 @@
 0.0.0.0 collective.com
 0.0.0.0 collective-media.net
 0.0.0.0 collector.brandmetrics.com
-0.0.0.0 collegehumor.com
 0.0.0.0 collserve.com
 0.0.0.0 colonize.com
 0.0.0.0 colpirio.com
@@ -1308,7 +1299,6 @@
 0.0.0.0 company-target.com
 0.0.0.0 compasslabs.com
 0.0.0.0 compete.com
-0.0.0.0 complex.com
 0.0.0.0 complexmedianetwork.com
 0.0.0.0 comprabanner.it
 0.0.0.0 compuware.com
@@ -1360,7 +1350,6 @@
 0.0.0.0 corp.intimatemerger.com
 0.0.0.0 corp.viewbix.com
 0.0.0.0 corporate.trovit.com
-0.0.0.0 corporate.walmart.com
 0.0.0.0 count.ly
 0.0.0.0 count.west263.com
 0.0.0.0 count6.rbc.ru
@@ -1406,7 +1395,6 @@
 0.0.0.0 crazypopups.com
 0.0.0.0 creafi.com
 0.0.0.0 creafi-online-media.com
-0.0.0.0 createjs.com
 0.0.0.0 creative.ak.facebook.com
 0.0.0.0 creativecdn.com
 0.0.0.0 creatives.as4x.tmcs.net
@@ -1431,7 +1419,6 @@
 0.0.0.0 crsspxl.com
 0.0.0.0 crtv.mate1.com
 0.0.0.0 crucialinteractive.com
-0.0.0.0 crutchfield.com
 0.0.0.0 crwdcntrl.net
 0.0.0.0 csdata1.com
 0.0.0.0 csdata2.com
@@ -1454,7 +1441,6 @@
 0.0.0.0 d.adroll.com
 0.0.0.0 d3sv.net
 0.0.0.0 dada.pro
-0.0.0.0 dailymotion.com
 0.0.0.0 dakic-ia-300.com
 0.0.0.0 danban.com
 0.0.0.0 daphnecm.com
@@ -1490,7 +1476,6 @@
 0.0.0.0 delivered-by-madington.com
 0.0.0.0 delivr.com
 0.0.0.0 deloo.de
-0.0.0.0 delta.com
 0.0.0.0 deltaprojects.com
 0.0.0.0 deltaprojects.se
 0.0.0.0 deltax.com
@@ -1750,7 +1735,6 @@
 0.0.0.0 exogripper.com
 0.0.0.0 exosrv.com
 0.0.0.0 expedia.co.uk
-0.0.0.0 experian.com
 0.0.0.0 experteerads.com
 0.0.0.0 expo-max.com
 0.0.0.0 exponential.com
@@ -1810,8 +1794,6 @@
 0.0.0.0 findcommerce.com
 0.0.0.0 findyourcasino.com
 0.0.0.0 fineclicks.com
-0.0.0.0 fingerprinter.msedgedemo.example
-0.0.0.0 firebase.google.com
 0.0.0.0 first.nova.cz
 0.0.0.0 firstlightera.com
 0.0.0.0 firststars.de
@@ -1823,7 +1805,6 @@
 0.0.0.0 fleshlightcash.com
 0.0.0.0 flexbanner.com
 0.0.0.0 flite.com
-0.0.0.0 flixbus.com
 0.0.0.0 flowgo.com
 0.0.0.0 flurry.com
 0.0.0.0 flytxt.com
@@ -1831,10 +1812,8 @@
 0.0.0.0 fonecta.leiki.com
 0.0.0.0 foo.cosmocode.de
 0.0.0.0 footprintlive.com
-0.0.0.0 forbes.com
 0.0.0.0 forex-affiliate.net
 0.0.0.0 fospha.com
-0.0.0.0 foursquare.com
 0.0.0.0 foxnetworks.com
 0.0.0.0 foxonestop.com
 0.0.0.0 fpctraffic.com
@@ -2007,11 +1986,7 @@
 0.0.0.0 hearst.com
 0.0.0.0 heias.com
 0.0.0.0 hellobar.com
-0.0.0.0 help.divvit.com
-0.0.0.0 help.overstock.com
-0.0.0.0 help.snitcher.com
 0.0.0.0 hentaicounter.com
-0.0.0.0 heraldweekly.com
 0.0.0.0 herbalaffiliateprogram.com
 0.0.0.0 herolens.com
 0.0.0.0 heronpartners.com.au
@@ -2066,7 +2041,6 @@
 0.0.0.0 hotrank.com.tw
 0.0.0.0 hotwords.com
 0.0.0.0 hotwords.es
-0.0.0.0 housing.com
 0.0.0.0 hp.com
 0.0.0.0 hqgmbh.eu
 0.0.0.0 hsadspixel.net
@@ -2306,7 +2280,6 @@
 0.0.0.0 justpremium.com
 0.0.0.0 justrelevant.com
 0.0.0.0 justuno.com
-0.0.0.0 justwatch.com
 0.0.0.0 justwebads.com
 0.0.0.0 jysk.ee
 0.0.0.0 k.iinfo.cz
@@ -2318,7 +2291,6 @@
 0.0.0.0 kaplanindex.com
 0.0.0.0 kargo.com
 0.0.0.0 kaufda.de
-0.0.0.0 kayak.com
 0.0.0.0 kcdwa.com
 0.0.0.0 keewurd.com
 0.0.0.0 kelkoo.fr
@@ -2365,7 +2337,6 @@
 0.0.0.0 ladsp.com
 0.0.0.0 lakana.com
 0.0.0.0 lakequincy.com
-0.0.0.0 landsend.com
 0.0.0.0 layer-ad.de
 0.0.0.0 layer-ad.org
 0.0.0.0 layer-ads.de
@@ -2501,7 +2472,6 @@
 0.0.0.0 madvertise.de
 0.0.0.0 magnetic.com
 0.0.0.0 magnify360.com
-0.0.0.0 mailchimp.com
 0.0.0.0 mainad.com
 0.0.0.0 makethunder.com
 0.0.0.0 malware-scan.com
@@ -3065,12 +3035,10 @@
 0.0.0.0 pgmediaserve.com
 0.0.0.0 pgpartner.com
 0.0.0.0 pheedo.com
-0.0.0.0 philips.com
 0.0.0.0 phizzle.com
 0.0.0.0 phluant.com
 0.0.0.0 phoenix-adrunner.mycomputer.com
 0.0.0.0 phonalytics.com
-0.0.0.0 phonearena.com
 0.0.0.0 photo-ads.co.uk
 0.0.0.0 phpadsnew.new.natuurpark.nl
 0.0.0.0 phpmyvisites.net
@@ -3236,7 +3204,6 @@
 0.0.0.0 px-eu.dynamicyield.com
 0.0.0.0 q.azcentral.com
 0.0.0.0 q1connect.com
-0.0.0.0 qantas.com
 0.0.0.0 qctop.com
 0.0.0.0 qjex.net
 0.0.0.0 qksz.com
@@ -3269,7 +3236,6 @@
 0.0.0.0 quitzon.net
 0.0.0.0 quple.io
 0.0.0.0 raasnet.com
-0.0.0.0 rackspace.com
 0.0.0.0 rad.msn.com
 0.0.0.0 radar.cedexis.com
 0.0.0.0 radarurl.com
@@ -3435,7 +3401,6 @@
 0.0.0.0 s4m.io
 0.0.0.0 sa-as.com
 0.0.0.0 sabavision.com
-0.0.0.0 sabre.com
 0.0.0.0 sabrehospitality.com
 0.0.0.0 safecount.net
 0.0.0.0 sageanalyst.net
@@ -3452,7 +3417,6 @@
 0.0.0.0 scandinavianadnetworks.com
 0.0.0.0 scanscout.com
 0.0.0.0 scarabresearch.com
-0.0.0.0 scene7.com
 0.0.0.0 scenestealer.tv
 0.0.0.0 scibids.com
 0.0.0.0 scientiamobile.com
@@ -3538,7 +3502,6 @@
 0.0.0.0 shorte.st
 0.0.0.0 shorttailmedia.com
 0.0.0.0 showmeinn.com
-0.0.0.0 shutterstock.com
 0.0.0.0 siccash.com
 0.0.0.0 sidebar.angelfire.com
 0.0.0.0 sift.co
@@ -3676,7 +3639,6 @@
 0.0.0.0 src.kitcode.net
 0.0.0.0 srwww1.com
 0.0.0.0 stackadapt.com
-0.0.0.0 stackpath.com
 0.0.0.0 stageflag.com
 0.0.0.0 star-advertising.com
 0.0.0.0 starffa.com
@@ -3728,7 +3690,6 @@
 0.0.0.0 sublime.xyz
 0.0.0.0 sublimemedia.net
 0.0.0.0 sublimeskinz.com
-0.0.0.0 subscribe.hearstmags.com
 0.0.0.0 successfultogether.co.uk
 0.0.0.0 sugoicounter.com
 0.0.0.0 suite66.com
@@ -3793,7 +3754,6 @@
 0.0.0.0 taptica.com
 0.0.0.0 targ.ad
 0.0.0.0 targad.de
-0.0.0.0 target.com
 0.0.0.0 targetingmarketplace.com
 0.0.0.0 targetingnow.com
 0.0.0.0 targetix.net
@@ -4027,7 +3987,6 @@
 0.0.0.0 ucoz.fr
 0.0.0.0 ucoz.net
 0.0.0.0 udmserve.net
-0.0.0.0 uk.hotels.com
 0.0.0.0 ukbanners.com
 0.0.0.0 ultramercial.com
 0.0.0.0 ultsearch.com
@@ -4169,7 +4128,6 @@
 0.0.0.0 warp.ly
 0.0.0.0 waterfrontmedia.com
 0.0.0.0 wavenet.com.tw
-0.0.0.0 wayfair.com
 0.0.0.0 wcfbc.net
 0.0.0.0 wda.com
 0.0.0.0 weadapt.digital
@@ -4235,7 +4193,6 @@
 0.0.0.0 wintricksbanner.googlepages.com
 0.0.0.0 wiredminds.com
 0.0.0.0 wiredminds.de
-0.0.0.0 wish.com
 0.0.0.0 wishabi.com
 0.0.0.0 wishabi.net
 0.0.0.0 wisokykulas.bid

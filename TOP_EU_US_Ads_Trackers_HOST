@@ -1,13 +1,12 @@
 # Title: EU US most prevalent ads & trackers HOST format
 # Expires: 365 days
 #
-# Updated: Jan 20, 2021
+# Updated: Jan 22, 2021
 #
 # Please report issues related to website breakage at github
 # Kees1958/W3C_annual_most_used_survey_blocklist/issues
 #
 0.0.0.0 101com.com
-0.0.0.0 101order.com
 0.0.0.0 103092804.com
 0.0.0.0 123found.com
 0.0.0.0 140proof.com
@@ -16,7 +15,6 @@
 0.0.0.0 1dmp.io
 0.0.0.0 1rx.io
 0.0.0.0 1trn.com
-0.0.0.0 1x1rank.com
 0.0.0.0 207.net
 0.0.0.0 23video.com
 0.0.0.0 247.ai

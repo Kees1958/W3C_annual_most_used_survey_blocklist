@@ -3,16 +3,16 @@
 ! Title: EU US most prevalent ads & trackers ABP format.
 ! Expires: 365 days 
 !
-! Version: 2021.01.20
+! Version: 2021.01.22
 !
 ! Please report issues related to website breakage at
 ! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
 !
 ! Warning: This list contains block $cookie extended ABP-syntax of AdGuard, e.g ||example.org$cookie,third-party
 !
-! 
+! Cleanup until 207.net
+!
 ||101com.com$third-party
-||101order.com$third-party
 ||103092804.com$third-party
 ||123found.com$third-party
 ||140proof.com$third-party
@@ -21,7 +21,6 @@
 ||1dmp.io$third-party
 ||1rx.io$third-party
 ||1trn.com$third-party
-||1x1rank.com$third-party
 ||207.net$third-party
 ||23video.com$third-party
 ||247.ai$third-party

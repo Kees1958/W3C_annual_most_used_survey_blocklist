@@ -441,6 +441,7 @@
 0.0.0.0 adservice.google.com
 0.0.0.0 adservice.google.de
 0.0.0.0 adservice.google.nl
+0.0.0.0 adservingfactory.com
 0.0.0.0 adservinginternational.com
 0.0.0.0 adsfac.eu
 0.0.0.0 adsfac.info
@@ -461,6 +462,7 @@
 0.0.0.0 adsmobi.com
 0.0.0.0 adsmogo.com
 0.0.0.0 adsnative.com
+0.0.0.0 ads-microsoft.com
 0.0.0.0 ad-sniper.com
 0.0.0.0 adsoftware.com
 0.0.0.0 adsoldier.com
@@ -606,6 +608,8 @@
 0.0.0.0 adworldnetwork.com
 0.0.0.0 adworx.at
 0.0.0.0 adworx.be
+0.0.0.0 adworx.com
+0.0.0.0 adworx.de
 0.0.0.0 adworx.nl
 0.0.0.0 adx.allstar.cz
 0.0.0.0 adx.atnext.com
@@ -1582,6 +1586,7 @@
 0.0.0.0 easyplatform.com
 0.0.0.0 eazy.de
 0.0.0.0 e-bannerx.com
+0.0.0.0 e-bannery.cz
 0.0.0.0 ebayadvertising.com
 0.0.0.0 ebocornac.com
 0.0.0.0 ebuilders.nl

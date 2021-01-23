@@ -7,9 +7,7 @@
 !
 ! Please report issues related to website breakage at
 ! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
-!
-! Notice: This list contains block $cookie extended ABP-syntax of AdGuard, e.g ||example.org$cookie,third-party (these rules will be ignored by uBlockOrigin)
-!          
+!    
 ||247media.com$third-party
 ||247realmedia.com$third-party
 ||24log.com$third-party
@@ -619,7 +617,6 @@
 ||airtory.com$third-party
 ||aistat.net$third-party
 ||aivalabs.com$third-party
-||ajax.googleapis.com$cookie,third-party
 ||ajouter.net$third-party
 ||akncdn.com$third-party
 ||aktrack.pubmatic.com$third-party
@@ -639,7 +636,6 @@
 ||altitude-arena.com$third-party
 ||amadesa.com$third-party
 ||amazingcounters.com$third-party
-||amazon.*$cookie,third-party
 ||amazon-adsystem.com$third-party
 ||ambientdigital.com.vn$third-party
 ||amgdgt.com$third-party
@@ -945,7 +941,6 @@
 ||boomtrain.com$third-party
 ||boostbox.com.br$third-party
 ||boost-my-pr.de$third-party
-||bootstrapcdn.com$cookie,third-party
 ||bose.co.uk$third-party
 ||boudja.com$third-party
 ||bounceexchange.com$third-party
@@ -1187,7 +1182,6 @@
 ||clkrev.com$third-party
 ||clmbtech.com$third-party
 ||cloudflareinsights.com$third-party
-||cloudinary.com$cookie,third-party
 ||clovenetwork.com$third-party
 ||clrstm.com$third-party
 ||cls.vrvm.com$third-party
@@ -1893,7 +1887,7 @@
 ||gsicommerce.com$third-party
 ||gsimedia.net$third-party
 ||gsi-one.org$third-party
-||gstatic.com$cookie,third-party
+||gstatic.com,third-party
 ||gtop.ro$third-party
 ||gtop100.com$third-party
 ||gtopstats.com$third-party
@@ -3904,15 +3898,12 @@
 ||tweetdeck.com$third-party
 ||twelvefold.com$third-party
 ||twiago.com$third-party
-||twimg.com$cookie
 ||twinpinenetwork.com$third-party
 ||twittad.com$third-party
 ||twyn.com$third-party
 ||twyn-group.com$third-party
 ||txtimpact.com$third-party
 ||tynt.com$third-party
-||typekit.com$cookie,third-party
-||typekit.net$cookie,third-party
 ||tyroo.com$third-party
 ||uarating.com$third-party
 ||ubermedia.com$third-party
@@ -4216,7 +4207,6 @@
 ||yieldpartners.com$third-party
 ||yieldr.com$third-party
 ||yieldtraffic.com$third-party
-||yimg.com$cookie,third-party
 ||yldbt.com$third-party
 ||yldmgrimg.net$third-party
 ||ynxs.io$third-party

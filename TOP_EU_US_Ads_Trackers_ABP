@@ -8,21 +8,8 @@
 ! Please report issues related to website breakage at
 ! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
 !
-! Warning: This list contains block $cookie extended ABP-syntax of AdGuard, e.g ||example.org$cookie,third-party
-!
-! Cleanup until 207.net
-!
-||101com.com$third-party
-||103092804.com$third-party
-||123found.com$third-party
-||140proof.com$third-party
-||180hits.de$third-party
-||180searchassistant.com$third-party
-||1dmp.io$third-party
-||1rx.io$third-party
-||1trn.com$third-party
-||207.net$third-party
-||247.ai$third-party
+! Notice: This list contains block $cookie extended ABP-syntax of AdGuard, e.g ||example.org$cookie,third-party (these rules will be ignored by uBlockOrigin)
+!          
 ||247media.com$third-party
 ||247realmedia.com$third-party
 ||24log.com$third-party
@@ -386,6 +373,8 @@
 ||adrotator.se$third-party
 ||adrtx.net$third-party
 ||adrule.net$third-party
+||ads.microsoft.com$third-party
+||ads.twitter.com$third-party
 ||ads8.com$third-party
 ||adsafeprotected.com$third-party
 ||adsafety.net$third-party
@@ -422,8 +411,8 @@
 ||adservice.google.*
 ||adservingfactory.com$third-party
 ||adservinginternational.com$third-party
-||adsfac.eu$third-party
 ||adsfac.*$third-party
+||adsfac.eu$third-party
 ||adsfactor.com$third-party
 ||adshost1.com$third-party
 ||adshuffle.com$third-party
@@ -435,7 +424,6 @@
 ||adsmart.co.uk$third-party
 ||adsmart.com$third-party
 ||adsmart.net$third-party
-||ads.microsoft.com$third-party
 ||adsmobi.com$third-party
 ||adsmogo.com$third-party
 ||adsnative.com$third-party
@@ -466,7 +454,6 @@
 ||ad-stir.com$third-party
 ||adstours.com$third-party
 ||ads-twitter.com$third-party
-||ads.twitter.com$third-party
 ||adsty.com$third-party
 ||adsummos.com$third-party
 ||adsummos.net$third-party
@@ -572,8 +559,8 @@
 ||adways.com$third-party
 ||adwhirl.com$third-party
 ||adwitserver.com$third-party
-||adworldmedia.com$third-party
 ||adwords.google.com$third-party
+||adworldmedia.com$third-party
 ||adworldnetwork.com$third-party
 ||adworx.*$third-party
 ||adx.allstar.cz$third-party
@@ -3004,8 +2991,8 @@
 ||pixalate.com$third-party
 ||pixanalytics.com$third-party
 ||pixel.adsafeprotected.com$third-party
-||pixel.condenastdigital.com
 ||pixel.anyclip.com$third-party
+||pixel.condenastdigital.com
 ||pixel.jumptap.com$third-party
 ||pixel.sg$third-party
 ||pixel.wp.com$image,third-party
@@ -3425,8 +3412,8 @@
 ||sessionm.com$third-party
 ||sevenads.net$third-party
 ||sexaddpro.de$third-party
-||sexadvertentiesite.nl$third-party
 ||sexadnetwork.com$third-party
+||sexadvertentiesite.nl$third-party
 ||sexcounter.com$third-party
 ||sexinyourcity.com$third-party
 ||sexlist.com$third-party
@@ -4244,8 +4231,8 @@
 ||youknowbest.com$third-party
 ||yp.com$third-party
 ||yt1187.net$third-party
-||y-track.com$third-party
 ||ytimg.com$cookie,third-party
+||y-track.com$third-party
 ||ytsa.net$third-party
 ||yuilop.com$third-party
 ||yume.com$third-party

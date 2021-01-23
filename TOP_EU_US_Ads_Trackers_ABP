@@ -440,6 +440,7 @@
 ||adserverpub.com$third-party
 ||adserversolutions.com$third-party
 ||adservice.google.*
+||adservingfactory.com$third-party
 ||adservinginternational.com$third-party
 ||adsfac.eu$third-party
 ||adsfac.info$third-party
@@ -457,6 +458,7 @@
 ||adsmart.co.uk$third-party
 ||adsmart.com$third-party
 ||adsmart.net$third-party
+||ads.microsoft.com$third-party
 ||adsmobi.com$third-party
 ||adsmogo.com$third-party
 ||adsnative.com$third-party
@@ -603,9 +605,7 @@
 ||adworldmedia.com$third-party
 ||adwords.google.com$third-party
 ||adworldnetwork.com$third-party
-||adworx.at$third-party
-||adworx.be$third-party
-||adworx.nl$third-party
+||adworx.*$third-party
 ||adx.allstar.cz$third-party
 ||adx.atnext.com$third-party
 ||adx.gainesvillesun.com$third-party
@@ -1583,6 +1583,7 @@
 ||easyplatform.com$third-party
 ||eazy.de$third-party
 ||e-bannerx.com$third-party
+||e-bannery.cz$third-party
 ||ebayadvertising.com$third-party
 ||ebocornac.com$third-party
 ||ebuilders.nl$third-party

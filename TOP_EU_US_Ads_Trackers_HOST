@@ -400,6 +400,7 @@
 0.0.0.0 adrule.net
 0.0.0.0 ads.deliverimp.com
 0.0.0.0 ads.topsrvimp.com
+0.0.0.0 ads.twitter.com
 0.0.0.0 ads8.com
 0.0.0.0 adsafeprotected.com
 0.0.0.0 adsafety.net
@@ -456,10 +457,10 @@
 0.0.0.0 adsmart.co.uk
 0.0.0.0 adsmart.com
 0.0.0.0 adsmart.net
+0.0.0.0 ads-microsoft.com
 0.0.0.0 adsmobi.com
 0.0.0.0 adsmogo.com
 0.0.0.0 adsnative.com
-0.0.0.0 ads-microsoft.com
 0.0.0.0 ad-sniper.com
 0.0.0.0 adsoftware.com
 0.0.0.0 adsoldier.com
@@ -490,7 +491,6 @@
 0.0.0.0 ad-stir.com
 0.0.0.0 adstours.com
 0.0.0.0 ads-twitter.com
-0.0.0.0 ads.twitter.com
 0.0.0.0 adsty.com
 0.0.0.0 adsummos.com
 0.0.0.0 adsummos.net
@@ -3030,8 +3030,8 @@
 0.0.0.0 pixalate.com
 0.0.0.0 pixanalytics.com
 0.0.0.0 pixel.adsafeprotected.com
-0.0.0.0 pixel.condenastdigital.com
 0.0.0.0 pixel.anyclip.com
+0.0.0.0 pixel.condenastdigital.com
 0.0.0.0 pixel.jumptap.com
 0.0.0.0 pixel.sg
 0.0.0.0 pixel.wp.com
@@ -3694,8 +3694,8 @@
 0.0.0.0 swordfishdc.com
 0.0.0.0 sx.trhnt.com
 0.0.0.0 synacor.com
-0.0.0.0 syndication.twitter.com
 0.0.0.0 syncapse.com
+0.0.0.0 syndication.twitter.com
 0.0.0.0 syndigonetworks.com
 0.0.0.0 systemina.dk
 0.0.0.0 t.insigit.com

@@ -3,7 +3,7 @@
 ! Title: EU US most prevalent ads & trackers ABP format.
 ! Expires: 365 days 
 !
-! Version: 2021.01.22
+! Version: 2021.01.23
 !
 ! Please report issues related to website breakage at
 ! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -22,7 +22,6 @@
 ||1rx.io$third-party
 ||1trn.com$third-party
 ||207.net$third-party
-||23video.com$third-party
 ||247.ai$third-party
 ||247media.com$third-party
 ||247realmedia.com$third-party
@@ -95,13 +94,11 @@
 ||actionsplash.com$third-party
 ||actisens.com$third-party
 ||activeconversion.com$third-party
-||activemeter.com$third-party
 ||act-on.com$third-party
 ||actonsoftware.com$third-party
 ||actualdeals.com$third-party
 ||acuity.com$third-party
 ||acuityads.com$third-party
-||acuityplatform.com$third-party
 ||acxiom.com$third-party
 ||acxiomapac.com$third-party
 ||ad360.media$third-party
@@ -165,7 +162,6 @@
 ||adcito.com$third-party
 ||adclear.de$third-party
 ||adclick.com$third-party
-||adclickmedia.com$third-party
 ||adclient.uimserv.net$third-party
 ||adclient1.tucows.com$third-party
 ||adclix.org$third-party
@@ -197,7 +193,6 @@
 ||addynamix.com$third-party
 ||addynamo.com$third-party
 ||addynamo.net$third-party
-||adecn.com$third-party
 ||adelement.com$third-party
 ||adelixir.com$third-party
 ||adello.com$third-party
@@ -233,7 +228,6 @@
 ||adgoto.com$third-party
 ||adgridwork.com$third-party
 ||adgroups.net$third-party
-||adgrx.com$third-party
 ||adhaven.com$third-party
 ||adhese.be$third-party
 ||adhese.com$third-party
@@ -254,18 +248,14 @@
 ||adinjector.net$third-party
 ||adinsight.com$third-party
 ||adinsight.eu$third-party
-||adinterax.com$third-party
 ||adiquity.com$third-party
 ||adisfy.com$third-party
 ||adition.com$third-party
-||adition.de$third-party
-||adition.net$third-party
 ||adizio.com$third-party
 ||adjix.com$third-party
 ||adjug.com$third-party
 ||adjuggler.com$third-party
 ||adjuggler.net$third-party
-||adjuggler.yourdictionary.com$third-party
 ||adjust.com$third-party
 ||adjust.io$third-party
 ||adjustnetwork.com$third-party
@@ -289,7 +279,6 @@
 ||adlog.com.com$third-party
 ||adloop.co$third-party
 ||adloox.com$third-party
-||adlooxtracking.com$third-party
 ||adlucent.com$third-party
 ||adludio.com$third-party
 ||adlure.net$third-party
@@ -405,23 +394,19 @@
 ||adreadytractions.com$third-party
 ||adrecover.com$third-party
 ||adremedy.com$third-party
-||adreporting.com$third-party
 ||adres.internet.com$third-party
 ||adretarget.me$third-party
 ||adrevolution.com$third-party
 ||adrevolver.com$third-party
-||adriver.ru$third-party
 ||adroitinteractive.com$third-party
 ||adrolays.com$third-party
 ||adrolays.de$third-party
 ||adroll.com$third-party
 ||adrotate.de$third-party
-||ad-rotator.com$third-party
 ||adrotator.se$third-party
 ||adrtx.net$third-party
 ||adrule.net$third-party
 ||ads8.com$third-party
-||adsafemedia.com$third-party
 ||adsafeprotected.com$third-party
 ||adsafety.net$third-party
 ||adsatt.abc.starwave.com$third-party
@@ -435,7 +420,6 @@
 ||adscale.de$third-party
 ||adscholar.com$third-party
 ||adscience.nl$third-party
-||ads-click.com$third-party
 ||adsco.re$third-party
 ||ad-score.com$third-party
 ||adscpm.com$third-party
@@ -479,7 +463,6 @@
 ||ad-sniper.com$third-party
 ||adsoftware.com$third-party
 ||adsoldier.com$third-party
-||adsolutions.yp.com$third-party
 ||adsonar.com$third-party
 ||ad-souk.com$third-party
 ||ad-space.net$third-party

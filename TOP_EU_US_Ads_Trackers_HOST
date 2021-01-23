@@ -1,7 +1,7 @@
 # Title: EU US most prevalent ads & trackers HOST format
 # Expires: 365 days
 #
-# Updated: Jan 22, 2021
+# Updated: Jan 23, 2021
 #
 # Please report issues related to website breakage at github
 # Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -16,7 +16,6 @@
 0.0.0.0 1rx.io
 0.0.0.0 1trn.com
 0.0.0.0 207.net
-0.0.0.0 23video.com
 0.0.0.0 247.ai
 0.0.0.0 247media.com
 0.0.0.0 247realmedia.com
@@ -90,13 +89,11 @@
 0.0.0.0 actionsplash.com
 0.0.0.0 actisens.com
 0.0.0.0 activeconversion.com
-0.0.0.0 activemeter.com
 0.0.0.0 act-on.com
 0.0.0.0 actonsoftware.com
 0.0.0.0 actualdeals.com
 0.0.0.0 acuity.com
 0.0.0.0 acuityads.com
-0.0.0.0 acuityplatform.com
 0.0.0.0 acxiom.com
 0.0.0.0 acxiomapac.com
 0.0.0.0 ad360.media
@@ -160,7 +157,6 @@
 0.0.0.0 adcito.com
 0.0.0.0 adclear.de
 0.0.0.0 adclick.com
-0.0.0.0 adclickmedia.com
 0.0.0.0 adclient.uimserv.net
 0.0.0.0 adclient1.tucows.com
 0.0.0.0 adclix.org
@@ -192,7 +188,6 @@
 0.0.0.0 addynamix.com
 0.0.0.0 addynamo.com
 0.0.0.0 addynamo.net
-0.0.0.0 adecn.com
 0.0.0.0 adelement.com
 0.0.0.0 adelixir.com
 0.0.0.0 adello.com
@@ -228,7 +223,6 @@
 0.0.0.0 adgoto.com
 0.0.0.0 adgridwork.com
 0.0.0.0 adgroups.net
-0.0.0.0 adgrx.com
 0.0.0.0 adhaven.com
 0.0.0.0 adhese.be
 0.0.0.0 adhese.com
@@ -248,18 +242,14 @@
 0.0.0.0 adinjector.net
 0.0.0.0 adinsight.com
 0.0.0.0 adinsight.eu
-0.0.0.0 adinterax.com
 0.0.0.0 adiquity.com
 0.0.0.0 adisfy.com
 0.0.0.0 adition.com
-0.0.0.0 adition.de
-0.0.0.0 adition.net
 0.0.0.0 adizio.com
 0.0.0.0 adjix.com
 0.0.0.0 adjug.com
 0.0.0.0 adjuggler.com
 0.0.0.0 adjuggler.net
-0.0.0.0 adjuggler.yourdictionary.com
 0.0.0.0 adjust.com
 0.0.0.0 adjust.io
 0.0.0.0 adjustnetwork.com
@@ -283,7 +273,6 @@
 0.0.0.0 adlog.com.com
 0.0.0.0 adloop.co
 0.0.0.0 adloox.com
-0.0.0.0 adlooxtracking.com
 0.0.0.0 adlucent.com
 0.0.0.0 adludio.com
 0.0.0.0 adlure.net
@@ -400,25 +389,21 @@
 0.0.0.0 adreadytractions.com
 0.0.0.0 adrecover.com
 0.0.0.0 adremedy.com
-0.0.0.0 adreporting.com
 0.0.0.0 adres.internet.com
 0.0.0.0 adretarget.me
 0.0.0.0 adrevolution.com
 0.0.0.0 adrevolver.com
-0.0.0.0 adriver.ru
 0.0.0.0 adroitinteractive.com
 0.0.0.0 adrolays.com
 0.0.0.0 adrolays.de
 0.0.0.0 adroll.com
 0.0.0.0 adrotate.de
-0.0.0.0 ad-rotator.com
 0.0.0.0 adrotator.se
 0.0.0.0 adrtx.net
 0.0.0.0 adrule.net
 0.0.0.0 ads.deliverimp.com
 0.0.0.0 ads.topsrvimp.com
 0.0.0.0 ads8.com
-0.0.0.0 adsafemedia.com
 0.0.0.0 adsafeprotected.com
 0.0.0.0 adsafety.net
 0.0.0.0 adsatt.abc.starwave.com
@@ -432,7 +417,6 @@
 0.0.0.0 adscale.de
 0.0.0.0 adscholar.com
 0.0.0.0 adscience.nl
-0.0.0.0 ads-click.com
 0.0.0.0 adsco.re
 0.0.0.0 ad-score.com
 0.0.0.0 adscpm.com
@@ -480,7 +464,6 @@
 0.0.0.0 ad-sniper.com
 0.0.0.0 adsoftware.com
 0.0.0.0 adsoldier.com
-0.0.0.0 adsolutions.yp.com
 0.0.0.0 adsonar.com
 0.0.0.0 ad-souk.com
 0.0.0.0 ad-space.net

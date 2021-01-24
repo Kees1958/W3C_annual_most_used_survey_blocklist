@@ -939,8 +939,7 @@
 ||bose.co.uk$third-party
 ||boudja.com$third-party
 ||bounceexchange.com$third-party
-||bouncex.com$third-party
-||bouncex.net$third-party
+||bouncex.*$third-party
 ||box.anchorfree.net$third-party
 ||bpath.com$third-party
 ||braincash.com$third-party
@@ -984,7 +983,6 @@
 ||bugsnag.com$third-party
 ||bullionyield.com$third-party
 ||bullseye.backbeatmedia.com$third-party
-||burstbeacon.com$third-party
 ||burstdirectads.com$third-party
 ||burstly.com$third-party
 ||burstmedia.com$third-party
@@ -1039,12 +1037,10 @@
 ||cashpartner.com$third-party
 ||casinopays.com$third-party
 ||casinorewards.com$third-party
-||casinotraffic.com$third-party
 ||casinotreasure.com$third-party
 ||cauly.net$third-party
 ||cav.ai$third-party
 ||cbanners.virtuagirlhd.com$third-party
-||cben1.net$third-party
 ||cbmall.com$third-party
 ||cbproads.com$third-party
 ||cbx.net$third-party
@@ -1074,7 +1070,6 @@
 ||chartbeat.*$third-party
 ||chartboost.com$third-party
 ||chaturbate.com$third-party
-||checkm8.com$third-party
 ||checkstat.nl$third-party
 ||chemistry.com$third-party
 ||cheq.ai$third-party

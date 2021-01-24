@@ -522,8 +522,7 @@
 ||adversalservers.com$third-party
 ||advert.bayarea.com$third-party
 ||advert.dyna.ultraweb.hu$third-party
-||adverticum.com$third-party
-||adverticum.net$third-party
+||adverticum.*$third-party
 ||adverticus.de$third-party
 ||advertise.com$third-party
 ||advertiseireland.com$third-party
@@ -845,11 +844,7 @@
 ||behavioralengine.com$third-party
 ||beintoo.com$third-party
 ||belboon.com$third-party
-||belstat.be$third-party
-||belstat.com$third-party
-||belstat.de$third-party
-||belstat.fr$third-party
-||belstat.nl$third-party
+||belstat.*$third-party
 ||berp.com$third-party
 ||best-pr.info$third-party
 ||bestsearch.net$third-party

@@ -926,7 +926,7 @@
 ||bn.bfast.com$third-party
 ||bnmla.com$third-party
 ||boersego-ads.de$third-party
-||boldchat.com$third-party
+||bold360.com$third-party
 ||bombora.com$third-party
 ||bongacash.com$third-party
 ||bonzai.co$third-party
@@ -1024,8 +1024,7 @@
 ||captify.co.uk$third-party
 ||carambo.la$third-party
 ||caraytech.com.ar$third-party
-||carbonads.com$third-party
-||carbonads.net$third-party
+||carbonads.*$third-party
 ||cardlytics.com$third-party
 ||cart.ro$third-party
 ||carts.guru$third-party
@@ -1072,8 +1071,7 @@
 ||channeladvisor.com$third-party
 ||channelintelligence.com$third-party
 ||chart.dk$third-party
-||chartbeat.com$third-party
-||chartbeat.net$third-party
+||chartbeat.*$third-party
 ||chartboost.com$third-party
 ||chaturbate.com$third-party
 ||checkm8.com$third-party
@@ -1082,8 +1080,7 @@
 ||cheq.ai$third-party
 ||chestionar.ro$third-party
 ||chimpstatic.com$third-party
-||chitika.com$third-party
-||chitika.net$third-party
+||chitika.*$third-party
 ||chocolateplatform.com$third-party
 ||choicestream.com$third-party
 ||choozle.com$third-party
@@ -1136,7 +1133,6 @@
 ||clickhype.com$third-party
 ||clickinc.com$third-party
 ||clickintext.net$third-party
-||clicklink.jp$third-party
 ||clickmanage.com$third-party
 ||clickmedia.ro$third-party
 ||clickonometrics.com$third-party
@@ -1144,8 +1140,7 @@
 ||clicks.equantum.com$third-party
 ||clicks.mods.de$third-party
 ||clickserve.cc-dt.com$third-party
-||clicksor.com$third-party
-||clicksor.net$third-party
+||clicksor.*$third-party
 ||clicktag.de$third-party
 ||clicktale.com$third-party
 ||clicktale.net$third-party
@@ -1253,8 +1248,7 @@
 ||conversantmedia.com$third-party
 ||conversantmedia.eu$third-party
 ||conversiondashboard.com$third-party
-||conversionlogic.com$third-party
-||conversionlogic.net$third-party
+||conversionlogic.*$third-party
 ||conversionruler.com$third-party
 ||conversive.nl$third-party
 ||convert.com$third-party
@@ -1284,7 +1278,6 @@
 ||counter.rambler.ru$third-party
 ||counter.search.bg$third-party
 ||counter.sparklit.com$third-party
-||counter.yadro.ru$third-party
 ||counters.honesty.com$third-party
 ||counting.kmindex.ru$third-party
 ||counts.tucows.com$third-party
@@ -1394,8 +1387,7 @@
 ||delivered-by-madington.com$third-party
 ||delivr.com$third-party
 ||deloo.de$third-party
-||deltaprojects.com$third-party
-||deltaprojects.se$third-party
+||deltaprojects.*$third-party
 ||deltax.com$third-party
 ||demandbase.com$third-party
 ||demandmedia.com$third-party

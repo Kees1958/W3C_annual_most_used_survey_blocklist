@@ -1373,9 +1373,7 @@
 ||do-not-tracker.org$third-party
 ||dotomi.com$third-party
 ||double-check.com$third-party
-||doubleclick.com$third-party
-||doubleclick.de$third-party
-||doubleclick.net$third-party
+||doubleclick.*$third-party
 ||doublepimp.com$third-party
 ||doublepositive.com$third-party
 ||doubleverify.com$third-party
@@ -1506,8 +1504,7 @@
 ||eterna.de$third-party
 ||ethicalads.net$third-party
 ||etineria.com$third-party
-||etracker.com$third-party
-||etracker.de$third-party
+||etracker.*$third-party
 ||etrigue.com$third-party
 ||etusolution.com$third-party
 ||eu1.madsone.com$third-party

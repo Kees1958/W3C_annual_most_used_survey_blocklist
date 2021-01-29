@@ -1,7 +1,7 @@
 # Title: EU US most prevalent ads & trackers HOST format
 # Expires: 365 days
 #
-# Updated: Jan 23, 2021
+# Updated: Jan 29, 2021
 #
 # Please report issues related to website breakage at github
 # Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -1493,7 +1493,6 @@
 0.0.0.0 ecoupons.com
 0.0.0.0 ecsanalytics.com
 0.0.0.0 e-debtconsolidation.com
-0.0.0.0 edgeio.com
 0.0.0.0 edgenpd.com
 0.0.0.0 edigitalsurvey.com
 0.0.0.0 effectivemeasure.com
@@ -1615,7 +1614,6 @@
 0.0.0.0 exosrv.com
 0.0.0.0 expedia.co.uk
 0.0.0.0 experteerads.com
-0.0.0.0 expo-max.com
 0.0.0.0 exponential.com
 0.0.0.0 exposebox.com
 0.0.0.0 express-submit.de

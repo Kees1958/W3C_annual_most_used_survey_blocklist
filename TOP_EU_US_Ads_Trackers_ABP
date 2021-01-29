@@ -282,7 +282,6 @@
 ||admeta.com$third-party
 ||admetrics.io$third-party
 ||admex.com$third-party
-||admicro.vn$third-party
 ||adminder.com$third-party
 ||adminshop.com$third-party
 ||admission.net$third-party
@@ -636,7 +635,6 @@
 ||amadesa.com$third-party
 ||amazingcounters.com$third-party
 ||amazon-adsystem.com$third-party
-||ambientdigital.com.vn$third-party
 ||amgdgt.com$third-party
 ||amigos.com$third-party
 ||amillionads.com$third-party
@@ -1306,8 +1304,7 @@
 ||deltaprojects.*$third-party
 ||deltax.com$third-party
 ||demandbase.com$third-party
-||demdex.com$third-party
-||demdex.net$third-party
+||demdex.*$third-party
 ||dentsu.com$third-party
 ||deployads.com$third-party
 ||developermedia.com$third-party
@@ -1421,7 +1418,6 @@
 ||ebuzzing.com$third-party
 ||echosearch.com$third-party
 ||ecircle-ag.com$third-party
-||eclick.vn$third-party
 ||eclickz.com$third-party
 ||econda.de$third-party
 ||e-contenta.com$third-party
@@ -1429,8 +1425,7 @@
 ||e-debtconsolidation.com$third-party
 ||edgenpd.com$third-party
 ||edigitalsurvey.com$third-party
-||effectivemeasure.com$third-party
-||effectivemeasure.net$third-party
+||effectivemeasure.*$third-party
 ||effiliation.com$third-party
 ||eficiens.com$third-party
 ||efrontier.com$third-party
@@ -1445,13 +1440,9 @@
 ||e-m.fr$third-party
 ||emarketer.com$third-party
 ||emarketingsolutions.es$third-party
-||emediate.biz$third-party
-||emediate.com$third-party
-||emediate.dk$third-party
-||emediate.eu$third-party
+||emediate.*$third-party
 ||emerse.com$third-party
-||emetriq.com$third-party
-||emetriq.de$third-party
+||emetriq.*$third-party
 ||emjcd.com$third-party
 ||emonitor.takeit.cz$third-party
 ||emxdgt.com$third-party
@@ -1606,8 +1597,7 @@
 ||firstlightera.com$third-party
 ||firststars.de$third-party
 ||fiverr.com$third-party
-||fizzbuzzmedia.com$third-party
-||fizzbuzzmedia.net$third-party
+||fizzbuzzmedia.*$third-party
 ||flarie.com$third-party
 ||flashtalking.com$third-party
 ||fleshlightcash.com$third-party
@@ -1865,7 +1855,6 @@
 ||hyperbanner.net$third-party
 ||hypertracker.com$third-party
 ||hypertvx.com$third-party
-||i.ua$third-party
 ||i.xx.openx.com$third-party
 ||i1img.com$third-party
 ||i1media.no$third-party
@@ -1908,8 +1897,7 @@
 ||igaworks.com$third-party
 ||ignitad.com$third-party
 ||ignition.ai$third-party
-||ignitionone.com$third-party
-||ignitionone.net$third-party
+||ignitionone.*$third-party
 ||igodigital.com$third-party
 ||ilbanner.com$third-party
 ||ilead.itrack.it$third-party
@@ -3340,7 +3328,6 @@
 ||skimlinks.com$third-party
 ||skimresources.com$third-party
 ||skupenet.com$third-party
-||skylink.vn$third-party
 ||slickaffiliate.com$third-party
 ||slicktext.com$third-party
 ||slopeaota.com$third-party
@@ -3836,7 +3823,6 @@
 ||valuedopinions.co.uk$third-party
 ||valuesponsor.com$third-party
 ||various.com$third-party
-||vcmedia.vn$third-party
 ||vdna-assets.com$third-party
 ||vdopia.com$third-party
 ||ve.com$third-party

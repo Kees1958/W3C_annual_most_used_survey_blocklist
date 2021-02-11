@@ -2719,9 +2719,7 @@
 ||opentracker.net$third-party
 ||openx.angelsgroup.org.uk$third-party
 ||openx.blindferret.com$third-party
-||openx.com$third-party
-||openx.net$third-party
-||openx.org$third-party
+||openx.*$third-party
 ||openxenterprise.com$third-party
 ||operamediaworks.com$third-party
 ||operasoftware.com$third-party

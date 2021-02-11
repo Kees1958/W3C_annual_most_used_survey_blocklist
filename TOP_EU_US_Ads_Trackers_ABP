@@ -3,7 +3,7 @@
 ! Title: EU US most prevalent ads & trackers ABP format.
 ! Expires: 365 days 
 !
-! Version: 2021.02.04
+! Version: 2021.02.12
 !
 ! Please report issues related to website breakage at
 ! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -90,6 +90,11 @@
 ||ad4game.com$third-party
 ||ad4mat.com$third-party
 ||ad6media.fr$third-party
+||ad-sniper.com$third-party
+||ad-souk.com$third-party
+||ad-space.net$third-party
+||ad-stir.com$third-party
+||ad-serverparc.nl$third-party
 ||adabra.com$third-party
 ||adacado.com$third-party
 ||adaction.*$third-party
@@ -371,6 +376,7 @@
 ||adrtx.net$third-party
 ||adrule.net$third-party
 ||ads.microsoft.com$third-party
+||ads.sexinyourcity.com$third-party
 ||ads.twitter.com$third-party
 ||ads8.com$third-party
 ||adsafeprotected.com$third-party
@@ -401,7 +407,6 @@
 ||adserve.zone$third-party
 ||adserver2.popdata.de$third-party
 ||adserver-live.yoc.mobi$third-party
-||ad-serverparc.nl$third-party
 ||adserverplus.com$third-party
 ||adserverpub.com$third-party
 ||adserversolutions.com$third-party
@@ -424,12 +429,9 @@
 ||adsmobi.com$third-party
 ||adsmogo.com$third-party
 ||adsnative.com$third-party
-||ad-sniper.com$third-party
 ||adsoftware.com$third-party
 ||adsoldier.com$third-party
 ||adsonar.com$third-party
-||ad-souk.com$third-party
-||ad-space.net$third-party
 ||adspace.ro$third-party
 ||adspdbl.com$third-party
 ||adspeed.*$third-party
@@ -448,7 +450,6 @@
 ||adstanding.com$third-party
 ||adstat.4u.pl$third-party
 ||adstest.weather.com$third-party
-||ad-stir.com$third-party
 ||adstours.com$third-party
 ||ads-twitter.com$third-party
 ||adsty.com$third-party
@@ -500,6 +501,7 @@
 ||adultmoda.com$third-party
 ||adunity.com$third-party
 ||ad-up.com$third-party
+||adultfriendfinder.com$third-party
 ||adux.com$third-party
 ||adv.admeme.net$third-party
 ||adv.cooperhosting.net$third-party
@@ -1556,6 +1558,7 @@
 ||eztexting.com$third-party
 ||f5biz.com$third-party
 ||facebook.*$third-party,domain=~facebook.com|~messenger.com
+||facebookofsex.com$third-party
 ||facilitatedigital.com$third-party
 ||factortg.com$third-party
 ||factual.com$third-party
@@ -2333,6 +2336,7 @@
 ||mediaforce.com$third-party
 ||mediaforge.com$third-party
 ||mediageneral.com$third-party
+||mediagra.com$third-party
 ||mediahead.com$third-party
 ||mediaintelligence.de$third-party
 ||mediaiprom.com$third-party
@@ -2479,6 +2483,7 @@
 ||mogreet.com$third-party
 ||mojiva.com$third-party
 ||molocoads.com$third-party
+||momentsharing.com$third-party
 ||monetate.com$third-party
 ||monetate.net$third-party
 ||monetizemore.com$third-party
@@ -2512,6 +2517,7 @@
 ||m-t.io$third-party
 ||mtree.com$third-party
 ||multiplestreammktg.com$third-party
+||multipops.com$third-party
 ||mundomedia.com$third-party
 ||musiccounter.ru$third-party
 ||mutua.es$third-party
@@ -2697,6 +2703,7 @@
 ||oneupweb.com$third-party
 ||onevision.com.tw$third-party
 ||onewaylinkexchange.net$third-party
+||onlineadultadvertising.com$third-party
 ||onlinecash.com$third-party
 ||onlinecashmethod.com$third-party
 ||online-metrix.net$third-party
@@ -2892,7 +2899,7 @@
 ||poprule.com$third-party
 ||popub.com$third-party
 ||popularmedia.com$third-party
-||popunder.ru$third-party
+||popupxxx.com$third-party
 ||popup.msn.com$third-party
 ||popupmoney.com$third-party
 ||popupnation.com$third-party
@@ -3059,6 +3066,7 @@
 ||rebelai.com$third-party
 ||recod3.com$third-party
 ||redaril.com$third-party
+||redcourtside.com$third-party
 ||redcubes.biz$third-party
 ||redirectingat.com$third-party
 ||re-directme.com$third-party
@@ -3266,6 +3274,7 @@
 ||sessionm.com$third-party
 ||sevenads.net$third-party
 ||sexaddpro.de$third-party
+||sexad.net$third-party
 ||sexadnetwork.com$third-party
 ||sexadvertentiesite.nl$third-party
 ||sexcounter.com$third-party
@@ -4019,22 +4028,26 @@
 ||xcvgdf.party$third-party
 ||xertive.com$third-party
 ||xertivemedia.com$third-party
+||xeontopa.com$third-party
 ||xg4ken.com$third-party
 ||xiti.com$third-party
 ||xius.com$third-party
 ||xmladed.com$third-party
+||xmediaclicks.com$third-party
 ||xplosion.de$third-party
 ||xplusone.com$third-party
 ||xponsor.com$third-party
 ||xq1.net$third-party
 ||xrea.com$third-party
 ||xsocialgroup.com$third-party
+||xtargeting.com$third-party
 ||xtendmedia.com$third-party
 ||x-traceur.com$third-party
 ||xtremetop100.com$third-party
 ||xxxcounter.com$third-party
 ||xxxlutz.de$third-party
 ||xxxmyself.com$third-party
+||xxxwebtraffic.com$third-party
 ||xy7elite.com$third-party
 ||y.ibsys.com$third-party
 ||yabuka.com$third-party
@@ -4108,6 +4121,7 @@
 ||zentrick.com$third-party
 ||zenzuu.com$third-party
 ||zeotap.com$third-party
+||zerezas.com$third-party
 ||zergnet.com$third-party
 ||zestad.com$third-party
 ||zetaemailsolutions.com$third-party

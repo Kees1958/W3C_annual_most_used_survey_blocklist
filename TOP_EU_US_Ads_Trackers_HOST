@@ -1,7 +1,7 @@
 # Title: EU US most prevalent ads & trackers HOST format
 # Expires: 365 days
 #
-# Updated: Jan 29, 2021
+# Updated: Feb 12, 2021
 #
 # Please report issues related to website breakage at github
 # Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -536,6 +536,7 @@
 0.0.0.0 adtruth.com
 0.0.0.0 adultadvertising.com
 0.0.0.0 adultadworld.com
+0.0.0.0 adultfriendfinder.com
 0.0.0.0 adultfriendfinder.com
 0.0.0.0 adultmoda.com
 0.0.0.0 adunity.com
@@ -1621,6 +1622,7 @@
 0.0.0.0 eztargetmedia.com
 0.0.0.0 eztexting.com
 0.0.0.0 f5biz.com
+0.0.0.0 facebookofsex.com
 0.0.0.0 facilitatedigital.com
 0.0.0.0 factortg.com
 0.0.0.0 factual.com
@@ -2400,6 +2402,7 @@
 0.0.0.0 mediaforce.com
 0.0.0.0 mediaforge.com
 0.0.0.0 mediageneral.com
+0.0.0.0 mediagra.com
 0.0.0.0 mediahead.com
 0.0.0.0 mediaintelligence.de
 0.0.0.0 mediaiprom.com
@@ -2545,6 +2548,7 @@
 0.0.0.0 mogreet.com
 0.0.0.0 mojiva.com
 0.0.0.0 molocoads.com
+0.0.0.0 momentsharing.com
 0.0.0.0 monetate.com
 0.0.0.0 monetate.net
 0.0.0.0 monetizemore.com
@@ -2578,6 +2582,7 @@
 0.0.0.0 m-t.io
 0.0.0.0 mtree.com
 0.0.0.0 multiplestreammktg.com
+0.0.0.0 multipops.com
 0.0.0.0 mundomedia.com
 0.0.0.0 musiccounter.ru
 0.0.0.0 mutua.es
@@ -2762,6 +2767,7 @@
 0.0.0.0 oneupweb.com
 0.0.0.0 onevision.com.tw
 0.0.0.0 onewaylinkexchange.net
+0.0.0.0 onlineadultadvertising.com
 0.0.0.0 onlinecash.com
 0.0.0.0 onlinecashmethod.com
 0.0.0.0 online-metrix.net
@@ -3126,6 +3132,7 @@
 0.0.0.0 recod3.com
 0.0.0.0 redaril.com
 0.0.0.0 redcubes.biz
+0.0.0.0 redcourtside.com
 0.0.0.0 redirectingat.com
 0.0.0.0 re-directme.com
 0.0.0.0 redmas.com
@@ -3332,6 +3339,7 @@
 0.0.0.0 sessionm.com
 0.0.0.0 sevenads.net
 0.0.0.0 sexaddpro.de
+0.0.0.0 sexad.net
 0.0.0.0 sexadnetwork.com
 0.0.0.0 sexadvertentiesite.nl
 0.0.0.0 sexcounter.com
@@ -4083,11 +4091,13 @@
 0.0.0.0 xcheck.co
 0.0.0.0 xclicks.net
 0.0.0.0 xcvgdf.party
+0.0.0.0 xeontopa.com
 0.0.0.0 xertive.com
 0.0.0.0 xertivemedia.com
 0.0.0.0 xg4ken.com
 0.0.0.0 xiti.com
 0.0.0.0 xius.com
+0.0.0.0 xmediaclicks.com
 0.0.0.0 xmladed.com
 0.0.0.0 xplosion.de
 0.0.0.0 xplusone.com
@@ -4095,12 +4105,14 @@
 0.0.0.0 xq1.net
 0.0.0.0 xrea.com
 0.0.0.0 xsocialgroup.com
+0.0.0.0 xtargeting.com
 0.0.0.0 xtendmedia.com
 0.0.0.0 x-traceur.com
 0.0.0.0 xtremetop100.com
 0.0.0.0 xxxcounter.com
 0.0.0.0 xxxlutz.de
 0.0.0.0 xxxmyself.com
+0.0.0.0 xxxwebtraffic.com
 0.0.0.0 xy7elite.com
 0.0.0.0 y.ibsys.com
 0.0.0.0 yabuka.com
@@ -4173,6 +4185,7 @@
 0.0.0.0 zentrick.com
 0.0.0.0 zenzuu.com
 0.0.0.0 zeotap.com
+0.0.0.0 zerezas.com
 0.0.0.0 zergnet.com
 0.0.0.0 zestad.com
 0.0.0.0 zetaemailsolutions.com

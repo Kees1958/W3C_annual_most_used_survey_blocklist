@@ -419,7 +419,6 @@
 ||adshuffle.com$third-party
 ||adside.com$third-party
 ||adsk2.co$third-party
-||adskape.ru$third-party
 ||adsklick.de$third-party
 ||adsmarket.com$third-party
 ||adsmart.co.uk$third-party
@@ -815,7 +814,6 @@
 ||bannery.cz$third-party
 ||bannieres.acces-contenu.com$third-party
 ||bans.adserver.co.il$third-party
-||bans.bride.ru$third-party
 ||banterx.com$third-party
 ||barilliance.com$third-party
 ||barnesandnoble.bfast.com$third-party
@@ -839,7 +837,6 @@
 ||beemray.com$third-party
 ||beencounter.com$third-party
 ||beeswax.com$third-party
-||begun.ru$third-party
 ||behavioralengine.com$third-party
 ||beintoo.com$third-party
 ||belboon.com$third-party
@@ -1069,7 +1066,6 @@
 ||clic2buy.com$third-party
 ||click.absoluteagency.com$third-party
 ||click.fool.com$third-party
-||click.kmindex.ru$third-party
 ||click2freemoney.com$third-party
 ||click2paid.com$third-party
 ||clickability.com$third-party
@@ -1134,7 +1130,6 @@
 ||clustrmaps.com$third-party
 ||cmmeglobal.com$third-party
 ||cnomy.com$third-party
-||cnt.spbland.ru$third-party
 ||cnt1.pocitadlo.cz$third-party
 ||cnzz.com$third-party
 ||coastaldigitalgroup.com$third-party
@@ -1214,12 +1209,10 @@
 ||counter.cz$third-party
 ||counter.dreamhost.com$third-party
 ||counter.mirohost.net$third-party
-||counter.mojgorod.ru$third-party
 ||counter.nowlinux.com$third-party
 ||counter.search.bg$third-party
 ||counter.sparklit.com$third-party
 ||counters.honesty.com$third-party
-||counting.kmindex.ru$third-party
 ||counts.tucows.com$third-party
 ||coupling-media.de$third-party
 ||coxdigitalsolutions.com$third-party
@@ -1801,7 +1794,6 @@
 ||hitexchange.net$third-party
 ||hitfarm.com$third-party
 ||hitiz.com$third-party
-||hitlist.ru$third-party
 ||hitlounge.com$third-party
 ||hitometer.com$third-party
 ||hit-parade.com$third-party
@@ -2177,7 +2169,6 @@
 ||linkbuddies.com$third-party
 ||linkconnector.com$third-party
 ||linkexchange.com$third-party
-||linkexchange.ru$third-party
 ||linkprice.com$third-party
 ||linkrain.com$third-party
 ||linkreferral.com$third-party
@@ -2518,7 +2509,6 @@
 ||multiplestreammktg.com$third-party
 ||multipops.com$third-party
 ||mundomedia.com$third-party
-||musiccounter.ru$third-party
 ||mutua.es$third-party
 ||muwmedia.com$third-party
 ||mxcdn.net$third-party
@@ -2535,7 +2525,6 @@
 ||mydsp.io$third-party
 ||mynativeplatform.com$third-party
 ||mypagerank.net$third-party
-||mypagerank.ru$third-party
 ||mypowermall.com$third-party
 ||mypressplus.com$third-party
 ||myscreen.com$third-party
@@ -2759,7 +2748,6 @@
 ||out-there-media.com$third-party
 ||oversee.net$third-party
 ||overture.com$third-party
-||owebmoney.ru$third-party
 ||owneriq.com$third-party
 ||owneriq.net$third-party
 ||oxado.com$third-party
@@ -2798,7 +2786,6 @@
 ||paypopup.com$third-party
 ||payserve.com$third-party
 ||pbbl.co$third-party
-||pbnet.ru$third-party
 ||pcash.imlive.com$third-party
 ||pch.com$third-party
 ||peakadx.com$third-party
@@ -3146,7 +3133,6 @@
 ||rkdms.com$third-party
 ||rlcdn.com$third-party
 ||rlcdn.net$third-party
-||rle.ru$third-party
 ||rmads.msn.com$third-party
 ||rmbn.net$third-party
 ||rmedia.boston.com$third-party
@@ -3463,7 +3449,6 @@
 ||steelhousemedia.com$third-party
 ||step.dk$third-party
 ||stickyadstv.com$third-party
-||storeland.ru$third-party
 ||storetail.io$third-party
 ||stormiq.com$third-party
 ||stormyachiever.com$third-party
@@ -3634,7 +3619,6 @@
 ||tonefuse.com$third-party
 ||tonemedia.com$third-party
 ||top.proext.com$third-party
-||top100.mafia.ru$third-party
 ||top123.ro$third-party
 ||top20.com$third-party
 ||top20free.com$third-party
@@ -3914,7 +3898,6 @@
 ||wanmo.com$third-party
 ||wap.co.uk$third-party
 ||warlog.info$third-party
-||warlog.ru$third-party
 ||warp.ly$third-party
 ||waterfrontmedia.com$third-party
 ||wavenet.com.tw$third-party
@@ -3931,21 +3914,18 @@
 ||webads.co.nz$third-party
 ||webads.co.uk$third-party
 ||webads.nl$third-party
-||webangel.ru$third-party
 ||webcash.nl$third-party
 ||webclicks24.com$third-party
 ||webclicktracker.com$third-party
 ||webcounter.cz$third-party
 ||webcounter.goweb.de$third-party
 ||webgains.com$third-party
-||webgozar.com$third-party
-||webgozar.ir$third-party
+||webgozar.*$third-party
 ||webmasterplan.com$third-party
 ||webmasterplan.de$third-party
 ||webmecanik.com$third-party
 ||webmetro.com$third-party
-||weborama.com$third-party
-||weborama.fr$third-party
+||weborama.*$third-party
 ||webpower.com$third-party
 ||webpreneurmedia.com$third-party
 ||webreseau.com$third-party
@@ -3957,12 +3937,10 @@
 ||webstats4u.com$third-party
 ||webtrackerplus.com$third-party
 ||webtrackingservices.com$third-party
-||webtraffic.no$third-party
-||webtraffic.se$third-party
+||webtraffic.*$third-party
 ||webtraxs.com$third-party
 ||webtraxx.de$third-party
-||webtrekk.com$third-party
-||webtrekk.net$third-party
+||webtrekk.*$third-party
 ||webtrends.com$third-party
 ||webtrendslive.com$third-party
 ||web-visor.com$third-party
@@ -3990,7 +3968,6 @@
 ||witch-counter.de$third-party
 ||wizaly.com$third-party
 ||wlmarketing.com$third-party
-||wmirk.ru$third-party
 ||wonderbly.com$third-party
 ||wonderlandads.com$third-party
 ||wondoads.de$third-party
@@ -4048,7 +4025,6 @@
 ||xy7elite.com$third-party
 ||y.ibsys.com$third-party
 ||yabuka.com$third-party
-||yadro.ru$third-party
 ||yastatic.net$third-party
 ||ybp.yahoo.com$third-party
 ||ybrantdigital.com$third-party

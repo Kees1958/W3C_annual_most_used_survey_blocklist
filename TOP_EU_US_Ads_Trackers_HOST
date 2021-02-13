@@ -1,7 +1,7 @@
 # Title: EU US most prevalent ads & trackers HOST format
 # Expires: 365 days
 #
-# Updated: Feb 12, 2021
+# Updated: Feb 13, 2021
 #
 # Please report issues related to website breakage at github
 # Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -3658,7 +3658,6 @@
 0.0.0.0 thinknear.com
 0.0.0.0 thinkrealtime.com
 0.0.0.0 thinkupfront.com
-0.0.0.0 thomann.de
 0.0.0.0 thoughtleadr.com
 0.0.0.0 thrnt.com
 0.0.0.0 throtle.io

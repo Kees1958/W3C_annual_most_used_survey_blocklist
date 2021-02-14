@@ -1,7 +1,7 @@
 # Title: EU US most prevalent ads & trackers HOST format
 # Expires: 365 days
 #
-# Updated: Feb 13, 2021
+# Updated: Feb 14, 2021
 #
 # Please report issues related to website breakage at github
 # Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -2854,10 +2854,10 @@
 0.0.0.0 perfectaudience.com
 0.0.0.0 perfectmarket.com
 0.0.0.0 perfiliate.com
-0.0.0.0 performcb.com
 0.0.0.0 performancerevenue.com
 0.0.0.0 performancerevenues.com
 0.0.0.0 performancing.com
+0.0.0.0 performcb.com
 0.0.0.0 perimeterx.net
 0.0.0.0 permodo.com
 0.0.0.0 permutive.com
@@ -3103,8 +3103,8 @@
 0.0.0.0 rebelai.com
 0.0.0.0 recod3.com
 0.0.0.0 redaril.com
-0.0.0.0 redcubes.biz
 0.0.0.0 redcourtside.com
+0.0.0.0 redcubes.biz
 0.0.0.0 redirectingat.com
 0.0.0.0 re-directme.com
 0.0.0.0 redmas.com
@@ -3307,8 +3307,8 @@
 0.0.0.0 sessioncam.com
 0.0.0.0 sessionm.com
 0.0.0.0 sevenads.net
-0.0.0.0 sexaddpro.de
 0.0.0.0 sexad.net
+0.0.0.0 sexaddpro.de
 0.0.0.0 sexadnetwork.com
 0.0.0.0 sexadvertentiesite.nl
 0.0.0.0 sexcounter.com

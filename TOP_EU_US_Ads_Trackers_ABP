@@ -3,7 +3,7 @@
 ! Title: EU US most prevalent ads & trackers ABP format.
 ! Expires: 365 days 
 !
-! Version: 2021.02.13
+! Version: 2021.02.14
 !
 ! Please report issues related to website breakage at
 ! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -45,7 +45,6 @@
 ||7search.com$third-party
 ||980media.com$third-party
 ||99count.com$third-party
-||9c9media.ca$third-party
 ||a.aproductmsg.com$third-party
 ||a.collective-media.net$third-party
 ||a.consumer.net$third-party
@@ -90,11 +89,6 @@
 ||ad4game.com$third-party
 ||ad4mat.com$third-party
 ||ad6media.fr$third-party
-||ad-sniper.com$third-party
-||ad-souk.com$third-party
-||ad-space.net$third-party
-||ad-stir.com$third-party
-||ad-serverparc.nl$third-party
 ||adabra.com$third-party
 ||adacado.com$third-party
 ||adaction.*$third-party
@@ -406,6 +400,7 @@
 ||adserve.zone$third-party
 ||adserver2.popdata.de$third-party
 ||adserver-live.yoc.mobi$third-party
+||ad-serverparc.nl$third-party
 ||adserverplus.com$third-party
 ||adserverpub.com$third-party
 ||adserversolutions.com$third-party
@@ -427,9 +422,12 @@
 ||adsmobi.com$third-party
 ||adsmogo.com$third-party
 ||adsnative.com$third-party
+||ad-sniper.com$third-party
 ||adsoftware.com$third-party
 ||adsoldier.com$third-party
 ||adsonar.com$third-party
+||ad-souk.com$third-party
+||ad-space.net$third-party
 ||adspace.ro$third-party
 ||adspdbl.com$third-party
 ||adspeed.*$third-party
@@ -448,6 +446,7 @@
 ||adstanding.com$third-party
 ||adstat.4u.pl$third-party
 ||adstest.weather.com$third-party
+||ad-stir.com$third-party
 ||adstours.com$third-party
 ||ads-twitter.com$third-party
 ||adsty.com$third-party
@@ -496,10 +495,10 @@
 ||adultadvertising.com$third-party
 ||adultadworld.com$third-party
 ||adultfriendfinder.com$third-party
+||adultfriendfinder.com$third-party
 ||adultmoda.com$third-party
 ||adunity.com$third-party
 ||ad-up.com$third-party
-||adultfriendfinder.com$third-party
 ||adux.com$third-party
 ||adv.admeme.net$third-party
 ||adv.cooperhosting.net$third-party
@@ -771,7 +770,6 @@
 ||avpa.javalobby.org$third-party
 ||avres.net$third-party
 ||avsads.com$third-party
-||aweber.com$third-party
 ||awempire.com$third-party
 ||awin.com$third-party
 ||awin1.com$third-party
@@ -1143,7 +1141,6 @@
 ||collserve.com$third-party
 ||colonize.com$third-party
 ||colpirio.com$third-party
-||combell.com$third-party
 ||comboapp.com$third-party
 ||comclick.com$third-party
 ||commandersact.com$third-party
@@ -1693,7 +1690,6 @@
 ||glam.com$third-party
 ||glammedia.com$third-party
 ||glanceguide.com$third-party
-||gleam.io$third-party
 ||globalismedia.com$third-party
 ||globaltakeoff.net$third-party
 ||globaltrack.com$third-party
@@ -1705,7 +1701,6 @@
 ||gobid.auction$third-party
 ||gocampaignlive.com$third-party
 ||go-clicks.de$third-party
-||godaddy.com$third-party
 ||godatafeed.com$third-party
 ||goingplatinum.com$third-party
 ||goldbach.com$third-party
@@ -1717,11 +1712,8 @@
 ||goodeed.com$third-party
 ||goodwaygroup.com$third-party
 ||google.*/pagead/$third-party
-||googleadservices.com$third-party
 ||google-analytics.com$third-party
 ||googlesyndication.*/pagead/$third-party
-||googletagmanager.com$third-party
-||googletagservices.com$third-party
 ||go-rank.de$third-party
 ||gorillanation.com$third-party
 ||gosquared.com$third-party
@@ -1941,7 +1933,6 @@
 ||influenceaudience.com$third-party
 ||info.jp.widerplanet.com$third-party
 ||infolinks.com$third-party
-||infonline.de$third-party
 ||information.com$third-party
 ||infra-ad.com$third-party
 ||ingenio.com$third-party
@@ -2093,7 +2084,6 @@
 ||kissnofrog.com$third-party
 ||kitaramedia.com$third-party
 ||kitd.com$third-party
-||klaviyo.com$third-party
 ||kliks.nl$third-party
 ||knorex.com$third-party
 ||kochava.com$third-party
@@ -2614,7 +2604,6 @@
 ||nextstat.com$third-party
 ||nexus-soft.org$third-party
 ||nicequest.com$third-party
-||nielsen.com$third-party
 ||ninthdecimal.com$third-party
 ||ninua.com$third-party
 ||nitroclicks.com$third-party
@@ -2706,9 +2695,9 @@
 ||openmarket.com$third-party
 ||openslate.com$third-party
 ||opentracker.net$third-party
+||openx.*$third-party
 ||openx.angelsgroup.org.uk$third-party
 ||openx.blindferret.com$third-party
-||openx.*$third-party
 ||openxenterprise.com$third-party
 ||operamediaworks.com$third-party
 ||operasoftware.com$third-party
@@ -2801,10 +2790,10 @@
 ||perfectaudience.com$third-party
 ||perfectmarket.com$third-party
 ||perfiliate.com$third-party
-||performcb.com$third-party
 ||performancerevenue.com$third-party
 ||performancerevenues.com$third-party
 ||performancing.com$third-party
+||performcb.com$third-party
 ||perimeterx.net$third-party
 ||permodo.com$third-party
 ||permutive.com$third-party
@@ -2883,12 +2872,12 @@
 ||poprule.com$third-party
 ||popub.com$third-party
 ||popularmedia.com$third-party
-||popupxxx.com$third-party
 ||popup.msn.com$third-party
 ||popupmoney.com$third-party
 ||popupnation.com$third-party
 ||popups.infostart.com$third-party
 ||popuptraffic.com$third-party
+||popupxxx.com$third-party
 ||porngraph.com$third-party
 ||porntrack.com$third-party
 ||postrank.com$third-party
@@ -3204,7 +3193,6 @@
 ||scratch2cash.com$third-party
 ||scribol.com$third-party
 ||scripte-monster.de$third-party
-||sc-static.net$third-party
 ||scupio.com$third-party
 ||sdfje.com$third-party
 ||seadform.net$third-party
@@ -3227,7 +3215,6 @@
 ||seevolution.com$third-party
 ||seewhy.com$third-party
 ||segment.com$third-party
-||segment.io$third-party
 ||sekindo.com$third-party
 ||selectablemedia.com$third-party
 ||selfadvertiser.com$third-party
@@ -3256,8 +3243,8 @@
 ||sessioncam.com$third-party
 ||sessionm.com$third-party
 ||sevenads.net$third-party
-||sexaddpro.de$third-party
 ||sexad.net$third-party
+||sexaddpro.de$third-party
 ||sexadnetwork.com$third-party
 ||sexadvertentiesite.nl$third-party
 ||sexcounter.com$third-party
@@ -3266,7 +3253,6 @@
 ||sextracker.com$third-party
 ||sexystat.com$third-party
 ||sezwho.com$third-party
-||sfr.fr$third-party
 ||shareadspace.com$third-party
 ||shareasale.com$third-party
 ||sharepointads.com$third-party
@@ -3293,7 +3279,6 @@
 ||simplaex.com$third-party
 ||simpletexting.com$third-party
 ||simpli.fi$third-party
-||simply.com$third-party
 ||simplycast.com$third-party
 ||singlefeed.com$third-party
 ||singular.net$third-party
@@ -3343,7 +3328,6 @@
 ||smrtlnks.com$third-party
 ||sms.otair.com$third-party
 ||smtad.net$third-party
-||snap.com$third-party
 ||snapads.com$third-party
 ||snapgiant.com$third-party
 ||snoobi.com$third-party
@@ -3509,7 +3493,6 @@
 ||tacticrealtime.com$third-party
 ||tagcommander.com$third-party
 ||tagger.opecloud.com$third-party
-||tags.tiqcdn.com$third-party
 ||tagular.com$third-party
 ||tail.digital$third-party
 ||tailsweep.co.uk$third-party
@@ -3541,7 +3524,6 @@
 ||tatango.com$third-party
 ||tattomedia.com$third-party
 ||tcads.net$third-party
-||tchibo.de$third-party
 ||teadma.com$third-party
 ||teads.tv$third-party
 ||tealium.com$third-party
@@ -3579,7 +3561,6 @@
 ||theblogfrog.com$third-party
 ||thebrighttag.com$third-party
 ||thebugs.ws$third-party
-||thecounter.com$third-party
 ||theepicmediagroup.com$third-party
 ||themediagrid.com$third-party
 ||themig.com$third-party
@@ -3603,7 +3584,6 @@
 ||timeonegroup.com$third-party
 ||tinder.com$third-party
 ||tinybar.com$third-party
-||tinypass.com$third-party
 ||tiqiq.com$third-party
 ||tisoomi.com$third-party
 ||tizers.net$third-party
@@ -3651,7 +3631,6 @@
 ||track.anchorfree.com$third-party
 ||track.gawker.com$third-party
 ||trackalyzer.com$third-party
-||trackcmp.net$third-party
 ||trackersimulator.org$third-party
 ||tracking101.com$third-party
 ||trackingsoft.com$third-party
@@ -3999,14 +3978,14 @@
 ||xcheck.co$third-party
 ||xclicks.net$third-party
 ||xcvgdf.party$third-party
+||xeontopa.com$third-party
 ||xertive.com$third-party
 ||xertivemedia.com$third-party
-||xeontopa.com$third-party
 ||xg4ken.com$third-party
 ||xiti.com$third-party
 ||xius.com$third-party
-||xmladed.com$third-party
 ||xmediaclicks.com$third-party
+||xmladed.com$third-party
 ||xplosion.de$third-party
 ||xplusone.com$third-party
 ||xponsor.com$third-party
@@ -4074,7 +4053,6 @@
 ||yusp.com$third-party
 ||z5x.com$third-party
 ||z5x.net$third-party
-||zaful.com$third-party
 ||zango.com$third-party
 ||zanox.com$third-party
 ||zanox-affiliate.de$third-party

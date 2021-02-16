@@ -295,8 +295,7 @@
 0.0.0.0 admax.nexage.com
 0.0.0.0 admaxim.com
 0.0.0.0 admaximizer.com
-0.0.0.0 admedia.com
-0.0.0.0 admedia.ro
+0.0.0.0 admedia.*
 0.0.0.0 admedo.com
 0.0.0.0 admeld.com
 0.0.0.0 admerize.be
@@ -1248,7 +1247,7 @@
 0.0.0.0 cookies.cmpnet.com
 0.0.0.0 coremetrics.com
 0.0.0.0 coremotives.com
-0.0.0.0 coretalk.co
+0.0.0.0 coregmedia.com
 0.0.0.0 corp.aarki.com
 0.0.0.0 corp.intimatemerger.com
 0.0.0.0 corp.viewbix.com
@@ -1838,8 +1837,6 @@
 0.0.0.0 hi-media.com
 0.0.0.0 hipcricket.com
 0.0.0.0 histats.com
-0.0.0.0 hit.bg
-0.0.0.0 hit.ua
 0.0.0.0 hit.webcentre.lycos.co.uk
 0.0.0.0 hitbox.com
 0.0.0.0 hitcents.com
@@ -1857,6 +1854,7 @@
 0.0.0.0 hitsniffer.com
 0.0.0.0 hitsprocessor.com
 0.0.0.0 hittail.com
+0.0.0.0 hitx.com
 0.0.0.0 hl.co.uk
 0.0.0.0 hleb.agency
 0.0.0.0 hlserve.com
@@ -3981,6 +3979,7 @@
 0.0.0.0 world.calzedonia.com
 0.0.0.0 worldwide-cash.net
 0.0.0.0 wowanalytics.co.uk
+0.0.0.0 wpadvancedads.com
 0.0.0.0 wpncdn.com
 0.0.0.0 wpp.com
 0.0.0.0 wrethicap.info

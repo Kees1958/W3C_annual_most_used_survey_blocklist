@@ -1,7 +1,7 @@
 # Title: EU US most prevalent ads & trackers HOST format
 # Expires: 365 days
 #
-# Updated: Feb 14, 2021
+# Updated: Feb 16, 2021
 #
 # Please report issues related to website breakage at github
 # Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -1844,12 +1844,9 @@
 0.0.0.0 hitbox.com
 0.0.0.0 hitcents.com
 0.0.0.0 hitexchange.net
-0.0.0.0 hitfarm.com
 0.0.0.0 hitiz.com
 0.0.0.0 hitlounge.com
 0.0.0.0 hitometer.com
-0.0.0.0 hit-parade.com
-0.0.0.0 hit-ranking.de
 0.0.0.0 hits.europuls.eu
 0.0.0.0 hits.informer.com
 0.0.0.0 hits.puls.lv
@@ -1864,12 +1861,9 @@
 0.0.0.0 hleb.agency
 0.0.0.0 hlserve.com
 0.0.0.0 hockeycurve.com
-0.0.0.0 hollandbusinessadvertising.nl
-0.0.0.0 home.neustar
 0.0.0.0 homepageking.de
 0.0.0.0 hooklogic.com
 0.0.0.0 hopla.online
-0.0.0.0 horyzon-media.com
 0.0.0.0 hostedads.realitykings.com
 0.0.0.0 hotjar.com
 0.0.0.0 hotkeys.com
@@ -1881,8 +1875,6 @@
 0.0.0.0 hqgmbh.eu
 0.0.0.0 hsadspixel.net
 0.0.0.0 hs-analytics.net
-0.0.0.0 hs-scripts.com
-0.0.0.0 htmlhubing.xyz
 0.0.0.0 httpool.com
 0.0.0.0 hubapi.com
 0.0.0.0 hubdsp.com
@@ -1898,29 +1890,21 @@
 0.0.0.0 hyperbanner.net
 0.0.0.0 hypertracker.com
 0.0.0.0 hypertvx.com
-0.0.0.0 i.ua
-0.0.0.0 i.xx.openx.com
 0.0.0.0 i1img.com
 0.0.0.0 i1media.no
-0.0.0.0 ia.iinfo.cz
+0.0.0.0 ia.info.cz
 0.0.0.0 iac.com
-0.0.0.0 iacadvertising.com
 0.0.0.0 iad.anm.co.uk
 0.0.0.0 iadctest.qwapi.com
-0.0.0.0 iaded.com
 0.0.0.0 iadnet.com
 0.0.0.0 iadsdk.apple.com
 0.0.0.0 iadvize.com
-0.0.0.0 iasds01.com
 0.0.0.0 i-behavior.com
-0.0.0.0 ib-ibi.com
 0.0.0.0 ibillboard.com
 0.0.0.0 ibm.com
 0.0.0.0 ibpxl.com
 0.0.0.0 ibsys.com
 0.0.0.0 i-clicks.net
-0.0.0.0 iclive.com
-0.0.0.0 ic-live.com
 0.0.0.0 iconadserver.com
 0.0.0.0 icptrack.com
 0.0.0.0 icrossing.com
@@ -1928,7 +1912,6 @@
 0.0.0.0 id.google.de
 0.0.0.0 id.google.nl
 0.0.0.0 id5-sync.com
-0.0.0.0 idcounter.com
 0.0.0.0 iddiction.com
 0.0.0.0 identads.com
 0.0.0.0 idg.com
@@ -1946,14 +1929,9 @@
 0.0.0.0 ignitionone.com
 0.0.0.0 ignitionone.net
 0.0.0.0 igodigital.com
-0.0.0.0 ilbanner.com
 0.0.0.0 ilead.itrack.it
-0.0.0.0 i-lookup.com
 0.0.0.0 iloopmobile.com
-0.0.0.0 ilovecheating.com
-0.0.0.0 imageads.canoe.ca
 0.0.0.0 imagecash.net
-0.0.0.0 images.v3.com
 0.0.0.0 images-pw.secureserver.net
 0.0.0.0 im-apps.net
 0.0.0.0 imarketservices.com
@@ -1968,24 +1946,19 @@
 0.0.0.0 impactmobile.com
 0.0.0.0 impactradius-event.com
 0.0.0.0 impdesk.com
-0.0.0.0 impdesk.comm
 0.0.0.0 imprese.cz
 0.0.0.0 impressiondesk.com
 0.0.0.0 impressionmedia.cz
 0.0.0.0 impressionmonster.com
-0.0.0.0 impressionz.co.uk
 0.0.0.0 improvedigital.com
 0.0.0.0 imrworldwide.com
 0.0.0.0 imrworldwide.net
-0.0.0.0 inadco.com
-0.0.0.0 inadcoads.com
 0.0.0.0 inboundwriter.com
 0.0.0.0 inboxdollars.com
 0.0.0.0 incentaclick.com
 0.0.0.0 index.com
 0.0.0.0 indexexchange.com
 0.0.0.0 indexstats.com
-0.0.0.0 indexww.com
 0.0.0.0 indieclick.com
 0.0.0.0 industrybrains.com
 0.0.0.0 infectiousmedia.com
@@ -2015,9 +1988,7 @@
 0.0.0.0 insightgrit.com
 0.0.0.0 inskinmedia.com
 0.0.0.0 inspectlet.com
-0.0.0.0 inspectorclick.com
 0.0.0.0 inspired-mobile.com
-0.0.0.0 instantads.telefonica.com
 0.0.0.0 instantmadness.com
 0.0.0.0 insticator.com
 0.0.0.0 instinctive.io
@@ -2035,7 +2006,6 @@
 0.0.0.0 interclick.com
 0.0.0.0 intergi.com
 0.0.0.0 intermarkets.net
-0.0.0.0 intermundomedia.com
 0.0.0.0 internetbrands.com
 0.0.0.0 internetfuel.com
 0.0.0.0 interpolls.com
@@ -2048,10 +2018,8 @@
 0.0.0.0 investingchannel.com
 0.0.0.0 invitemedia.com
 0.0.0.0 inviziads.com
-0.0.0.0 ioam.de
 0.0.0.0 iotecglobal.com
 0.0.0.0 ip.ro
-0.0.0.0 ip193.cn
 0.0.0.0 ipcounter.de
 0.0.0.0 iperceptions.com
 0.0.0.0 iponweb.com
@@ -2083,7 +2051,6 @@
 0.0.0.0 ivdopia.com
 0.0.0.0 ivitrack.com
 0.0.0.0 ivo.io
-0.0.0.0 ivwbox.de
 0.0.0.0 ivypixel.com
 0.0.0.0 ixs1.net
 0.0.0.0 jaminfinity.tk
@@ -2098,7 +2065,6 @@
 0.0.0.0 jink.de
 0.0.0.0 jinkads.com
 0.0.0.0 jinkads.de
-0.0.0.0 jirbo.com
 0.0.0.0 jivox.com
 0.0.0.0 jiwire.com
 0.0.0.0 jkazaa.cjt1.net
@@ -2120,22 +2086,18 @@
 0.0.0.0 k.iinfo.cz
 0.0.0.0 kadam.net
 0.0.0.0 kameleoon.com
-0.0.0.0 kameleoon.eu
 0.0.0.0 kanoodle.com
 0.0.0.0 kantarmedia.com
 0.0.0.0 kaplanindex.com
 0.0.0.0 kargo.com
 0.0.0.0 kaufda.de
 0.0.0.0 kcdwa.com
-0.0.0.0 keewurd.com
-0.0.0.0 kelkoo.fr
 0.0.0.0 kenshoo.com
 0.0.0.0 keyade.com
 0.0.0.0 keycdn.com
 0.0.0.0 keymantics.com
 0.0.0.0 keymedia.hu
 0.0.0.0 keymetric.net
-0.0.0.0 keynotedeviceanywhere.com
 0.0.0.0 keywee.co
 0.0.0.0 keywordmax.com
 0.0.0.0 kimiagroup.com
@@ -2160,7 +2122,6 @@
 0.0.0.0 krux.com
 0.0.0.0 kruxdigital.com
 0.0.0.0 krxd.net
-0.0.0.0 kt-g.de
 0.0.0.0 ktu.sv2.biz
 0.0.0.0 kundeservice.yousee.dk
 0.0.0.0 kupona.de
@@ -2171,10 +2132,8 @@
 0.0.0.0 ladsp.com
 0.0.0.0 lakana.com
 0.0.0.0 lakequincy.com
-0.0.0.0 layer-ad.de
-0.0.0.0 layer-ad.org
+0.0.0.0 layer-ad.*
 0.0.0.0 layer-ads.de
-0.0.0.0 layer-ads.net
 0.0.0.0 lct.salesforce.com
 0.0.0.0 lduhtrp.net
 0.0.0.0 leadaffiliates.com
@@ -2275,8 +2234,6 @@
 0.0.0.0 lotlinx.com
 0.0.0.0 louder.com.au
 0.0.0.0 lowermybills.com
-0.0.0.0 lptracker.io
-0.0.0.0 lqcdn.com
 0.0.0.0 luc.id
 0.0.0.0 lucidmedia.com
 0.0.0.0 luckyorange.com
@@ -2287,7 +2244,6 @@
 0.0.0.0 lyris.com
 0.0.0.0 lytiks.com
 0.0.0.0 lzjl.com
-0.0.0.0 m.webtrends.com
 0.0.0.0 m1.webstats4u.com
 0.0.0.0 m4n.nl
 0.0.0.0 m6d.com

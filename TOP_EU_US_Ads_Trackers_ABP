@@ -1194,7 +1194,7 @@
 ||cookies.cmpnet.com$third-party
 ||coremetrics.com$third-party
 ||coremotives.com$third-party
-||coretalk.co$third-party
+||coregmedia.com$third-party
 ||corp.aarki.com$third-party
 ||corp.intimatemerger.com$third-party
 ||corp.viewbix.com$third-party
@@ -1778,8 +1778,6 @@
 ||hi-media.com$third-party
 ||hipcricket.com$third-party
 ||histats.com$third-party
-||hit.bg$third-party
-||hit.ua$third-party
 ||hit.webcentre.lycos.co.uk$third-party
 ||hitbox.com$third-party
 ||hitcents.com$third-party
@@ -1797,6 +1795,7 @@
 ||hitsniffer.com$third-party
 ||hitsprocessor.com$third-party
 ||hittail.com$third-party
+||hitx.com$third-part
 ||hl.co.uk$third-party
 ||hleb.agency$third-party
 ||hlserve.com$third-party
@@ -3911,6 +3910,7 @@
 ||world.calzedonia.com$third-party
 ||worldwide-cash.net$third-party
 ||wowanalytics.co.uk$third-party
+||wpadvancedads.com$third-party
 ||wpncdn.com$third-party
 ||wpp.com$third-party
 ||wrethicap.info$third-party

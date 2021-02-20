@@ -1,7 +1,7 @@
 # Title: EU US most prevalent ads & trackers HOST format
 # Expires: 365 days
 #
-# Updated: Feb 19, 2021
+# Updated: Feb 20, 2021
 #
 # Please report issues related to website breakage at github
 # Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -468,8 +468,6 @@
 0.0.0.0 adv.webmd.com
 0.0.0.0 adv-adserver.com
 0.0.0.0 advanseads.com
-0.0.0.0 advariant.com
-0.0.0.0 adv-banner.libero.it
 0.0.0.0 adventive.com
 0.0.0.0 adventori.com
 0.0.0.0 adventory.com
@@ -484,10 +482,7 @@
 0.0.0.0 advertise.com
 0.0.0.0 advertiseireland.com
 0.0.0.0 advertisespace.com
-0.0.0.0 advertising.aol.com
-0.0.0.0 advertising.apple.com
 0.0.0.0 advertising.com
-0.0.0.0 advertising.guildlaunch.net
 0.0.0.0 advertising.yahoo.com
 0.0.0.0 advertisingbanners.com
 0.0.0.0 advertisingbox.com
@@ -495,23 +490,16 @@
 0.0.0.0 advertmedia.de
 0.0.0.0 advertpro.sitepoint.com
 0.0.0.0 advertpro.ya.com
-0.0.0.0 adverts.carltononline.com
 0.0.0.0 advertserve.com
 0.0.0.0 advertstream.com
 0.0.0.0 advertwizard.com
 0.0.0.0 advideo.uimserv.net
-0.0.0.0 adview.ppro.de
 0.0.0.0 advisormedia.cz
-0.0.0.0 adviva.co.uk
 0.0.0.0 adviva.com
-0.0.0.0 adviva.net
 0.0.0.0 advmaker.net
-0.0.0.0 advnt.com
 0.0.0.0 advolution.de
 0.0.0.0 advrtas.com
-0.0.0.0 adwareremovergold.com
 0.0.0.0 adways.com
-0.0.0.0 adwhirl.com
 0.0.0.0 adwitserver.com
 0.0.0.0 adwords.google.com
 0.0.0.0 adworldmedia.com
@@ -523,7 +511,6 @@
 0.0.0.0 adworx.nl
 0.0.0.0 adx.allstar.cz
 0.0.0.0 adx.atnext.com
-0.0.0.0 adx.gainesvillesun.com
 0.0.0.0 adx.space
 0.0.0.0 adx1.com
 0.0.0.0 adxpansion.com
@@ -535,7 +522,6 @@
 0.0.0.0 adyea.com
 0.0.0.0 adyield.com
 0.0.0.0 adyoulike.com
-0.0.0.0 adzcentral.com
 0.0.0.0 adzerk.com
 0.0.0.0 adzerk.net
 0.0.0.0 adzerk.s3.amazonaws.com
@@ -544,34 +530,24 @@
 0.0.0.0 adzones.com
 0.0.0.0 adzymic.co
 0.0.0.0 aemedia.com
-0.0.0.0 aerifymedia.com
 0.0.0.0 aerserv.com
 0.0.0.0 af-ad.co.uk
-0.0.0.0 afdads.com
-0.0.0.0 affasi.com
-0.0.0.0 affbuzzads.com
 0.0.0.0 affili.net
 0.0.0.0 affiliatetracking.com
 0.0.0.0 affiliatetracking.net
 0.0.0.0 affiliatetrading.net
 0.0.0.0 affiliatewindow.com
 0.0.0.0 affiliation-france.com
-0.0.0.0 affilinet-inside.de
 0.0.0.0 affine.tv
 0.0.0.0 affinesystems.com
 0.0.0.0 affinity.com
 0.0.0.0 afterdownload.com
-0.0.0.0 afy11.net
 0.0.0.0 agcs.works
-0.0.0.0 agencytradingdesk.net
 0.0.0.0 aggregateknowledge.com
-0.0.0.0 agkn.com
-0.0.0.0 agreensdistra.info
 0.0.0.0 ahalogy.com
 0.0.0.0 ah-ha.com
 0.0.0.0 aidata.io
 0.0.0.0 aidata.me
-0.0.0.0 aidu-ads.de
 0.0.0.0 aim4media.com
 0.0.0.0 aimatch.com
 0.0.0.0 airbrake.io
@@ -610,7 +586,6 @@
 0.0.0.0 amung.us
 0.0.0.0 an.tacoda.net
 0.0.0.0 anadcoads.com
-0.0.0.0 anahtars.com
 0.0.0.0 analights.com
 0.0.0.0 analytics.adpost.org
 0.0.0.0 analytics.shareaholic.com
@@ -651,11 +626,9 @@
 0.0.0.0 appnexus.com
 0.0.0.0 appolicious.com
 0.0.0.0 app-promo.com
-0.0.0.0 apprebates.com
 0.0.0.0 appreciate.mobi
 0.0.0.0 appredeem.com
 0.0.0.0 approstar.com
-0.0.0.0 appsdt.com
 0.0.0.0 appsfire.com
 0.0.0.0 appsfire.net
 0.0.0.0 appsflyer.com
@@ -672,7 +645,6 @@
 0.0.0.0 arbigo.com
 0.0.0.0 arc1.msn.com
 0.0.0.0 arcadebanners.com
-0.0.0.0 ard.xxxblackbook.com
 0.0.0.0 are-ter.com
 0.0.0.0 arkeero.com
 0.0.0.0 arkmedia.co
@@ -726,7 +698,6 @@
 0.0.0.0 autocentre.ua
 0.0.0.0 autohits.dk
 0.0.0.0 automattic.com
-0.0.0.0 avalanchers.com
 0.0.0.0 avantlink.com
 0.0.0.0 avenuea.com
 0.0.0.0 avidglobalmedia.com
@@ -761,10 +732,8 @@
 0.0.0.0 banik.redigy.cz
 0.0.0.0 bannerflow.com
 0.0.0.0 bannermall.com
-0.0.0.0 bannermarkt.nl
 0.0.0.0 bannernow.com
 0.0.0.0 bannerpower.com
-0.0.0.0 banner-rotation.com
 0.0.0.0 bannerserver.com
 0.0.0.0 bannersgomlm.com
 0.0.0.0 bannershotlink.perfectgonzo.com
@@ -811,7 +780,6 @@
 0.0.0.0 belstat.nl
 0.0.0.0 berp.com
 0.0.0.0 best-pr.info
-0.0.0.0 bestsearch.net
 0.0.0.0 best-top.ro
 0.0.0.0 betgenius.com
 0.0.0.0 betrad.com
@@ -847,7 +815,6 @@
 0.0.0.0 bimlocal.com
 0.0.0.0 binlayer.com
 0.0.0.0 bitads.net
-0.0.0.0 bitcoinplus.com
 0.0.0.0 bitmedia.io
 0.0.0.0 bitmedianetwork.com
 0.0.0.0 bittads.com
@@ -871,7 +838,6 @@
 0.0.0.0 blogrollr.com
 0.0.0.0 blogrush.com
 0.0.0.0 blogtoplist.se
-0.0.0.0 blogtopsites.com
 0.0.0.0 blueadvertise.com
 0.0.0.0 bluebillywig.com
 0.0.0.0 bluecava.com
@@ -897,8 +863,6 @@
 0.0.0.0 boom.ro
 0.0.0.0 boomads.com
 0.0.0.0 boomtrain.com
-0.0.0.0 boostbox.com.br
-0.0.0.0 boost-my-pr.de
 0.0.0.0 bounceexchange.com
 0.0.0.0 bouncex.com
 0.0.0.0 box.anchorfree.net
@@ -949,7 +913,6 @@
 0.0.0.0 bvmedia.ca
 0.0.0.0 bwp.download.com
 0.0.0.0 c.bigmir.net
-0.0.0.0 c1.nowlinux.com
 0.0.0.0 c1exchange.com
 0.0.0.0 c3metrics.com
 0.0.0.0 c3tag.com
@@ -1732,7 +1695,6 @@
 0.0.0.0 haensel-ams.com
 0.0.0.0 halogenmediagroup.com
 0.0.0.0 halogennetwork.com
-0.0.0.0 hands.com.br
 0.0.0.0 happyfication.com
 0.0.0.0 harrenmedia.com
 0.0.0.0 harrenmedianetwork.com
@@ -2645,7 +2607,6 @@
 0.0.0.0 opinionbar.com
 0.0.0.0 opinmind.com
 0.0.0.0 opmnstr.com
-0.0.0.0 opolen.com.br
 0.0.0.0 optify.net
 0.0.0.0 optim.al
 0.0.0.0 optimahub.com
@@ -3063,7 +3024,6 @@
 0.0.0.0 rmads.msn.com
 0.0.0.0 rmbn.net
 0.0.0.0 rmedia.boston.com
-0.0.0.0 rmemx.reamp.com.br
 0.0.0.0 rmmonline.com
 0.0.0.0 rmtag.com
 0.0.0.0 rmxads.com
@@ -3278,7 +3238,6 @@
 0.0.0.0 sociomantic.com
 0.0.0.0 socital.com
 0.0.0.0 sodoit.com
-0.0.0.0 softclick.com.br
 0.0.0.0 softcrylic.com
 0.0.0.0 softcube.com
 0.0.0.0 sojern.com
@@ -3481,7 +3440,6 @@
 0.0.0.0 tensquare.com
 0.0.0.0 teracent.com
 0.0.0.0 teracent.net
-0.0.0.0 terra.com.br
 0.0.0.0 test.com
 0.0.0.0 textad.sexsearch.com
 0.0.0.0 textads.biz

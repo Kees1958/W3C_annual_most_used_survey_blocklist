@@ -3,7 +3,7 @@
 ! Title: EU US most prevalent ads & trackers ABP format.
 ! Expires: 365 days 
 !
-! Version: 2021.02.19
+! Version: 2021.02.20
 !
 ! Please report issues related to website breakage at
 ! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -421,8 +421,6 @@
 ||adv.webmd.com$third-party
 ||adv-adserver.com$third-party
 ||advanseads.com$third-party
-||advariant.com$third-party
-||adv-banner.libero.it$third-party
 ||adventive.com$third-party
 ||adventori.com$third-party
 ||adventory.com$third-party
@@ -436,10 +434,7 @@
 ||advertise.com$third-party
 ||advertiseireland.com$third-party
 ||advertisespace.com$third-party
-||advertising.aol.com$third-party
-||advertising.apple.com$third-party
 ||advertising.com$third-party
-||advertising.guildlaunch.net$third-party
 ||advertising.yahoo.com$third-party
 ||advertisingbanners.com$third-party
 ||advertisingbox.com$third-party
@@ -447,23 +442,16 @@
 ||advertmedia.de$third-party
 ||advertpro.sitepoint.com$third-party
 ||advertpro.ya.com$third-party
-||adverts.carltononline.com$third-party
 ||advertserve.com$third-party
-||advertstream.com$third-party
 ||advertwizard.com$third-party
 ||advideo.uimserv.net$third-party
-||adview.ppro.de$third-party
 ||advisormedia.cz$third-party
-||adviva.co.uk$third-party
 ||adviva.com$third-party
-||adviva.net$third-party
 ||advmaker.net$third-party
-||advnt.com$third-party
+||advertstream.com$third-party
 ||advolution.de$third-party
 ||advrtas.com$third-party
-||adwareremovergold.com$third-party
 ||adways.com$third-party
-||adwhirl.com$third-party
 ||adwitserver.com$third-party
 ||adwords.google.com$third-party
 ||adworldmedia.com$third-party
@@ -471,7 +459,6 @@
 ||adworx.*$third-party
 ||adx.allstar.cz$third-party
 ||adx.atnext.com$third-party
-||adx.gainesvillesun.com$third-party
 ||adx.space$third-party
 ||adx1.com$third-party
 ||adxpansion.com$third-party
@@ -483,7 +470,6 @@
 ||adyea.com$third-party
 ||adyield.com$third-party
 ||adyoulike.com$third-party
-||adzcentral.com$third-party
 ||adzerk.*$third-party
 ||adzerk.s3.amazonaws.com$third-party
 ||adzly.com$third-party
@@ -491,32 +477,22 @@
 ||adzones.com$third-party
 ||adzymic.co$third-party
 ||aemedia.com$third-party
-||aerifymedia.com$third-party
 ||aerserv.com$third-party
 ||af-ad.co.uk$third-party
-||afdads.com$third-party
-||affasi.com$third-party
-||affbuzzads.com$third-party
 ||affili.net$third-party
 ||affiliatetracking.*$third-party
 ||affiliatetrading.net$third-party
 ||affiliatewindow.com$third-party
 ||affiliation-france.com$third-party
-||affilinet-inside.de$third-party
 ||affine.tv$third-party
 ||affinesystems.com$third-party
 ||affinity.com$third-party
 ||afterdownload.com$third-party
-||afy11.net$third-party
 ||agcs.works$third-party
-||agencytradingdesk.net$third-party
 ||aggregateknowledge.com$third-party
-||agkn.com$third-party
-||agreensdistra.info$third-party
 ||ahalogy.com$third-party
 ||ah-ha.com$third-party
 ||aidata.*$third-party
-||aidu-ads.de$third-party
 ||aim4media.com$third-party
 ||aimatch.com$third-party
 ||airbrake.io$third-party
@@ -555,7 +531,6 @@
 ||amung.us$third-party
 ||an.tacoda.net$third-party
 ||anadcoads.com$third-party
-||anahtars.com$third-party
 ||analights.com$third-party
 ||analytics.adpost.org$third-party
 ||andbeyond.media$third-party
@@ -595,11 +570,9 @@
 ||appnexus.com$third-party
 ||appolicious.com$third-party
 ||app-promo.com$third-party
-||apprebates.com$third-party
 ||appreciate.mobi$third-party
 ||appredeem.com$third-party
 ||approstar.com$third-party
-||appsdt.com$third-party
 ||appsfire.com$third-party
 ||appsfire.net$third-party
 ||appsflyer.com$third-party
@@ -616,7 +589,6 @@
 ||arbigo.com$third-party
 ||arc1.msn.com$third-party
 ||arcadebanners.com$third-party
-||ard.xxxblackbook.com$third-party
 ||are-ter.com$third-party
 ||arkeero.com$third-party
 ||arkmedia.co$third-party
@@ -671,7 +643,6 @@
 ||autocentre.ua$third-party
 ||autohits.dk$third-party
 ||automattic.com$third-party
-||avalanchers.com$third-party
 ||avantlink.com$third-party
 ||avenuea.com$third-party
 ||avidglobalmedia.com$third-party
@@ -680,7 +651,7 @@
 ||avocet.io$third-party
 ||avpa.javalobby.org$third-party
 ||avres.net$third-party
-||avsads.com$third-party
+||avsadvertising.com$third-party
 ||awempire.com$third-party
 ||awin.com$third-party
 ||awin1.com$third-party
@@ -704,12 +675,9 @@
 ||bango.combango.org$third-party
 ||bango.net$third-party
 ||banik.redigy.cz$third-party
-||banner-link.com.br$third-party
 ||bannermall.com$third-party
-||bannermarkt.nl$third-party
 ||bannernow.com$third-party
 ||bannerpower.com$third-party
-||banner-rotation.com$third-party
 ||bannerserver.com$third-party
 ||bannersgomlm.com$third-party
 ||bannershotlink.perfectgonzo.com$third-party
@@ -752,7 +720,6 @@
 ||belstat.*$third-party
 ||berp.com$third-party
 ||best-pr.info$third-party
-||bestsearch.net$third-party
 ||best-top.ro$third-party
 ||betgenius.com$third-party
 ||betrad.com$third-party
@@ -788,7 +755,6 @@
 ||bimlocal.com$third-party
 ||binlayer.com$third-party
 ||bitads.net$third-party
-||bitcoinplus.com$third-party
 ||bitmedia.io$third-party
 ||bitmedianetwork.com$third-party
 ||bittads.com$third-party
@@ -812,7 +778,6 @@
 ||blogrollr.com$third-party
 ||blogrush.com$third-party
 ||blogtoplist.se$third-party
-||blogtopsites.com$third-party
 ||blueadvertise.com$third-party
 ||bluebillywig.com$third-party
 ||bluecava.com$third-party
@@ -834,12 +799,9 @@
 ||bombora.com$third-party
 ||bongacash.com$third-party
 ||bonzai.co$third-party
-||boo-box.com$third-party
 ||boom.ro$third-party
 ||boomads.com$third-party
 ||boomtrain.com$third-party
-||boostbox.com.br$third-party
-||boost-my-pr.de$third-party
 ||bounceexchange.com$third-party
 ||bouncex.*$third-party
 ||box.anchorfree.net$third-party
@@ -890,7 +852,6 @@
 ||bvmedia.ca$third-party
 ||bwp.download.com$third-party
 ||c.bigmir.net$third-party
-||c1.nowlinux.com$third-party
 ||c1exchange.com$third-party
 ||c3metrics.com$third-party
 ||c3tag.com$third-party
@@ -1664,7 +1625,6 @@
 ||haensel-ams.com$third-party
 ||halogenmediagroup.com$third-party
 ||halogennetwork.com$third-party
-||hands.com.br$third-party
 ||happyfication.com$third-party
 ||harrenmedia.com$third-party
 ||harrenmedianetwork.com$third-party
@@ -2570,7 +2530,6 @@
 ||opinionbar.com$third-party
 ||opinmind.com$third-party
 ||opmnstr.com$third-party
-||opolen.com.br$third-party
 ||optify.net$third-party
 ||optim.al$third-party
 ||optimahub.com$third-party
@@ -2988,7 +2947,6 @@
 ||rmads.msn.com$third-party
 ||rmbn.net$third-party
 ||rmedia.boston.com$third-party
-||rmemx.reamp.com.br$third-party
 ||rmmonline.com$third-party
 ||rmtag.com$third-party
 ||rmxads.com$third-party
@@ -3203,7 +3161,6 @@
 ||sociomantic.com$third-party
 ||socital.com$third-party
 ||sodoit.com$third-party
-||softclick.com.br$third-party
 ||softcrylic.com$third-party
 ||softcube.com$third-party
 ||sojern.com$third-party
@@ -3407,7 +3364,6 @@
 ||tensquare.com$third-party
 ||teracent.com$third-party
 ||teracent.net$third-party
-||terra.com.br$third-party
 ||test.com$third-party
 ||textad.sexsearch.com$third-party
 ||textads.biz$third-party

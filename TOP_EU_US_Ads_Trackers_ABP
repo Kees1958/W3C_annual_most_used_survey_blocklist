@@ -1,6 +1,5 @@
 [AdBlockPlus 2.0]
 !
-
 ! Title: EU US most prevalent ads & trackers ABP format.
 ! Expires: 365 days 
 !
@@ -1576,7 +1575,7 @@
 ||hitsniffer.com$third-party
 ||hitsprocessor.com$third-party
 ||hittail.com$third-party
-||hitx.com$third-part
+||hitx.com$third-party
 ||hl.co.uk$third-party
 ||hleb.agency$third-party
 ||hlserve.com$third-party
@@ -3774,7 +3773,6 @@
 ||youknowbest.com$third-party
 ||yp.com$third-party
 ||yt1187.net$third-party
-||ytimg.com$cookie,third-party
 ||y-track.com$third-party
 ||ytsa.net$third-party
 ||yuilop.com$third-party

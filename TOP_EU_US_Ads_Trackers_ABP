@@ -184,7 +184,6 @@
 ||adiant.com$third-party
 ||adify.com$third-party
 ||adikteev.com$third-party
-||adimg.cnet.*$third-party
 ||adimg.*$third-party
 ||adimg1.chosun.com$third-party
 ||adimgs.sapo.pt$third-party
@@ -262,8 +261,7 @@
 ||adnection.com$third-party
 ||adnet.asahi.com$third-party
 ||adnet.biz$third-party
-||adnet.de$third-party
-||adnet.ru$third-party
+||adnet.*$third-party
 ||adnet.worldreviewer.com$third-party
 ||adnetik.com$third-party
 ||adnetinteractive.com$third-party
@@ -1133,7 +1131,6 @@
 ||doc.good-loop.com$third-party
 ||doclix.com$third-party
 ||docs.rees46.com$third-party
-||domaining.in$third-party
 ||domainsponsor.com$third-party
 ||domainsteam.de$third-party
 ||domdex.com$third-party

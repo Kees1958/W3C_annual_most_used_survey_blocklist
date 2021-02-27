@@ -1,9 +1,9 @@
 [AdBlockPlus 2.0]
 !
 ! Title: EU US most prevalent ads & trackers ABP format.
-! Expires: 365 days 
+! Expires: 7 days 
 !
-! Version: 2021.02.21
+! Version: 2021.02.27
 !
 ! Please report issues related to website breakage at
 ! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -823,7 +823,6 @@
 ||chaturbate.com$third-party
 ||checkstat.nl$third-party
 ||chemistry.com$third-party
-||cheq.ai$third-party
 ||chimpstatic.com$third-party
 ||chitika.*$third-party
 ||chocolateplatform.com$third-party
@@ -833,7 +832,6 @@
 ||cint.com$third-party
 ||cityads.telus.net$third-party
 ||citygrid.com$third-party
-||cj.com$third-party
 ||cjlog.com$third-party
 ||clar.io$third-party
 ||claria.com$third-party
@@ -844,20 +842,17 @@
 ||clearsightinteractive.com$third-party
 ||clearstream.tv$third-party
 ||clic2buy.com$third-party
-||click.absoluteagency.com$third-party
 ||click.fool.com$third-party
 ||click2freemoney.com$third-party
 ||click2paid.com$third-party
 ||clickability.com$third-party
 ||clickadu.com$third-party
 ||clickadz.com$third-party
-||clickagents.com$third-party
 ||clickagy.com$third-party
 ||clickaider.com$third-party
 ||clickbank.*$third-party
 ||clickbooth.com$third-party
 ||clickboothlnk.com$third-party
-||clickbrokers.com$third-party
 ||clickcompare.co.uk$third-party
 ||clickdensity.com$third-party
 ||clickdimensions.com$third-party
@@ -868,7 +863,6 @@
 ||clickfuse.com$third-party
 ||clickguard.com$third-party
 ||clickhereforcellphones.com$third-party
-||clickhouse.com$third-party
 ||clickinc.com$third-party
 ||clickintext.net$third-party
 ||clickmanage.com$third-party
@@ -885,10 +879,8 @@
 ||clickthrutraffic.com$third-party
 ||clicktrace.info$third-party
 ||clicktrack.ziyu.net$third-party
-||clicktracks.com$third-party
 ||clicktrade.com$third-party
 ||clicktripz.com$third-party
-||clickwinks.com$third-party
 ||clickwise.net$third-party
 ||clickxchange.com$third-party
 ||clicky.com$third-party
@@ -900,7 +892,6 @@
 ||clipcentric.com$third-party
 ||clixgalore.com$third-party
 ||clixmetrix.com$third-party
-||clixpy.com$third-party
 ||clixtell.com$third-party
 ||clkads.com$third-party
 ||clkrev.com$third-party
@@ -919,7 +910,6 @@
 ||cogocast.net$third-party
 ||coinzilla.com$third-party
 ||collective.com$third-party
-||collector.brandmetrics.com$third-party
 ||collserve.com$third-party
 ||colonize.com$third-party
 ||colpirio.com$third-party
@@ -953,7 +943,6 @@
 ||content.acc-hd.de$third-party
 ||content.ad$third-party
 ||contentabc.com$third-party
-||content-ad.net$third-party
 ||contentignite.com$third-party
 ||contentspread.net$third-party
 ||contentwidgets.net$third-party
@@ -964,7 +953,6 @@
 ||convergedirect.com$third-party
 ||convergetrack.com$third-party
 ||conversantmedia.com$third-party
-||conversantmedia.eu$third-party
 ||conversiondashboard.com$third-party
 ||conversionlogic.com$third-party
 ||conversionruler.com$third-party
@@ -988,11 +976,8 @@
 ||counter.cz$third-party
 ||counter.dreamhost.com$third-party
 ||counter.mirohost.net$third-party
-||counter.nowlinux.com$third-party
-||counter.search.bg$third-party
 ||counter.sparklit.com$third-party
 ||counters.honesty.com$third-party
-||counts.tucows.com$third-party
 ||coupling-media.de$third-party
 ||coxdigitalsolutions.com$third-party
 ||coxmt.com$third-party
@@ -1025,16 +1010,13 @@
 ||crm4d.com$third-party
 ||crm-metrix.com$third-party
 ||crossinstall.com$third-party
-||crosspixel.net$third-party
 ||crosspixelmedia.com$third-party
-||crowdgravity.com$third-party
 ||crowdscience.com$third-party
 ||crtv.mate1.com$third-party
 ||crucialinteractive.com$third-party
 ||crwdcntrl.net$third-party
 ||csdata1.com$third-party
 ||ctnetwork.hu$third-party
-||cubics.com$third-party
 ||cuebiq.com$third-party
 ||cxense.com$third-party
 ||cxpublic.com$third-party
@@ -1048,7 +1030,6 @@
 ||dapper.net$third-party
 ||dashboardad.net$third-party
 ||data2decisions.com$third-party
-||datadome.co$third-party
 ||dataexchanger.pl$third-party
 ||datafy-software.com$third-party
 ||dataium.com$third-party
@@ -1064,8 +1045,6 @@
 ||dc-storm.com$third-party
 ||de17a.com$third-party
 ||dealdotcom.com$third-party
-||deanmediagroup.com$third-party
-||debtbusterloans.com$third-party
 ||decdna.net$third-party
 ||decideinteractive.com$third-party
 ||decktrade.com$third-party
@@ -1089,7 +1068,6 @@
 ||dianomi.com$third-party
 ||didit.com$third-party
 ||did-it.com$third-party
-||didtheyreadit.com$third-party
 ||digbro.com$third-party
 ||digigladd.com$third-party
 ||digilant.com$third-party
@@ -1109,7 +1087,6 @@
 ||directtrack.com$third-party
 ||direct-xxx-access.com$third-party
 ||discountclick.com$third-party
-||displayadsmedia.com$third-party
 ||displaymarketplace.com$third-party
 ||displaypagerank.com$third-party
 ||disqusads.com$third-party
@@ -1131,13 +1108,9 @@
 ||doclix.com$third-party
 ||docs.rees46.com$third-party
 ||domainsponsor.com$third-party
-||domainsteam.de$third-party
 ||domdex.com$third-party
 ||domdex.net$third-party
 ||domodomain.com$third-party
-||do-not-tracker.org$third-party
-||dotomi.com$third-party
-||double-check.com$third-party
 ||doubleclick.*$third-party
 ||doublepimp.com$third-party
 ||doublepositive.com$third-party
@@ -1247,7 +1220,6 @@
 ||eratead.com$third-party
 ||erne.co$third-party
 ||ero-advertising.com$third-party
-||esellerate.net$third-party
 ||eskimi.com$third-party
 ||esm1.net$third-party
 ||essens.no$third-party
@@ -1263,7 +1235,6 @@
 ||etrigue.com$third-party
 ||etusolution.com$third-party
 ||eu1.madsone.com$third-party
-||eu-adcenter.net$third-party
 ||eulerian.com$third-party
 ||eulerian.net$third-party
 ||eur.a1.yimg.com$third-party
@@ -1272,14 +1243,12 @@
 ||european-toplist.de$third-party
 ||euroranking.de$third-party
 ||euros4click.de$third-party
-||eusta.de$third-party
 ||evadav.com$third-party
 ||everestads.net$third-party
 ||everestjs.net$third-party
 ||everesttech.net$third-party
 ||evergage.com$third-party
 ||everydayhealth.com$third-party
-||evidencecleanergold.com$third-party
 ||evidon.com$third-party
 ||eviltracker.net$third-party
 ||evisionsmarketing.com$third-party

@@ -1,7 +1,7 @@
 # Title: EU US most prevalent ads & trackers HOST format
-# Expires: 365 days
+# Expires: 7 days
 #
-# Updated: Feb 21, 2021
+# Updated: Feb 27, 2021
 #
 # Please report issues related to website breakage at github
 # Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -889,7 +889,6 @@
 0.0.0.0 chaturbate.com
 0.0.0.0 checkstat.nl
 0.0.0.0 chemistry.com
-0.0.0.0 cheq.ai
 0.0.0.0 chimpstatic.com
 0.0.0.0 chitika.com
 0.0.0.0 chocolateplatform.com
@@ -899,7 +898,6 @@
 0.0.0.0 cint.com
 0.0.0.0 cityads.telus.net
 0.0.0.0 citygrid.com
-0.0.0.0 cj.com
 0.0.0.0 cjlog.com
 0.0.0.0 clar.io
 0.0.0.0 claria.com
@@ -910,20 +908,17 @@
 0.0.0.0 clearsightinteractive.com
 0.0.0.0 clearstream.tv
 0.0.0.0 clic2buy.com
-0.0.0.0 click.absoluteagency.com
 0.0.0.0 click.fool.com
 0.0.0.0 click2freemoney.com
 0.0.0.0 click2paid.com
 0.0.0.0 clickability.com
 0.0.0.0 clickadu.com
 0.0.0.0 clickadz.com
-0.0.0.0 clickagents.com
 0.0.0.0 clickagy.com
 0.0.0.0 clickaider.com
 0.0.0.0 clickbank.com
 0.0.0.0 clickbooth.com
 0.0.0.0 clickboothlnk.com
-0.0.0.0 clickbrokers.com
 0.0.0.0 clickcompare.co.uk
 0.0.0.0 clickdensity.com
 0.0.0.0 clickdimensions.com
@@ -934,7 +929,6 @@
 0.0.0.0 clickfuse.com
 0.0.0.0 clickguard.com
 0.0.0.0 clickhereforcellphones.com
-0.0.0.0 clickhouse.com
 0.0.0.0 clickinc.com
 0.0.0.0 clickintext.net
 0.0.0.0 clickmanage.com
@@ -952,10 +946,8 @@
 0.0.0.0 clickthrutraffic.com
 0.0.0.0 clicktrace.info
 0.0.0.0 clicktrack.ziyu.net
-0.0.0.0 clicktracks.com
 0.0.0.0 clicktrade.com
 0.0.0.0 clicktripz.com
-0.0.0.0 clickwinks.com
 0.0.0.0 clickwise.net
 0.0.0.0 clickxchange.com
 0.0.0.0 clicky.com
@@ -967,7 +959,6 @@
 0.0.0.0 clipcentric.com
 0.0.0.0 clixgalore.com
 0.0.0.0 clixmetrix.com
-0.0.0.0 clixpy.com
 0.0.0.0 clixtell.com
 0.0.0.0 clkads.com
 0.0.0.0 clkrev.com
@@ -986,7 +977,6 @@
 0.0.0.0 cognitivematch.com
 0.0.0.0 cogocast.net
 0.0.0.0 coinzilla.com
-0.0.0.0 collector.brandmetrics.com
 0.0.0.0 collserve.com
 0.0.0.0 colonize.com
 0.0.0.0 colpirio.com
@@ -1021,7 +1011,6 @@
 0.0.0.0 content.acc-hd.de
 0.0.0.0 content.ad
 0.0.0.0 contentabc.com
-0.0.0.0 content-ad.net
 0.0.0.0 contentignite.com
 0.0.0.0 contentspread.net
 0.0.0.0 contentwidgets.net
@@ -1032,7 +1021,6 @@
 0.0.0.0 convergedirect.com
 0.0.0.0 convergetrack.com
 0.0.0.0 conversantmedia.com
-0.0.0.0 conversantmedia.eu
 0.0.0.0 conversiondashboard.com
 0.0.0.0 conversionlogic.com
 0.0.0.0 conversionruler.com
@@ -1057,11 +1045,8 @@
 0.0.0.0 counter.cz
 0.0.0.0 counter.dreamhost.com
 0.0.0.0 counter.mirohost.net
-0.0.0.0 counter.nowlinux.com
-0.0.0.0 counter.search.bg
 0.0.0.0 counter.sparklit.com
 0.0.0.0 counters.honesty.com
-0.0.0.0 counts.tucows.com
 0.0.0.0 coupling-media.de
 0.0.0.0 coxdigitalsolutions.com
 0.0.0.0 coxmt.com
@@ -1095,16 +1080,13 @@
 0.0.0.0 crm4d.com
 0.0.0.0 crm-metrix.com
 0.0.0.0 crossinstall.com
-0.0.0.0 crosspixel.net
 0.0.0.0 crosspixelmedia.com
-0.0.0.0 crowdgravity.com
 0.0.0.0 crowdscience.com
 0.0.0.0 crtv.mate1.com
 0.0.0.0 crucialinteractive.com
 0.0.0.0 crwdcntrl.net
 0.0.0.0 csdata1.com
 0.0.0.0 ctnetwork.hu
-0.0.0.0 cubics.com
 0.0.0.0 cuebiq.com
 0.0.0.0 cxense.com
 0.0.0.0 cxpublic.com
@@ -1118,7 +1100,6 @@
 0.0.0.0 dapper.net
 0.0.0.0 dashboardad.net
 0.0.0.0 data2decisions.com
-0.0.0.0 datadome.co
 0.0.0.0 dataexchanger.pl
 0.0.0.0 datafy-software.com
 0.0.0.0 dataium.com
@@ -1134,8 +1115,6 @@
 0.0.0.0 dc-storm.com
 0.0.0.0 de17a.com
 0.0.0.0 dealdotcom.com
-0.0.0.0 deanmediagroup.com
-0.0.0.0 debtbusterloans.com
 0.0.0.0 decdna.net
 0.0.0.0 decideinteractive.com
 0.0.0.0 decktrade.com
@@ -1161,7 +1140,6 @@
 0.0.0.0 dianomi.com
 0.0.0.0 didit.com
 0.0.0.0 did-it.com
-0.0.0.0 didtheyreadit.com
 0.0.0.0 digbro.com
 0.0.0.0 digigladd.com
 0.0.0.0 digilant.com
@@ -1180,7 +1158,6 @@
 0.0.0.0 directtrack.com
 0.0.0.0 direct-xxx-access.com
 0.0.0.0 discountclick.com
-0.0.0.0 displayadsmedia.com
 0.0.0.0 displaymarketplace.com
 0.0.0.0 displaypagerank.com
 0.0.0.0 disqusads.com
@@ -1202,13 +1179,9 @@
 0.0.0.0 doclix.com
 0.0.0.0 docs.rees46.com
 0.0.0.0 domainsponsor.com
-0.0.0.0 domainsteam.de
 0.0.0.0 domdex.com
 0.0.0.0 domdex.net
 0.0.0.0 domodomain.com
-0.0.0.0 do-not-tracker.org
-0.0.0.0 dotomi.com
-0.0.0.0 double-check.com
 0.0.0.0 doubleclick.com
 0.0.0.0 doubleclick.de
 0.0.0.0 doubleclick.net
@@ -1324,7 +1297,6 @@
 0.0.0.0 eratead.com
 0.0.0.0 erne.co
 0.0.0.0 ero-advertising.com
-0.0.0.0 esellerate.net
 0.0.0.0 eskimi.com
 0.0.0.0 esm1.net
 0.0.0.0 essens.no
@@ -1340,7 +1312,6 @@
 0.0.0.0 etrigue.com
 0.0.0.0 etusolution.com
 0.0.0.0 eu1.madsone.com
-0.0.0.0 eu-adcenter.net
 0.0.0.0 eulerian.com
 0.0.0.0 eulerian.net
 0.0.0.0 eur.a1.yimg.com
@@ -1349,14 +1320,12 @@
 0.0.0.0 european-toplist.de
 0.0.0.0 euroranking.de
 0.0.0.0 euros4click.de
-0.0.0.0 eusta.de
 0.0.0.0 evadav.com
 0.0.0.0 everestads.net
 0.0.0.0 everestjs.net
 0.0.0.0 everesttech.net
 0.0.0.0 evergage.com
 0.0.0.0 everydayhealth.com
-0.0.0.0 evidencecleanergold.com
 0.0.0.0 evidon.com
 0.0.0.0 eviltracker.net
 0.0.0.0 evisionsmarketing.com

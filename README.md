@@ -13,7 +13,7 @@ Top 300.000 websites, while number 250 may only track you on 500 websites of the
                                                       ADVICED USAGE 
 When you decide to use this compact filter it is good practice to add your language specific Easylist English and your native
 language Easylist filter. Thanks to to the ongoing efforst of Brave to remove dead filters the original Easylist filter is 
-also reduced by 50 percent. As an alternative to Easylist you coudl use the Optimized easylist filter of Adguard. This list
+reduced by 50 percent. As an alternative to Easylist you could use the Optimized Easylist filter of Adguard. This list
 contains a subset (around 25%) of the rules which are triggered often (so it excludes the rules you probabaly never use). 
 This will combined (small and longlist ) approach will provide you with 90% of the ad and tracking protection with only 10% of 
 the number of block rules.   

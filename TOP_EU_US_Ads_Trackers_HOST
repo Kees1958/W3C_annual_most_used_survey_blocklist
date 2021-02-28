@@ -1,7 +1,7 @@
 # Title: EU US most prevalent ads & trackers HOST format
 # Expires: 7 days
 #
-# Updated: Feb 27, 2021
+# Updated: Feb 28, 2021
 #
 # Please report issues related to website breakage at github
 # Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -31,7 +31,6 @@
 0.0.0.0 3lift.com
 0.0.0.0 4affiliate.net
 0.0.0.0 4d5.net
-0.0.0.0 4dsply.com
 0.0.0.0 4finance.com
 0.0.0.0 4info.com
 0.0.0.0 4mads.com
@@ -857,10 +856,8 @@
 0.0.0.0 cashengines.com
 0.0.0.0 cashfiesta.com
 0.0.0.0 cashlayer.com
-0.0.0.0 cashpartner.com
 0.0.0.0 casinopays.com
 0.0.0.0 casinorewards.com
-0.0.0.0 casinotreasure.com
 0.0.0.0 cav.ai
 0.0.0.0 cbanners.virtuagirlhd.com
 0.0.0.0 cbproads.com
@@ -879,7 +876,6 @@
 0.0.0.0 chalkdigital.com
 0.0.0.0 chango.ca
 0.0.0.0 chango.com
-0.0.0.0 channel4.com
 0.0.0.0 channeladvisor.com
 0.0.0.0 channelintelligence.com
 0.0.0.0 chart.dk
@@ -906,7 +902,6 @@
 0.0.0.0 clearsaleing.com
 0.0.0.0 clearsearchmedia.com
 0.0.0.0 clearsightinteractive.com
-0.0.0.0 clearstream.tv
 0.0.0.0 clic2buy.com
 0.0.0.0 click.fool.com
 0.0.0.0 click2freemoney.com
@@ -922,7 +917,6 @@
 0.0.0.0 clickcompare.co.uk
 0.0.0.0 clickdensity.com
 0.0.0.0 clickdimensions.com
-0.0.0.0 clickdistrict.com
 0.0.0.0 clickedyclick.com
 0.0.0.0 clickequations.net
 0.0.0.0 clickforce.com.tw
@@ -1000,8 +994,6 @@
 0.0.0.0 connexity.com
 0.0.0.0 connexity.net
 0.0.0.0 connextra.com
-0.0.0.0 conrad.de
-0.0.0.0 consiliummedia.com
 0.0.0.0 console.gamesight.io
 0.0.0.0 constantcontact.com
 0.0.0.0 consumable.com
@@ -1047,13 +1039,11 @@
 0.0.0.0 counter.mirohost.net
 0.0.0.0 counter.sparklit.com
 0.0.0.0 counters.honesty.com
-0.0.0.0 coupling-media.de
+0.0.0.0 coupling.media
 0.0.0.0 coxdigitalsolutions.com
 0.0.0.0 coxmt.com
 0.0.0.0 cpalead.com
 0.0.0.0 cpays.com
-0.0.0.0 cpmadvisors.com
-0.0.0.0 cpmatic.com
 0.0.0.0 cpmstar.com
 0.0.0.0 cpvfeed.com
 0.0.0.0 cpxadroit.com
@@ -1067,7 +1057,6 @@
 0.0.0.0 crazyegg.com
 0.0.0.0 crazypopups.com
 0.0.0.0 creafi-online-media.com
-0.0.0.0 creativecdn.com
 0.0.0.0 creatives.livejasmin.com
 0.0.0.0 creative-serving.com
 0.0.0.0 credebat.com
@@ -1081,8 +1070,8 @@
 0.0.0.0 crm-metrix.com
 0.0.0.0 crossinstall.com
 0.0.0.0 crosspixelmedia.com
+0.0.0.0 crosspixel.net
 0.0.0.0 crowdscience.com
-0.0.0.0 crtv.mate1.com
 0.0.0.0 crucialinteractive.com
 0.0.0.0 crwdcntrl.net
 0.0.0.0 csdata1.com
@@ -1102,7 +1091,6 @@
 0.0.0.0 data2decisions.com
 0.0.0.0 dataexchanger.pl
 0.0.0.0 datafy-software.com
-0.0.0.0 dataium.com
 0.0.0.0 datalicious.com
 0.0.0.0 dataseat.com
 0.0.0.0 dataxu.com
@@ -1113,7 +1101,6 @@
 0.0.0.0 datvantage.com
 0.0.0.0 dbbsrv.com
 0.0.0.0 dc-storm.com
-0.0.0.0 de17a.com
 0.0.0.0 dealdotcom.com
 0.0.0.0 decdna.net
 0.0.0.0 decideinteractive.com
@@ -1148,7 +1135,6 @@
 0.0.0.0 digitalaudience.io
 0.0.0.0 digitalhub-h.de
 0.0.0.0 digitize.ie
-0.0.0.0 digitru.st
 0.0.0.0 dip.umeng.com
 0.0.0.0 directaclick.com
 0.0.0.0 directivepub.com
@@ -1168,19 +1154,14 @@
 0.0.0.0 distroscale.com
 0.0.0.0 dlqm.net
 0.0.0.0 dma-institute.com
-0.0.0.0 dmpxs.com
 0.0.0.0 dmtracker.com
-0.0.0.0 dmtracking.alibaba.com
-0.0.0.0 dmtracking2.alibaba.com
+0.0.0.0 dmxld.com
 0.0.0.0 dmxleo.com
-0.0.0.0 dnads.directnic.com
 0.0.0.0 dnps.com
 0.0.0.0 doc.good-loop.com
 0.0.0.0 doclix.com
 0.0.0.0 docs.rees46.com
 0.0.0.0 domainsponsor.com
-0.0.0.0 domdex.com
-0.0.0.0 domdex.net
 0.0.0.0 domodomain.com
 0.0.0.0 doubleclick.com
 0.0.0.0 doubleclick.de
@@ -1191,32 +1172,22 @@
 0.0.0.0 dp-dhl.com
 0.0.0.0 drawbrid.ge
 0.0.0.0 drumcash.com
-0.0.0.0 dserve.dentsu360th.com
-0.0.0.0 ds-iq.com
-0.0.0.0 dsmmadvantage.com
 0.0.0.0 dsnextgen.com
 0.0.0.0 dsnrgroup.com
 0.0.0.0 dsnrmg.com
 0.0.0.0 dsp.reklamstore.com
-0.0.0.0 dsp.yabbi.me
 0.0.0.0 dsply.com
 0.0.0.0 dstillery.com
 0.0.0.0 dt00.net
 0.0.0.0 dt07.net
-0.0.0.0 dtmpub.com
 0.0.0.0 dtscout.com
-0.0.0.0 durasite.net
-0.0.0.0 dwin1.com
-0.0.0.0 dwstat.cn
 0.0.0.0 dynad.net
 0.0.0.0 dynadmic.com
-0.0.0.0 dynamic.fmpub.net
 0.0.0.0 dynamic1001.com
 0.0.0.0 dynamicoxygen.com
 0.0.0.0 dynamicyield.com
 0.0.0.0 dynamo.video
 0.0.0.0 dynsrvtyu.com
-0.0.0.0 dyntrk.com
 0.0.0.0 e.kde.cz
 0.0.0.0 eacnur.org
 0.0.0.0 eadexchange.com
@@ -1230,15 +1201,12 @@
 0.0.0.0 e-bannerx.com
 0.0.0.0 e-bannery.cz
 0.0.0.0 ebayadvertising.com
-0.0.0.0 ebocornac.com
 0.0.0.0 ebuilders.nl
-0.0.0.0 ebuzzing.com
 0.0.0.0 echosearch.com
 0.0.0.0 ecircle-ag.com
 0.0.0.0 eclickz.com
 0.0.0.0 econda.de
 0.0.0.0 e-contenta.com
-0.0.0.0 ecsanalytics.com
 0.0.0.0 e-debtconsolidation.com
 0.0.0.0 edgenpd.com
 0.0.0.0 edigitalsurvey.com
@@ -1248,7 +1216,6 @@
 0.0.0.0 eficiens.com
 0.0.0.0 efrontier.com
 0.0.0.0 ehealthcaresolutions.com
-0.0.0.0 e-kolay.net
 0.0.0.0 eleavers.com
 0.0.0.0 elitedollars.com
 0.0.0.0 elitetoplist.com
@@ -1264,30 +1231,23 @@
 0.0.0.0 emerse.com
 0.0.0.0 emetriq.com
 0.0.0.0 emetriq.de
-0.0.0.0 emjcd.com
-0.0.0.0 emonitor.takeit.cz
 0.0.0.0 emxdgt.com
 0.0.0.0 emxdigital.com
 0.0.0.0 en25.com
 0.0.0.0 enbrite.ly
-0.0.0.0 encoremetrics.com
 0.0.0.0 enecto.com
 0.0.0.0 engagebdr.com
 0.0.0.0 engago.com
-0.0.0.0 engine.awaps.net
+0.0.0.0 enginemediaexchange.com
 0.0.0.0 enginenetwork.com
 0.0.0.0 engineseeker.com
 0.0.0.0 enoratraffic.com
 0.0.0.0 enquisite.com
 0.0.0.0 ensighten.com
 0.0.0.0 entercasino.com
-0.0.0.0 e-n-t-e-r-n-e-x.com
 0.0.0.0 enterprise.noddus.com
 0.0.0.0 entireweb.com
-0.0.0.0 envisionx.co
 0.0.0.0 epicadvertising.com
-0.0.0.0 epicmarketplace.com
-0.0.0.0 epicmobileads.com
 0.0.0.0 e-planning.net
 0.0.0.0 epom.com
 0.0.0.0 eproof.com
@@ -1296,12 +1256,11 @@
 0.0.0.0 eqworks.com
 0.0.0.0 eratead.com
 0.0.0.0 erne.co
+0.0.0.0 eroadvertising.com
 0.0.0.0 ero-advertising.com
 0.0.0.0 eskimi.com
 0.0.0.0 esm1.net
-0.0.0.0 essens.no
 0.0.0.0 estara.com
-0.0.0.0 estat.com
 0.0.0.0 etahub.com
 0.0.0.0 etarget.eu
 0.0.0.0 etargetnet.com
@@ -1314,9 +1273,6 @@
 0.0.0.0 eu1.madsone.com
 0.0.0.0 eulerian.com
 0.0.0.0 eulerian.net
-0.0.0.0 eur.a1.yimg.com
-0.0.0.0 euroclick.com
-0.0.0.0 euro-linkindex.de
 0.0.0.0 european-toplist.de
 0.0.0.0 euroranking.de
 0.0.0.0 euros4click.de
@@ -1325,12 +1281,10 @@
 0.0.0.0 everestjs.net
 0.0.0.0 everesttech.net
 0.0.0.0 evergage.com
-0.0.0.0 everydayhealth.com
 0.0.0.0 evidon.com
 0.0.0.0 eviltracker.net
 0.0.0.0 evisionsmarketing.com
 0.0.0.0 evolvemediacorp.com
-0.0.0.0 evolvemediametrics.com
 0.0.0.0 ewaydirect.com
 0.0.0.0 ewebcounter.com
 0.0.0.0 ewebse.com
@@ -1504,6 +1458,7 @@
 0.0.0.0 getglue.com
 0.0.0.0 getintent.com
 0.0.0.0 getiton.com
+0.0.0.0 gethatch.com
 0.0.0.0 getpolymorph.com
 0.0.0.0 getquanty.com
 0.0.0.0 getsitecontrol.com
@@ -1549,7 +1504,7 @@
 0.0.0.0 gpr.hu
 0.0.0.0 grabit.media
 0.0.0.0 grapeshot.co.uk
-0.0.0.0 graphenedigitalanalytics.in
+0.0.0.0 graphinium.com
 0.0.0.0 green.erne.co
 0.0.0.0 greystripe.com
 0.0.0.0 groceryshopping.net
@@ -1691,6 +1646,7 @@
 0.0.0.0 ignitionone.com
 0.0.0.0 ignitionone.net
 0.0.0.0 igodigital.com
+0.0.0.0 ihsmarkit.com
 0.0.0.0 ilead.itrack.it
 0.0.0.0 iloopmobile.com
 0.0.0.0 imagecash.net
@@ -1917,6 +1873,7 @@
 0.0.0.0 leanplum.com
 0.0.0.0 legal.trendstream.net
 0.0.0.0 legolas-media.com
+0.0.0.0 lenglow.com
 0.0.0.0 levelrate.de
 0.0.0.0 levexis.com
 0.0.0.0 lexosmedia.com
@@ -2903,6 +2860,7 @@
 0.0.0.0 rkdms.com
 0.0.0.0 rlcdn.com
 0.0.0.0 rlcdn.net
+0.0.0.0 rlvnt.nl
 0.0.0.0 rmads.msn.com
 0.0.0.0 rmbn.net
 0.0.0.0 rmedia.boston.com
@@ -3130,6 +3088,7 @@
 0.0.0.0 sonobi.com
 0.0.0.0 sophus3.co.uk
 0.0.0.0 sophus3.com
+0.0.0.0 sortable.com
 0.0.0.0 sourceknowledge.com
 0.0.0.0 sovrn.com
 0.0.0.0 spacash.com

@@ -3,7 +3,7 @@
 ! Title: EU US most prevalent ads & trackers ABP format.
 ! Expires: 7 days 
 !
-! Version: 2021.02.27
+! Version: 2021.02.28
 !
 ! Please report issues related to website breakage at
 ! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -792,10 +792,8 @@
 ||cashengines.com$third-party
 ||cashfiesta.com$third-party
 ||cashlayer.com$third-party
-||cashpartner.com$third-party
 ||casinopays.com$third-party
 ||casinorewards.com$third-party
-||casinotreasure.com$third-party
 ||cav.ai$third-party
 ||cbanners.virtuagirlhd.com$third-party
 ||cbproads.com$third-party
@@ -814,7 +812,6 @@
 ||chalkdigital.com$third-party
 ||chango.ca$third-party
 ||chango.com$third-party
-||channel4.com$third-party
 ||channeladvisor.com$third-party
 ||channelintelligence.com$third-party
 ||chart.dk$third-party
@@ -840,7 +837,6 @@
 ||clearsaleing.com$third-party
 ||clearsearchmedia.com$third-party
 ||clearsightinteractive.com$third-party
-||clearstream.tv$third-party
 ||clic2buy.com$third-party
 ||click.fool.com$third-party
 ||click2freemoney.com$third-party
@@ -932,8 +928,6 @@
 ||connatix.com$third-party
 ||connexity.*$third-party
 ||connextra.com$third-party
-||conrad.de$third-party
-||consiliummedia.com$third-party
 ||console.gamesight.io$third-party
 ||constantcontact.com$third-party
 ||consumable.com$third-party
@@ -978,13 +972,11 @@
 ||counter.mirohost.net$third-party
 ||counter.sparklit.com$third-party
 ||counters.honesty.com$third-party
-||coupling-media.de$third-party
+||coupling.media$third-party
 ||coxdigitalsolutions.com$third-party
 ||coxmt.com$third-party
 ||cpalead.com$third-party
 ||cpays.com$third-party
-||cpmadvisors.com$third-party
-||cpmatic.com$third-party
 ||cpmstar.com$third-party
 ||cpvfeed.com$third-party
 ||cpxadroit.com$third-party
@@ -998,7 +990,6 @@
 ||crazyegg.com$third-party
 ||crazypopups.com$third-party
 ||creafi-online-media.com$third-party
-||creativecdn.com$third-party
 ||creatives.livejasmin.com$third-party
 ||creative-serving.com$third-party
 ||credebat.com$third-party
@@ -1011,8 +1002,8 @@
 ||crm-metrix.com$third-party
 ||crossinstall.com$third-party
 ||crosspixelmedia.com$third-party
+||crosspixel.net$third-party
 ||crowdscience.com$third-party
-||crtv.mate1.com$third-party
 ||crucialinteractive.com$third-party
 ||crwdcntrl.net$third-party
 ||csdata1.com$third-party
@@ -1032,7 +1023,6 @@
 ||data2decisions.com$third-party
 ||dataexchanger.pl$third-party
 ||datafy-software.com$third-party
-||dataium.com$third-party
 ||datalicious.com$third-party
 ||dataseat.com$third-party
 ||dataxu.com$third-party
@@ -1043,7 +1033,6 @@
 ||datvantage.com$third-party
 ||dbbsrv.com$third-party
 ||dc-storm.com$third-party
-||de17a.com$third-party
 ||dealdotcom.com$third-party
 ||decdna.net$third-party
 ||decideinteractive.com$third-party
@@ -1076,8 +1065,6 @@
 ||digitalaudience.io$third-party
 ||digitalhub-h.de$third-party
 ||digitize.ie$third-party
-||digitru.st$third-party
-||dinclinx.com$third-party
 ||dip.umeng.com$third-party
 ||directaclick.com$third-party
 ||directivepub.com$third-party
@@ -1097,19 +1084,14 @@
 ||distroscale.com$third-party
 ||dlqm.net$third-party
 ||dma-institute.com$third-party
-||dmpxs.com$third-party
 ||dmtracker.com$third-party
-||dmtracking.alibaba.com$third-party
-||dmtracking2.alibaba.com$third-party
+||dmxld.com$third-party
 ||dmxleo.com$third-party
-||dnads.directnic.com$third-party
 ||dnps.com$third-party
 ||doc.good-loop.com$third-party
 ||doclix.com$third-party
 ||docs.rees46.com$third-party
 ||domainsponsor.com$third-party
-||domdex.com$third-party
-||domdex.net$third-party
 ||domodomain.com$third-party
 ||doubleclick.*$third-party
 ||doublepimp.com$third-party
@@ -1118,23 +1100,14 @@
 ||dp-dhl.com$third-party
 ||drawbrid.ge$third-party
 ||drumcash.com$third-party
-||dserve.dentsu360th.com$third-party
-||ds-iq.com$third-party
-||dsmmadvantage.com$third-party
 ||dsnextgen.com$third-party
 ||dsnrgroup.com$third-party
 ||dsnrmg.com$third-party
 ||dsp.reklamstore.com$third-party
-||dsp.yabbi.me$third-party
-||dsply.com$third-party
 ||dstillery.com$third-party
 ||dt00.net$third-party
 ||dt07.net$third-party
-||dtmpub.com$third-party
 ||dtscout.com$third-party
-||durasite.net$third-party
-||dwin1.com$third-party
-||dwstat.cn$third-party
 ||dynad.net$third-party
 ||dynadmic.com$third-party
 ||dynamic.fmpub.net$third-party
@@ -1143,7 +1116,6 @@
 ||dynamicyield.com$third-party
 ||dynamo.video$third-party
 ||dynsrvtyu.com$third-party
-||dyntrk.com$third-party
 ||e.kde.cz$third-party
 ||eacnur.org$third-party
 ||eadexchange.com$third-party
@@ -1157,15 +1129,12 @@
 ||e-bannerx.com$third-party
 ||e-bannery.cz$third-party
 ||ebayadvertising.com$third-party
-||ebocornac.com$third-party
 ||ebuilders.nl$third-party
-||ebuzzing.com$third-party
 ||echosearch.com$third-party
 ||ecircle-ag.com$third-party
 ||eclickz.com$third-party
 ||econda.de$third-party
 ||e-contenta.com$third-party
-||ecsanalytics.com$third-party
 ||e-debtconsolidation.com$third-party
 ||edgenpd.com$third-party
 ||edigitalsurvey.com$third-party
@@ -1174,8 +1143,6 @@
 ||eficiens.com$third-party
 ||efrontier.com$third-party
 ||ehealthcaresolutions.com$third-party
-||ekolay.net$third-party
-||e-kolay.net$third-party
 ||eleavers.com$third-party
 ||elitedollars.com$third-party
 ||elitetoplist.com$third-party
@@ -1187,30 +1154,24 @@
 ||emediate.*$third-party
 ||emerse.com$third-party
 ||emetriq.*$third-party
-||emjcd.com$third-party
 ||emonitor.takeit.cz$third-party
 ||emxdgt.com$third-party
 ||emxdigital.com$third-party
 ||en25.com$third-party
 ||enbrite.ly$third-party
-||encoremetrics.com$third-party
 ||enecto.com$third-party
 ||engagebdr.com$third-party
 ||engago.com$third-party
-||engine.awaps.net$third-party
+||enginemediaexchange.com$third-party
 ||enginenetwork.com$third-party
 ||engineseeker.com$third-party
 ||enoratraffic.com$third-party
 ||enquisite.com$third-party
 ||ensighten.com$third-party
 ||entercasino.com$third-party
-||e-n-t-e-r-n-e-x.com$third-party
 ||enterprise.noddus.com$third-party
 ||entireweb.com$third-party
-||envisionx.co$third-party
 ||epicadvertising.com$third-party
-||epicmarketplace.com$third-party
-||epicmobileads.com$third-party
 ||e-planning.net$third-party
 ||epom.com$third-party
 ||eproof.com$third-party
@@ -1219,12 +1180,11 @@
 ||eqworks.com$third-party
 ||eratead.com$third-party
 ||erne.co$third-party
+||eroadvertising.com$third-party
 ||ero-advertising.com$third-party
 ||eskimi.com$third-party
 ||esm1.net$third-party
-||essens.no$third-party
 ||estara.com$third-party
-||estat.com$third-party
 ||etahub.com$third-party
 ||etarget.eu$third-party
 ||etargetnet.com$third-party
@@ -1237,9 +1197,6 @@
 ||eu1.madsone.com$third-party
 ||eulerian.com$third-party
 ||eulerian.net$third-party
-||eur.a1.yimg.com$third-party
-||euroclick.com$third-party
-||euro-linkindex.de$third-party
 ||european-toplist.de$third-party
 ||euroranking.de$third-party
 ||euros4click.de$third-party
@@ -1248,12 +1205,10 @@
 ||everestjs.net$third-party
 ||everesttech.net$third-party
 ||evergage.com$third-party
-||everydayhealth.com$third-party
 ||evidon.com$third-party
 ||eviltracker.net$third-party
 ||evisionsmarketing.com$third-party
 ||evolvemediacorp.com$third-party
-||evolvemediametrics.com$third-party
 ||ewaydirect.com$third-party
 ||ewebcounter.com$third-party
 ||ewebse.com$third-party
@@ -1428,6 +1383,7 @@
 ||getglue.com$third-party
 ||getintent.com$third-party
 ||getiton.com$third-party
+||gethatch.com$third-party
 ||getpolymorph.com$third-party
 ||getquanty.com$third-party
 ||getsitecontrol.com$third-party
@@ -1474,7 +1430,7 @@
 ||gpr.hu$third-party
 ||grabit.media$third-party
 ||grapeshot.co.uk$third-party
-||graphenedigitalanalytics.in$third-party
+||graphinium.com$third-party
 ||green.erne.co$third-party
 ||greystripe.com$third-party
 ||groceryshopping.net$third-party
@@ -1614,6 +1570,7 @@
 ||ignition.ai$third-party
 ||ignitionone.*$third-party
 ||igodigital.com$third-party
+||ihsmarkit.com$third-party
 ||ilead.itrack.it$third-party
 ||iloopmobile.com$third-party
 ||imagecash.net$third-party
@@ -1838,6 +1795,7 @@
 ||leanplum.com$third-party
 ||legal.trendstream.net$third-party
 ||legolas-media.com$third-party
+||lenglow.com$third-party
 ||levelrate.de$third-party
 ||levexis.com$third-party
 ||lexosmedia.com$third-party
@@ -2820,8 +2778,8 @@
 ||ringier.cz$third-party
 ||rippll.com$third-party
 ||rkdms.com$third-party
-||rlcdn.com$third-party
-||rlcdn.net$third-party
+||rlcdn.*$third-party
+||rlvnt.nl$third-party
 ||rmads.msn.com$third-party
 ||rmbn.net$third-party
 ||rmedia.boston.com$third-party
@@ -3049,6 +3007,7 @@
 ||sonobi.com$third-party
 ||sophus3.co.uk$third-party
 ||sophus3.com$third-party
+||sortable.com$third-party
 ||sourceknowledge.com$third-party
 ||sovrn.com$third-party
 ||spacash.com$third-party

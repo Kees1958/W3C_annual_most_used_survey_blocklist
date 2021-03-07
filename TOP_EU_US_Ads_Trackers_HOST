@@ -1,7 +1,7 @@
 # Title: EU US most prevalent ads & trackers HOST format
 # Expires: 7 days
 #
-# Updated: Feb 29, 2021
+# Updated: Mar 07, 2021
 #
 # Please report issues related to website breakage at github
 # Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -48,10 +48,7 @@
 0.0.0.0 7search.com
 0.0.0.0 980media.com
 0.0.0.0 aproductmsg.com
-0.0.0.0 consumer.net
-0.0.0.0 mktw.net
-0.0.0.0 sakh.com
-0.0.0.0 xanga.com
+0.0.0.0 a.ki
 0.0.0.0 a1platform.co.kr
 0.0.0.0 a2dfp.net
 0.0.0.0 a32.g.a.yimg.com
@@ -535,6 +532,7 @@
 0.0.0.0 affine.tv
 0.0.0.0 affinesystems.com
 0.0.0.0 affinity.com
+0.0.0.0 affise.com
 0.0.0.0 afterdownload.com
 0.0.0.0 agcs.works
 0.0.0.0 aggregateknowledge.com
@@ -997,6 +995,7 @@
 0.0.0.0 console.gamesight.io
 0.0.0.0 constantcontact.com
 0.0.0.0 consumable.com
+0.0.0.0 consumer.net
 0.0.0.0 contactimpact.de
 0.0.0.0 contaxe.com
 0.0.0.0 contaxe.de
@@ -1302,26 +1301,20 @@
 0.0.0.0 exitfuel.com
 0.0.0.0 exitjunction.com
 0.0.0.0 exoclick.com
-0.0.0.0 exogripper.com
 0.0.0.0 exosrv.com
 0.0.0.0 experteerads.com
 0.0.0.0 exponential.com
 0.0.0.0 exposebox.com
 0.0.0.0 express-submit.de
 0.0.0.0 extend.tv
-0.0.0.0 extensionfactory.com
 0.0.0.0 extractorandburner.com
 0.0.0.0 extreme-dm.com
 0.0.0.0 extremereach.com
 0.0.0.0 extremetracking.com
-0.0.0.0 eyeblaster.com
-0.0.0.0 eyeconomy.co.uk
 0.0.0.0 eyeconomy.com
 0.0.0.0 eyeota.net
 0.0.0.0 eyereturn.com
 0.0.0.0 eyereturnmarketing.com
-0.0.0.0 eyeviewads.com
-0.0.0.0 eyeviewdigital.com
 0.0.0.0 eyewonder.com
 0.0.0.0 ezoic.net
 0.0.0.0 eztargetmedia.com
@@ -1329,7 +1322,6 @@
 0.0.0.0 f5biz.com
 0.0.0.0 facebookofsex.com
 0.0.0.0 facilitatedigital.com
-0.0.0.0 factortg.com
 0.0.0.0 factual.com
 0.0.0.0 fairfax.com.au
 0.0.0.0 faithadnet.com
@@ -1339,31 +1331,24 @@
 0.0.0.0 fast-adv.it
 0.0.0.0 fastbooking.com
 0.0.0.0 fastclick.com
-0.0.0.0 fastclick.com.edgesuite.net
 0.0.0.0 fastclick.net
 0.0.0.0 fathomdelivers.com
 0.0.0.0 fathomseo.com
-0.0.0.0 fb-promotions.com
 0.0.0.0 fc.webmasterpro.de
 0.0.0.0 federatedmedia.net
 0.0.0.0 feedbackresearch.com
-0.0.0.0 feedjit.com
 0.0.0.0 feedperfect.com
-0.0.0.0 fetchback.com
 0.0.0.0 ffn.com
 0.0.0.0 ffxcam.fairfax.com.au
 0.0.0.0 fg8dgt.com
 0.0.0.0 fiducia.eco
 0.0.0.0 fiftyt.com
 0.0.0.0 fiksu.com
-0.0.0.0 fimc.net
 0.0.0.0 fimserve.com
 0.0.0.0 financialcontent.com
 0.0.0.0 findcommerce.com
 0.0.0.0 findyourcasino.com
-0.0.0.0 fineclicks.com
 0.0.0.0 first.nova.cz
-0.0.0.0 firstlightera.com
 0.0.0.0 firststars.de
 0.0.0.0 fiverr.com
 0.0.0.0 fizzbuzzmedia.com
@@ -1372,24 +1357,17 @@
 0.0.0.0 flashtalking.com
 0.0.0.0 fleshlightcash.com
 0.0.0.0 flexbanner.com
-0.0.0.0 flite.com
 0.0.0.0 flowgo.com
 0.0.0.0 flurry.com
 0.0.0.0 flytxt.com
 0.0.0.0 fmpub.net
-0.0.0.0 fonecta.leiki.com
-0.0.0.0 foo.cosmocode.de
 0.0.0.0 footprintlive.com
 0.0.0.0 forex-affiliate.net
 0.0.0.0 fospha.com
-0.0.0.0 foxnetworks.com
-0.0.0.0 foxonestop.com
 0.0.0.0 fpctraffic.com
 0.0.0.0 fpctraffic2.com
 0.0.0.0 fqtag.com
 0.0.0.0 fractionalmedia.com
-0.0.0.0 fragmentserv.iac-online.de
-0.0.0.0 francetelevisions.fr
 0.0.0.0 franecki.net
 0.0.0.0 fraudjs.io
 0.0.0.0 fraudlogix.com
@@ -1397,7 +1375,6 @@
 0.0.0.0 freebanner.com
 0.0.0.0 freedom.com
 0.0.0.0 freelogs.com
-0.0.0.0 freemyapps.com
 0.0.0.0 freeonlineusers.com
 0.0.0.0 free-pagerank.com
 0.0.0.0 freepay.com
@@ -1409,12 +1386,10 @@
 0.0.0.0 fringe81.com
 0.0.0.0 frogsex.com
 0.0.0.0 fsharp.co
-0.0.0.0 ftjcfx.com
 0.0.0.0 fuel451.com
 0.0.0.0 fuelx.com
 0.0.0.0 fullstory.com
 0.0.0.0 fulltango.com
-0.0.0.0 funklicks.com
 0.0.0.0 funpageexchange.com
 0.0.0.0 fusionads.net
 0.0.0.0 fusionquest.com
@@ -1434,10 +1409,8 @@
 0.0.0.0 gamesitestop100.com
 0.0.0.0 gamned.com
 0.0.0.0 gannett.com
-0.0.0.0 gator.com
 0.0.0.0 gaug.es
 0.0.0.0 gayadnetwork.com
-0.0.0.0 gbanners.hornymatches.com
 0.0.0.0 gb-world.net
 0.0.0.0 gemius.com
 0.0.0.0 gemius.pl
@@ -1450,11 +1423,9 @@
 0.0.0.0 geobanner.adultfriendfinder.com
 0.0.0.0 geolad.com
 0.0.0.0 geovisite.com
-0.0.0.0 german-linkindex.de
 0.0.0.0 gestionpub.com
 0.0.0.0 getblue.io
 0.0.0.0 getcake.com
-0.0.0.0 getclicky.com
 0.0.0.0 getglue.com
 0.0.0.0 getintent.com
 0.0.0.0 getiton.com
@@ -1467,20 +1438,15 @@
 0.0.0.0 gfkdaphne.com
 0.0.0.0 ghtinc.com
 0.0.0.0 giantmedia.com
-0.0.0.0 giantrealm.com
 0.0.0.0 glam.com
 0.0.0.0 glammedia.com
-0.0.0.0 glanceguide.com
 0.0.0.0 globalismedia.com
-0.0.0.0 globaltakeoff.net
 0.0.0.0 globaltrack.com
 0.0.0.0 globe7.com
 0.0.0.0 globus-inter.com
 0.0.0.0 gmads.net
 0.0.0.0 go.pl
 0.0.0.0 goadservices.com
-0.0.0.0 gobid.auction
-0.0.0.0 gocampaignlive.com
 0.0.0.0 go-clicks.de
 0.0.0.0 godatafeed.com
 0.0.0.0 goingplatinum.com
@@ -1500,9 +1466,7 @@
 0.0.0.0 gostats.com
 0.0.0.0 gotechnology.io
 0.0.0.0 goutee.top
-0.0.0.0 gp.dejanews.com
 0.0.0.0 gpr.hu
-0.0.0.0 grabit.media
 0.0.0.0 grapeshot.co.uk
 0.0.0.0 graphinium.com
 0.0.0.0 green.erne.co
@@ -1513,7 +1477,6 @@
 0.0.0.0 groupm.com
 0.0.0.0 gruuvinteractive.com
 0.0.0.0 gruvi.tv
-0.0.0.0 gscontxt.net
 0.0.0.0 gscounters.eu1.gigya.com
 0.0.0.0 gsicommerce.com
 0.0.0.0 gsimedia.net
@@ -1559,8 +1522,6 @@
 0.0.0.0 hit.webcentre.lycos.co.uk
 0.0.0.0 hitbox.com
 0.0.0.0 hitcents.com
-0.0.0.0 hitexchange.net
-0.0.0.0 hitiz.com
 0.0.0.0 hitlounge.com
 0.0.0.0 hitometer.com
 0.0.0.0 hits.europuls.eu
@@ -1568,15 +1529,11 @@
 0.0.0.0 hits.puls.lv
 0.0.0.0 hits.theguardian.com
 0.0.0.0 hits4me.com
-0.0.0.0 hits4pay.com
 0.0.0.0 hitslink.com
-0.0.0.0 hitsniffer.com
 0.0.0.0 hitsprocessor.com
 0.0.0.0 hittail.com
 0.0.0.0 hitx.com
 0.0.0.0 hl.co.uk
-0.0.0.0 hleb.agency
-0.0.0.0 hlserve.com
 0.0.0.0 hockeycurve.com
 0.0.0.0 homepageking.de
 0.0.0.0 hooklogic.com
@@ -1609,9 +1566,7 @@
 0.0.0.0 hypertvx.com
 0.0.0.0 i1img.com
 0.0.0.0 i1media.no
-0.0.0.0 ia.info.cz
 0.0.0.0 iac.com
-0.0.0.0 iad.anm.co.uk
 0.0.0.0 iadctest.qwapi.com
 0.0.0.0 iadnet.com
 0.0.0.0 iadsdk.apple.com
@@ -1634,7 +1589,6 @@
 0.0.0.0 idg.com
 0.0.0.0 idgtechnetwork.com
 0.0.0.0 idot.cz
-0.0.0.0 idregie.com
 0.0.0.0 idtargeting.com
 0.0.0.0 ientry.com
 0.0.0.0 ientrymail.com
@@ -1645,7 +1599,6 @@
 0.0.0.0 ignition.ai
 0.0.0.0 ignitionone.com
 0.0.0.0 ignitionone.net
-0.0.0.0 igodigital.com
 0.0.0.0 ihsmarkit.com
 0.0.0.0 ilead.itrack.it
 0.0.0.0 iloopmobile.com
@@ -1686,7 +1639,6 @@
 0.0.0.0 infinityads.com
 0.0.0.0 inflectionpointmedia.com
 0.0.0.0 influenceaudience.com
-0.0.0.0 info.jp.widerplanet.com
 0.0.0.0 infolinks.com
 0.0.0.0 information.com
 0.0.0.0 infra-ad.com
@@ -1697,7 +1649,6 @@
 0.0.0.0 inner-active.mobi
 0.0.0.0 innity.com
 0.0.0.0 innovid.com
-0.0.0.0 inpagepush.com
 0.0.0.0 inq.com
 0.0.0.0 inres.sk
 0.0.0.0 inringtone.com
@@ -1734,11 +1685,9 @@
 0.0.0.0 inuvi.com
 0.0.0.0 inuvo.com
 0.0.0.0 investingchannel.com
-0.0.0.0 invitemedia.com
 0.0.0.0 inviziads.com
 0.0.0.0 iotecglobal.com
 0.0.0.0 ip.ro
-0.0.0.0 ipcounter.de
 0.0.0.0 iperceptions.com
 0.0.0.0 iponweb.com
 0.0.0.0 iponweb.net
@@ -1749,7 +1698,6 @@
 0.0.0.0 ipromote.com
 0.0.0.0 iprospect.com
 0.0.0.0 iqm.com
-0.0.0.0 ireklama.cz
 0.0.0.0 ironsrc.com
 0.0.0.0 islay.tech
 0.0.0.0 ismatlab.com
@@ -1769,9 +1717,7 @@
 0.0.0.0 ivdopia.com
 0.0.0.0 ivitrack.com
 0.0.0.0 ivo.io
-0.0.0.0 ivypixel.com
 0.0.0.0 ixs1.net
-0.0.0.0 jaminfinity.tk
 0.0.0.0 jampp.com
 0.0.0.0 jaroop.com
 0.0.0.0 jasperlabs.com
@@ -2058,6 +2004,7 @@
 0.0.0.0 mediagra.com
 0.0.0.0 mediahead.com
 0.0.0.0 mediaintelligence.de
+0.0.0.0 mediamind.com
 0.0.0.0 mediaiprom.com
 0.0.0.0 medialab.group
 0.0.0.0 medialabs.es
@@ -2147,6 +2094,7 @@
 0.0.0.0 mixpo.com
 0.0.0.0 mixtraffic.com
 0.0.0.0 mkt51.net
+0.0.0.0 mktw.net
 0.0.0.0 mktoresp.com
 0.0.0.0 mktsci.com
 0.0.0.0 ml314.com
@@ -2243,6 +2191,7 @@
 0.0.0.0 mxpnl.com
 0.0.0.0 mxptint.net
 0.0.0.0 my.aidata.me
+0.0.0.0 my-stats.com
 0.0.0.0 myads.com
 0.0.0.0 myaffiliateprogram.com
 0.0.0.0 mybloglog.com
@@ -2251,6 +2200,7 @@
 0.0.0.0 mycounter.ua
 0.0.0.0 mydas.mobi
 0.0.0.0 mydsp.io
+0.0.0.0 myfuseclick.com
 0.0.0.0 mynativeplatform.com
 0.0.0.0 mypagerank.net
 0.0.0.0 mypowermall.com
@@ -2911,6 +2861,7 @@
 0.0.0.0 sageanalyst.net
 0.0.0.0 sagemetrics.com
 0.0.0.0 sail-track.com
+0.0.0.0 sakh.com
 0.0.0.0 salesmachine.io
 0.0.0.0 samba.tv
 0.0.0.0 sapient.com
@@ -3219,6 +3170,7 @@
 0.0.0.0 swoop.com
 0.0.0.0 swordfishdc.com
 0.0.0.0 sx.trhnt.com
+0.0.0.0 symphonyam.com
 0.0.0.0 synacor.com
 0.0.0.0 syncapse.com
 0.0.0.0 syndication.twitter.com
@@ -3319,8 +3271,8 @@
 0.0.0.0 thruport.com
 0.0.0.0 tidaltv.com
 0.0.0.0 timeonegroup.com
-0.0.0.0 tinder.com
 0.0.0.0 tinybar.com
+0.0.0.0 tipalti.com
 0.0.0.0 tiqiq.com
 0.0.0.0 tisoomi.com
 0.0.0.0 tizers.net
@@ -3450,6 +3402,7 @@
 0.0.0.0 tuky.net
 0.0.0.0 tumri.com
 0.0.0.0 tumri.net
+0.0.0.0 tune.com
 0.0.0.0 turboadv.com
 0.0.0.0 turbobytes.com
 0.0.0.0 turn.com
@@ -3715,6 +3668,7 @@
 0.0.0.0 xad.com
 0.0.0.0 xaded.com
 0.0.0.0 xandr.com
+0.0.0.0 xanga.com
 0.0.0.0 xaxis.com
 0.0.0.0 xchange.ro
 0.0.0.0 xcheck.co

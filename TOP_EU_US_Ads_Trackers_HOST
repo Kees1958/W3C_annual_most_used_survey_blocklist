@@ -1,7 +1,7 @@
 # Title: EU US most prevalent ads & trackers HOST format
 # Expires: 7 days
 #
-# Updated: Mar 07, 2021
+# Updated: Mar 09, 2021
 #
 # Please report issues related to website breakage at github
 # Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -1289,14 +1289,11 @@
 0.0.0.0 ewebse.com
 0.0.0.0 exactag.com
 0.0.0.0 exchange.bg
-0.0.0.0 exchangead.com
-0.0.0.0 exchangeclicksonline.com
 0.0.0.0 exchange-it.com
 0.0.0.0 excitad.com
 0.0.0.0 exdynsrv.com
 0.0.0.0 exelate.com
 0.0.0.0 exelator.com
-0.0.0.0 exit76.com
 0.0.0.0 exitexchange.com
 0.0.0.0 exitfuel.com
 0.0.0.0 exitjunction.com
@@ -1333,11 +1330,9 @@
 0.0.0.0 fastclick.com
 0.0.0.0 fastclick.net
 0.0.0.0 fathomdelivers.com
-0.0.0.0 fathomseo.com
 0.0.0.0 fc.webmasterpro.de
 0.0.0.0 federatedmedia.net
 0.0.0.0 feedbackresearch.com
-0.0.0.0 feedperfect.com
 0.0.0.0 ffn.com
 0.0.0.0 ffxcam.fairfax.com.au
 0.0.0.0 fg8dgt.com
@@ -1347,7 +1342,6 @@
 0.0.0.0 fimserve.com
 0.0.0.0 financialcontent.com
 0.0.0.0 findcommerce.com
-0.0.0.0 findyourcasino.com
 0.0.0.0 first.nova.cz
 0.0.0.0 firststars.de
 0.0.0.0 fiverr.com
@@ -1357,7 +1351,6 @@
 0.0.0.0 flashtalking.com
 0.0.0.0 fleshlightcash.com
 0.0.0.0 flexbanner.com
-0.0.0.0 flowgo.com
 0.0.0.0 flurry.com
 0.0.0.0 flytxt.com
 0.0.0.0 fmpub.net
@@ -1387,12 +1380,10 @@
 0.0.0.0 frogsex.com
 0.0.0.0 fsharp.co
 0.0.0.0 fuel451.com
-0.0.0.0 fuelx.com
 0.0.0.0 fullstory.com
 0.0.0.0 fulltango.com
 0.0.0.0 funpageexchange.com
 0.0.0.0 fusionads.net
-0.0.0.0 fusionquest.com
 0.0.0.0 futureads.com
 0.0.0.0 fwmrm.net
 0.0.0.0 fxclix.com
@@ -1405,13 +1396,10 @@
 0.0.0.0 gamehouse.com
 0.0.0.0 games2win.com
 0.0.0.0 gamesites100.net
-0.0.0.0 gamesites200.com
-0.0.0.0 gamesitestop100.com
 0.0.0.0 gamned.com
 0.0.0.0 gannett.com
 0.0.0.0 gaug.es
 0.0.0.0 gayadnetwork.com
-0.0.0.0 gb-world.net
 0.0.0.0 gemius.com
 0.0.0.0 gemius.pl
 0.0.0.0 genesismedia.com
@@ -1423,7 +1411,6 @@
 0.0.0.0 geobanner.adultfriendfinder.com
 0.0.0.0 geolad.com
 0.0.0.0 geovisite.com
-0.0.0.0 gestionpub.com
 0.0.0.0 getblue.io
 0.0.0.0 getcake.com
 0.0.0.0 getglue.com
@@ -1443,10 +1430,8 @@
 0.0.0.0 globalismedia.com
 0.0.0.0 globaltrack.com
 0.0.0.0 globe7.com
-0.0.0.0 globus-inter.com
 0.0.0.0 gmads.net
 0.0.0.0 go.pl
-0.0.0.0 goadservices.com
 0.0.0.0 go-clicks.de
 0.0.0.0 godatafeed.com
 0.0.0.0 goingplatinum.com
@@ -1505,7 +1490,6 @@
 0.0.0.0 hearst.com
 0.0.0.0 hellobar.com
 0.0.0.0 hentaicounter.com
-0.0.0.0 herbalaffiliateprogram.com
 0.0.0.0 herolens.com
 0.0.0.0 heronpartners.com.au
 0.0.0.0 hexusads.fluent.ltd.uk
@@ -1513,7 +1497,6 @@
 0.0.0.0 heywire.com
 0.0.0.0 hgads.com
 0.0.0.0 hidden.gogoceleb.com
-0.0.0.0 hightrafficads.com
 0.0.0.0 hilltopads.com
 0.0.0.0 hilltopads.net
 0.0.0.0 hi-media.com
@@ -1551,15 +1534,12 @@
 0.0.0.0 hs-analytics.net
 0.0.0.0 httpool.com
 0.0.0.0 hubapi.com
-0.0.0.0 hubdsp.com
-0.0.0.0 hubspot.com
 0.0.0.0 hubvisor.io
 0.0.0.0 humandemand.com
 0.0.0.0 huntmads.com
 0.0.0.0 hurra.com
 0.0.0.0 hurricanedigitalmedia.com
 0.0.0.0 hybrid.ai
-0.0.0.0 hydramedia.com
 0.0.0.0 hyperadx.com
 0.0.0.0 hyperbanner.net
 0.0.0.0 hypertracker.com
@@ -1569,7 +1549,6 @@
 0.0.0.0 iac.com
 0.0.0.0 iadctest.qwapi.com
 0.0.0.0 iadnet.com
-0.0.0.0 iadsdk.apple.com
 0.0.0.0 iadvize.com
 0.0.0.0 i-behavior.com
 0.0.0.0 ibillboard.com
@@ -1584,7 +1563,6 @@
 0.0.0.0 id.google.de
 0.0.0.0 id.google.nl
 0.0.0.0 id5-sync.com
-0.0.0.0 iddiction.com
 0.0.0.0 identads.com
 0.0.0.0 idg.com
 0.0.0.0 idgtechnetwork.com
@@ -1605,7 +1583,6 @@
 0.0.0.0 imagecash.net
 0.0.0.0 images-pw.secureserver.net
 0.0.0.0 im-apps.net
-0.0.0.0 imarketservices.com
 0.0.0.0 imatmobile.com
 0.0.0.0 img.prohardver.hu
 0.0.0.0 imgpromo.easyrencontre.com
@@ -1627,7 +1604,6 @@
 0.0.0.0 inboundwriter.com
 0.0.0.0 inboxdollars.com
 0.0.0.0 incentaclick.com
-0.0.0.0 index.com
 0.0.0.0 indexexchange.com
 0.0.0.0 indexstats.com
 0.0.0.0 indieclick.com
@@ -1641,20 +1617,16 @@
 0.0.0.0 influenceaudience.com
 0.0.0.0 infolinks.com
 0.0.0.0 information.com
-0.0.0.0 infra-ad.com
 0.0.0.0 ingenio.com
 0.0.0.0 ingenioustechnologies.com
 0.0.0.0 inmobi.com
 0.0.0.0 inner-active.com
-0.0.0.0 inner-active.mobi
 0.0.0.0 innity.com
 0.0.0.0 innovid.com
 0.0.0.0 inq.com
 0.0.0.0 inres.sk
-0.0.0.0 inringtone.com
 0.0.0.0 insightexpress.com
 0.0.0.0 insightexpressai.com
-0.0.0.0 insightgrit.com
 0.0.0.0 inskinmedia.com
 0.0.0.0 inspectlet.com
 0.0.0.0 inspired-mobile.com
@@ -1664,7 +1636,6 @@
 0.0.0.0 instinctiveads.com
 0.0.0.0 integralads.com
 0.0.0.0 intelliad.de
-0.0.0.0 intelliads.com
 0.0.0.0 intelligencefocus.com
 0.0.0.0 intellitxt.com
 0.0.0.0 intentiq.com
@@ -1692,7 +1663,6 @@
 0.0.0.0 iponweb.com
 0.0.0.0 iponweb.net
 0.0.0.0 ipredictive.com
-0.0.0.0 ipro.com
 0.0.0.0 iprom.net
 0.0.0.0 iprom.si
 0.0.0.0 ipromote.com
@@ -1705,16 +1675,12 @@
 0.0.0.0 isocket.com
 0.0.0.0 ispot.tv
 0.0.0.0 issuu.com
-0.0.0.0 i-stats.com
 0.0.0.0 iteratehq.com
-0.0.0.0 itfarm.com
 0.0.0.0 itisatracker.com
 0.0.0.0 itop.cz
 0.0.0.0 itsoneiota.com
 0.0.0.0 itsptp.com
-0.0.0.0 its-that-easy.com
 0.0.0.0 itsup.com
-0.0.0.0 ivdopia.com
 0.0.0.0 ivitrack.com
 0.0.0.0 ivo.io
 0.0.0.0 ixs1.net
@@ -1725,7 +1691,6 @@
 0.0.0.0 jbeet.cjt1.net
 0.0.0.0 jcount.com
 0.0.0.0 jedonkey.cjt1.net
-0.0.0.0 jemmgroup.com
 0.0.0.0 jink.de
 0.0.0.0 jinkads.com
 0.0.0.0 jinkads.de
@@ -1735,7 +1700,6 @@
 0.0.0.0 jnova.cjt1.net
 0.0.0.0 jobthread.com
 0.0.0.0 joetec.net
-0.0.0.0 jokedollars.com
 0.0.0.0 joystickinteractive.com
 0.0.0.0 js.users.51.la
 0.0.0.0 jsrdn.com

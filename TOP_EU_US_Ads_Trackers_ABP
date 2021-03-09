@@ -3,7 +3,7 @@
 ! Title: EU US most prevalent ads & trackers ABP format.
 ! Expires: 7 days 
 !
-! Version: 2021.03.07
+! Version: 2021.03.09
 !
 ! Please report issues related to website breakage at
 ! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -1215,7 +1215,6 @@
 ||ewebse.com$third-party
 ||exactag.com$third-party
 ||exchange.bg$third-party
-||exchangead.com$third-party
 ||exchange-it.com$third-party
 ||excitad.com$third-party
 ||exdynsrv.com$third-party
@@ -1257,11 +1256,9 @@
 ||fastbooking.com$third-party
 ||fastclick.*$third-party
 ||fathomdelivers.com$third-party
-||fathomseo.com$third-party
 ||fc.webmasterpro.de$third-party
 ||federatedmedia.net$third-party
 ||feedbackresearch.com$third-party
-||feedperfect.com$third-party
 ||ffn.com$third-party
 ||ffxcam.fairfax.com.au$third-party
 ||fg8dgt.com$third-party
@@ -1271,7 +1268,6 @@
 ||fimserve.com$third-party
 ||financialcontent.com$third-party
 ||findcommerce.com$third-party
-||findyourcasino.com$third-party
 ||first.nova.cz$third-party
 ||firststars.de$third-party
 ||fiverr.com$third-party
@@ -1280,7 +1276,6 @@
 ||flashtalking.com$third-party
 ||fleshlightcash.com$third-party
 ||flexbanner.com$third-party
-||flowgo.com$third-party
 ||flurry.com$third-party
 ||flytxt.com$third-party
 ||fmpub.net$third-party
@@ -1310,12 +1305,10 @@
 ||frogsex.com$third-party
 ||fsharp.co$third-party
 ||fuel451.com$third-party
-||fuelx.com$third-party
 ||fullstory.com$third-party
 ||fulltango.com$third-party
 ||funpageexchange.com$third-party
 ||fusionads.net$third-party
-||fusionquest.com$third-party
 ||futureads.com$third-party
 ||fwmrm.net$third-party
 ||fxclix.com$third-party
@@ -1328,13 +1321,10 @@
 ||gamehouse.com$third-party
 ||games2win.com$third-party
 ||gamesites100.net$third-party
-||gamesites200.com$third-party
-||gamesitestop100.com$third-party
 ||gamned.com$third-party
 ||gannett.com$third-party
 ||gaug.es$third-party
 ||gayadnetwork.com$third-party
-||gb-world.net$third-party
 ||gemius.com$third-party
 ||gemius.pl$third-party
 ||genesismedia.com$third-party
@@ -1346,7 +1336,6 @@
 ||geobanner.adultfriendfinder.com$third-party
 ||geolad.com$third-party
 ||geovisite.com$third-party
-||gestionpub.com$third-party
 ||getblue.io$third-party
 ||getcake.com$third-party
 ||getglue.com$third-party
@@ -1365,10 +1354,8 @@
 ||globalismedia.com$third-party
 ||globaltrack.com$third-party
 ||globe7.com$third-party
-||globus-inter.com$third-party
 ||gmads.net$third-party
 ||go.pl$third-party
-||goadservices.com$third-party
 ||gobid.auction$third-party
 ||go-clicks.de$third-party
 ||godatafeed.com$third-party
@@ -1430,7 +1417,6 @@
 ||hearst.com$third-party
 ||hellobar.com$third-party
 ||hentaicounter.com$third-party
-||herbalaffiliateprogram.com$third-party
 ||herolens.com$third-party
 ||heronpartners.com.au$third-party
 ||hexusads.fluent.ltd.uk$third-party
@@ -1438,7 +1424,6 @@
 ||heywire.com$third-party
 ||hgads.com$third-party
 ||hidden.gogoceleb.com$third-party
-||hightrafficads.com$third-party
 ||hilltopads.com$third-party
 ||hilltopads.net$third-party
 ||hi-media.com$third-party
@@ -1476,15 +1461,12 @@
 ||hs-analytics.net$third-party
 ||httpool.com$third-party
 ||hubapi.com$third-party
-||hubdsp.com$third-party
-||hubspot.com$third-party
 ||hubvisor.io$third-party
 ||humandemand.com$third-party
 ||huntmads.com$third-party
 ||hurra.com$third-party
 ||hurricanedigitalmedia.com$third-party
 ||hybrid.ai$third-party
-||hydramedia.com$third-party
 ||hyperadx.com$third-party
 ||hyperbanner.net$third-party
 ||hypertracker.com$third-party
@@ -1494,7 +1476,6 @@
 ||iac.com$third-party
 ||iadctest.qwapi.com$third-party
 ||iadnet.com$third-party
-||iadsdk.apple.com$third-party
 ||iadvize.com$third-party
 ||i-behavior.com$third-party
 ||ibillboard.com$third-party
@@ -1507,7 +1488,6 @@
 ||icrossing.com$third-party
 ||id.google.*$image
 ||id5-sync.com$third-party
-||iddiction.com$third-party
 ||identads.com$third-party
 ||idg.com$third-party
 ||idgtechnetwork.com$third-party
@@ -1527,7 +1507,6 @@
 ||imagecash.net$third-party
 ||images-pw.secureserver.net$third-party
 ||im-apps.net$third-party
-||imarketservices.com$third-party
 ||imatmobile.com$third-party
 ||img.prohardver.hu$third-party
 ||imgpromo.easyrencontre.com$third-party
@@ -1548,7 +1527,6 @@
 ||inboundwriter.com$third-party
 ||inboxdollars.com$third-party
 ||incentaclick.com$third-party
-||index.com$third-party
 ||indexexchange.com$third-party
 ||indexstats.com$third-party
 ||indieclick.com$third-party
@@ -1562,20 +1540,16 @@
 ||influenceaudience.com$third-party
 ||infolinks.com$third-party
 ||information.com$third-party
-||infra-ad.com$third-party
 ||ingenio.com$third-party
 ||ingenioustechnologies.com$third-party
 ||inmobi.com$third-party
 ||inner-active.com$third-party
-||inner-active.mobi$third-party
 ||innity.com$third-party
 ||innovid.com$third-party
 ||inq.com$third-party
 ||inres.sk$third-party
-||inringtone.com$third-party
 ||insightexpress.com$third-party
 ||insightexpressai.com$third-party
-||insightgrit.com$third-party
 ||inskinmedia.com$third-party
 ||inspectlet.com$third-party
 ||inspired-mobile.com$third-party
@@ -1585,7 +1559,6 @@
 ||instinctiveads.com$third-party
 ||integralads.com$third-party
 ||intelliad.de$third-party
-||intelliads.com$third-party
 ||intelligencefocus.com$third-party
 ||intellitxt.com$third-party
 ||intentiq.com$third-party
@@ -1612,7 +1585,6 @@
 ||iponweb.com$third-party
 ||iponweb.net$third-party
 ||ipredictive.com$third-party
-||ipro.com$third-party
 ||iprom.net$third-party
 ||iprom.si$third-party
 ||ipromote.com$third-party
@@ -1625,16 +1597,12 @@
 ||isocket.com$third-party
 ||ispot.tv$third-party
 ||issuu.com$third-party
-||i-stats.com$third-party
 ||iteratehq.com$third-party
-||itfarm.com$third-party
 ||itisatracker.com$third-party
 ||itop.cz$third-party
 ||itsoneiota.com$third-party
 ||itsptp.com$third-party
-||its-that-easy.com$third-party
 ||itsup.com$third-party
-||ivdopia.com$third-party
 ||ivitrack.com$third-party
 ||ivo.io$third-party
 ||ixs1.net$third-party
@@ -1645,7 +1613,6 @@
 ||jbeet.cjt1.net$third-party
 ||jcount.com$third-party
 ||jedonkey.cjt1.net$third-party
-||jemmgroup.com$third-party
 ||jink.de$third-party
 ||jinkads.*$third-party
 ||jivox.com$third-party
@@ -1654,7 +1621,6 @@
 ||jnova.cjt1.net$third-party
 ||jobthread.com$third-party
 ||joetec.net$third-party
-||jokedollars.com$third-party
 ||joystickinteractive.com$third-party
 ||js.users.51.la$third-party
 ||jsrdn.com$third-party

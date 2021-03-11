@@ -3,7 +3,7 @@
 ! Title: EU US most prevalent ads & trackers ABP format.
 ! Expires: 7 days 
 !
-! Version: 2021.03.09
+! Version: 2021.03.11
 !
 ! Please report issues related to website breakage at
 ! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -1218,7 +1218,6 @@
 ||exchange-it.com$third-party
 ||excitad.com$third-party
 ||exdynsrv.com$third-party
-||exelate.com$third-party
 ||exelator.com$third-party
 ||exitexchange.com$third-party
 ||exitfuel.com$third-party
@@ -1240,7 +1239,6 @@
 ||eyereturnmarketing.com$third-party
 ||eyewonder.com$third-party
 ||ezoic.net$third-party
-||eztargetmedia.com$third-party
 ||eztexting.com$third-party
 ||f5biz.com$third-party
 ||facebook.*$third-party,domain=~facebook.com|~messenger.com
@@ -1266,9 +1264,7 @@
 ||fiftyt.com$third-party
 ||fiksu.com$third-party
 ||fimserve.com$third-party
-||financialcontent.com$third-party
 ||findcommerce.com$third-party
-||first.nova.cz$third-party
 ||firststars.de$third-party
 ||fiverr.com$third-party
 ||fizzbuzzmedia.*$third-party
@@ -1285,18 +1281,14 @@
 ||fpctraffic.com$third-party
 ||fpctraffic2.com$third-party
 ||fqtag.com$third-party
-||fractionalmedia.com$third-party
 ||franecki.net$third-party
 ||fraudjs.io$third-party
 ||fraudlogix.com$third-party
 ||freckleiot.com$third-party
 ||freebanner.com$third-party
-||freedom.com$third-party
 ||freelogs.com$third-party
 ||freeonlineusers.com$third-party
 ||free-pagerank.com$third-party
-||freepay.com$third-party
-||freeskreen.com$third-party
 ||freestats.com$third-party
 ||freestats.tv$third-party
 ||freewebcounter.com$third-party
@@ -1307,7 +1299,6 @@
 ||fuel451.com$third-party
 ||fullstory.com$third-party
 ||fulltango.com$third-party
-||funpageexchange.com$third-party
 ||fusionads.net$third-party
 ||futureads.com$third-party
 ||fwmrm.net$third-party
@@ -1317,7 +1308,6 @@
 ||fxstyle.net$third-party
 ||fyber.com$third-party
 ||galaxien.com$third-party
-||game-advertising-online.com$third-party
 ||gamehouse.com$third-party
 ||games2win.com$third-party
 ||gamesites100.net$third-party
@@ -1329,12 +1319,9 @@
 ||gemius.pl$third-party
 ||genesismedia.com$third-party
 ||genesismediaus.com$third-party
-||geniegroupltd.co.uk$third-party
 ||geniusmonkey.com$third-party
 ||geo.digitalpoint.com$third-party
-||geoads.com$third-party
 ||geobanner.adultfriendfinder.com$third-party
-||geolad.com$third-party
 ||geovisite.com$third-party
 ||getblue.io$third-party
 ||getcake.com$third-party
@@ -1362,9 +1349,7 @@
 ||goingplatinum.com$third-party
 ||goldbach.com$third-party
 ||goldbachgroup.com$third-party
-||goldspotmedia.com$third-party
 ||goldstats.com$third-party
-||gomez.com$third-party
 ||go-mpulse.net$third-party
 ||goodeed.com$third-party
 ||goodwaygroup.com$third-party
@@ -1372,7 +1357,6 @@
 ||google-analytics.com$third-party
 ||googlesyndication.*/pagead/$third-party
 ||go-rank.de$third-party
-||gorillanation.com$third-party
 ||gosquared.com$third-party
 ||gostats.com$third-party
 ||gotechnology.io$third-party
@@ -1382,7 +1366,6 @@
 ||graphinium.com$third-party
 ||green.erne.co$third-party
 ||greystripe.com$third-party
-||groceryshopping.net$third-party
 ||groovinads.com$third-party
 ||groundtruth.com$third-party
 ||groupm.com$third-party
@@ -1390,23 +1373,17 @@
 ||gruvi.tv$third-party
 ||gscounters.eu1.gigya.com$third-party
 ||gsicommerce.com$third-party
-||gsimedia.net$third-party
 ||gsi-one.org$third-party
 ||gstatic.com,third-party
 ||gtop.ro$third-party
 ||gtop100.com$third-party
 ||gtopstats.com$third-party
 ||gtsads.com$third-party
-||gtsmobi.com$third-party
 ||guj.de$third-party
 ||gumgum.com$third-party
-||gunggo.com$third-party
 ||guppymedia.com$third-party
-||gwallet.com$third-party
 ||gw-ec.com$third-party
 ||haensel-ams.com$third-party
-||halogenmediagroup.com$third-party
-||halogennetwork.com$third-party
 ||happyfication.com$third-party
 ||harrenmedia.com$third-party
 ||harrenmedianetwork.com$third-party
@@ -1419,8 +1396,6 @@
 ||hentaicounter.com$third-party
 ||herolens.com$third-party
 ||heronpartners.com.au$third-party
-||hexusads.fluent.ltd.uk$third-party
-||heyos.com$third-party
 ||heywire.com$third-party
 ||hgads.com$third-party
 ||hidden.gogoceleb.com$third-party
@@ -1430,9 +1405,7 @@
 ||hipcricket.com$third-party
 ||histats.com$third-party
 ||hit.webcentre.lycos.co.uk$third-party
-||hitbox.com$third-party
 ||hitcents.com$third-party
-||hitlounge.com$third-party
 ||hitometer.com$third-party
 ||hits.europuls.eu$third-party
 ||hits.informer.com$third-party
@@ -1441,7 +1414,6 @@
 ||hits4me.com$third-party
 ||hitslink.com$third-party
 ||hitsprocessor.com$third-party
-||hittail.com$third-party
 ||hitx.com$third-party
 ||hl.co.uk$third-party
 ||hockeycurve.com$third-party
@@ -1450,7 +1422,6 @@
 ||hopla.online$third-party
 ||hostedads.realitykings.com$third-party
 ||hotjar.com$third-party
-||hotkeys.com$third-party
 ||hotmart.com$third-party
 ||hotrank.com.tw$third-party
 ||hotwords.com$third-party
@@ -1465,19 +1436,15 @@
 ||humandemand.com$third-party
 ||huntmads.com$third-party
 ||hurra.com$third-party
-||hurricanedigitalmedia.com$third-party
 ||hybrid.ai$third-party
 ||hyperadx.com$third-party
 ||hyperbanner.net$third-party
 ||hypertracker.com$third-party
 ||hypertvx.com$third-party
-||i1img.com$third-party
 ||i1media.no$third-party
 ||iac.com$third-party
 ||iadctest.qwapi.com$third-party
-||iadnet.com$third-party
 ||iadvize.com$third-party
-||i-behavior.com$third-party
 ||ibillboard.com$third-party
 ||ibm.com$third-party
 ||ibpxl.com$third-party
@@ -1488,14 +1455,11 @@
 ||icrossing.com$third-party
 ||id.google.*$image
 ||id5-sync.com$third-party
-||identads.com$third-party
 ||idg.com$third-party
 ||idgtechnetwork.com$third-party
-||idot.cz$third-party
 ||idtargeting.com$third-party
 ||ientry.com$third-party
 ||ientrymail.com$third-party
-||iesnare.com$third-party
 ||ifa.tube8live.com$third-party
 ||igaworks.com$third-party
 ||ignitad.com$third-party

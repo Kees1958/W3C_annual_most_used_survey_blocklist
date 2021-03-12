@@ -2363,11 +2363,11 @@
 ||pontiflex.com$third-party
 ||poool.fr$third-party
 ||pop6.com$third-party
-||popads.com$third-party
-||popads.net$third-party
+||popads.*$third-party
 ||popadscdn.net$third-party
 ||popcash.net$third-party
 ||popcde.com$third-party
+||popmyads.com$third-party
 ||poprule.com$third-party
 ||popub.com$third-party
 ||popularmedia.com$third-party
@@ -2589,6 +2589,7 @@
 ||revcontent.com$third-party
 ||revenue.net$third-party
 ||revenuedirect.com$third-party
+||evenuehits.com$third-party
 ||revenuemantra.com$third-party
 ||revenuemax.de$third-party
 ||revinet.com$third-party

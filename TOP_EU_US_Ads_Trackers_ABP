@@ -7,7 +7,7 @@
 !
 ! Please report issues related to website breakage at
 ! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
-!    
+!
 ||247media.com$third-party
 ||247realmedia.com$third-party
 ||24log.com$third-party
@@ -39,11 +39,6 @@
 ||7bpeople.com$third-party
 ||7search.com$third-party
 ||980media.com$third-party
-||aproductmsg.com$third-party
-||consumer.net$third-party
-||mktw.net$third-party
-||sakh.com$third-party
-||xanga.com$third-party
 ||a1platform.co.kr$third-party
 ||a2dfp.net$third-party
 ||a9.com$third-party
@@ -258,9 +253,9 @@
 ||admtpmp124.com$third-party
 ||adnami.io$third-party
 ||adnection.com$third-party
+||adnet.*$third-party
 ||adnet.asahi.com$third-party
 ||adnet.biz$third-party
-||adnet.*$third-party
 ||adnet.worldreviewer.com$third-party
 ||adnetik.com$third-party
 ||adnetinteractive.com$third-party
@@ -407,7 +402,6 @@
 ||adultadvertising.com$third-party
 ||adultadworld.com$third-party
 ||adultfriendfinder.com$third-party
-||adultfriendfinder.com$third-party
 ||adultmoda.com$third-party
 ||adunity.com$third-party
 ||ad-up.com$third-party
@@ -440,11 +434,11 @@
 ||advertpro.sitepoint.com$third-party
 ||advertpro.ya.com$third-party
 ||advertserve.com$third-party
+||advertstream.com$third-party
 ||advertwizard.com$third-party
 ||advisormedia.cz$third-party
 ||adviva.com$third-party
 ||advmaker.net$third-party
-||advertstream.com$third-party
 ||advolution.de$third-party
 ||advrtas.com$third-party
 ||adways.com$third-party
@@ -554,6 +548,7 @@
 ||apptera.com$third-party
 ||apptv.com$third-party
 ||appular.com$third-party
+||aproductmsg.com$third-party
 ||apsalar.com$third-party
 ||apture.com$third-party
 ||aralego.com$third-party
@@ -930,6 +925,7 @@
 ||console.gamesight.io$third-party
 ||constantcontact.com$third-party
 ||consumable.com$third-party
+||consumer.net$third-party
 ||contactimpact.de$third-party
 ||contaxe.com$third-party
 ||contaxe.de$third-party
@@ -955,9 +951,9 @@
 ||convertro.com$third-party
 ||conviva.com$third-party
 ||cookies.cmpnet.com$third-party
+||coregmedia.com$third-party
 ||coremetrics.com$third-party
 ||coremotives.com$third-party
-||coregmedia.com$third-party
 ||corp.aarki.com$third-party
 ||corp.intimatemerger.com$third-party
 ||corp.viewbix.com$third-party
@@ -1000,8 +996,8 @@
 ||crm4d.com$third-party
 ||crm-metrix.com$third-party
 ||crossinstall.com$third-party
-||crosspixelmedia.com$third-party
 ||crosspixel.net$third-party
+||crosspixelmedia.com$third-party
 ||crowdscience.com$third-party
 ||crucialinteractive.com$third-party
 ||crwdcntrl.net$third-party
@@ -1108,6 +1104,7 @@
 ||dt07.net$third-party
 ||dtscout.com$third-party
 ||dynad.net$third-party
+||dynadmic.com$third-party
 ||dynadmic.com$third-party
 ||dynamic.fmpub.net$third-party
 ||dynamic1001.com$third-party
@@ -1318,9 +1315,9 @@
 ||getblue.io$third-party
 ||getcake.com$third-party
 ||getglue.com$third-party
+||gethatch.com$third-party
 ||getintent.com$third-party
 ||getiton.com$third-party
-||gethatch.com$third-party
 ||getpolymorph.com$third-party
 ||getquanty.com$third-party
 ||getsitecontrol.com$third-party
@@ -1819,7 +1816,6 @@
 ||mediagra.com$third-party
 ||mediahead.com$third-party
 ||mediaintelligence.de$third-party
-||mediamind.com$third-party
 ||mediaiprom.com$third-party
 ||medialab.group$third-party
 ||medialabs.es$third-party
@@ -1912,6 +1908,7 @@
 ||mkt51.net$third-party
 ||mktoresp.com$third-party
 ||mktsci.com$third-party
+||mktw.net$third-party
 ||ml314.com$third-party
 ||mlm.de$third-party
 ||mm7.net$third-party
@@ -2006,7 +2003,6 @@
 ||mxpnl.com$third-party
 ||mxptint.net$third-party
 ||my.aidata.me$third-party
-||my-stats.com$third-party
 ||myads.com$third-party
 ||myaffiliateprogram.com$third-party
 ||mybloglog.com$third-party
@@ -2023,6 +2019,7 @@
 ||myscreen.com$third-party
 ||mystat.pl$third-party
 ||mystat-in.net$third-party
+||my-stats.com$third-party
 ||mystighty.info$third-party
 ||mythings.com$third-party
 ||mythingsmedia.com$third-party
@@ -2674,6 +2671,7 @@
 ||sageanalyst.net$third-party
 ||sagemetrics.com$third-party
 ||sail-track.com$third-party
+||sakh.com$third-party
 ||salesmachine.io$third-party
 ||samba.tv$third-party
 ||sapient.com$third-party
@@ -3147,8 +3145,7 @@
 ||trafficadept.com$third-party
 ||trafficcdn.liveuniversenetwork.com$third-party
 ||traffic-exchange.com$third-party
-||trafficfactory.biz$third-party
-||trafficfactory.com$third-party
+||trafficfactory.*$third-party
 ||trafficfacts.com$third-party
 ||trafficforce.com$third-party
 ||trafficforme.com$third-party
@@ -3157,8 +3154,7 @@
 ||trafficholder.com$third-party
 ||traffichouse.com$third-party
 ||traffichunt.com$third-party
-||trafficjunky.com$third-party
-||trafficjunky.net$third-party
+||trafficjunky.*$third-party
 ||trafficleader.com$third-party
 ||trafficmp.com$third-party
 ||trafficrevenue.net$third-party
@@ -3169,8 +3165,7 @@
 ||trafficstrategies.com$third-party
 ||trafficswarm.com$third-party
 ||traffictrader.net$third-party
-||trafficz.com$third-party
-||trafficz.net$third-party
+||trafficz.*$third-party
 ||traffiliate.com$third-party
 ||traffiq.com$third-party
 ||trafforsrv.com$third-party
@@ -3267,8 +3262,6 @@
 ||urbanityadnetwork.com$third-party
 ||urlcash.net$third-party
 ||urtbk.com$third-party
-||us.a1.yimg.com$third-party
-||us.dynadmic.com$third-party
 ||usabilla.com$third-party
 ||usapromotravel.com$third-party
 ||usebutton.com$third-party
@@ -3283,8 +3276,7 @@
 ||v12group.com$third-party
 ||validclick.com$third-party
 ||valuead.com$third-party
-||valueclick.com$third-party
-||valueclick.net$third-party
+||valueclick.*$third-party
 ||valueclickmedia.com$third-party
 ||valuecommerce.com$third-party
 ||valuedopinions.co.uk$third-party
@@ -3351,8 +3343,7 @@
 ||visualrevenue.com$third-party
 ||visualwebsiteoptimizer.com$third-party
 ||vivalu.com$third-party
-||vizisense.com$third-party
-||vizisense.net$third-party
+||vizisense.*$third-party
 ||vizu.com$third-party
 ||vizury.com$third-party
 ||voicefive.com$third-party
@@ -3389,9 +3380,7 @@
 ||web.neural.one$third-party
 ||web.retube.tv$third-party
 ||web2.deja.com$third-party
-||webads.co.nz$third-party
-||webads.co.uk$third-party
-||webads.nl$third-party
+||webads*$third-party
 ||webcash.nl$third-party
 ||webclicks24.com$third-party
 ||webclicktracker.com$third-party
@@ -3399,8 +3388,7 @@
 ||webcounter.goweb.de$third-party
 ||webgains.com$third-party
 ||webgozar.*$third-party
-||webmasterplan.com$third-party
-||webmasterplan.de$third-party
+||webmasterplan.*$third-party
 ||webmecanik.com$third-party
 ||webmetro.com$third-party
 ||weborama.*$third-party
@@ -3409,9 +3397,8 @@
 ||webreseau.com$third-party
 ||webseoanalytics.com$third-party
 ||websponsors.com$third-party
-||webstat.com$third-party
+||webstat.*$third-party
 ||web-stat.com$third-party
-||webstat.net$third-party
 ||webstats4u.com$third-party
 ||webtrackerplus.com$third-party
 ||webtrackingservices.com$third-party
@@ -3474,6 +3461,7 @@
 ||xad.com$third-party
 ||xaded.com$third-party
 ||xandr.com$third-party
+||xanga.com$third-party
 ||xaxis.com$third-party
 ||xchange.ro$third-party
 ||xcheck.co$third-party
@@ -3519,12 +3507,10 @@
 ||yieldbuild.com$third-party
 ||yieldify.com$third-party
 ||yieldivision.com$third-party
-||yieldlab.de$third-party
-||yieldlab.net$third-party
+||yieldlab.*$third-party
 ||yieldlove.com$third-party
 ||yieldlove-ad-serving.net$third-party
-||yieldmanager.com$third-party
-||yieldmanager.net$third-party
+||yieldmanager.*$third-party
 ||yieldmo.com$third-party
 ||yieldoptimizer.com$third-party
 ||yieldpartners.com$third-party
@@ -3533,14 +3519,12 @@
 ||yldbt.com$third-party
 ||yldmgrimg.net$third-party
 ||ynxs.io$third-party
-||yoc.com$third-party
-||yoc.mobi$third-party
+||yoc.*$third-party
 ||yoc-performance.com$third-party
 ||yoggrt.com$third-party
 ||yoose.com$third-party
 ||yoptima.com$third-party
 ||yotpo.com$third-party
-||yougov.co.uk$third-party
 ||youknowbest.com$third-party
 ||yt1187.net$third-party
 ||y-track.com$third-party

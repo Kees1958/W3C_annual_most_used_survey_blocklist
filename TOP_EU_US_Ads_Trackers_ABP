@@ -372,9 +372,8 @@
 ||adsynergy.com$third-party
 ||adsystem.simplemachines.org$third-party
 ||adtarget.me$third-party
-||adtech.com$third-party
+||adtech.*$third-party
 ||ad-tech.com$third-party
-||adtech.de$third-party
 ||adtechus.com$third-party
 ||adtegrity.com$third-party
 ||adtegrity.net$third-party
@@ -411,6 +410,7 @@
 ||adv.livedoor.com$third-party
 ||adv.webmd.com$third-party
 ||adv-adserver.com$third-party
+||advangelists.com$third-party
 ||advanseads.com$third-party
 ||adventive.com$third-party
 ||adventori.com$third-party
@@ -517,9 +517,8 @@
 ||anormal-media.de$third-party
 ||anormal-tracker.de$third-party
 ||answermedia.com$third-party
-||answers.chartboost.com$third-party
-||antifraudjs.friends2follow.com$third-party
 ||antvoice.com$third-party
+||aolcloud.net$third-party
 ||apartena.net$third-party
 ||apex-ad.com$third-party
 ||api.intensifier.de$third-party
@@ -548,6 +547,7 @@
 ||apptv.com$third-party
 ||appular.com$third-party
 ||aproductmsg.com$third-party
+||aps.amaxon.com$third-party
 ||apsalar.com$third-party
 ||apture.com$third-party
 ||aralego.com$third-party
@@ -1073,8 +1073,7 @@
 ||disqusads.com$third-party
 ||dist.belnk.com$third-party
 ||distiltag.com$third-party
-||districtm.ca$third-party
-||districtm.io$third-party
+||districtm.*$third-party
 ||distroscale.com$third-party
 ||dlqm.net$third-party
 ||dma-institute.com$third-party
@@ -1250,7 +1249,7 @@
 ||ffn.com$third-party
 ||ffxcam.fairfax.com.au$third-party
 ||fg8dgt.com$third-party
-||fiducia.eco$third-party
+||fiducia.eco$third-media.netparty
 ||fiftyt.com$third-party
 ||fiksu.com$third-party
 ||fimserve.com$third-party
@@ -1282,6 +1281,7 @@
 ||freestats.com$third-party
 ||freestats.tv$third-party
 ||freewebcounter.com$third-party
+||Freewheel.tv$third-party
 ||fresh8gaming.com$third-party
 ||fringe81.com$third-party
 ||frogsex.com$third-party

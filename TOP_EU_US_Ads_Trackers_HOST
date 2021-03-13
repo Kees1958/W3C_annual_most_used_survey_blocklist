@@ -1,7 +1,7 @@
 # Title: EU US most prevalent ads & trackers HOST format
 # Expires: 7 days
 #
-# Updated: Mar 12, 2021
+# Updated: Mar 13, 2021
 #
 # Please report issues related to website breakage at github
 # Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -1346,6 +1346,7 @@
 0.0.0.0 footprintlive.com
 0.0.0.0 forex-affiliate.net
 0.0.0.0 fospha.com
+0.0.0.0 forgoprokick.icu
 0.0.0.0 fpctraffic.com
 0.0.0.0 fpctraffic2.com
 0.0.0.0 fqtag.com

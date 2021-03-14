@@ -514,6 +514,12 @@
 ||amung.us$third-party
 ||analights.com$third-party
 ||analytics.adpost.org$third-party
+||analytics.edgekey.net^$third-party
+||analytics.edgesuite.net^
+||analytics.go.com^
+||analytics.query.yahoo.com^$third-party
+||analytics.shareaholic.com^
+||analyze.yahooapis.com^
 ||andbeyond.media$third-party
 ||anormal-media.de$third-party
 ||anormal-tracker.de$third-party
@@ -608,6 +614,8 @@
 ||azetklik.sk$third-party
 ||b0e8.com$third-party
 ||b-1st.com$third-party
+||b-aws.aol.com^
+||b.aol.com^$third-party
 ||b2bmg.net$third-party
 ||b4psads.com$third-party
 ||babs.tv2.dk$third-party
@@ -632,6 +640,7 @@
 ||batanga.com$third-party
 ||batanganetwork.com$third-party
 ||batch.ba$third-party
+||bats.video.yahoo.com^
 ||bauhof.ee$third-party
 ||baypops.com$third-party
 ||bazaarvoice.com$third-party
@@ -639,6 +648,9 @@
 ||bcg.com$third-party
 ||bcmediagroup.com$third-party
 ||beachfront.com$third-party
+||beacon.livefyre.com^
+||beacon.netflix.com^
+||beacon.walmart.com^
 ||beaconads.com$third-party
 ||beanstockmedia.com$third-party
 ||beemray.com$third-party
@@ -655,6 +667,7 @@
 ||betterbanners.com$third-party
 ||betweendigital.com$third-party
 ||bfmio.com$third-party
+||bi-eventtracker-*.amazonaws.com^$third-party
 ||bidclix.*$third-party
 ||biddercore.io$third-party
 ||bidease.com$third-party
@@ -797,6 +810,7 @@
 ||cbproads.com$third-party
 ||cdnma.com$third-party
 ||cdn-sitegainer.com$third-party
+||ce-global-track-*.amazonaws.com^$third-party
 ||cedato.com$third-party
 ||celltick.com$third-party
 ||celtra.com$third-party
@@ -836,7 +850,10 @@
 ||clearsearchmedia.com$third-party
 ||clearsightinteractive.com$third-party
 ||clic2buy.com$third-party
+||click.aliexpress.com^$image,script
 ||click.fool.com$third-party
+||click.jasmin.com^
+||click.livejasmin.com^
 ||click2freemoney.com$third-party
 ||click2paid.com$third-party
 ||clickability.com$third-party
@@ -903,6 +920,7 @@
 ||cogocast.net$third-party
 ||coinzilla.com$third-party
 ||collective.com$third-party
+||collector1.xhamster.com^
 ||collserve.com$third-party
 ||colonize.com$third-party
 ||colpirio.com$third-party
@@ -2244,6 +2262,7 @@
 ||pixel.anyclip.com$third-party
 ||pixel.condenastdigital.com
 ||pixel.jumptap.com$third-party
+||pixel.reddit.com^
 ||pixel.sg$third-party
 ||pixel.wp.com$image,third-party
 ||piximedia.com$third-party
@@ -2583,6 +2602,9 @@
 ||rythmxchange.com$third-party
 ||s2d6.com$third-party
 ||s4m.io$third-party
+||s.infogram.com^
+||s.youtube.com^
+||s2.youtube.com^
 ||sa-as.com$third-party
 ||sabavision.com$third-party
 ||sabrehospitality.com$third-party
@@ -2633,7 +2655,7 @@
 ||seevast.com$third-party
 ||seevolution.com$third-party
 ||seewhy.com$third-party
-||segment.com$third-party
+||segment.*$third-party
 ||sekindo.com$third-party
 ||selectablemedia.com$third-party
 ||selligent.com$third-party
@@ -2829,6 +2851,7 @@
 ||startapp.com$third-party
 ||stat24.com$third-party
 ||stat24.meta.ua$third-party
+||stat.xhamsterpremium.com^
 ||statcounter.com$third-party
 ||stathat.com$third-party
 ||static.fmpub.net$third-party
@@ -2841,6 +2864,7 @@
 ||statistics.ro$third-party
 ||statistik-gallup.net$third-party
 ||statm.the-adult-company.com$third-party
+||stats.video.search.yahoo.com^
 ||stats.blogger.com$third-party
 ||stats.cts-bv.nl$third-party
 ||stats.wp.com$script,third-party
@@ -3052,6 +3076,7 @@
 ||track.anchorfree.com$third-party
 ||track.gawker.com$third-party
 ||trackalyzer.com$third-party
+||tracker.redditmedia.com^
 ||trackersimulator.org$third-party
 ||tracking101.com$third-party
 ||trackingsoft.com$third-party

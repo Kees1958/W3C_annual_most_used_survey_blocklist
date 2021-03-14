@@ -577,7 +577,10 @@
 0.0.0.0 amung.us
 0.0.0.0 analights.com
 0.0.0.0 analytics.adpost.org
+0.0.0.0 analytics.edgesuite.net
+0.0.0.0 analytics.go.com
 0.0.0.0 analytics.shareaholic.com
+0.0.0.0 analyze.yahooapis.com
 0.0.0.0 andbeyond.media
 0.0.0.0 anormal-media.de
 0.0.0.0 anormal-tracker.de
@@ -669,6 +672,7 @@
 0.0.0.0 azetklik.sk
 0.0.0.0 b0e8.com
 0.0.0.0 b-1st.com
+0.0.0.0 b-aws.aol.com
 0.0.0.0 b2bmg.net
 0.0.0.0 b4psads.com
 0.0.0.0 babs.tv2.dk
@@ -694,6 +698,7 @@
 0.0.0.0 batanga.com
 0.0.0.0 batanganetwork.com
 0.0.0.0 batch.ba
+0.0.0.0 bats.video.yahoo.com
 0.0.0.0 bauhof.ee
 0.0.0.0 baypops.com
 0.0.0.0 bazaarvoice.com
@@ -701,6 +706,9 @@
 0.0.0.0 bcg.com
 0.0.0.0 bcmediagroup.com
 0.0.0.0 beachfront.com
+0.0.0.0 beacon.livefyre.com
+0.0.0.0 beacon.netflix.com
+0.0.0.0 beacon.walmart.com
 0.0.0.0 beaconads.com
 0.0.0.0 beanstockmedia.com
 0.0.0.0 beemray.com
@@ -905,6 +913,8 @@
 0.0.0.0 clearsearchmedia.com
 0.0.0.0 clearsightinteractive.com
 0.0.0.0 clic2buy.com
+0.0.0.0 click.jasmin.com
+0.0.0.0 click.livejasmin.com
 0.0.0.0 click.fool.com
 0.0.0.0 click2freemoney.com
 0.0.0.0 click2paid.com
@@ -971,6 +981,8 @@
 0.0.0.0 cognitivematch.com
 0.0.0.0 cogocast.net
 0.0.0.0 coinzilla.com
+0.0.0.0 collective.com
+0.0.0.0 collector1.xhamster.com^
 0.0.0.0 collserve.com
 0.0.0.0 colonize.com
 0.0.0.0 colpirio.com
@@ -2335,7 +2347,9 @@
 0.0.0.0 pixel.adsafeprotected.com
 0.0.0.0 pixel.anyclip.com
 0.0.0.0 pixel.condenastdigital.com
+0.0.0.0 pixel.facebook.com
 0.0.0.0 pixel.jumptap.com
+0.0.0.0 pixel.reddit.com
 0.0.0.0 pixel.sg
 0.0.0.0 pixel.wp.com
 0.0.0.0 piximedia.com
@@ -2677,6 +2691,9 @@
 0.0.0.0 rythmxchange.com
 0.0.0.0 s2d6.com
 0.0.0.0 s4m.io
+0.0.0.0 s.infogram.com
+0.0.0.0 s.youtube.com
+0.0.0.0 s2.youtube.com
 0.0.0.0 sa-as.com
 0.0.0.0 sabavision.com
 0.0.0.0 sabrehospitality.com
@@ -2924,6 +2941,7 @@
 0.0.0.0 startapp.com
 0.0.0.0 stat24.com
 0.0.0.0 stat24.meta.ua
+0.0.0.0 stat.xhamsterpremium.com
 0.0.0.0 statcounter.com
 0.0.0.0 stathat.com
 0.0.0.0 static.fmpub.net
@@ -2936,6 +2954,7 @@
 0.0.0.0 statistics.ro
 0.0.0.0 statistik-gallup.net
 0.0.0.0 statm.the-adult-company.com
+0.0.0.0 stats.video.search.yahoo.com
 0.0.0.0 stats.blogger.com
 0.0.0.0 stats.cts-bv.nl
 0.0.0.0 stats.wp.com
@@ -3146,6 +3165,7 @@
 0.0.0.0 track.anchorfree.com
 0.0.0.0 track.gawker.com
 0.0.0.0 trackalyzer.com
+0.0.0.0 tracker.redditmedia.com
 0.0.0.0 trackersimulator.org
 0.0.0.0 tracking101.com
 0.0.0.0 trackingsoft.com

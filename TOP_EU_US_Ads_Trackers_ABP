@@ -3,7 +3,7 @@
 ! Title: EU US most prevalent ads & trackers ABP format.
 ! Expires: 7 days 
 !
-! Version: 2021.03.12
+! Version: 2021.03.14
 !
 ! Please report issues related to website breakage at
 ! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -71,6 +71,7 @@
 ||ad4game.com$third-party
 ||ad4mat.com$third-party
 ||ad6media.fr$third-party
+||ad.com$third-party
 ||adabra.com$third-party
 ||adacado.com$third-party
 ||adaction.*$third-party
@@ -86,16 +87,14 @@
 ||adara.com$third-party
 ||adaramedia.com$third-party
 ||adatus.com$third-party
-||ad-balancer.at$third-party
+||ad-balancer.*$third-party
 ||adbalancer.com$third-party
-||ad-balancer.net$third-party
 ||adbard.net$third-party
 ||adblade.com$third-party
 ||adblockanalytics.com$third-party
 ||adboost.*$third-party
 ||adbooth.net$third-party
-||adbot.com$third-party
-||adbot.tw$third-party
+||adbot.*$third-party
 ||adboxdigital.uk$third-party
 ||adbrain.com$third-party
 ||adbrite.com$third-party
@@ -631,6 +630,7 @@
 ||batch.ba$third-party
 ||bauhof.ee$third-party
 ||baypops.com$third-party
+||bazaarvoice.com$third-party
 ||bbelements.com$third-party
 ||bcg.com$third-party
 ||bcmediagroup.com$third-party
@@ -1035,6 +1035,7 @@
 ||deepintent.com$third-party
 ||delivered-by-madington.com$third-party
 ||delivr.com$third-party
+||deloittedigital.com$third-party
 ||deloo.de$third-party
 ||deltaprojects.*$third-party
 ||deltax.com$third-party
@@ -2510,6 +2511,7 @@
 ||radiatemedia.com$third-party
 ||radiumone.com$third-party
 ||radiusmarketing.com$third-party
+||rakutenadvertising.com$third-party
 ||rakutenmarketing.com$third-party
 ||rambla.be$third-party
 ||rampanel.com$third-party
@@ -2899,6 +2901,7 @@
 ||srbijacafe.org$third-party
 ||src.kitcode.net$third-party
 ||srwww1.com$third-party
+||ssp.verizonmedia.com$third-party
 ||stackadapt.com$third-party
 ||stageflag.com$third-party
 ||star-advertising.com$third-party
@@ -3075,6 +3078,7 @@
 ||thinkrealtime.com$third-party
 ||thinkupfront.com$third-party
 ||thoughtleadr.com$third-party
+||thrivehive.com$third-party
 ||thrnt.com$third-party
 ||throtle.io$third-party
 ||thrtle.com$third-party
@@ -3259,6 +3263,7 @@
 ||updated.com$third-party
 ||upsnap.com$third-party
 ||up-value.de$third-party
+||uplandsoftware.com$third-party
 ||urbanityadnetwork.com$third-party
 ||urlcash.net$third-party
 ||urtbk.com$third-party

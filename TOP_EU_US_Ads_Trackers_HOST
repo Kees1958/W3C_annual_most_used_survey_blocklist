@@ -1,7 +1,7 @@
 # Title: EU US most prevalent ads & trackers HOST format
 # Expires: 7 days
 #
-# Updated: Mar 14, 2021
+# Updated: Mar 15, 2021
 #
 # Please report issues related to website breakage at github
 # Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -982,7 +982,7 @@
 0.0.0.0 cogocast.net
 0.0.0.0 coinzilla.com
 0.0.0.0 collective.com
-0.0.0.0 collector1.xhamster.com^
+0.0.0.0 collector1.xhamster.com
 0.0.0.0 collserve.com
 0.0.0.0 colonize.com
 0.0.0.0 colpirio.com

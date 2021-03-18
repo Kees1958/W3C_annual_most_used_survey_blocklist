@@ -3,7 +3,7 @@
 ! Title: EU US most prevalent ads & trackers ABP format.
 ! Expires: 7 days 
 !
-! Version: 2021.03.14
+! Version: 2021.03.18
 !
 ! Please report issues related to website breakage at
 ! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -881,6 +881,7 @@
 ||clickotmedia.com$third-party
 ||clicks.equantum.com$third-party
 ||clicks.mods.de$third-party
+||clickserve.dartsearch.net$third-party
 ||clicksor.*$third-party
 ||clicktag.de$third-party
 ||clicktale.com$third-party

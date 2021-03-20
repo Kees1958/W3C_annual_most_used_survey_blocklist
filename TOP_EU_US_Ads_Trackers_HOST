@@ -1,7 +1,7 @@
 # Title: EU US most prevalent ads & trackers HOST format
 # Expires: 7 days
 #
-# Updated: Mar 13, 2021
+# Updated: Mar 20, 2021
 #
 # Please report issues related to website breakage at github
 # Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -2830,7 +2830,6 @@
 0.0.0.0 sixsigmatraffic.com
 0.0.0.0 sizmek.com
 0.0.0.0 sk.search.etargetnet.com
-0.0.0.0 sketchfab.com
 0.0.0.0 skimlinks.com
 0.0.0.0 skimresources.com
 0.0.0.0 skupenet.com

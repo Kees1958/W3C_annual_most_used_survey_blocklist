@@ -1,5 +1,7 @@
 To prevent re-introducing old issues when bulk updating the list annually, the domains removed are listed here.
 
+Apologize for using a bad source in 2019, we still find false positives (websites wich should not be blocked)
+
 9c9media.ca
 analytics.twitter.com
 aweber.com
@@ -12,6 +14,7 @@ godaddy.com
 googleadservices.com
 googletagmanager.com
 googletagservices.com
+hp.com
 infonline.de
 klaviyo.com
 linkedin.com

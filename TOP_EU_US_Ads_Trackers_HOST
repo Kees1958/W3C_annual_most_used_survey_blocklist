@@ -1,7 +1,7 @@
 # Title: EU US most prevalent ads & trackers HOST format
 # Expires: 7 days
 #
-# Updated: Mar 23, 2021
+# Updated: Mar 30, 2021
 #
 # Please report issues related to website breakage at github
 # Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -1504,7 +1504,6 @@
 0.0.0.0 hotmart.com
 0.0.0.0 hotwords.com
 0.0.0.0 hotwords.es
-0.0.0.0 hp.com
 0.0.0.0 hqgmbh.eu
 0.0.0.0 hsadspixel.net
 0.0.0.0 hs-analytics.net

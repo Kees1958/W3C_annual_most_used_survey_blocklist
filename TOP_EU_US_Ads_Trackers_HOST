@@ -1,7 +1,7 @@
 # Title: EU US most prevalent ads & trackers HOST format
 # Expires: 7 days
 #
-# Updated: Apr 06, 2021
+# Updated: Apr 07, 2021
 #
 # Please report issues related to website breakage at github
 # Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -3579,7 +3579,6 @@
 0.0.0.0 yoose.com
 0.0.0.0 yoptima.com
 0.0.0.0 yotpo.com
-0.0.0.0 yougov.co.uk
 0.0.0.0 youknowbest.com
 0.0.0.0 yt1187.net
 0.0.0.0 y-track.com

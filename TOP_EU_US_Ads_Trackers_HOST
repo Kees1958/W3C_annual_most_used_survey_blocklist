@@ -1,7 +1,7 @@
 # Title: EU US most prevalent ads & trackers HOST format
 # Expires: 7 days
 #
-# Updated: Apr 07, 2021
+# Updated: Apr 08, 2021
 #
 # Please report issues related to website breakage at github
 # Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -1628,7 +1628,6 @@
 0.0.0.0 islay.tech
 0.0.0.0 ismatlab.com
 0.0.0.0 ispot.tv
-0.0.0.0 issuu.com
 0.0.0.0 iteratehq.com
 0.0.0.0 itisatracker.com
 0.0.0.0 itsoneiota.com

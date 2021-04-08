@@ -3,7 +3,7 @@
 ! Title: EU US most prevalent ads & trackers ABP format.
 ! Expires: 7 days 
 !
-! Version: 2021.04.06
+! Version: 2021.04.08
 !
 ! Please report issues related to website breakage at
 ! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -1565,7 +1565,6 @@
 ||islive.nl$third-party
 ||ismatlab.com$third-party
 ||ispot.tv$third-party
-||issuu.com$third-party
 ||iteratehq.com$third-party
 ||itisatracker.com$third-party
 ||itsoneiota.com$third-party

@@ -1,10 +1,10 @@
 # Title: EU US most prevalent ads & trackers HOST format
 # Expires: 7 days
 #
-# Updated: Apr 08, 2021
+# Updated: May 3, 2021
 #
-# Please report issues related to website breakage at github
-# Kees1958/W3C_annual_most_used_survey_blocklist/issues
+# HOST FILE VERSION WILL BE DISCONTINUED
+#
 #
 0.0.0.0 101com.com
 0.0.0.0 103092804.com

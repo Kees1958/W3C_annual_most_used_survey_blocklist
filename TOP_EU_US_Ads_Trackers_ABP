@@ -3,7 +3,7 @@
 ! Title: EU US most prevalent ads & trackers ABP format.
 ! Expires: 7 days 
 !
-! Version: 2021.05.03
+! Version: 2021.05.07
 !
 ! Please report issues related to website breakage at
 ! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -1495,7 +1495,6 @@
 ||impactmobile.com$third-party
 ||impactradius-event.com$third-party
 ||impdesk.com$third-party
-||imprese.cz$third-party
 ||impressiondesk.com$third-party
 ||impressionmedia.cz$third-party
 ||impressionmonster.com$third-party
@@ -1537,7 +1536,6 @@
 ||intentiq.com$third-party
 ||intentmedia.*$third-party
 ||interactive-assets.s3.amazonaws.com$third-party
-||interactive.forthnet.gr$third-party
 ||interclick.com$third-party
 ||intergi.com$third-party
 ||intermarkets.net$third-party
@@ -1545,7 +1543,6 @@
 ||internetfuel.com$third-party
 ||interpolls.com$third-party
 ||interpublic.com$third-party
-||interreklame.de$third-party
 ||interrogare.de$third-party
 ||interstat.hu$third-party
 ||inuvo.com$third-party
@@ -1571,7 +1568,6 @@
 ||itsup.com$third-party
 ||ivitrack.com$third-party
 ||ivo.io$third-party
-||ixs1.net$third-party
 ||jampp.com$third-party
 ||jaroop.com$third-party
 ||jatxt.com$third-party
@@ -1786,7 +1782,6 @@
 ||mediaplazza.com$third-party
 ||mediaplex.com$third-party
 ||mediarithmics.com$third-party
-||mediascale.de$third-party
 ||mediashakers.com$third-party
 ||mediasmart.io$third-party
 ||mediatext.com$third-party
@@ -1795,10 +1790,7 @@
 ||mediavoice.com$third-party
 ||mediawallah.com$third-party
 ||mediawhiz.com$third-party
-||mediax.angloinfo.com$third-party
-||mediaz.angloinfo.com$third-party
 ||medicxmedia.com$third-party
-||medio.com$third-party
 ||medley.com$third-party
 ||medleyads.com$third-party
 ||medyanetads.com$third-party
@@ -1832,7 +1824,6 @@
 ||metrics.windowsitpro.com$third-party
 ||metricsdirect.com$third-party
 ||metrixlab.com$third-party
-||mexad.com$third-party
 ||mfadsrv.com$third-party
 ||mfadsrvr.com$third-party
 ||mgid.com$third-party
@@ -1854,7 +1845,6 @@
 ||mirando.de$third-party
 ||misstrends.com$third-party
 ||miva.com$third-party
-||mixmarket.biz$third-party
 ||mixpanel.com$third-party
 ||mixpo.com$third-party
 ||mixtraffic.com$third-party
@@ -1876,7 +1866,6 @@
 ||moat.com$third-party
 ||moatads.com$third-party
 ||moatpixel.com$third-party
-||mobcdn.com$third-party
 ||mobclix.com$third-party
 ||mobday.com$third-party
 ||mobfox.com$third-party
@@ -1906,7 +1895,6 @@
 ||mobstac.com$third-party
 ||mobusi.com$third-party
 ||mobvision.com$third-party
-||mobyt.com$third-party
 ||mocean.mobi$third-party
 ||moceanmobile.com$third-party
 ||mochila.com$third-party
@@ -1942,13 +1930,11 @@
 ||mp-newmedia.com$third-party
 ||mparticle.com$third-party
 ||mpstat.us$third-party
-||mr-rank.de$third-party
 ||mrskincash.com$third-party
 ||msads.net$third-party
 ||mtree.com$third-party
 ||multiplestreammktg.com$third-party
 ||multipops.com$third-party
-||mundomedia.com$third-party
 ||mutua.es$third-party
 ||muwmedia.com$third-party
 ||mxcdn.net$third-party

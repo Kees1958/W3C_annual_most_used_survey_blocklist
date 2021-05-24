@@ -3,7 +3,7 @@
 ! Title: EU US most prevalent ads & trackers ABP format.
 ! Expires: 7 days 
 !
-! Version: 2021.05.07
+! Version: 2021.05.24
 !
 ! Please report issues related to website breakage at
 ! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -358,6 +358,7 @@
 ||adspirit.*$third-party
 ||adsponse.de$third-party
 ||adspot.ch$third-party
+||adspyglass.com$third-party
 ||adsrevenue.net$third-party
 ||adsrv.deviantart.com$third-party
 ||adsrvr.org$third-party
@@ -1102,6 +1103,7 @@
 ||directresponsegroup.com$third-party
 ||directtrack.com$third-party
 ||discountclick.com$third-party
+||discover-tech.io$third-party
 ||displaymarketplace.com$third-party
 ||displaypagerank.com$third-party
 ||disqusads.com$third-party
@@ -1474,7 +1476,6 @@
 ||idgtechnetwork.com$third-party
 ||idtargeting.com$third-party
 ||ientry.com$third-party
-||ifa.tube8live.com$third-party
 ||igaworks.com$third-party
 ||ignitionone.*$third-party
 ||ihsmarkit.com$third-party
@@ -1484,7 +1485,6 @@
 ||imagecash.net$third-party
 ||imatmobile.com$third-party
 ||img.prohardver.hu$third-party
-||imgpromo.easyrencontre.com$third-party
 ||imimobile.com$third-party
 ||imlive.com$third-party
 ||imonitor.nethost.cz$third-party
@@ -1492,7 +1492,6 @@
 ||impact.com$third-party
 ||impactmobile.com$third-party
 ||impactradius-event.com$third-party
-||impdesk.com$third-party
 ||impressiondesk.com$third-party
 ||impressionmedia.cz$third-party
 ||impressionmonster.com$third-party
@@ -1524,7 +1523,6 @@
 ||insightexpressai.com$third-party
 ||inskinmedia.com$third-party
 ||inspectlet.com$third-party
-||inspired-mobile.com$third-party
 ||insticator.com$third-party
 ||instinctive.io$third-party
 ||instinctiveads.com$third-party
@@ -1535,7 +1533,6 @@
 ||intentmedia.*$third-party
 ||interactive-assets.s3.amazonaws.com$third-party
 ||interclick.com$third-party
-||intergi.com$third-party
 ||intermarkets.net$third-party
 ||internetbrands.com$third-party
 ||internetfuel.com$third-party
@@ -1550,7 +1547,6 @@
 ||iperceptions.com$third-party
 ||iponweb.com$third-party
 ||iponweb.net$third-party
-||ipredictive.com$third-party
 ||iprom.net$third-party
 ||iprom.si$third-party
 ||iprospect.com$third-party
@@ -1564,7 +1560,6 @@
 ||itisatracker.com$third-party
 ||itsoneiota.com$third-party
 ||itsup.com$third-party
-||ivitrack.com$third-party
 ||ivo.io$third-party
 ||jampp.com$third-party
 ||jaroop.com$third-party
@@ -1757,20 +1752,14 @@
 ||mediabrix.com$third-party
 ||mediacharger.com$third-party
 ||mediacom.com$third-party
-||mediadvertising.ro$third-party
 ||mediaforce.com$third-party
-||mediaforge.com$third-party
 ||mediageneral.com$third-party
-||mediagra.com$third-party
 ||mediahead.com$third-party
 ||mediaintelligence.de$third-party
 ||mediaiprom.com$third-party
 ||medialab.group$third-party
 ||medialabs.es$third-party
-||medialets.com$third-party
-||medialytics.com$third-party
 ||mediamath.com$third-party
-||mediametrie-estat.com$third-party
 ||mediamgr.ugo.com$third-party
 ||mediamind.com$third-party
 ||median.eu$third-party
@@ -1791,27 +1780,22 @@
 ||medicxmedia.com$third-party
 ||medley.com$third-party
 ||medleyads.com$third-party
-||medyanetads.com$third-party
 ||meetic-partners.com$third-party
 ||meetrics.com$third-party
 ||meetrics.net$third-party
 ||megacash.de$third-party
-||megago.com$third-party
 ||megapu.sh$third-party
 ||megastats.com$third-party
 ||megawerbung.de$third-party
 ||meltdsp.com$third-party
 ||memeglobal.com$third-party
-||memorix.sdv.fr$third-party
 ||mentad.com$third-party
 ||mercent.com$third-party
 ||merchantadvantage.com$third-party
-||merchenta.com$third-party
 ||merkleinc.com$third-party
 ||metadsp.co.uk$third-party
 ||metaffiliation.com$third-party
 ||metanetwork.com$third-party
-||metanetwork.net$third-party
 ||metapeople.com$third-party
 ||metaresolver.com$third-party
 ||meteorsolutions.com$third-party
@@ -1819,10 +1803,8 @@
 ||methodmi.com$third-party
 ||metric.gstatic.com$image,third-party
 ||metrics.brightcove.com$third-party
-||metrics.windowsitpro.com$third-party
 ||metricsdirect.com$third-party
 ||metrixlab.com$third-party
-||mfadsrv.com$third-party
 ||mfadsrvr.com$third-party
 ||mgid.com$third-party
 ||miaozhen.com$third-party
@@ -1833,12 +1815,9 @@
 ||midnightclicking.com$third-party
 ||milanoo.com$third-party
 ||millemedia.de$third-party
-||millennialmedia.com$third-party
 ||mindmemobile.com$third-party
 ||mindset-media.com$third-party
-||mindshare.nl$third-party
 ||mindtake.com$third-party
-||mintegral.com$third-party
 ||mintrace.com$third-party
 ||mirando.de$third-party
 ||misstrends.com$third-party
@@ -1942,15 +1921,11 @@
 ||my.aidata.me$third-party
 ||myads.com$third-party
 ||myaffiliateprogram.com$third-party
-||mybloglog.com$third-party
-||mybuys.com$third-party
 ||mycounter.com.ua$third-party
 ||mycounter.ua$third-party
 ||mydas.mobi$third-party
-||mydsp.io$third-party
 ||myfreecams.com$third-party
 ||myfuseclick.com$third-party
-||mynativeplatform.com$third-party
 ||mypagerank.net$third-party
 ||mypowermall.com$third-party
 ||mypressplus.com$third-party
@@ -2073,7 +2048,6 @@
 ||nurofy.com$third-party
 ||nuseek.com$third-party
 ||nxtck.com$third-party
-||o333o.com$third-party
 ||oascentral.businessweek.com$third-party
 ||oascentral.chicagobusiness.com$third-party
 ||oascentral.fortunecity.com$third-party

@@ -8,7 +8,6 @@
 ! Please report issues related to website breakage at
 ! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
 !
-||$third-partyblockthrough.com
 ||247realmedia.com$third-party
 ||24log.*$third-party
 ||2leep.com$third-party
@@ -186,6 +185,7 @@
 ||adnext.fr$third-party
 ||adnium.com$third-party
 ||adnordic.eu$third-party
+||adnxs.com$third-party
 ||adocean.pl$third-party
 ||adocean-global.com$third-party
 ||adoftheyear.com$third-party
@@ -220,6 +220,7 @@
 ||adrule.net$third-party
 ||ads.microsoft.com$third-party
 ||ads.twitter.com$third-party
+||adsafeprotected.com$third-party
 ||adsafety.net$third-party
 ||adsbwm.com$third-party
 ||adsbyisocket.com$third-party
@@ -239,7 +240,9 @@
 ||ad-sniper.com$third-party
 ||ad-souk.com$third-party
 ||ad-stir.com$third-party
+||ads-twitter.com$third-party
 ||ad-tech.com$third-party
+||amazon-adsystem.com$third-party
 ||amigos.com$third-party
 ||amillionads.com$third-party
 ||aminopay.com$third-party
@@ -427,6 +430,8 @@
 ||bronto.com$third-party
 ||btstatic.com$third-party
 ||bttrack.com$third-party
+||chartbeat.com$third-party
+||chartbeat.net$third-party
 ||claritas.com$third-party
 ||contobox.com$third-party
 ||cqcounter.com$third-party
@@ -721,6 +726,8 @@
 ||google.*$third-partypagead$third-party
 ||google-analytics.com$third-party
 ||googlesyndication.*/pagead$third-party
+||googletagmanager.com$third-party
+||googletagservices.com$third-party
 ||go-rank.de$third-party
 ||gorollick.com$third-party
 ||gosquared.com$third-party
@@ -924,6 +931,7 @@
 ||kontera.com$third-party
 ||korrelate.com$third-party
 ||krux.com$third-party
+||krxd.net$third-party
 ||ktu.sv2.biz$third-party
 ||kundeservice.yousee.dk$third-party
 ||kupona.de$third-party
@@ -1409,6 +1417,7 @@
 ||porngraph.com$third-party
 ||pornstar.solidcams.com$third-party
 ||postrank.com$third-party
+||postrelease.com$third-party
 ||potenza.cz$third-party
 ||powerad.ai$third-party
 ||powerlinks.com$third-party
@@ -1667,6 +1676,7 @@
 ||sensismediasmart.com.au$third-party
 ||sentry.io$third-party
 ||serv0.com$third-party
+||servebom.com$third-party
 ||servedbyadbutler.com$third-party
 ||services.hearstmags.com$third-party
 ||sessioncam.com$third-party
@@ -1743,6 +1753,7 @@
 ||sojern.com$third-party
 ||somoaudience.com$third-party
 ||somplo.com$third-party
+||s-onetag.com$third-party
 ||sonobi.com$third-party
 ||sophus3.com$third-party
 ||sortable.com$third-party
@@ -1810,6 +1821,7 @@
 ||successfultogether.co.uk$third-party
 ||sugoicounter.com$third-party
 ||suite66.com$third-party
+||summerhamster.com$third-party
 ||summitmedia.co.uk$third-party
 ||sumo.com$third-party
 ||sundaysky.com$third-party
@@ -1952,6 +1964,7 @@
 ||unitymedia.de$third-party
 ||untd.com$third-party
 ||upsnap.com$third-party
+||usabilla.com$third-party
 ||usebutton.com$third-party
 ||userreport.com$third-party
 ||valueclick.*$third-party

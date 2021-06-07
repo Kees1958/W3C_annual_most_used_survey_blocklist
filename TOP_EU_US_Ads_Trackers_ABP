@@ -3,7 +3,7 @@
 ! Title: EU US most prevalent ads & trackers ABP format.
 ! Expires: 7 days 
 !
-! Version: 2021.05.24
+! Version: 2021.06.07
 !
 ! Please report issues related to website breakage at
 ! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -1620,6 +1620,7 @@
 ||rtbidder.net$third-party
 ||rtbpop.com$third-party
 ||rtbpopd.com$third-party
+||rtbsuperhub.com$third-party
 ||rtk.io$third-party
 ||rubicon.com$third-party
 ||rubiconproject.com$third-party
@@ -1697,15 +1698,11 @@
 ||shinystat.com$third-party
 ||shinystat.it$third-party
 ||shoppingads.com$third-party
-||shopzilla.com$third-party
 ||shorte.st$third-party
 ||shorttailmedia.com$third-party
 ||showup.tv$third-party
 ||siccash.com$third-party
-||sift.co$third-party
-||signal.co$third-party
 ||signalsdata.com$third-party
-||signifimedia.com.au$third-party
 ||silver-path.com$third-party
 ||silverpop.com$third-party
 ||simplaex.com$third-party
@@ -1943,6 +1940,7 @@
 ||tribalfusion.com$third-party
 ||trumpia.com$third-party
 ||truoptik.com$third-party
+||tsyndicate.com$third-party
 ||tune.com$third-party
 ||turboadv.com$third-party
 ||turbobytes.com$third-party

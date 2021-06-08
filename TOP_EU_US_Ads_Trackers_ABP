@@ -622,7 +622,7 @@
 ||eyewonder.com$third-party
 ||ezoic.net$third-party
 ||eztexting.com$third-party
-||facebook.*,domain=~facebook.com|C~messenger.com|www.instagram.com$third-party
+||facebook.*,domain=~facebook.com|~messenger.com|~instagram.com$third-party
 ||facebookofsex.com$third-party
 ||facilitatedigital.com$third-party
 ||factual.com$third-party

@@ -3,7 +3,7 @@
 ! Title: EU US most prevalent ads & trackers ABP format.
 ! Expires: 7 days 
 !
-! Version: 2021.06.07
+! Version: 2021.06.08
 !
 ! Please report issues related to website breakage at
 ! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -166,9 +166,7 @@
 ||admetrics.io$third-party
 ||adminder.com$third-party
 ||adminshop.com$third-party
-||admixer.co.kr$third-party
-||admixer.com$third-party
-||admixer.net$third-party
+||admixer.*$third-partyy
 ||admized.com$third-party
 ||admob.com$third-party
 ||admobile.com$third-party
@@ -237,6 +235,9 @@
 ||adservinginternational.com$third-party
 ||adsfac.*$third-party
 ||adshost1.com$third-party
+||adsnative.com$third-party
+||advangelists.com$third-party
+||adyoulike.com$third-party
 ||ad-sniper.com$third-party
 ||ad-souk.com$third-party
 ||ad-stir.com$third-party
@@ -666,6 +667,7 @@
 ||freckleiot.com$third-party
 ||freebanner.com$third-party
 ||freelogs.com$third-party
+||freewheel.com$third-party
 ||freeonlineusers.com$third-party
 ||free-pagerank.com$third-party
 ||freestats.com$third-party

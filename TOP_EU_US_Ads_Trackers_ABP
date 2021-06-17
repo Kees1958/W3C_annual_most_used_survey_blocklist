@@ -3,7 +3,7 @@
 ! Title: EU US most prevalent ads & trackers ABP format.
 ! Expires: 7 days 
 !
-! Version: 2021.06.08
+! Version: 2021.06.17
 !
 ! Please report issues related to website breakage at
 ! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -2132,6 +2132,7 @@
 ||xtendmedia.com$third-party
 ||xtremetop100.com$third-party
 ||xxxwebtraffic.com$third-party
+||yandexadexchange.net$third-party
 ||ybrantdigital.com$third-party
 ||ydigitalmedia.com$third-party
 ||ydworld.com$third-party

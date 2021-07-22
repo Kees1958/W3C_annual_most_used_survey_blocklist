@@ -3,7 +3,7 @@
 ! Title: EU US most prevalent ads & trackers ABP format.
 ! Expires: 7 days 
 !
-! Version: 2021.07.15
+! Version: 2021.07.22
 !
 ! Please report issues related to website breakage at
 ! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -218,7 +218,6 @@
 ||adrule.net$third-party
 ||ads.microsoft.com$third-party
 ||ads.twitter.com$third-party
-||ads-twitter.com$third-party
 ||adsafeprotected.com$third-party
 ||adsafety.net$third-party
 ||adsbwm.com$third-party
@@ -237,13 +236,14 @@
 ||adsfac.*$third-party
 ||adshost1.com$third-party
 ||adsnative.com$third-party
-||advangelists.com$third-party
-||adyoulike.com$third-party
 ||ad-sniper.com$third-party
 ||ad-souk.com$third-party
 ||ad-stir.com$third-party
 ||ads-twitter.com$third-party
 ||ad-tech.com$third-party
+||adultforce.com$third-party
+||advangelists.com$third-party
+||adyoulike.com$third-party
 ||amazon-adsystem.com$third-party
 ||amigos.com$third-party
 ||amillionads.com$third-party
@@ -324,10 +324,12 @@
 ||awin.com$third-party
 ||awin1.com$third-party
 ||ayads.co$third-party
+||azameo.com$third-party
 ||azameo.fr$third-party
 ||azetklik.sk$third-party
 ||b.aol.com$third-party
 ||b0e8.com$third-party
+||b2bmg.com$third-party
 ||b2bmg.net$third-party
 ||b4psads.com$third-party
 ||babs.tv2.dk$third-party
@@ -355,9 +357,8 @@
 ||bazaarvoice.com$third-party
 ||bcmediagroup.com$third-party
 ||beachfront.com$third-party
-||beacon.livefyre.com$third-party
-||beacon.netflix.com$third-party
-||beacon.walmart.com$third-party
+||beacon.*.com$third-party
+||beaconadnetwork.com$third-party
 ||beanstockmedia.com$third-party
 ||beemray.com$third-party
 ||beencounter.com$third-party
@@ -387,6 +388,7 @@
 ||bitads.net$third-party
 ||bitmedia.io$third-party
 ||bizrate.com$third-party
+||blast4tet.nl$third-party
 ||blast4traffic.com$third-party
 ||blis.com$third-party
 ||blockchain4media.com$third-party
@@ -432,9 +434,12 @@
 ||bronto.com$third-party
 ||btstatic.com$third-party
 ||bttrack.com$third-party
-||chartbeat.com$third-party
-||chartbeat.net$third-party
+||bwwmediagroup.com
+||carbonads.net$third-party
+||centro.net$third-party
+||chartbeat.*$third-party
 ||claritas.com$third-party
+||connected-stories.com$third-party
 ||contobox.com$third-party
 ||cqcounter.com$third-party
 ||crakmedia.com$third-party
@@ -463,6 +468,7 @@
 ||dataexchanger.pl$third-party
 ||datafy-software.com$third-party
 ||datalicious.com$third-party
+||dataplusmath.com$third-party
 ||dataseat.com$third-party
 ||dataxu.com$third-party
 ||datingfactory.com$third-party
@@ -472,6 +478,7 @@
 ||datspush.com$third-party
 ||dbbsrv.com$third-party
 ||decktrade.com$third-party
+||d-edge.com$third-party
 ||dedicatednetworks.com$third-party
 ||deepintent.com$third-party
 ||delivered-by-madington.com$third-party
@@ -534,6 +541,7 @@
 ||dynamicoxygen.com$third-party
 ||dynamicyield.com$third-party
 ||dynamo.video$third-party
+||dynata.com$third-party
 ||dynsrvtyu.com$third-party
 ||eacnur.org$third-party
 ||earnify.com$third-party
@@ -599,7 +607,6 @@
 ||evadav.com$third-party
 ||evergage.com$third-party
 ||evidon.com$third-party
-||eviltracker.net$third-party
 ||ewaydirect.com$third-party
 ||ewebse.com$third-party
 ||exactag.com$third-party
@@ -658,6 +665,7 @@
 ||flytxt.com$third-party
 ||fmpub.net$third-party
 ||forex-affiliate.net$third-party
+||forwardpmx.com$third-party
 ||fospha.com$third-party
 ||fpctraffic.com$third-party
 ||fpctraffic2.com$third-party
@@ -668,12 +676,12 @@
 ||freckleiot.com$third-party
 ||freebanner.com$third-party
 ||freelogs.com$third-party
-||freewheel.com$third-party
 ||freeonlineusers.com$third-party
 ||free-pagerank.com$third-party
 ||freestats.com$third-party
 ||freestats.tv$third-party
 ||freewebcounter.com$third-party
+||freewheel.com$third-party
 ||fresh8gaming.com$third-party
 ||fringe81.com$third-party
 ||frogsex.com$third-party
@@ -694,8 +702,7 @@
 ||gannett.com$third-party
 ||gaug.es$third-party
 ||gayadnetwork.com$third-party
-||gemius.com$third-party
-||gemius.pl$third-party
+||gemius.*$third-party
 ||genesismedia.com$third-party
 ||genesismediaus.com$third-party
 ||geniusmonkey.com$third-party
@@ -728,7 +735,7 @@
 ||goldbach.com$third-party
 ||goodeed.com$third-party
 ||goodwaygroup.com$third-party
-||google.*$third-partypagead$third-party
+||google.*/pagead$third-party
 ||google-analytics.com$third-party
 ||googlesyndication.*/pagead$third-party
 ||googletagmanager.com$third-party
@@ -874,12 +881,12 @@
 ||inuvo.com$third-party
 ||investingchannel.com$third-party
 ||ip.ro$third-party
-||iponweb.com$third-party
-||iponweb.net$third-party
+||iponweb.*$third-party
 ||iprom.net$third-party
 ||iprom.si$third-party
 ||iprospect.com$third-party
 ||iqm.com$third-party
+||is.com$third-party
 ||islay.tech$third-party
 ||islive.nl$third-party
 ||ismatlab.com$third-party
@@ -888,6 +895,7 @@
 ||itisatracker.com$third-party
 ||itsoneiota.com$third-party
 ||itsup.com$third-party
+||ivaonline.co.uk$third-party
 ||ivo.io$third-party
 ||jampp.com$third-party
 ||jaroop.com$third-party
@@ -983,7 +991,6 @@
 ||livepartners.com$third-party
 ||liveperson.com$third-party
 ||liverail.com$third-party
-||liveramp.com
 ||liveramp.com$third-party
 ||livesexasian.com$third-party
 ||loading321.com$third-party
@@ -1094,8 +1101,8 @@
 ||metapeople.com$third-party
 ||metaresolver.com$third-party
 ||methodcash.com$third-party
-||metrica.yandex.com$third-party
 ||metric.gstatic.com$image,third-party
+||metrica.yandex.com$third-party
 ||metrics.brightcove.com$third-party
 ||metrixlab.com$third-party
 ||mfadsrvr.com$third-party
@@ -1150,7 +1157,6 @@
 ||mongoosemetrics.com$third-party
 ||monitus.net$third-party
 ||monoloop.com$third-party
-||monster.com$third-party
 ||monsterpops.com$third-party
 ||mopub.com$third-party
 ||morequalifiedleads.co.uk$third-party
@@ -1248,10 +1254,7 @@
 ||numberly.com$third-party
 ||nurofy.com$third-party
 ||nxtck.com$third-party
-||oascentral.businessweek.com$third-party
-||oascentral.chicagobusiness.com$third-party
-||oascentral.fortunecity.com$third-party
-||oascentral.register.com$third-party
+||oascentral.*.com$third-party
 ||octaive.com$third-party
 ||oewabox.at$third-party
 ||offerforge.com$third-party
@@ -1315,6 +1318,7 @@
 ||ordingly.com$third-party
 ||oridian.com$third-party
 ||ortecadscience.com$third-party
+||orteccommunications.com$third-party
 ||ota.cartrawler.com$third-party
 ||otm-r.com$third-party
 ||outbrain.com$third-party
@@ -1335,6 +1339,7 @@
 ||papayamobile.com$third-party
 ||pardot.com$third-party
 ||parrable.com$third-party
+||parse.ly$third-party
 ||parsec.media$third-party
 ||parship.de$third-party
 ||partage-facile.com$third-party
@@ -1355,6 +1360,7 @@
 ||peerfly.com$third-party
 ||peerset.com$third-party
 ||pega.com$third-party
+||pelmorexsolutions.com$third-party
 ||pennyweb.com$third-party
 ||pepperjamnetwork.com$third-party
 ||percentmobile.com$third-party
@@ -1374,8 +1380,7 @@
 ||phizzle.com$third-party
 ||phluant.com$third-party
 ||photo-ads.co.uk$third-party
-||phpmyvisites.net$third-party
-||phpmyvisites.us$third-party
+||phpmyvisites.*$third-party
 ||phunware.com$third-party
 ||picadmedia.com$third-party
 ||pictela.net$third-party
@@ -1386,11 +1391,7 @@
 ||piwik.org$third-party
 ||pixalate.com$third-party
 ||pixanalytics.com$third-party
-||pixel.adsafeprotected.com$third-party
-||pixel.jumptap.com$third-party
-||pixel.reddit.com$third-party
-||pixel.sg$third-party
-||pixel.wp.com$image,$third-party
+||pixel.*.com$third-party
 ||piximedia.com$third-party
 ||pixlee.com$third-party
 ||placed.com$third-party
@@ -1441,6 +1442,7 @@
 ||pressflex.com$third-party
 ||pricegrabber.com$third-party
 ||primaryads.com$third-party
+||primawebtools.de$third-party
 ||primetime.net$third-party
 ||primo.design$third-party
 ||prismapp.io$third-party
@@ -1481,8 +1483,8 @@
 ||pub.chez.com$third-party
 ||pubdirecte.com$third-party
 ||publicismedia.de$third-party
-||pubmine.com$third-party
 ||pubmatic.com$third-party
+||pubmine.com$third-party
 ||pubnation.com$third-party
 ||pubnative.net$third-party
 ||pubs.lemonde.fr$third-party
@@ -1685,7 +1687,6 @@
 ||sensis.com.au$third-party
 ||sensismediasmart.com.au$third-party
 ||sentry.io$third-party
-||serv0.com$third-party
 ||servebom.com$third-party
 ||servedbyadbutler.com$third-party
 ||services.hearstmags.com$third-party
@@ -1704,8 +1705,7 @@
 ||sharethrough.com$third-party
 ||sharpspring.com
 ||sher.index.hu$third-party
-||shinystat.com$third-party
-||shinystat.it$third-party
+||shinystat.*$third-party
 ||shoppingads.com$third-party
 ||shorte.st$third-party
 ||shorttailmedia.com$third-party
@@ -1856,8 +1856,7 @@
 ||tagcommander.com$third-party
 ||tags.tiqcdn.com$third-party
 ||tail.digital$third-party
-||tailsweep.com$third-party
-||tailsweep.se$third-party
+||tailsweep.*$third-party
 ||takoomi.com$third-party
 ||tapad.com$third-party
 ||tapcliq.com$third-party
@@ -1906,6 +1905,7 @@
 ||thrtle.com$third-party
 ||thruport.com$third-party
 ||thuis.nl$third-party
+||timeone.io$third-party
 ||timeonegroup.com$third-party
 ||tinybar.com$third-party
 ||tiqiq.com$third-party
@@ -1925,8 +1925,7 @@
 ||trackmysales.com$third-party
 ||tradeadexchange.com$third-party
 ||tradedoubler.com$third-party
-||tradetracker.com$third-party
-||tradetracker.net$third-party
+||tradetracker.*$third-party
 ||trafficfactory.*$third-party
 ||trafficforce.com$third-party
 ||trafficforme.com$third-party
@@ -2006,8 +2005,7 @@
 ||vizisense.*$third-party
 ||voicefive.com$third-party
 ||vpon.com$third-party
-||vserv.com$third-party
-||vserv.mobi$third-party
+||vserv.*$third-party
 ||vwo.com$third-party
 ||w3counter.com$third-party
 ||wagawin.com$third-party
@@ -2016,9 +2014,10 @@
 ||we-are-adot.com$third-party
 ||weareilluma.com$third-party
 ||wearemiq.com$third-party
+||wearesilverbullet.com$third-party
 ||web.com$third-party
 ||web.informer.com$third-party
-||webads*$third-party
+||webads.*$third-party
 ||webcash.nl$third-party
 ||webcounter.goweb.de$third-party
 ||webgains.com$third-party
@@ -2052,71 +2051,10 @@
 ||wordstream.com$third-party
 ||wp.me$third-party
 ||wpp.com$third-party
+||wpromote.com$third-party
 ||wt-safetag.com$third-party
 ||wunderkind.co$third-party
 ||wunderloop.net$third-party
-||www.aarki.com$third-party
-||www.abc-ads.com$third-party
-||www.acquisio.com$third-party
-||www.acuityads.com$third-party
-||www.acxiom.com$third-party
-||www.adaptretail.com$third-party
-||www.adbalancer.com$third-party
-||www.adcolony.com$third-party
-||www.adelphic.com$third-party
-||www.adhood.com$third-party
-||www.adiant.com$third-party
-||www.adlayer.se$third-party
-||www.admedo.com$third-party
-||www.adomik.com$third-party
-||www.adpushup.com$third-party
-||www.adultforce.com$third-party
-||www.aminopay.com$third-party
-||www.amobee.com$third-party
-||www.atinternet.com$third-party
-||www.avantlink.com$third-party
-||www.azameo.com$third-party
-||www.b2bmg.com$third-party
-||www.backbeatmedia.com$third-party
-||www.bannerwise.io$third-party 
-||www.barilliance.com$third-party
-||www.bazaarvoice.com$third-party
-||www.beachfront.com$third-party
-||www.beaconadnetwork.com$third-party
-||www.bidvertiser.com$third-party
-||www.bigabid.com$third-party
-||www.blast4tet.nl$third-party
-||www.blogher.com$third-party
-||www.blogrush.com$third-party
-||www.bluesummit.de$third-party
-||www.blutrumpet.com$third-party
-||www.brandwatch.com$third-party
-||www.branovate.com$third-party
-||www.bwwmediagroup.com
-||www.carbonads.net$third-party
-||www.centro.net$third-party
-||www.connected-stories.com$third-party
-||www.dataplusmath.com$third-party
-||www.d-edge.com$third-party
-||www.dynata.com$third-party
-||www.evidon.com$third-party
-||www.forwardpmx.com$third-party
-||www.graphinium.com$third-party
-||www.ibillboard.com$third-party
-||www.is.com$third-party
-||www.ivaonline.co.uk$third-party
-||www.marketo.com$third-party
-||www.objectiveplatform.com$third-party
-||www.opentracker.net$third-party
-||www.orteccommunications.com$third-party
-||www.parse.ly$third-party
-||www.pelmorexsolutions.com$third-party
-||www.primawebtools.de$third-party
-||www.singular.net$third-party
-||www.timeone.io$third-party
-||www.vibrantmedia.com$third-party
-||www.wearesilverbullet.com$third-party
-||www.wpromote.com$third-party
 ||wysistat.com$third-party
 ||xad.com$third-party
 ||xandr.com$third-party

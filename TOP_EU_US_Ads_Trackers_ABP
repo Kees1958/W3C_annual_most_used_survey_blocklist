@@ -3,7 +3,7 @@
 ! Title: EU US most prevalent ads & trackers ABP format.
 ! Expires: 7 days 
 !
-! Version: 2021.07.22
+! Version: 2021.09.01
 !
 ! Please report issues related to website breakage at
 ! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -16,6 +16,7 @@
 ||365media.com$third-party
 ||3cinteractive.com$third-party
 ||3dstats.com$third-party
+||3lift.com$third-party
 ||4d5.net$third-party
 ||4dsply.com$third-party
 ||4finance.com$third-party
@@ -1539,6 +1540,7 @@
 ||rapidcounter.com$third-party
 ||ratevoice.com$third-party
 ||ratings.lycos.com$third-party
+||raygun.io$third-party
 ||reachgroup.com$third-party
 ||reachjunction.com$third-party
 ||reachlocal.com$third-party

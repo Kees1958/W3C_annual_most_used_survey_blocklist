@@ -3,7 +3,7 @@
 ! Title: EU US most prevalent ads & trackers ABP format.
 ! Expires: 7 days 
 !
-! Version: 2021.09.01
+! Version: 2021.09.07
 !
 ! Please report issues related to website breakage at
 ! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -738,6 +738,7 @@
 ||goodwaygroup.com$third-party
 ||google.*/pagead$third-party
 ||google-analytics.com$third-party
+||googleadservices.com$third-party
 ||googlesyndication.*/pagead$third-party
 ||googletagmanager.com$third-party
 ||googletagservices.com$third-party

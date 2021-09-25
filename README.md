@@ -11,10 +11,10 @@ about the same advertising traffic on its own website. Number 100 on this list i
 Top 300.000 websites, while number 250 may only track you on 500 websites of the Alexa Top 300.000. 
 
                                                   LOW UPDATE FREQUENCY
-Because this list like Peter Low's list focusses on the advertising and tracking networks which place the adds on the websites 
-you visit, this list is not subjective to a lot of changes. Simply because it takes a lot of rime and money to build such a
-backbone (ad serving) neywork. Also the digital marketeers using these networks are a constraining factor, because most don't 
-like to learn how to use the software. 
+Because this list focusses on the advertising and tracking networks which place the adds on the websites you visit, this list 
+is not subjective to a lot of changes. Simply because it takes a lot of rime and money to build such a backbone (ad serving) 
+network. Also the digital marketeers using these networks are a constraining factor, because most don't like to learn how to
+use the software (used for advertisement placement and visitor tracking). 
 
                                                       ADVICED USAGE 
 When you decide to use this compact filter it is good practice to add the optimized Easylist English filter of Adguard

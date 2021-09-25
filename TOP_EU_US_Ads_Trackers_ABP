@@ -1,9 +1,9 @@
 [AdBlockPlus 2.0]
 !
 ! Title: EU US most prevalent ads & trackers ABP format.
-! Expires: 7 days 
+! Expires: 30 days 
 !
-! Version: 2021.09.18
+! Version: 2021.09.25
 !
 ! Please report issues related to website breakage at
 ! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -1603,6 +1603,7 @@
 ||rewardstyle.com$third-party
 ||rezonence.com$third-party
 ||reztrack.com$third-party
+||rezync.com$third-party
 ||rhythmone.com$third-party
 ||richaudience.com$third-party
 ||richmails.com$third-party

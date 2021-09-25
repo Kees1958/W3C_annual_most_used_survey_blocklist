@@ -24,5 +24,5 @@ English Easylist filter (around 25% of the rules). The optimized AdGuard list on
 often (so it excludes the rules you probabaly never use). This combined (small and longlist) approach will provide you with 
 90% of the ad and tracking protection with only 10% of the number of block rules (compared to uBlock Origin default).   
 
-                                                    ERRORS & ISSUES
+                                                      ERRORS & ISSUES
 Feel free to use it and provide feedback on errors, the maintainers will try to correct website breakage as soon as possible.  

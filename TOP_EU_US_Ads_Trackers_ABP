@@ -634,7 +634,7 @@
 ||eyewonder.com$third-party
 ||ezoic.net$third-party
 ||eztexting.com$third-party
-||facebook.*$third-party,domain=~facebook.com|~messenger.com|~instagram.com|whatsapp.com
+||facebook.*$third-party,domain=~facebook.com|~messenger.com|~instagram.com|~whatsapp.com
 ||facebookofsex.com$third-party
 ||facilitatedigital.com$third-party
 ||factual.com$third-party

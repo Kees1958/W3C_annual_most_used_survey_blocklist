@@ -10,13 +10,19 @@ while the number three Comscore just has a little over 2.5% marketshare. For com
 about the same advertising traffic on its own website. Number 100 on this list is probably used at 5000 websites of the Alexa 
 Top 300.000 websites, while number 250 may only track you on 500 websites of the Alexa Top 300.000. 
 
+                                                  LOW UPDATE FREQUENCY
+Because this list like Peter Low's list focusses on the advertising and tracking networks which place the adds on the websites 
+you visit, this list is not subjective to a lot of changes. Simply because it takes a lot of rime and money to build such a
+backbone (ad serving) neywork. Also the digital marketeers using these networks are a constraining factor, because most don't 
+like to learn how to use the software. 
+
                                                       ADVICED USAGE 
-When you decide to use this compact filter it is good practice to add your language specific Easylist English and your native
-language Easylist filter. Thanks to to the ongoing efforst of Brave to remove dead filters the original Easylist filter is 
-reduced by 50 percent. As an alternative to Easylist you could use the Optimized Easylist filter of Adguard. This list
-contains a subset (around 25%) of the rules which are triggered often (so it excludes the rules you probabaly never use). 
-This will combined (small and longlist ) approach will provide you with 90% of the ad and tracking protection with only 10% of 
-the number of block rules.   
+When you decide to use this compact filter it is good practice to add the optimized Easylist English filter of Adguard
+and your native language Easylist filter. Thanks to to the ongoing efforst of Brave to remove dead rules the original 
+Easylist filter is reduced in size by roughly 50 percent. The optimized Easylist filter of AdGuard uses a subset of the
+English Easylist filter (around 25% of the rules). The optimized AdGuard list only contains the rules which are triggered 
+often (so it excludes the rules you probabaly never use). This combined (small and longlist) approach will provide you with 
+90% of the ad and tracking protection with only 10% of the number of block rules (compared to uBlock Origin default).   
 
                                                     ERRORS & ISSUES
 Feel free to use it and provide feedback on errors, the maintainers will try to correct website breakage as soon as possible.  

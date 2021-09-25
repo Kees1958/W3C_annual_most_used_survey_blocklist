@@ -22,7 +22,9 @@ and your native language Easylist filter. Thanks to to the ongoing efforst of Br
 Easylist filter is reduced in size by roughly 50 percent. The optimized Easylist filter of AdGuard uses a subset of the
 English Easylist filter (around 25% of the rules). The optimized AdGuard list only contains the rules which are triggered 
 often (so it excludes the rules you probabaly never use). This combined (small and longlist) approach will provide you with 
-90% of the ad and tracking protection with only 10% of the number of block rules (compared to uBlock Origin default).   
+90% of the ad and tracking protection with only 10% of the number of block rules (compared to uBlock Origin default). 
+Because this list uses the asterix to reduce differenct country code and top level domains, it is only suitable for 
+uBlockOrigin and AdGuard.   
 
                                                       ERRORS & ISSUES
 Feel free to use it and provide feedback on errors, the maintainers will try to correct website breakage as soon as possible.  

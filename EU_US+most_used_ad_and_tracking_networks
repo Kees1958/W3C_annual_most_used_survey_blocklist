@@ -323,8 +323,7 @@
 ||adreadypixels.com$third-party
 ||adreadytractions.com$third-party
 ||adrecover.com$third-party
-||adregain.com$third-party
-||adregain.ru$third-party
+||adregain.*$third-party
 ||adremedy.com$third-party
 ||adretarget.me$third-party
 ||adrizer.com$third-party
@@ -432,7 +431,6 @@
 ||amavalet.com$third-party
 ||amazingcounters.com$third-party
 ||amazon-adsystem.com$third-party
-||amazy.ru$third-party
 ||ambercrow.com$third-party
 ||amigos.com$third-party
 ||amikay.com$third-party
@@ -491,7 +489,6 @@
 ||api.segment.io$third-party
 ||api64.com$third-party
 ||apicit.net$third-party
-||apkonline.ru$third-party
 ||apollo.io$third-party
 ||apollofind.com$third-party
 ||app.flexitive.com$third-party
@@ -725,7 +722,6 @@
 ||bigclicks.com$third-party
 ||bigmir.net$third-party
 ||bigreal.org$third-party
-||bigsauron.ru$third-party
 ||bigstats.net$third-party
 ||bigtracker.com$third-party
 ||billboard.cz$third-party
@@ -985,13 +981,11 @@
 ||cmptch.com$third-party
 ||cms.lv$third-party
 ||cnetcontentsolutions.com$third-party
-||cnstats.ru$third-party
 ||cnt1.net$third-party
 ||cnxweb.com$third-party
 ||cnzz.com$third-party
 ||cnzz.net$third-party
 ||cobaltgroup.com$third-party
-||codata.ru$third-party
 ||coefficy.com$third-party
 ||cogmatch.net$third-party
 ||cognativex.com$third-party
@@ -1003,7 +997,6 @@
 ||collecting.click$third-party
 ||collserve.com$third-party
 ||colossusssp.com$third-party
-||comagic.ru$third-party
 ||commander1.com$third-party
 ||company-target.com$third-party
 ||compteur.*$third-party
@@ -1177,7 +1170,6 @@
 ||datam.com$third-party
 ||datamaster.com.cn$third-party
 ||datametrical.com$redirect=nooptext
-||datamind.ru$third-party
 ||dataperforma.com$third-party
 ||dataplusmath.com$third-party
 ||datarating.com$third-party
@@ -1247,7 +1239,6 @@
 ||digitalaudience.io$third-party
 ||digitalhub-h.de$third-party
 ||digitaloptout.com$third-party
-||digitaltarget.ru$third-party
 ||digitize.ie$third-party
 ||digitru.st$third-party
 ||dignow.org$third-party
@@ -1558,7 +1549,6 @@
 ||fastly-analytics.com$third-party
 ||fastly-insights.com$third-party
 ||fastonlineusers.com$third-party
-||faststart.ru$third-party
 ||fast-thinking.co.uk$third-party
 ||fastwebcounter.com$third-party
 ||fathomdelivers.com$third-party
@@ -1688,7 +1678,6 @@
 ||fstats.xyz$third-party
 ||fstrk.net$third-party
 ||ftbpro.com$third-party
-||ftrack.ru$third-party
 ||ftz.io$third-party
 ||fuel451.com$third-party
 ||fueldeck.com$third-party
@@ -1863,7 +1852,6 @@
 ||grmtech.net$third-party
 ||groovinads.com$third-party
 ||groundtruth.com$third-party
-||group-ib.ru$third-party
 ||groupm.com$third-party
 ||growthrx.in$third-party
 ||grumrt.com$third-party
@@ -2396,7 +2384,6 @@
 ||leadlander.com$third-party
 ||leadlife.com$third-party
 ||leadmanagerfx.com$third-party
-||lead-or-call.ru$third-party
 ||leadpages.net$third-party
 ||leadsius.com$third-party
 ||leadsmonitor.io$third-party
@@ -2480,7 +2467,6 @@
 ||logcounter.com$third-party
 ||logdy.com$third-party
 ||logentries.com$third-party
-||loger.ru$third-party
 ||loggly.com$third-party
 ||logicsfort.com$third-party
 ||loginfra.com$third-party
@@ -2491,8 +2477,6 @@
 ||logrocket.com$third-party
 ||logrocket.io$third-party
 ||logua.com$third-party
-||logxp.ru$third-party
-||logz.ru$third-party
 ||lookery.com$third-party
 ||lookit.cz$third-party
 ||lookmy.info$third-party
@@ -2510,8 +2494,7 @@
 ||lp4.io$third-party
 ||lpbeta.com$third-party
 ||lporirxe.com$third-party
-||lptracker.io$third-party
-||lptracker.ru$third-party
+||lptracker.*$third-party
 ||lr-ingest.io$third-party
 ||lsfinteractive.com$third-party
 ||luc.id$third-party
@@ -2519,7 +2502,6 @@
 ||lucidmedia.com$third-party
 ||luckyorange.*$third-party
 ||luckyorange.com$third-party
-||lugansk-info.ru$third-party
 ||lumatag.co.uk$third-party
 ||luminate.com$third-party
 ||lunarads.com$third-party
@@ -2601,7 +2583,6 @@
 ||mbsy.co$third-party
 ||mbuyu.nl$third-party
 ||mbww.com$third-party
-||mcount.ru$third-party
 ||mdm.de$third-party
 ||mdotlabs.com$third-party
 ||mdxapi.io$third-party
@@ -2626,12 +2607,10 @@
 ||mediaiprom.com$third-party
 ||medialab.group$third-party
 ||medialabs.es$third-party
-||mediametrics.ru$third-party
 ||mediamgr.ugo.com$third-party
 ||medianet.com$third-party
 ||mediaocean.com$third-party
 ||mediapal.net$third-party
-||mediaplan.ru$third-party
 ||mediaplex.com$third-party
 ||mediarithmics.com$third-party
 ||mediaseeding.com$third-party
@@ -2641,7 +2620,6 @@
 ||mediavine.com$third-party
 ||mediavoice.com$third-party
 ||mediawallah.com$third-party
-||mediaweaver.jp$third-party
 ||mediawhiz.com$third-party
 ||medicxmedia.com$third-party
 ||mediego.com$third-party
@@ -2817,7 +2795,6 @@
 ||multiplestreammktg.com$third-party
 ||multipops.com$third-party
 ||murdoog.com$third-party
-||musiccounter.ru$third-party
 ||musthird.com$third-party
 ||mutinycdn.com$third-party
 ||mutinyhq.io$third-party
@@ -3004,7 +2981,6 @@
 ||nstracking.com$third-party
 ||ntlab.org$third-party
 ||ntv.io$third-party
-||ntvk1.ru$third-party
 ||nuance.com$third-party
 ||nuconomy.com$third-party
 ||nudatasecurity.com$third-party
@@ -3823,7 +3799,6 @@
 ||s3s-main.net$third-party
 ||s4m.io$third-party
 ||s6w.de$third-party
-||s7target.ru$third-party
 ||sa-as.com$third-party
 ||sabavision.com$third-party
 ||sabrehospitality.com$third-party
@@ -3868,7 +3843,6 @@
 ||scientiamobile.com$third-party
 ||scoota.com$third-party
 ||scorecardresearch.com$third-party
-||scounter.rambler.ru$third-party
 ||scoutanalytics.net$third-party
 ||scratch2cash.com$third-party
 ||scribol.com$third-party
@@ -3966,7 +3940,6 @@
 ||sharedid.org$third-party
 ||sharethis.com$third-party
 ||sharethrough.com$third-party
-||sharp.ondu.ru$third-party
 ||sharpspring.com
 ||sharpspring.com$third-party
 ||sher.index.hu$third-party
@@ -4081,7 +4054,6 @@
 ||snapdeal.biz$third-party
 ||snapgiant.com$third-party
 ||sni-dat.com$third-party
-||sniperlog.ru$third-party
 ||sniphub.com$third-party
 ||snitcher.com$third-party
 ||snoobi.com$third-party
@@ -4166,7 +4138,6 @@
 ||sptag1.com$third-party
 ||spycounter.net$third-party
 ||spylog.com$third-party
-||spylog.ru$third-party
 ||spywarenuker.com$third-party
 ||spywords.com$third-party
 ||sqate.io$third-party
@@ -4193,13 +4164,11 @@
 ||stat.ustore.bz$third-party
 ||stat.xhamsterpremium.com$third-party
 ||stat24.com$third-party
-||stat24.ru$third-party
 ||statcount.com$third-party
 ||statcounter.com$third-party
 ||statcounterfree.com$third-party
 ||statcounters.info$third-party
 ||statdb.pressflex.com$third-party
-||state.sml2.ru$third-party
 ||stathat.com$third-party
 ||stathound.com$third-party
 ||static.itrack.it$third-party
@@ -4457,11 +4426,9 @@
 ||tm1-001.com$third-party
 ||tmvtp.com$third-party
 ||tnctrx.com$third-party
-||tns-counter.ru$third-party
 ||tns-cs.net$third-party
 ||tns-gallup.dk$third-party
 ||tnsinternet.be$third-party
-||top.list.ru$third-party
 ||top.proext.com$third-party
 ||top100bloggers.com$third-party
 ||top100webshops.com$third-party
@@ -4478,7 +4445,6 @@
 ||topofblogs.com$third-party
 ||top-ro.ro$third-party
 ||topsite.lv$third-party
-||top-staging.mail.ru^
 ||topstat.cn$third-party
 ||topstat.com$third-party
 ||torbit.com$third-party
@@ -4678,9 +4644,7 @@
 ||upscore.com$third-party
 ||upsellit.com$third-party
 ||upsnap.com$third-party
-||upstats.ru$third-party
 ||uptain.de$third-party
-||uptime.monitorus.ru$third-party
 ||uptracs.com$third-party
 ||uptrendsdata.com$third-party
 ||uralweb.ru$third-party
@@ -4759,7 +4723,6 @@
 ||videohub.tv$third-party
 ||videos.oms.eu$third-party
 ||videostat.com$third-party
-||vidigital.ru$third-party
 ||vidstart.com$third-party
 ||viewar.org$third-party
 ||viewpoint.com$third-party
@@ -4831,9 +4794,7 @@
 ||walmeric.com$third-party
 ||wanmo.com$third-party
 ||wap.co.uk$third-party
-||waplog.mobi$third-party
-||waplog.net$third-party
-||warlog.ru$third-party
+||waplog.*$third-party
 ||waudit.cz$third-party
 ||waust.at$third-party
 ||way2traffic.com$third-party
@@ -5030,7 +4991,6 @@
 ||xxxcounter.com$third-party
 ||xxxwebtraffic.com$third-party
 ||xyztraffic.com$third-party
-||yadro.ru$third-party
 ||yamanoha.com$third-party
 ||yandexadexchange.net$third-party
 ||yaudience.com$third-party

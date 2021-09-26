@@ -3,11 +3,16 @@ To prevent re-introducing old issues when bulk updating the list annually, the d
 Apologize for using a bad source in 2019, we still find false positives (websites wich should not be blocked)
 
 9c9media.ca
+adobedtm.com
+akamai.com
+ampproject.org
 analytics.twitter.com
 aweber.com
+bazaarvoice.com
 cloudflare.com
 combell.com
-edgekey.net
+edgekey.net 
+firebase.google.com
 fiverr.com
 forbes.com
 gleam.io
@@ -22,6 +27,8 @@ linkedin.com
 netflix.com
 pusher.com
 pusherapp.com
+sabre.com
+scene7.com
 sc-static.net
 sfr.fr
 simply.com
@@ -34,6 +41,7 @@ thomann.de
 tinypass.com
 unpkg.com
 vendorlist.consensu.org
-zaful.com
 xxxlutz.de
 yougov.co.uk
+zaful.com
+

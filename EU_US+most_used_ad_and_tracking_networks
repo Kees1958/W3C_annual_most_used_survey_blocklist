@@ -3,7 +3,7 @@
 ! Title: EU US most prevalent ads & trackers ABP format for uBlockOrigin and Adguard.
 ! Expires: 30 days 
 !
-! Version: 2021.09.26 
+! Version: 2021.10/20 
 !
 ! Please report issues related to website breakage at
 ! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -773,6 +773,7 @@
 ||bluekai.com$third-party
 ||bluemetrix.com$third-party
 ||bluesummit.de$third-party
+||blueswordksh.com$third-party
 ||bluewhaleweb.com$third-party
 ||blutrumpet.com$third-party
 ||blvdstatus.com$third-party
@@ -4598,6 +4599,7 @@
 ||turn.com$third-party
 ||tvmtracker.com$third-party
 ||tw.cx$third-party
+||twinrdsrv.com/preroll.engine$third-party
 ||twcount.com$third-party
 ||twiago.com$third-party
 ||twittad.com$third-party

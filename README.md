@@ -17,19 +17,11 @@ network. Also the digital marketeers using these networks are a constraining fac
 use the software (used for advertisement placement and visitor tracking). 
 
                                                       ADVICED USAGE 
-When you decide to use this compact filter it is good practice to add the optimized Easylist English filter of Adguard
-and your native language Easylist filter. Thanks to to the ongoing efforst of Brave to remove dead rules the original 
-Easylist filter is reduced in size by roughly 50 percent. The optimized Easylist filter of AdGuard uses a subset of the
-English Easylist filter (around 25% of the rules). The optimized AdGuard list only contains the rules which are triggered 
-often (so it excludes the rules you probabaly never use). This combined (small and longlist) approach will provide you with 
-90% of the ad and tracking protection with only 10% of the number of block rules (compared to uBlock Origin default). 
-Because this list uses the asterix to reduce differenct country code and top level domains, it is only suitable for 
-uBlockOrigin and AdGuard.   
+                                                      
+To prevent website breakage it is adviced to add the below allowlists also:
+https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_allowlist.txt
+https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_allowlist.txt   
 
 
                                                       ERRORS & ISSUES
 Feel free to use it and provide feedback on errors, the maintainers will try to correct website breakage as soon as possible.  
-
-An easy way to prevent website breakage is to add the beliw allowlists:
-https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_allowlist.txt
-https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_allowlist.txt 

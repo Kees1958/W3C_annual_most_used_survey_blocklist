@@ -24,4 +24,4 @@ https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easypriva
 
 
                                                       ERRORS & ISSUES
-Feel free to use it and provide feedback on errors, the maintainers will try to correct website breakage as soon as possible.  
+Feel free to use it and provide feedback on errors, I will try to correct website breakage as soon as possible.  

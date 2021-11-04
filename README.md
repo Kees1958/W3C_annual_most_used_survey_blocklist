@@ -27,7 +27,9 @@ Because this list uses the asterix to reduce differenct country code and top lev
 uBlockOrigin and AdGuard.   
 
 When you don't want to use a long list, at least use the EasyList allow list to prevent website breakage (not showing movies)
-ad this to your adblocker also: https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_allowlist.txt
+ad these allowlist to your adblocker also: 
+https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_allowlist.txt
+https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_allowlist.txt 
 
                                                       ERRORS & ISSUES
 Feel free to use it and provide feedback on errors, the maintainers will try to correct website breakage as soon as possible.  

@@ -12,7 +12,7 @@ Top 300.000 websites, while number 250 may only track you on 500 websites of the
 
                                                   LOW UPDATE FREQUENCY
 Because this list focusses on the advertising and tracking networks which place the adds on the websites you visit, this list 
-is not subjective to a lot of changes. Simply because it takes a lot of rime and money to build such a backbone (ad serving) 
+is not subjective to a lot of changes. Simply because it takes a lot of time and money to build such a backbone (ad serving) 
 network. Also the digital marketeers using these networks are a constraining factor, because most don't like to learn how to
 use the software (used for advertisement placement and visitor tracking). 
 

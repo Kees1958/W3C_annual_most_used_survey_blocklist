@@ -3,7 +3,7 @@
 ! Title: EU US most prevalent ads & trackers ABP format.
 ! Expires: 30 days 
 !
-! Version: 2021.11.05
+! Version: 2021.11.09
 !
 ! Please report issues related to website breakage at
 ! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -357,7 +357,6 @@
 ||bauhof.ee$third-party
 ||b-aws.aol.com$third-party
 ||baypops.com$third-party
-||bazaarvoice.com$third-party
 ||bcmediagroup.com$third-party
 ||beachfront.com$third-party
 ||beacon.*.com$third-party

@@ -3,7 +3,7 @@
 ! Title: EU US most prevalent ads & trackers ABP format for uBlockOrigin and Adguard.
 ! Expires: 30 days 
 !
-! Version: 2021.11.09 
+! Version: 2021.12.07 
 !
 ! Please report issues related to website breakage at
 ! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -2166,44 +2166,7 @@
 ||iol.io$third-party
 ||iotechnologies.com$third-party
 ||iovation.com$third-party
-||ip.ro$third-party
-||ip2c.org$third-party
-||ip2location.com$third-party
-||ip2map.com$third-party
-||ip2phrase.com$third-party
-||ipaddresslabs.com$third-party
-||ip-adress.com$third-party
-||ipapi.co$third-party
-||ip-api.com$third-party
-||ipcatch.com$third-party
-||ipcount.net$third-party
-||ipcounter.de$third-party
-||ipdata.co$third-party
-||iper2.com$third-party
-||iperceptions.com$third-party
-||ipfingerprint.com$third-party
-||ipfrom.com$third-party
-||ipgp.net$third-party
-||ipify.org$third-party
-||ipinfo.info$third-party
-||ipinfodb.com$third-party
-||ipinyou.com.cn$third-party
-||ip-label.net$third-party
-||iplist.cc$third-party
-||iplocationtools.com$third-party
-||ipmeta.io$third-party
-||iponweb.*$third-party
-||ippen.space$third-party
-||ipro.com$third-party
-||iproanalytics.com$third-party
-||iprom.net$third-party
-||iprom.si$third-party
-||iprospect.com$third-party
-||iprotrk.com$third-party
-||ipstack.com$third-party
-||ipstat.com$third-party
-||iptrack.io$third-party
-||ipv6monitoring.eu$third-party
+|||iprospect.com$third-party
 ||iqdata.ai$third-party
 ||iqfp1.com$third-party
 ||iqm.com$third-party

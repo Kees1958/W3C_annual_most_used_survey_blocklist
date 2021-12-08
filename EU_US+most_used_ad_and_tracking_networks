@@ -11,7 +11,8 @@
 ! After the previous experience of adding false positives by adding a new source to this list,
 ! I decided to create a second file, so any false positives introduced with this new source
 ! will not impact existing users of the EU_US-most_used blocklist. This list nearly doubles
-! in rules, because the threshold was lowered to (highter than) one percent marketshare.  
+! in rules, because the threshold was lowered from (at least) five to (at least) one percent 
+! marketshare (in Alexa Top 1 million). 
 !
 ||0emm.com$third-party
 ||0stats.com$third-party

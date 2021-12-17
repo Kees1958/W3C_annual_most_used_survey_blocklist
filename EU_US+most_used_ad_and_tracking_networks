@@ -3,7 +3,7 @@
 ! Title: EU US most prevalent ads & trackers ABP format for uBlockOrigin and Adguard.
 ! Expires: 30 days 
 !
-! Version: 2021.12.16 
+! Version: 2021.12.17 
 !
 ! Please report issues related to website breakage at
 ! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -40,7 +40,6 @@
 ||24businessnews.com$third-party
 ||24counter.com$third-party
 ||24log.*$third-party
-||24log.com$third-party
 ||2cnt.net$third-party
 ||2leep.com$third-party
 ||2mdn.net$third-party
@@ -231,8 +230,6 @@
 ||adimgs.sapo.pt$third-party
 ||adimpact.com$third-party
 ||adinsight.*$third-party
-||adinsight.com$third-party
-||adinsight.eu$third-party
 ||adiquity.com$third-party
 ||adisfy.com$third-party
 ||adition.com$third-party
@@ -243,8 +240,7 @@
 ||adjustnetwork.com$third-party
 ||adk2.com$third-party
 ||adkernel.com$third-party
-||adku.co$third-party
-||adku.com$third-party
+||adku.*$third-party
 ||adlabs.com$third-party
 ||adlantic.nl$third-party
 ||adlayer.se$third-party
@@ -667,7 +663,7 @@
 ||bcmediagroup.com$third-party
 ||bdash-cloud.com$third-party
 ||beachfront.com$third-party
-||beacon.*.com$third-party
+||beacon.*$third-party
 ||beaconadnetwork.com$third-party
 ||beaconstreetservices.com$third-party
 ||beampulse.com$third-party
@@ -1112,8 +1108,6 @@
 ||crispmedia.com$third-party
 ||crispwireless.com$third-party
 ||criteo.*$third-party
-||criteo.com$third-party
-||criteo.net$third-party
 ||crm-metrix.com$third-party
 ||crmmetrix.fr$third-party
 ||crmmetrixwris.com$third-party
@@ -1367,7 +1361,6 @@
 ||edt02.net$third-party
 ||edtp.de$third-party
 ||effectivemeasure.*$third-party
-||effectivemeasure.net$third-party
 ||effiliation.com$third-party
 ||eficiens.com$third-party
 ||eggplant.cloud$third-party
@@ -1393,7 +1386,6 @@
 ||emediatrack.com$third-party
 ||emerse.com$third-party
 ||emetriq.*$third-party
-||emetriq.de$third-party
 ||emjcd.com$third-party
 ||emltrk.com$third-party
 ||emxdigital.com$third-party
@@ -1643,7 +1635,6 @@
 ||freckleiot.com$third-party
 ||freebanner.com$third-party
 ||freebloghitcounter.com$third-party
-||free-counter*$third-party
 ||freecounter.*$third-party
 ||freecountercode.com$third-party
 ||free-counters.*$third-party

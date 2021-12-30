@@ -1,7 +1,3 @@
-To prevent re-introducing old issues when bulk updating the list annually, the domains removed are listed here.
-
-Apologize for using a bad source in 2019, we still find false positives (websites wich should not be blocked)
-
 9c9media.ca
 adobedtm.com
 akamai.com
@@ -42,6 +38,7 @@ tchibo.de
 thecounter.com
 thomann.de
 tinypass.com
+unitymedia.de
 unpkg.com
 vendorlist.consensu.org
 xxxlutz.de

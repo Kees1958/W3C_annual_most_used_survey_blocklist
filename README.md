@@ -22,6 +22,9 @@ To prevent website breakage it is adviced to add the below allowlists also:
 https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_allowlist.txt
 https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_allowlist.txt   
 
+Add Adguard's excellent URL Tracking filter to remove tracking prarameters from links
+https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_17_TrackParam/filter.txt
+
 
                                                       ERRORS & ISSUES
 Feel free to use it and provide feedback on errors, I will try to correct website breakage as soon as possible.  

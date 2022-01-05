@@ -1,7 +1,7 @@
                                                          SOURCES
 This blocklist is based on surveys of most used advertising and tracking technology (e.g. surveys of W3C, W3Tech and the
 on-line marketing community itself). The online advertising industry likes to keep lists of top performing companies in
-the ad supply chain (including advertising excanhe platforms). The list and surveys monitored are oriented on Europe and 
+the ad supply chain (including advertising exchange platforms). The list and surveys monitored are oriented on Europe and 
 North America, this is the reason this blocklist contains mostly EU and US based advertising and tracking networks. 
 
                                 WHY USE A SMALL ADVERTISING AND TRACKING NETWORKS BLOCK LIST? 

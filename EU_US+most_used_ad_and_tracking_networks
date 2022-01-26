@@ -9,6 +9,7 @@
 ! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
 ! 
 !
+"||ads.youtube.com$third-party
 ||0emm.com$third-party
 ||0stats.com$third-party
 ||0tracker.com$third-party
@@ -329,11 +330,12 @@
 ||ads.linkedin.com$third-party
 ||ads.microsoft.com$third-party
 ||ads.pinterest.com$third-party
+||ads.reddit.com$third-party
+||ads.tiktok.com*$third-party
 ||ads.twitter.com$third-party
 ||ads.yahoo.com$third-party
 ||ads.yap.yahoo.com$third-party
-"||ads.youtube.com$third-party
-||Youtube.cleverads.*$third-party"
+||ads.youtube.com$third-party
 ||adsafeprotected.com$third-party
 ||adsafety.net$third-party
 ||ads-api.twitter.com$third-party
@@ -344,6 +346,7 @@
 ||adscore.com$third-party
 ||ad-score.com$third-party
 ||ads-dev.pinterest.com$third-party
+||adsdk.yandex.ru$third-party
 ||adsend.de$third-party
 ||adsensedetective.com$third-party
 ||adserve.zone$third-party
@@ -460,10 +463,12 @@
 ||analytics.edgekey.net$third-party
 ||analytics.edgesuite.net$third-party
 ||analytics.go.com$third-party
+||analytics.mobile.yandex.net$third-party
 ||analytics.pinterest.com$third-party
 ||analytics.pointdrive.linkedin.com$third-party
 ||analytics.query.yahoo.com$third-party
 ||analytics.shareaholic.com$third-party
+||analytics.tiktok.com*$third-party
 ||analytics.yahoo.com$third-party
 ||analyticschecker.com$third-party
 ||analytics-egain.com$third-party
@@ -514,6 +519,7 @@
 ||appia.com$third-party
 ||appier.com$third-party
 ||applovin.com$third-party
+||appmetrica.yandex.com$third-party
 ||appn.center$third-party
 ||appnexus.com$third-party
 ||appolicious.com$third-party
@@ -1156,6 +1162,7 @@
 ||cy-pr.com$third-party
 ||cytoclause.com$third-party
 ||czx5eyk0exbhwp43ya.biz$third-party
+||d.reddit.com$third-party
 ||d-1.co$third-party
 ||d3sv.net$third-party
 ||d41.co$third-party
@@ -1522,6 +1529,7 @@
 ||exposebox.com$third-party
 ||express-submit.de$third-party
 ||extend.tv$third-party
+||extmaps-api.yandex.net$third-party
 ||extole.com$third-party
 ||extole.io$third-party
 ||extreme-dm.com$third-party
@@ -1795,6 +1803,7 @@
 ||glassboxcdn.com$third-party
 ||glassboxdigital.io$third-party
 ||glbtracker.com$third-party
+||global.adserver.yahoo.com*$third-party
 ||globalismedia.com$third-party
 ||globalsiteanalytics.com$third-party
 ||globaltrack.com$third-party
@@ -3604,6 +3613,7 @@
 ||report-uri.io$third-party
 ||republika.onet.pl$third-party
 ||requestmetrics.com$third-party
+||rereddit.com$third-party
 ||research.de.com$third-party
 ||research-artisan.com$third-party
 ||research-int.se$third-party
@@ -4937,6 +4947,8 @@
 ||youramigo.com$third-party
 ||your-analytics.org$third-party
 ||your-counter.be$third-party
+||youtube.cleverads.*$third-party
+||Youtube.cleverads.*$third-party"
 ||youvisit.com$third-party
 ||y-track.com$third-party
 ||yu987.com$third-party

@@ -17,8 +17,8 @@ network. Also the digital marketeers using these networks are a constraining fac
 use new software which makes them reluctant to change to a different advertising platform when the business advantage is marginal.
 
                                                       ADVICED USAGE 
-                                                      
-To prevent website breakage it is adviced to add the below allowlists also:
+                                                                                                    
+To prevent website breakage it is adviced to add the allowlists of EasyList and EasyPrivacy::
 https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_allowlist.txt
 https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_allowlist.txt   
 

@@ -20,10 +20,10 @@ use new software which makes them reluctant to change to a different advertising
 Combine this blocklist with your langaige specific blocklist of EasyList. To prevent website breakage add the allow lists
 of EasyList and EasyPrivacy. Finally add Adguard's URL Tracking filter to remove tracking prarameters from links.
 
-Language specific blocklist: https://easylist.to/pages/other-supplementary-filter-lists-and-easylist-variants.html
-EasyList allow list:         https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_allowlist.txt 
-EasyPrivacy allow list:      https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_allowlist.txt   
-Adguard URL tracking filter: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_17_TrackParam/filter.txt
+https://easylist.to/pages/other-supplementary-filter-lists-and-easylist-variants.html  (country specific) 
+https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_allowlist.txt (easylist allow)
+https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_allowlist.txt (easyprivacy allow)
+https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_17_TrackParam/filter.txt (adguard URL)
 
 
                                                       ERRORS & ISSUES

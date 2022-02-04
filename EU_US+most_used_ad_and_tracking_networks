@@ -3,7 +3,7 @@
 ! Title: EU US most prevalent ads & trackers ABP format for uBlockOrigin and Adguard.
 ! Expires: 30 days 
 !
-! Version: 2022.02.01
+! Version: 2022.02.04
 !
 ! Please report issues related to website breakage at
 ! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -285,6 +285,7 @@
 ||adnium.com$third-party
 ||adnordic.eu$third-party
 ||adnxs.com$third-party
+||adnxs-simple.com$third-party
 ||adobetag.com$third-party
 ||adocean.pl$third-party
 ||adocean-global.com$third-party

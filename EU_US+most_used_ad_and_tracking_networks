@@ -2053,7 +2053,7 @@
 ||goodmeasure.io$third-party
 ||goodwaygroup.com$third-party
 ||google.*/pagead$third-party
-||google.com$third-party
+||google.*/ads$third-party
 ||googleadservices.com$third-party
 ||google-analytics.com$third-party
 ||googleoptimize.com$third-party

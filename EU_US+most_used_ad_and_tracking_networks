@@ -4390,7 +4390,6 @@
 ||sixide.com$third-party
 ||sizmek.com$third-party
 ||sjv.io$third-party
-||sk.search.etargetnet.com$third-party
 ||skimlinks.com$third-party
 ||skimresources.com$third-party
 ||skplanet.com$third-party
@@ -4406,14 +4405,11 @@
 ||slingshot.io$third-party
 ||slogantrend.de$third-party
 ||slunecnice.cz$third-party
-||smaato.com$third-party
-||smaato.net$third-party
+||smaato.*$third-party
 ||smadex.com$third-party
 ||smallseotools.com$third-party
 ||smart4ads.com$third-party
 ||smartadserver.com$third-party
-||smartclip.net$third-party
-||smartclip-services.com$third-party
 ||smartctr.com$third-party
 ||smart-digital-solutions.com$third-party
 ||smart-dmp.com$third-party

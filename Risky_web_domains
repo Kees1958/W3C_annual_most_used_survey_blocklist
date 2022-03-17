@@ -1,0 +1,83 @@
+[AdBlockPlus 1.1]
+!
+! Version: 2022
+! Title: Risky web domains (access with care) 
+!
+! Expires: 365 days
+! You are free to copy and distribute this file, but use at your own risk
+!
+||*.adult^$all
+||*.bar^$all
+||*.bd^$all
+||*.best^$all
+||*.bet^$all
+||*.bid^$all
+||*.cam^$all
+||*.casa^$all
+||*.casino^$all
+||*.cc^$all
+||*.cd^$all
+||*.cf^$all
+||*.cloud^$all
+||*.cn^$all
+||*.country^$all
+||*.cricket^$all
+||*.cyou^$all
+||*.date^$all
+||*.digital^$all
+||*.email^$all
+||*.ga^$all
+||*.gift^$all
+||*.gq^$all
+||*.help^$all
+||*.icu^$all
+||*.id^$all
+||*.in ^$all
+||*.info^$all
+||*.ir^$all
+||*.ke^$all
+||*.kim^$all
+||*.kp^$all
+||*.link^$all
+||*.lk^$all
+||*.ml^$all
+||*.monster^$all
+||*.ng^$all
+||*.np^$all
+||*.party^$all
+||*.ph^$all
+||*.pk^$all
+||*.poker^$all
+||*.porn^$all
+||*.pw^$all
+||*.quest^$all
+||*.rest^$all
+||*.review^$all
+||*.ru^$all
+||*.sa^$all
+||*.sbs^$all
+||*.science^$all
+||*.seks^$all
+||*.sexy^$all
+||*.shop^$all
+||*.solar^$all
+||*.stream^$all
+||*.su^$all
+||*.support^$all
+||*.surf^$all
+||*.th^$all
+||*.tk^$all
+||*.tokyo^$all
+||*.top^$all
+||*.tr^$all
+||*.uno^$all
+||*.vn^$all
+||*.webcam^$all
+||*.win^$all
+||*.work^$all
+||*.ws^$all
+||*.xxx^$all
+||*.xyz^$all
+||*.zip^$all
+||*.zw^$all
+© 2022 GitHub, Inc.

@@ -1,12 +1,12 @@
                                                          SOURCES
 This blocklist is based on surveys of most used advertising and tracking technology (e.g. surveys of W3C, W3Tech and the
-on-line marketing community itself). The online advertising industry likes to keep lists of top performing companies in
+digital marketing community itself). The online advertising industry likes to keep lists of top performing companies in
 the ad supply chain (including advertising exchange platforms). The list and surveys monitored are oriented on Europe and 
 North America, this is the reason this blocklist contains mostly EU and US based advertising and tracking networks. 
 
                                 WHY USE A SMALL ADVERTISING AND TRACKING NETWORKS BLOCK LIST? 
 In advertising the number one (Google) has a marketshare of around 40 percent, Facebook the number two hits the 20 percent mark 
-while the number three Comscore just has a little over 2.5% marketshare. For comparison Amazon with its huge webstore generates 
+while the number three (Comscore) just has a little over 2.5% marketshare. For comparison Amazon with its huge webstore generates 
 about the same advertising traffic on its own website. Number 100 on this list is probably used at 5000 websites of the Alexa 
 Top 300.000 websites, while number 250 may only track you on 500 websites of the Alexa Top 300.000. 
 
@@ -17,13 +17,13 @@ network. Also the digital marketeers using these networks are a constraining fac
 use new software which makes them reluctant to change to a different advertising platform when the business advantage is marginal.
 
                                                       ADVICED USAGE 
-Combine this blocklist with your langaige specific blocklist of EasyList. To prevent website breakage add the allow lists
-of EasyList and EasyPrivacy. Finally add Adguard's URL Tracking filter to remove tracking prarameters from links.
+Combine this blocklist with the language specific Easylist blocklist(s) of your country. To prevent website breakage add the 
+allow lists of EasyList and EasyPrivacy. Finally my URL Tracking parameters filter to remove tracking prarameters from links.
 
 https://easylist.to/pages/other-supplementary-filter-lists-and-easylist-variants.html  (country specific) 
 https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_allowlist.txt (easylist allow)
 https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_allowlist.txt (easyprivacy allow)
-https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_17_TrackParam/filter.txt (adguard URL)
+https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/URL_tracking_parameters (URL tracking parameters)
 
 
                                                       ERRORS & ISSUES

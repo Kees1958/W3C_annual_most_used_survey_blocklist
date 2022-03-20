@@ -75,7 +75,6 @@
 ||*.sa^$doc
 ||*.sbs^$all
 ||*.science^$all
-||*.seks^$all
 ||*.sex^$all
 ||*.sexy^$all
 ||*.shop^$all
@@ -218,8 +217,6 @@
 ||*.机构^$all
 ||*.组织机构^$all
 ||*.健康^$all
-||*.xyz^$all
-||*.xxx^$all
 ||*.政务^$all
 ||*.فلسطين^$all
 ||*.新加坡^$all

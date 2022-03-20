@@ -4,10 +4,10 @@
 ! Title: Risky web domains (access with care) 
 !
 ! Expires: 365 days
-! You are free to copy and distribute this file, but use at your own risk
+! You are free to copy and distribute this file, but use at your own risk and preferably only with uBlockOrigin
 !
-! Country codes are blocked only for DOC (surfing to top DOCument), fancy and non-Latin Top Level Domains are blocked for ALL content
-! 
+! Fancy and non-Latin Top Level Domains are blocked for ALL content, country codes are blocked only for DOC (surfing to top DOCument).
+! By blocking DOC only for country codes, these country codes can be unblocked when uBlockOrigin shows the strict blocking warning.  
 !
 ||*.adult^$all
 ||*.bar^$all

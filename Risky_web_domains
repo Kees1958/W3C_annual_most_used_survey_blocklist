@@ -6,7 +6,7 @@
 ! Expires: 365 days
 ! You are free to copy and distribute this file, but use at your own risk
 !
-! Country codes are blocked only for DOC (surfing to top DOCument), fancy Top Level Domains and non-Latin domains are blocked for ALL content
+! Country codes are blocked only for DOC (surfing to top DOCument), fancy and non-Latin Top Level Domains are blocked for ALL content
 ! 
 !
 ||*.adult^$all

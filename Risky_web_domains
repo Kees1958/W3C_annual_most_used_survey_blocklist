@@ -38,7 +38,7 @@
 ||*.help^$doc
 ||*.icu^$doc
 ||*.id^$doc
-||*.in ^$doc
+||*.in^$doc
 ||*.info^$doc
 ||*.ir^$doc
 ||*.ke^$doc

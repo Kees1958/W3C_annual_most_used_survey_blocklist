@@ -41,7 +41,7 @@
 ||*.help^$all
 ||*.icu^$all
 ||*.id^$doc
-||*.in ^$doc
+||*.in^$doc
 ||*.info^$all,domain=~hardware.info
 ||*.ir^$doc
 ||*.ke^$doc

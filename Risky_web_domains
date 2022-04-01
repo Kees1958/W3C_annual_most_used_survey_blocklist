@@ -25,7 +25,6 @@
 ||*.cyou^$all
 ||*.date^$all
 ||*.digital^$all
-||*.download^$all
 ||*.email^$all
 ||*.gdn^$all
 ||*.gift^$all
@@ -76,7 +75,6 @@
 ||*.xin^$all
 ||*.xxx^$all
 ||*.xyz^$all
-||*.zip^$all
 ||*.कॉम^$all
 ||*.セール^$all
 ||*.佛山^$all

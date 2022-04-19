@@ -6,7 +6,8 @@
 ! Expires: 365 days
 ! You are free to copy and distribute this file, but use at your own risk and preferably only with uBlockOrigin
 !
-! Fancy and non-Latin Top Level Domains are blocked for ALL content
+! When your DNS does not has a 'much abused Top Level Domains option, you can add this small blocklist which
+! blocks all access to 'much abused (by malware and phising) and non-Latin TLD's (e.g Chinese or Arabic characters)
 !
 ||*.adult^$all
 ||*.bar^$all
@@ -217,3 +218,6 @@
 ||*.سورية^$all
 ||*.招聘^$all
 ||*.рф^$all
+||*.ОНЛАЙН^$all
+||*.ОРГ$all
+||*.САЙТ$all

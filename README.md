@@ -25,8 +25,8 @@ to remove tracking prarameters from links, when you don't want to use the Russio
 2. https://easylist.to/pages/other-supplementary-filter-lists-and-easylist-variants.html (country specific Easylist)
 3. https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_allowlist.txt (easylist allow list) 
 4. https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_allowlist.txt (easyprivacy allow list) 
-5. https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/URL_tracking_parameters (my URL tracking parameters)
-6. https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US%2Bmost_used_ad_and_tracking_networks (Kees1958 most used) 
+5. https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/URL_tracking_parameters 
+6. https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US%2Bmost_used_ad_and_tracking_networks 
 
 
                                                       ERRORS & ISSUES

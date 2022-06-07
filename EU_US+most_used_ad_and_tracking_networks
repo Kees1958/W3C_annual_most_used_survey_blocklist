@@ -3,7 +3,7 @@
 ! Title: EU US most used ads & trackers networks (third-party blocking only)
 ! Expires: 30 days 
 !
-! Version: 2022.05.23
+! Version: 2022.07.06
 !
 ! Please report issues related to website breakage at
 ! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -147,6 +147,7 @@
 ||acxiom-online.com$third-party
 ||ad.com$third-party
 ||ad.gt$third-party
+||ad-delivery.net$third-party
 ||ad360.media$third-party
 ||ad4game.com$third-party
 ||ad4mat.com$third-party

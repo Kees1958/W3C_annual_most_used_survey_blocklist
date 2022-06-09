@@ -19,7 +19,8 @@ use new software which makes them reluctant to change to a different advertising
                                                       ADVICED USAGE 
 Combine this blocklist with the language specific Easylist blocklist(s) of your country. To prevent website breakage enable 
 the uBlockOrigin unbreak list and add the allow lists of EasyList and EasyPrivacy. Finally use my URL Tracking parameters filter 
-to remove tracking prarameters from links, when you don't want to use the Russion Adguard tracking parameter list.
+to remove tracking prarameters from links, when you don't want to use the Russion Adguard tracking parameter list. I also use 
+Lenny Fox lisgt for youtube. 
 
 1. https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/unbreak.txt (uBlockOrigin unbreak)
 2. https://easylist.to/pages/other-supplementary-filter-lists-and-easylist-variants.html (country specific Easylist)
@@ -27,6 +28,7 @@ to remove tracking prarameters from links, when you don't want to use the Russio
 4. https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_allowlist.txt (easyprivacy allow list) 
 5. https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/URL_tracking_parameters 
 6. https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US%2Bmost_used_ad_and_tracking_networks 
+7. https://raw.githubusercontent.com/LennyFox/Blocklists/master/Youtube_uBlockOrigin (Lenny's youtube blocklist for youtube)
 
 
                                                       ERRORS & ISSUES

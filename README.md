@@ -17,18 +17,19 @@ network. Also the digital marketeers using these networks are a constraining fac
 use new software which makes them reluctant to change to a different advertising platform when the business advantage is marginal.
 
                                                       ADVICED USAGE 
-Combine this blocklist with the language specific Easylist blocklist(s) of your country. To prevent website breakage enable 
-the uBlockOrigin unbreak list and add the allow lists of EasyList and EasyPrivacy. Finally use my URL Tracking parameters filter 
-to remove tracking prarameters from links, when you don't want to use the Russion Adguard tracking parameter list. I also use 
-Lenny Fox lisgt for youtube. 
+To prevent website breakage enable the uBlockOrigin unbreak list and add the allow lists of EasyList and EasyPrivacy. Use my URL
+Tracking parameters filter to remove tracking prarameters from links, when you don't want to use the Russion Adguard tracking 
+parameter list. Combine this blocklist with the language specific Easylist blocklist(s) of your country. FinalliyI also use 
+Lenny Fox blosck list for youtube. 
 
-1. https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/unbreak.txt (uBlockOrigin unbreak)
-2. https://easylist.to/pages/other-supplementary-filter-lists-and-easylist-variants.html (country specific Easylist)
+1. https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US%2Bmost_used_ad_and_tracking_networks
+2. https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/unbreak.txt (uBlockOrigin unbreak)
 3. https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_allowlist.txt (easylist allow list) 
 4. https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_allowlist.txt (easyprivacy allow list) 
-5. https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/URL_tracking_parameters 
-6. https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US%2Bmost_used_ad_and_tracking_networks 
+5. https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/URL_tracking_parameters (my versiuom of URL parms)
+6. https://easylist.to/pages/other-supplementary-filter-lists-and-easylist-variants.html (add your country specific Easylist)
 7. https://raw.githubusercontent.com/LennyFox/Blocklists/master/Youtube_uBlockOrigin (Lenny's youtube blocklist for youtube)
+
 
 
                                                       ERRORS & ISSUES

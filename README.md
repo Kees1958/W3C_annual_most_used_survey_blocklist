@@ -26,7 +26,7 @@ Lenny Fox blosck list for youtube.
 2. https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/unbreak.txt (uBlockOrigin unbreak)
 3. https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_allowlist.txt (easylist allow list) 
 4. https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_allowlist.txt (easyprivacy allow list) 
-5. https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/URL_tracking_parameters (remove URL tracking)
+5. https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/URL_tracking_parameters (URL tracking)
 6. https://easylist.to/pages/other-supplementary-filter-lists-and-easylist-variants.html (add your country specific Easylist)
 7. https://raw.githubusercontent.com/LennyFox/Blocklists/master/Youtube_uBlockOrigin (Lenny's youtube blocklist for youtube)
 

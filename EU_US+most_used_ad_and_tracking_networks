@@ -232,7 +232,7 @@
 ||adgreed.com$third-party
 ||adgroups.net$third-party
 ||adheart.de$third-party
-||adhese.*$third-party
+||adhese.*$third-party,~xmlhttprequest
 ||adhigh.net$third-party
 ||adhood.com$third-party
 ||adhslx.com$third-party

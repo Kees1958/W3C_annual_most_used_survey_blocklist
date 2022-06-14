@@ -272,8 +272,8 @@
 ||admanmedia.com$third-party
 ||admantx.com$third-party
 ||admarketplace.*$third-party
-||admarvel.s3.amazonaws.com$third-party
-||admaster.com.cn$third-party
+||admarvel.*$third-party
+||admaster.*$third-party
 ||admatic.com.tr$third-party
 ||ad-maven.com$third-party
 ||admaxim.com$third-party

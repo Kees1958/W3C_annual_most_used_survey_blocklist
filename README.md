@@ -18,8 +18,9 @@ use new software which makes them reluctant to change to a different advertising
 
                                                       ADVICED USAGE  
 Combine this blocklist with your country specific Easylist blocklist: https://adblockplus.org/nl/subscriptions
-When you don't want to use Russian sourced blocklists, you can use my tracking paramater blocklist which covers European and American
-tracking parameters: https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/URL_tracking_parameters
+When you don't want to use Russian sourced blocklists, you can use my tracking paramater blocklist which covers most 
+European and North American tracking parameters (some tracking services are encrypting/shortening URL's to prevent
+tracking parameters being removed)
 
                                                       ERRORS & ISSUES
 As of July 2022, I have added a seperate list of exceptions, please report site breakage on github by creating an issue.

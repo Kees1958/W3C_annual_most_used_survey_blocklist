@@ -1,13 +1,11 @@
 AdBlockPlus 2.0]
 !
 ! Version: 2022
-! Title: EU US most used URL trackers (remove parameters from URL)
+! Title: Website specific allow exceptions to prevent breakage
 !
 ! Expires: 365 days
 ! You are free to copy and distribute this file, but use at your own risk
 !
-!
-! Allow exceptions
-!
+! CNN 
 @@||amazon-adsystem.com^$script,domain=cnn.com
 @@||prebid.adnxs.com^$xmlhttprequest,domain=cnn.com

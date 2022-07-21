@@ -19,5 +19,7 @@ use new software which makes them reluctant to change to a different advertising
                                                       ADVICED USAGE  
 Combine this blocklist with the language specific Easylist blocklist(s) of your country. 
 
+
                                                       ERRORS & ISSUES
-Feel free to use it and provide feedback on errors, I will try to correct website breakage as soon as possible.  
+As of July 2022, I have added a seperate list of exceptions, please report site breakage on github by creating an issue.
+https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues. I will try to correct errors as soon as possible.  

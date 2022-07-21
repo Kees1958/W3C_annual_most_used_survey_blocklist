@@ -17,8 +17,9 @@ network. Also the digital marketeers using these networks are a constraining fac
 use new software which makes them reluctant to change to a different advertising platform when the business advantage is marginal.
 
                                                       ADVICED USAGE  
-Combine this blocklist with the language specific Easylist blocklist(s) of your country. 
-
+Combine this blocklist with your country specific Easylist blocklist: https://adblockplus.org/nl/subscriptions
+When you don't want to use Russian sourced blocklists, you can use my tracking paramater blocklist which covers European and American
+tracking parameters: https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/URL_tracking_parameters
 
                                                       ERRORS & ISSUES
 As of July 2022, I have added a seperate list of exceptions, please report site breakage on github by creating an issue.

@@ -2038,7 +2038,6 @@
 ||goadservices.com$third-party
 ||goaltraffic.com$third-party
 ||goatcounter.com$third-party
-||gobal.adserver.yahoo.com$third-party
 ||go-clicks.de$third-party
 ||godaddy.com$third-party
 ||godatafeed.com$third-party
@@ -5458,9 +5457,6 @@
 ||xxxjmp.com$third-party
 ||xxxwebtraffic.com$third-party
 ||xyztraffic.com$third-party
-||yadro.ru$third-party
-||yahoo.co.jp$third-party
-||yahoo.com$third-party
 ||yamanoha.com$third-party
 ||yandex.ru$third-party
 ||yandexadexchange.net$third-party

@@ -1,6 +1,6 @@
 [AdBlockPlus 1.1]
 !
-! Title: EU US most used advertising networks addendum to Edge/Firefox (Disconnect based) build-in blocklist
+! Title: EU US most used advertising supplement for Edge and Firefox build-in
 ! Expires: 30 days 
 !
 ! Version: 2022.09.21

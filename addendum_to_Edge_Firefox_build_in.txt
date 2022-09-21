@@ -1637,7 +1637,7 @@
 ||google-pagerank.net$third-party
 ||googlerank.info$third-party
 ||google-rank.org$third-party
-||googlesyndication.*$third-partypagead$third-party
+||googlesyndication.*/pagead$third-party
 ||gooo.al$third-party
 ||gopjn.com$third-party
 ||go-rank.de$third-party

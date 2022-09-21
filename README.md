@@ -17,13 +17,9 @@ network. Also the digital marketeers using these networks are a constraining fac
 use new software which makes them reluctant to change to a different advertising platform when the business advantage is marginal.
 
                                                       ADVICED USAGE  
-Combine this blocklist with your country specific Easylist blocklist: https://adblockplus.org/nl/subscriptions
-When you don't want to use Russian sourced blocklists, you can use my tracking paramater blocklist which covers most 
-European and North American tracking parameters (some tracking services are encrypting/shortening URL's to prevent
-tracking parameters being removed). 
 
-As of July 2022, I have added a seperate list of exceptions, in stead of advising to add the Easylist exception lists
-https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/Allow_exceptions
+When you use Ege or Firefox with build-in tracking protection, you can use this version (also works with AdGuard Mv3)
+https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/addendum_to_Edge_Firefox_build_in.txt
 
                                                       ERRORS & ISSUES
 Please report site breakage on github by creating an issue. https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues. 

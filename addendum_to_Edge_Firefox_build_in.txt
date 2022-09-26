@@ -331,6 +331,7 @@
 ||ads.hearstmags.^third-party
 ||ads.linkedin.com$third-party
 ||ads.msn.^third-party
+||ads.pinterest.com$third-party
 ||ads.pubmatic.^$third-party
 ||ads.reddit.com$third-party
 ||ads.rubiconproject.^third-party
@@ -341,6 +342,7 @@
 ||ads.twitter.com$third-party
 ||ads.yahoo.^third-party
 ||ads.yap.yahoo.com^$third-party
+||ads-twitter.com$third-party
 ||ads5-adnow.^third-party
 ||ads8.com$third-party
 ||adsafety.net$third-party
@@ -406,6 +408,7 @@
 ||adspdbl.^third-party
 ||adspeed.^third-party
 ||ads-pinterest.com$third-party
+||ads-twitter.com$third-party
 ||adsponse.de$third-party
 ||adspot.ch$third-party
 ||adspsp.^third-party
@@ -420,7 +423,6 @@
 ||adsterra.^third-party
 ||adstest.weather.com$third-party
 ||adstheaa.^third-party
-||ads-twitter.com$third-party
 ||adsty.^third-party
 ||adsupplyads.com$third-party
 ||adsur.^third-party

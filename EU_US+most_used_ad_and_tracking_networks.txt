@@ -41,9 +41,7 @@
 ||2mdn.net$third-party
 ||2o7.net$third-party
 ||2smt6mfgo.de$third-party
-||2xclick.ru$third-party
 ||33across.com$third-party
-||360.cn$third-party
 ||360i.com$third-party
 ||360tag.*$third-party
 ||360yield.com$third-party
@@ -221,7 +219,6 @@
 ||adforce.com$third-party
 ||adform.com$third-party
 ||adform.net$third-party
-||adfox.ru$third-party
 ||adfunky.com$third-party
 ||adgainersolutions.com$third-party
 ||adgardener.com$third-party
@@ -352,7 +349,6 @@
 ||adregain.*$third-party
 ||adremedy.com$third-party
 ||adretarget.me$third-party
-||adriver.ru$third-party
 ||adrizer.com$third-party
 ||adrolays.*$third-party
 ||adroll.com$third-party
@@ -381,7 +377,6 @@
 ||adscore.com$third-party
 ||ad-score.com$third-party
 ||ads-dev.pinterest.com$third-party
-||adsdk.yandex.ru$third-party
 ||adsend.de$third-party
 ||adsensedetective.com$third-party
 ||adserve.zone$third-party
@@ -398,7 +393,6 @@
 ||adskeeper.com$third-party
 ||adsnative.com$third-party
 ||ad-sniper.com$third-party
-||adsniper.ru$third-party
 ||ad-souk.com$third-party
 ||adspsp.com$third-party
 ||adsrvr.org$third-party
@@ -440,7 +434,6 @@
 ||advividnetwork.com$third-party
 ||adways.com$third-party
 ||adwstats.com$third-party
-||adx.com.ru$third-party
 ||adxadtracker.com$third-party
 ||adxcel-ec2.com$third-party
 ||adxpremium.services$third-party
@@ -1049,8 +1042,6 @@
 ||christmalicious.com$third-party
 ||chrumedia.com$third-party
 ||chtbl.com$third-party,script,xmlhttprequest
-||chushoushijian.cn$third-party
-||chuzushijian.cn$third-party
 ||cint.com$third-party
 ||cintnetworks.com$third-party
 ||circle.am$third-party
@@ -1336,9 +1327,7 @@
 ||datafy-software.com$third-party
 ||datalicious.com$third-party
 ||datam.com$third-party
-||datamaster.com.cn$third-party
 ||datametrical.com$redirect=nooptext
-||datamind.ru$third-party
 ||dataperforma.com$third-party
 ||dataplusmath.com$third-party
 ||datarating.com$third-party
@@ -1415,7 +1404,6 @@
 ||digitalaudience.io$third-party
 ||digitalhub-h.de$third-party
 ||digitaloptout.com$third-party
-||digitaltarget.ru$third-party
 ||digitize.ie$third-party
 ||digitru.st$third-party
 ||dignow.org$third-party
@@ -1444,7 +1432,6 @@
 ||dlvrit.com$third-party
 ||dma-institute.com$third-party
 ||dmanalytics1.com$third-party
-||dmclick.cn$third-party
 ||dmd53.com$third-party
 ||dmpcounter.com$third-party
 ||dmpprof.com$third-party
@@ -1844,7 +1831,6 @@
 ||fpctraffic.com$third-party
 ||fpctraffic2.com$third-party
 ||fpjs.io$third-party
-||fppressa.ru$third-party
 ||fprnt.com$third-party
 ||fqsecure.com$third-party
 ||fqtag.com$third-party
@@ -2020,8 +2006,6 @@
 ||globel.co.uk$third-party
 ||globetrackr.com$third-party
 ||gmads.net$third-party
-||gmodmp.jp$third-party
-||gmossp-sp.jp$third-party
 ||gnetwork.me$third-party
 ||gnpge.com$third-party
 ||go.com$third-party
@@ -2168,7 +2152,6 @@
 ||hit-counts.com$third-party
 ||hitfarm.com$third-party
 ||hitgelsin.com$third-party
-||hitgraph.jp$third-party
 ||hitmaster.de$third-party
 ||hitmatic.com$third-party
 ||hit-parade.com$third-party
@@ -2515,7 +2498,6 @@
 ||jysk.ee$third-party
 ||k3node.com$third-party
 ||kadam.net$third-party
-||kaipuyun.cn$third-party
 ||kakao.com$third-party
 ||kameleoon.*$third-party
 ||kampyle.com$third-party
@@ -2561,7 +2543,6 @@
 ||kl-youniverse.com$third-party
 ||km-sea.net$third-party
 ||kmtx.io$third-party
-||knet.cn$third-party
 ||knorex.com$third-party
 ||knotch.it$third-party
 ||knowledgevine.net$third-party
@@ -2712,7 +2693,6 @@
 ||localytics.com$third-party
 ||locationsciences.ai$third-party
 ||lockerdome.com$third-party
-||lockview.cn$third-party
 ||locotrack.net$third-party
 ||log.pinterest.com$third-party
 ||logaholic.com$third-party
@@ -2725,7 +2705,6 @@
 ||loginfra.com$third-party
 ||loginhood.io$third-party
 ||logiq.com$third-party
-||logly.co.jp$third-party
 ||logmatic.io$third-party
 ||lognormal.net$third-party
 ||logrocket.com$third-party
@@ -2953,7 +2932,6 @@
 ||mieru-ca.com$third-party
 ||milanoo.com$third-party
 ||millioncounter.com$third-party
-||mindbox.ru$third-party
 ||mindmemobile.com$third-party
 ||mindtake.com$third-party
 ||minewhat.com$third-party
@@ -3034,11 +3012,9 @@
 ||mooseway.com$third-party
 ||mopinion.com$third-party
 ||mopub.com$third-party
-||more-data.ru$third-party
 ||morequalifiedleads.co.uk$third-party
 ||moreusers.info$third-party
 ||morevisits.info$third-party
-||mos.ru$third-party
 ||motorpresse-statistik.de$third-party
 ||motricity.com$third-party
 ||motrixi.com$third-party
@@ -3138,7 +3114,6 @@
 ||naiadsystems.com$third-party
 ||naj.sk$third-party
 ||najva.com$third-party
-||nakanohito.jp$third-party
 ||nalook.com$third-party
 ||namimedia.com$third-party
 ||n-analytics.io$third-party
@@ -3177,7 +3152,6 @@
 ||nedstat.net$third-party
 ||nedstatbasic.net$third-party
 ||nedstatpro.net$third-party
-||nejmqianyan.cn$third-party
 ||neki.org$third-party
 ||nend.net$third-party
 ||neocounter.neoworx-blog-tools.net$third-party
@@ -3310,7 +3284,6 @@
 ||offerpoint.net$third-party
 ||offerstrategy.com$third-party
 ||oggifinogi.com$third-party
-||ogt.jp$third-party
 ||ogury.com$third-party
 ||ohana-media.com$third-party
 ||ohayoo.io$third-party
@@ -3319,7 +3292,6 @@
 ||oix.com$third-party
 ||oix.phorm.com$third-party
 ||ojrq.net$third-party
-||ok.ru$third-party
 ||okt.to$third-party
 ||oktawave.com$third-party
 ||oktopost.com$third-party
@@ -3907,7 +3879,6 @@
 ||reachjunction.com$third-party
 ||reachlocal.com$third-party
 ||reachlocalservices.com$third-party
-||reachmax.cn$third-party
 ||reachsocket.com$third-party
 ||react2media.com$third-party
 ||reactful.com$third-party
@@ -4039,7 +4010,6 @@
 ||rfr-69.com$third-party
 ||rhinoseo.com$third-party
 ||rhythmone.com$third-party
-||ria.ru$third-party
 ||riastats.com$third-party
 ||richard-group.com$third-party
 ||richaudience.com$third-party
@@ -4124,8 +4094,6 @@
 ||rumpelstiltskinhead.com$third-party
 ||runads.com$third-party
 ||runtnc.net$third-party
-||rutarget.ru$third-party
-||rva.outbrain.com^
 ||rvty.net$third-party
 ||rztrkr.com$third-party
 ||s.conyak.com$third-party
@@ -4231,7 +4199,6 @@
 ||segment.*$third-party
 ||segmentify.com$third-party
 ||segmetrics.io$third-party
-||segs.jp$third-party
 ||seitwert.de$third-party
 ||sekindo.com$third-party
 ||selaris.com$third-party
@@ -4256,7 +4223,6 @@
 ||sensis.com.au$third-party
 ||sensismediasmart.com.au$third-party
 ||sensor.org.ua$third-party
-||sensorsdata.cn$third-party
 ||sentry.io$third-party
 ||seo-master.net$third-party
 ||seomonitor.ro$third-party
@@ -4333,7 +4299,6 @@
 ||simpli.fi$third-party
 ||simplycast.*$third-party
 ||simplymeasured.com$third-party
-||sina.com.cn$third-party
 ||singlefeed.com$third-party
 ||singular.net$third-party
 ||site.msi-aci.com$third-party
@@ -4402,7 +4367,6 @@
 ||smartyads.com$third-party
 ||smartzonessva.com$third-party
 ||smct.co$third-party
-||smi2.ru$third-party
 ||smilewanted.com$third-party
 ||smileyhost.net$third-party
 ||smrk.io$third-party
@@ -4510,7 +4474,6 @@
 ||sprinklecontent.com$third-party
 ||sptag.com$third-party
 ||sptag1.com$third-party
-||sputnik.ru$third-party
 ||spycounter.net$third-party
 ||spylog.com$third-party
 ||spywarenuker.com$third-party
@@ -4669,7 +4632,6 @@
 ||svr-prc-01.com$third-party
 ||svtrd.com$third-party
 ||swaven.com$third-party
-||swcs.jp$third-party
 ||swfstats.com$third-party
 ||swissadsolutions.com$third-party
 ||swiss-counter.com$third-party
@@ -4820,8 +4782,7 @@
 ||tm.zedo.com$third-party
 ||tm1-001.com$third-party
 ||tmvtp.com$third-party
-||tnctrx.com$third-party
-||tns-counter.ru$third-party
+||tnctrx.com$third-partyF
 ||tns-cs.net$third-party
 ||tns-gallup.dk$third-party
 ||tnsinternet.be$third-party
@@ -4970,7 +4931,6 @@
 ||trmads.eu$third-party
 ||trmnsite.com$third-party
 ||trovus.co.uk$third-party
-||trs.cn$third-party
 ||trstplse.com$third-party
 ||trtl.ws$third-party
 ||tru.am$third-party
@@ -5025,7 +4985,6 @@
 ||uciservice.com$third-party
 ||ucoz.com$third-party
 ||ucoz.net$third-party
-||udesk.cn$third-party
 ||udkcrj.com$third-party
 ||udmserve.net$third-party
 ||ufpcdn.com$third-party
@@ -5082,11 +5041,9 @@
 ||uservoice.com$third-party
 ||userzoom.com$third-party
 ||usesfathom.com$third-party
-||usonar.jp$third-party
 ||usuarios-online.com$third-party
 ||uuidksinc.net$third-party
 ||uuxnwoevyb.com$third-party
-||uxfeedback.ru$third-party
 ||uzrating.com$third-party
 ||v.shopify.com$third-party
 ||v12group.com$third-party
@@ -5266,7 +5223,6 @@
 ||weborama.*$third-party
 ||webpreneurmedia.com$third-party
 ||webprospector.de$third-party
-||webpush.jp$third-party
 ||webserviceaward.com$third-party
 ||webservis.gen.tr$third-party
 ||websiteceo.com$third-party
@@ -5315,8 +5271,6 @@
 ||wgsas.com$third-party
 ||whaleads.com$third-party
 ||whatismyip.win$third-party
-||wheredoyoucomefrom.ovh$third-party
-||whiteboxdigital.ru$third-party
 ||whiteops.com$third-party
 ||whitepixel.com$third-party
 ||whizstats.com$third-party
@@ -5332,7 +5286,6 @@
 ||widgets.digg.com$third-party
 ||widgets.pinterest.com$third-party
 ||widgetserver.com$third-party
-||wi-fi.ru$third-party
 ||wikia-beacon.com$third-party
 ||wikiodeliv.com$third-party
 ||wildxtraffic.com$third-party
@@ -5402,7 +5355,6 @@
 ||xhit.com$third-party
 ||xiti.com$third-party
 ||xius.com$third-party
-||xlisting.jp$third-party
 ||xlovecam.com$third-party
 ||xmladed.com$third-party
 ||xpanama.net$third-party
@@ -5424,7 +5376,7 @@
 ||xxxwebtraffic.com$third-party
 ||xyztraffic.com$third-party
 ||yamanoha.com$third-party
-||yandex.ru$third-party
+||yandex.*$third-party
 ||yandexadexchange.net$third-party
 ||yaudience.com$third-party
 ||ybotvisit.com$third-party

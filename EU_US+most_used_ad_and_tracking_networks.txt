@@ -3,7 +3,7 @@
 ! Title: EU US most used ads & trackers networks (third-party blocking only)
 ! Expires: 30 days 
 !
-! Version: 2022.06.14
+! Version: 2022.10.27
 !
 ! Please report issues related to website breakage at
 ! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -777,7 +777,6 @@
 ||bebi.com$third-party
 ||bebj.com$third-party
 ||beeftransmission.com$third-party
-||beeline.ru$third-party
 ||beemray.com$third-party
 ||beemrdwn.com$third-party
 ||beencounter.com$third-party
@@ -1131,8 +1130,7 @@
 ||cnetcontentsolutions.com$third-party
 ||cnt1.net$third-party
 ||cnxweb.com$third-party
-||cnzz.com$third-party
-||cnzz.net$third-party
+||cnzz.*$third-party
 ||cobaltgroup.com$third-party
 ||coefficy.com$third-party
 ||cogmatch.net$third-party
@@ -1326,8 +1324,7 @@
 ||data2decisions.com$third-party
 ||databrain.com$third-party
 ||datacaciques.com$third-party
-||datacoral.com$third-party
-||datacoral.io$third-party
+||datacoral.*$third-party
 ||datacygnal.io$third-party
 ||datadoghq-browser-agent.com$third-party
 ||datadrivenpromotion.com$third-party
@@ -1536,7 +1533,6 @@
 ||eazy.de$third-party
 ||e-bannery.cz$third-party
 ||ebayadvertising.com$third-party
-||ebis.ne.jp$third-party
 ||ebtrk1.com$third-party
 ||ebuilders.nl$third-party
 ||eccmp.com$third-party
@@ -1845,7 +1841,6 @@
 ||fospha.com$third-party
 ||fouanalytics.com$third-party
 ||foundry42.com$third-party
-||fout.jp$third-party
 ||fpctraffic.com$third-party
 ||fpctraffic2.com$third-party
 ||fpjs.io$third-party
@@ -1952,7 +1947,6 @@
 ||generaltracking.de$third-party
 ||genesismedia.com$third-party
 ||genesismediaus.com$third-party
-||genieesspv.jp$third-party
 ||geniusmonkey.com$third-party
 ||geniussports.com$third-party
 ||geo.digitalpoint.com$third-party
@@ -2011,7 +2005,6 @@
 ||gixmo.dk$third-party
 ||glam.com$third-party
 ||glanceguide.com$third-party
-||glanceguide.com^
 ||glassboxcdn.com$third-party
 ||glassboxdigital.io$third-party
 ||glbtracker.com$third-party
@@ -2030,7 +2023,6 @@
 ||gmodmp.jp$third-party
 ||gmossp-sp.jp$third-party
 ||gnetwork.me$third-party
-||gnezdo.ru$third-party
 ||gnpge.com$third-party
 ||go.com$third-party
 ||go.pl$third-party
@@ -2102,8 +2094,6 @@
 ||gsecondscreen.com$third-party
 ||gsimedia.net$third-party
 ||gsi-one.org$third-party
-||gsspat.jp$third-party
-||gssprt.jp$third-party
 ||gstatic.com,$third-party
 ||gtcslt-di2.com$third-party
 ||gtop.ro$third-party
@@ -2128,8 +2118,7 @@
 ||harrenmedia.com$third-party
 ||harrenmedianetwork.com$third-party
 ||hashtagd.net$third-party
-||hasoffers.com$third-party
-||hatena.ne.jp$third-party
+||hasoffers.com$third-party8
 ||havamedia.net$third-party
 ||havasedge.com$third-party
 ||haveamint.com$third-party
@@ -2188,7 +2177,6 @@
 ||hits.informer.com$third-party
 ||hits.io$third-party
 ||hits.puls.lv$third-party
-||hits.theguardian.com$third-party
 ||hits2u.com$third-party
 ||hits4me.com$third-party
 ||hitslink.com$third-party
@@ -2301,11 +2289,9 @@
 ||imimobile.com$third-party
 ||imlive.com$third-party
 ||immanalytics.com$third-party
-||i-mobile.co.jp$third-party
 ||imonitor.nethost.cz$third-party
 ||imonomy.com$third-party
 ||impact.com$third-party
-||impact-ad.jp$third-party
 ||impactmobile.com$third-party
 ||impactradius-event.com$third-party
 ||impression.link$third-party
@@ -2752,7 +2738,6 @@
 ||loop.me$third-party
 ||loop11.com$third-party
 ||loopfuse.net$third-party
-||loopme.*$third-party
 ||lopley.com$third-party
 ||losecounter.de$third-party
 ||losstrack.com$third-party
@@ -2958,7 +2943,6 @@
 ||miarroba.com$third-party
 ||micodigo.com$third-party
 ||micpn.com$third-party
-||microad.jp$third-party
 ||microadinc.com$third-party
 ||microanalytics.io$third-party
 ||microcounter.de$third-party
@@ -3096,7 +3080,6 @@
 ||mtrackd.com$third-party
 ||mtracking.com$third-party
 ||mtree.com$third-party
-||mts.ru$third-party
 ||multiplestreammktg.com$third-party
 ||multipops.com$third-party
 ||munchkin.marketo.*$third-party
@@ -3211,7 +3194,6 @@
 ||netbina.com$third-party
 ||netbiscuits.net$third-party
 ||netclickstats.com$third-party
-||netcore.co.in$third-party
 ||netcoresmartech.com$third-party
 ||netcounter.de$third-party
 ||netdebit-counter.de$third-party
@@ -3416,8 +3398,6 @@
 ||optimatic.com$third-party
 ||optimierung-der-website.de$third-party
 ||optimisemedia.com$third-party
-||optimix.asia$third-party
-||optimix.cn$third-party
 ||optimizely.com$third-party
 ||optimost.com$third-party
 ||optimove.net$third-party
@@ -3860,7 +3840,6 @@
 ||qualtrics.com$third-party
 ||quantcast.com$third-party
 ||quantcount.com$third-party
-||quantserve.com$~object,third-party
 ||quantserve.com$third-party
 ||quantum-advertising.com$third-party
 ||quantumdex.io$third-party
@@ -3888,7 +3867,6 @@
 ||r7ls.net$third-party
 ||raasnet.com$third-party
 ||rad.msn.com$third-party
-||r-ad.ne.jp$third-party
 ||radar.cedexis.com$third-party
 ||radarstats.com$third-party
 ||radarurl.com$third-party
@@ -4141,7 +4119,6 @@
 ||rubiconproject.com$third-party
 ||rudderlabs.com$third-party
 ||rumanalytics.com$third-party
-||rumble.com$ping,third-party
 ||rumble.com$third-party
 ||rumiview.com$third-party
 ||rumpelstiltskinhead.com$third-party
@@ -4364,7 +4341,6 @@
 ||siteanaliz.org$third-party
 ||siteapps.com$third-party
 ||sitebarad.com$third-party
-||sitebot.cn$third-party
 ||sitebro.*$third-party
 ||sitecompass.com$third-party
 ||sitedataprocessing.com$third-party
@@ -4521,7 +4497,6 @@
 ||sponsors.thoughtsmedia.com$third-party
 ||sportradarserving.com$third-party
 ||spotad.co$third-party
-||spotify.com$third-party
 ||spotim.market$third-party
 ||spotmx.com$third-party
 ||spotx.tv$third-party
@@ -4565,7 +4540,6 @@
 ||stat.pet$third-party
 ||stat.xhamsterpremium.com$third-party
 ||stat24.com$third-party
-||statad.ru$third-party
 ||statcount.com$third-party
 ||statcounter.com$third-party
 ||statcounterfree.com$third-party
@@ -4711,7 +4685,7 @@
 ||sysomos.com$third-party
 ||systemina.dk$third-party
 ||t.co$third-party
-||t.flix360.com^
+||t.flix360.com$third-party
 ||t4ft.de$third-party
 ||tableau.com$third-party
 ||taboola.com$third-party
@@ -4820,7 +4794,7 @@
 ||thestat.net$third-party
 ||thesun.co.uk$third-party
 ||thetradedesk.com$third-party
-||thetrafficstat.net^
+||thetrafficstat.net$third-party
 ||thinktot.com$third-party
 ||thisisacoolthing.com$third-party
 ||thrtle.com$third-party
@@ -4862,10 +4836,7 @@
 ||topblogging.com$third-party
 ||topdepo.com$third-party
 ||tophits4u.de$third-party
-||toplist.cz$third-party
-||toplist.eu$third-party
-||toplist.pornhost.com$third-party
-||toplist.sk$third-party
+||toplist.*$third-party
 ||topmalaysia.com$third-party
 ||topofblogs.com$third-party
 ||top-ro.ro$third-party
@@ -4976,8 +4947,7 @@
 ||trekmedia.net$third-party
 ||tremorhub.com$third-party
 ||tremorvideo.com$third-party
-||trendcounter.com$third-party
-||trendcounter.de$third-party
+||trendcounter.*$third-party
 ||trendemon.com$third-party
 ||trendfrage.de$third-party
 ||trendmd.com$third-party
@@ -5238,7 +5208,6 @@
 ||vtracker.net$third-party
 ||vwo.com$third-party
 ||w.soundcloud.com$third-party
-||w.usabilla.com$third-party
 ||w3counter.com$third-party
 ||w55c.net$third-party
 ||w88.go.com$third-party
@@ -5274,7 +5243,6 @@
 ||webcontentassessor.com$third-party
 ||webcounter.*$third-party
 ||web-counter.net$third-party
-||webcounter.ws$third-party
 ||webengage.com$third-party
 ||webest.info$third-party
 ||webeyez.com$third-party
@@ -5296,7 +5264,6 @@
 ||webmetro.com$third-party
 ||webmobile.ws$third-party
 ||weborama.*$third-party
-||weborama.fr$third-party
 ||webpreneurmedia.com$third-party
 ||webprospector.de$third-party
 ||webpush.jp$third-party
@@ -5330,7 +5297,6 @@
 ||webtraxs.com$third-party
 ||webtraxx.de$third-party
 ||webtrekk.*$third-party
-||webtrekk.net$third-party
 ||webtrends.com$third-party
 ||webtrendslive.com$third-party
 ||webtrends-optimize.com$third-party
@@ -5546,7 +5512,6 @@
 ||zoomanalytics.co$third-party
 ||zoomflow.com$third-party
 ||zoominfo.com$third-party
-||zoomino.com$third-party
 ||zoosnet.net$third-party
 ||zoossoft.net$third-party
 ||zorosrv.com$third-party

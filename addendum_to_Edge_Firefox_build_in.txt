@@ -775,6 +775,7 @@
 ||bimlocal.com$third-party
 ||bitads.net$third-party
 ||bitmedianetwork.com$third-party
+||bitmovin.com$third-party
 ||bizible.com$third-party
 ||bizrate.com$third-party
 ||blast4traffic.com$third-party
@@ -2315,6 +2316,7 @@
 ||sms.otair.com$third-party
 ||snapads.com$third-party
 ||snapgiant.com$third-party
+||snplow.net$third-party
 ||socdm.com$third-party
 ||socialspark.com$third-party
 ||softclick.com.br$third-party

@@ -4228,8 +4228,7 @@
 ||myntelligence.com$third-party
 ||myomnistar.com$third-party
 ||myonlineanalytics.com$third-party
-||mypagerank.net$third-party
-||mypagerank.ru$third-party
+||mypagerank.^$third-party
 ||mypowermall.com$third-party
 ||mypressplus.com$third-party
 ||my-ranking.de$third-party
@@ -4709,8 +4708,7 @@
 ||perion.com$third-party
 ||perljs.com$third-party
 ||permodo.com$third-party
-||permutive.app$third-party
-||permutive.com$third-party
+||permutive.^$third-party
 ||persona.ly$third-party
 ||personalicanvas.com$third-party
 ||personyze.com$third-party
@@ -5269,7 +5267,6 @@
 ||reztrack.com$third-party
 ||rezync.com$third-party
 ||rfihub.com$third-party
-||rfihub.com/ca.gif$third-party
 ||rfksrv.com$third-party
 ||rfr-69.com$third-party
 ||rhinoseo.com$third-party
@@ -5481,8 +5478,7 @@
 ||securitytrfx.com$third-party
 ||sedo.com$third-party
 ||sedoparking.com$third-party
-||sedotracker.com$third-party
-||sedotracker.de$third-party
+||sedotracker.^$third-party
 ||seedr.com$third-party
 ||seedtag.com$third-party
 ||seehits.com$third-party
@@ -5610,7 +5606,6 @@
 ||simpletexting.com$third-party
 ||simpli.fi$third-party
 ||simplycast.^$third-party
-||simplycast.com$third-party
 ||simplymeasured.com$third-party
 ||singlefeed.com$third-party
 ||singular.net$third-party
@@ -5673,7 +5668,6 @@
 ||slunecnice.cz$third-party
 ||sma.punto.net$third-party
 ||smaato.^$third-party
-||smaato.net$third-party
 ||smadex.com$third-party
 ||smallseotools.com$third-party
 ||smart.bid$third-party
@@ -5849,11 +5843,7 @@
 ||start.freeze.com$third-party
 ||startapp.com$third-party
 ||stat.^$third-party
-||stat.media$third-party
-||stat.pet$third-party
-||stat.xhamsterpremium.com$third-party
-||stat24.com$third-party
-||stat24.meta.ua$third-party
+||stat24.^$third-party
 ||statcount.com$third-party
 ||statcounter.com$third-party
 ||statcounterfree.com$third-party
@@ -5865,7 +5855,6 @@
 ||static.chartbeat.^$third-party
 ||static.criteo.net$third-party
 ||static.fmpub.net$third-party
-||static.hotjar.^$third-party
 ||static.hotjar.com$third-party
 ||static.itrack.it$third-party
 ||static.media.net$third-party
@@ -6326,8 +6315,6 @@
 ||traffichunt.com$third-party
 ||trafficjoint.com$third-party
 ||trafficjunky.^$third-party
-||trafficjunky.com$third-party
-||trafficjunky.net$third-party
 ||trafficleader.com$third-party
 ||trafficmaxx.de$third-party
 ||trafficregenerator.com$third-party
@@ -6372,7 +6359,6 @@
 ||tremorhub.com$third-party
 ||tremorvideo.com$third-party
 ||trendcounter.^$third-party
-||trendcounter.com$third-party
 ||trendemon.com$third-party
 ||trendfrage.de$third-party
 ||trendmd.com$third-party
@@ -6387,8 +6373,7 @@
 ||triggit.com$third-party
 ||trilogyed.com$third-party
 ||trinitymedia.ai$third-party
-||triptease.io$third-party
-||triptease.net$third-party
+||triptease.^$third-party
 ||trix.net$third-party
 ||trk.pinterest.com$third-party
 ||trkjmp.com$third-party
@@ -6699,9 +6684,7 @@
 ||walmeric.com$third-party
 ||wanmo.com$third-party
 ||wap.co.uk$third-party
-||waplog.^$third-party
-||warlog.info$third-party
-||warlog.ru$third-party
+||warlog.^$third-party
 ||warp.ly$third-party
 ||waudit.cz$third-party
 ||waust.at$third-party

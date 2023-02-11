@@ -1,7 +1,7 @@
 [AdBlockPlus 1.1]
 !
 ! Title: EU US most used ads & trackers networks (third-party blocking only)
-! Expires: 90 days 
+! Expires: 360 days 
 !
 ! Version: 2023.02.11
 !

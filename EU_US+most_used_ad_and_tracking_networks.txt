@@ -2928,15 +2928,14 @@
 ||goodmeasure.io$third-party
 ||goodwaygroup.com$third-party
 ||google.*/ads^$third-party
-||google.*/pagead^$third-party
-||google.com/pagead/*^$third-party
+||google.com/pagead/^$third-party
 ||googleadservices.com$third-party
 ||google-analytics.com$third-party
 ||googleoptimize.com$third-party
 ||google-pagerank.net$third-party
 ||googlerank.info$third-party
 ||google-rank.org$third-party
-||googlesyndication.*/pagead^$third-party
+||googlesyndication.com/pagead^$third-party
 ||googletagservices.com$third-party
 ||gooo.al$third-party
 ||gopjn.com$third-party

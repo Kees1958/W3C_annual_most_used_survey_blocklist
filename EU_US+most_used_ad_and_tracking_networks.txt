@@ -2238,6 +2238,7 @@
 ||dominocounter.net$third-party
 ||domodomain.com$third-party
 ||donreach.com$third-party
+||doppiocdn.com$third-party
 ||dotaki.com$third-party
 ||dotjs.com$third-party
 ||dotmetrics.net$third-party
@@ -2258,7 +2259,6 @@
 ||drawbrid.ge$third-party
 ||dreamcounter.de$third-party
 ||driv-analytics.com$third-party
-||dropbox.com$third-party
 ||drumcash.com$third-party
 ||dserve.dentsu360th.com$third-party
 ||dsmmadvantage.com$third-party

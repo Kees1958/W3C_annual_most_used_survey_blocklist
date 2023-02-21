@@ -3,7 +3,7 @@
 ! Title: EU US most used ads & trackers networks (third-party blocking only)
 ! Expires: 365 days 
 !
-! Version: 2023.02.19
+! Version: 2023.02.21
 !
 ! Please report issues related to website breakage at
 ! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -2928,7 +2928,7 @@
 ||harrenmedianetwork.com$third-party
 ||hashtagd.net$third-party
 ||hasoffers.com$third-party
-||hasoffers.com$third-party8
+||hasoffers.com$third-party
 ||havamedia.net$third-party
 ||havasedge.com$third-party
 ||haveamint.com$third-party
@@ -3592,7 +3592,7 @@
 ||lifestreetmedia.com$third-party
 ||liftoff.io$third-party
 ||ligadx.com$third-party
-||ligatus.*^$third-partyy
+||ligatus.*^$third-party
 ||lightboxcdn.com$third-party
 ||lightningcast.net$third-party
 ||lightspeedcash.com$third-party
@@ -3822,7 +3822,7 @@
 ||mbsy.co$third-party
 ||mbuyu.nl$third-party
 ||mbww.com$third-party
-||mc.yandex.*.metrika$^third-party
+||mc.yandex.*.metrika^$third-party
 ||mdhv.io$third-party
 ||mdm.de$third-party
 ||mdotlabs.com$third-party
@@ -6061,7 +6061,7 @@
 ||tm.zedo.com$third-party
 ||tm1-001.com$third-party
 ||tmvtp.com$third-party
-||tnctrx.com$third-partyF
+||tnctrx.com$third-party
 ||tns-cs.net$third-party
 ||tns-gallup.dk$third-party
 ||tnsinternet.be$third-party

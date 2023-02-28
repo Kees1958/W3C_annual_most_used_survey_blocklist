@@ -3,7 +3,7 @@
 ! Title: EU US most used advertising supplement for Edge and Firefox build-in
 ! Expires: 365 days 
 !
-! Version: 2023.02.11
+! Version: 2023.02.28
 !
 ! Please report issues related to website breakage at
 ! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -1066,7 +1066,6 @@
 ||delivered-by-madington.com$third-party
 ||delivery.vidible.tv/jsonp/$third-party
 ||deloo.de$third-party
-||delta.com$third-party
 ||deltaprojects.com$third-party
 ||deltax.com$third-party
 ||dentsu.com$third-party
@@ -1225,7 +1224,6 @@
 ||faktor.io$third-party
 ||fancs.com$third-party
 ||fast-adv.it$third-party
-||fastbooking.com$third-party
 ||fastclick.com$third-party
 ||fastclick.com.edgesuite.net$third-party
 ||fastclick.net$third-party

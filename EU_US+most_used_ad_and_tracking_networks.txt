@@ -1208,7 +1208,6 @@
 ||buzzonclick.com$third-party
 ||buzzoola.com$third-party
 ||bvalphaserver.com$third-party
-||bwwmediagroup.com
 ||byside.com$third-party
 ||bytedance.com$third-party
 ||bytemgdd.com$third-party
@@ -2112,6 +2111,8 @@
 ||f5biz.com$third-party
 ||f92j5.com$third-party
 ||fabricww.com$third-party
+||facebook.com$third-party,domain=~instagram.com|~whatsapp.com
+||facebook.net$third-party,domain=~facebook.com|~instagram.com|~whatsapp.com
 ||facebookofsex.com$third-party
 ||facilitatedigital.com$third-party
 ||factortg.com$third-party
@@ -5998,6 +5999,7 @@
 ||xxxwebtraffic.com$third-party
 ||xy7elite.com$third-party
 ||xyztraffic.com$third-party
+||yahoo.*^$third-party
 ||yamanoha.com$third-party
 ||yandex.*^$third-party
 ||yandexadexchange.net$third-party

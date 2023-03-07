@@ -67,7 +67,6 @@ $removeparam=fb_comment_id
 $removeparam=fb_ref
 $removeparam=fb_source
 $removeparam=fbclid
-$removeparam=fbclid
 
 ! Matomo/Piwik
 $removeparam=mtm_campaign
@@ -176,7 +175,6 @@ $removeparam=bsft_mid
 $removeparam=bsft_uid
 $removeparam=bsft_aaid
 $removeparam=bsft_ek
-$removeparam=_kx
 $removeparam=_kx
 $removeparam=ml_subscriber
 $removeparam=ml_subscriber_hash

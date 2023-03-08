@@ -330,6 +330,8 @@
 ||extole.io$third-party
 ||extremereach.io$third-party
 ||eyeota.net$third-party
+||facebook.com$third-party,domain=~instagram.com|~whatsapp.com
+||facebook.net$third-party,domain=~facebook.com|~instagram.com|~whatsapp.com
 ||feathr.co$third-party
 ||feedad.com$third-party
 ||fg8dgt.com$third-party

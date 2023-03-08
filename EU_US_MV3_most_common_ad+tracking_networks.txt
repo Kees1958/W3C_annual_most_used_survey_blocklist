@@ -1452,7 +1452,6 @@
 ||tsdtocl.com$third-party
 ||tsyndicate.com$third-party
 ||turn.com$third-party
-||turner.com$third-party
 ||tvadsync.com$third-party
 ||tvpixel.com$third-party
 ||tvsquared.com$third-party

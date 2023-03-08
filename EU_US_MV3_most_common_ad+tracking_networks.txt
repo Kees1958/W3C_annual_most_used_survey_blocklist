@@ -38,7 +38,6 @@
 ||adaraanalytics.com$third-party
 ||adcolony.com$third-party
 ||ad-delivery.net$third-party
-||addthis.com$third-party
 ||adentifi.com$third-party
 ||adform.net$third-party
 ||adgrx.com$third-party
@@ -50,8 +49,7 @@
 ||adlightning.com$third-party
 ||adlmerge.com$third-party
 ||admanmedia.com$third-party
-||admatic.com.tr$third-party
-||admicro.vn$third-party
+||admantx.com$third-party
 ||admixer.net$third-party
 ||admost.com$third-party
 ||adnami.io$third-party

@@ -1,4 +1,4 @@
-[AdBlockPlus 1.1]
+[AdBlockPlus 2.0]
 !
 ! Title: MV3 EU US most used ads & trackers networks (third-party blocking only)
 ! Expires: 365 days 

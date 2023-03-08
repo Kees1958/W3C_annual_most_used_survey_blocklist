@@ -95,8 +95,6 @@
 ||adnxs.com$third-party
 ||adnxs-simple.com$third-party
 ||adnz.co$third-party
-||adobe.com$third-party
-||adobedc.net$third-party
 ||adocean.pl$third-party
 ||adomik.com$third-party
 ||adop.cc$third-party
@@ -186,10 +184,8 @@
 ||aliexpress.com$third-party
 ||aliyun.com$third-party
 ||alocdn.com$third-party
-||alphonso.tv$third-party
 ||altitude-arena.com$third-party
 ||amazon-adsystem.com$third-party
-||amcdn.vn$third-party
 ||amgs5.com$third-party
 ||a-mo.net$third-party
 ||amplify.outbrain.com/cp/obtp.js
@@ -263,7 +259,6 @@
 ||b0e8.com$third-party
 ||b1img.com$third-party
 ||b719c1d1e8.com$third-party
-||baidu.com$third-party
 ||baidustatic.com$third-party
 ||bam-x.com$third-party
 ||bangkazza.com$third-party
@@ -290,7 +285,6 @@
 ||bidtheatre.com$third-party
 ||bidvol.com$third-party
 ||bimbim.com$third-party
-||bing.com$third-party
 ||bitchute.com$third-party
 ||bitmovin.com$third-party
 ||bitrix.info$third-party
@@ -353,9 +347,7 @@
 ||chaordicsystems.com$third-party
 ||chartbeat.com$third-party
 ||chartbeat.net$third-party
-||chase.com$third-party
 ||chatango.com$third-party
-||chatbot.com$third-party
 ||chatra.io$third-party
 ||chaturbate.com$third-party
 ||cheqzone.com$third-party
@@ -484,7 +476,6 @@
 ||digitaleast.mobi$third-party
 ||digitalframeflow.com$third-party
 ||digitalks.az$third-party
-||discord.com$third-party
 ||discoverevvnt.com$third-party
 ||disqus.com$third-party
 ||districtm.io$third-party
@@ -508,8 +499,6 @@
 ||dprof.site$third-party
 ||dragonforms.com$third-party
 ||dreamlab.pl$third-party
-||dropbox.com$third-party
-||dropboxusercontent.com$third-party
 ||dsspn.com$third-party
 ||dstillery.com$third-party
 ||dtscdn.com$third-party
@@ -528,11 +517,8 @@
 ||edigitalsurvey.com$third-party
 ||ednplus.com$third-party
 ||egain.cloud$third-party
-||eloqua.com$third-party
 ||elpais.com$third-party
 ||emas-poc.com$third-party
-||embed.spotify.com$third-party
-||embedly.com$third-party
 ||emjcd.com$third-party
 ||emxdgt.com$third-party
 ||engageya.com$third-party
@@ -586,7 +572,6 @@
 ||fksnk.com$third-party
 ||flashnetic.com$third-party
 ||flashtalking.com$third-party
-||flipboard.com$third-party
 ||flipp.com$third-party
 ||flocdn.com$third-party
 ||flocktory.com$third-party
@@ -596,7 +581,6 @@
 ||foortowatch.xyz$third-party
 ||forceadmedia.com$third-party
 ||forgoodplay.com$third-party
-||forter.com$third-party
 ||fourtimessmelly.com$third-party
 ||fpjs.io$third-party
 ||fpnpmcdn.net$third-party
@@ -614,7 +598,6 @@
 ||g2.com$third-party
 ||g2crowd.com$third-party
 ||gammaplatform.com$third-party
-||gartner.com$third-party
 ||gaug.es$third-party
 ||gbqofs.io$third-party
 ||gbss.io$third-party
@@ -641,10 +624,7 @@
 ||godpvqnszo.com$third-party
 ||godsave.lgbt$third-party
 ||go-mpulse.net$third-party
-||google.be$third-party
-||google.com$third-party
 ||google.com/adsense$third-party
-||google.nl$third-party
 ||googleadservices.com$third-party
 ||googleanalytics.com$third-party
 ||google-analytics.com$third-party
@@ -654,7 +634,6 @@
 ||googletagmanager.com$third-party
 ||googletagservices.com$third-party
 ||gortb.com$third-party
-||grammarly.com$third-party
 ||gridsumdissector.com$third-party
 ||groovinads.com$third-party
 ||group-ib.com$third-party
@@ -684,17 +663,12 @@
 ||hit.ua$third-party
 ||holmesmind.com$third-party
 ||homemade.xxx$third-party
-||honda.com$third-party
 ||hotjar.com$third-party
 ||hotjar.io$third-party
 ||hpfy.me$third-party
 ||hrznads.com$third-party
 ||hrzn-nxt.com$third-party
 ||htdvt.com$third-party
-||hubspot.com$third-party
-||hubspot.net$third-party
-||hubspotvideo.com$third-party
-||hulu.com$third-party
 ||hum.works$third-party
 ||hushly.com$third-party
 ||hybrid.ai$third-party
@@ -718,12 +692,10 @@
 ||imv.az$third-party
 ||in-appadvertising.com$third-party
 ||incrementxserv.com$third-party
-||indeed.com$third-party
 ||indexww.com$third-party
 ||infinario.com$third-party
 ||infinigrow.com$third-party
 ||influ2.com$third-party
-||infogram.com$third-party
 ||infolinks.com$third-party
 ||informz.net$third-party
 ||infox.sg$third-party
@@ -766,7 +738,6 @@
 ||iqzone.com$third-party
 ||irs03.com$third-party
 ||ispot.tv$third-party
-||italia.it$third-party
 ||iteratehq.com$third-party
 ||ivideosmart.com$third-party
 ||ivstracker.net$third-party
@@ -823,7 +794,6 @@
 ||lemmatechnologies.com$third-party
 ||lendingtree.com$third-party
 ||levelaccess.net$third-party
-||lfeeder.com$third-party
 ||lhmos.com$third-party
 ||liadm.com$third-party
 ||lightboxapi.azurewebsites.net$third-party
@@ -833,7 +803,6 @@
 ||limurol.com$third-party
 ||line.me$third-party
 ||linkconnector.com$third-party
-||linkedin.com$third-party
 ||linker.hr$third-party
 ||linksynergy.com$third-party
 ||liquidus.net$third-party
@@ -916,9 +885,7 @@
 ||michiganrobotflower.com$third-party
 ||micpn.com$third-party
 ||microadinc.com$third-party
-||microsoft.com$third-party
 ||midserved.com$third-party
-||mindbox.ru$third-party
 ||mircheigeshoa.com$third-party
 ||mixi.media$third-party
 ||mixpanel.com$third-party
@@ -952,13 +919,11 @@
 ||mql5.com$third-party
 ||mrpdata.net$third-party
 ||mrtnsvr.com$third-party
-||mts.ru$third-party
 ||mustbehand.com$third-party
 ||mxptint.net$third-party
 ||myfinance.com$third-party
 ||myvisualiq.net$third-party
 ||najva.com$third-party
-||nanda.vn$third-party
 ||napesropes.com$third-party
 ||narrativ.com$third-party
 ||narrative.io$third-party
@@ -1001,7 +966,6 @@
 ||odysee.com$third-party
 ||ohmy.bid$third-party
 ||ojrq.net$third-party
-||ok.ru$third-party
 ||omguk.com$third-party
 ||omnitagjs.com$third-party
 ||omtrdc.net$third-party
@@ -1014,7 +978,6 @@
 ||online-metrix.net$third-party
 ||onthe.io$third-party
 ||opecloud.com$third-party
-||open.spotify.com$third-party
 ||openfpcdn.io$third-party
 ||openx.net$third-party
 ||opera.com$third-party
@@ -1052,10 +1015,8 @@
 ||petametrics.com$third-party
 ||pexi.nl$third-party
 ||pgs.io$third-party
-||photorank.me$third-party
 ||phywi.org$third-party
 ||piano.io$third-party
-||pinterest.com$third-party
 ||pippio.com$third-party
 ||piwik.pro$third-party
 ||pix.pub$third-party
@@ -1127,7 +1088,6 @@
 ||quantummetric.com$third-party
 ||questexinfo.com$third-party
 ||quitzon.net$third-party
-||quora.com$third-party
 ||qvol.tv$third-party
 ||r42tag.com$third-party
 ||rageagainstthesoap.com$third-party
@@ -1144,7 +1104,6 @@
 ||realtor.com$third-party
 ||reamaze.io$third-party
 ||recotap.com$third-party
-||reddit.com$third-party
 ||reichelcormier.bid$third-party
 ||relap.io$third-party
 ||relevant-digital.com$third-party
@@ -1195,8 +1154,6 @@
 ||safeservingcdn.com$third-party
 ||sailplay.net$third-party
 ||salecycle.com$third-party
-||salesforce.com$third-party
-||salesforce-sites.com$third-party
 ||salesloft.com$third-party
 ||salesmanago.pl$third-party
 ||samandehi.ir$third-party
@@ -1250,8 +1207,6 @@
 ||seznam.cz$third-party
 ||sfdc.sh$third-party
 ||sharedid.org$third-party
-||sharethis.com$third-party
-||sharethrough.com$third-party
 ||shop.app$third-party
 ||shop.pe$third-party
 ||shop-cart.app$third-party
@@ -1271,7 +1226,6 @@
 ||sjv.io$third-party
 ||skimresources.com$third-party
 ||skplanet.com$third-party
-||skyword.com$third-party
 ||sleeknote.com$third-party
 ||slgnt.eu$third-party
 ||slgnt.us$third-party
@@ -1284,7 +1238,6 @@
 ||smartytech.io$third-party
 ||smi2.net$third-party
 ||smilewanted.com$third-party
-||snapchat.com$third-party
 ||snapwidget.com$third-party
 ||snigelweb.com$third-party
 ||snplow.net$third-party
@@ -1309,10 +1262,8 @@
 ||split.io$third-party
 ||spokenlayer.com$third-party
 ||spolecznosci.net$third-party
-||sportradar.com$third-party
 ||sportradarserving.com$third-party
 ||spoteffects.net$third-party
-||spotify.com$third-party
 ||spotim.market$third-party
 ||spotxchange.com$third-party
 ||springserve.com$third-party
@@ -1345,7 +1296,6 @@
 ||svtrd.com$third-party
 ||swarovski.com$third-party
 ||sya9yncn3q.com$third-party
-||symantec.com$third-party
 ||t.co$third-party
 ||t13.io$third-party
 ||taboola.com$third-party
@@ -1378,9 +1328,7 @@
 ||teamblue.services$third-party
 ||techlab-cdn.com$third-party
 ||technoratimedia.com$third-party
-||techtarget.com$third-party
-||telkomsel.com$third-party
-||tencent.com$third-party
+||techtarget.com$third-partyy
 ||tend-table.com$third-party
 ||tenmax.io$third-party
 ||teraboxcdn.com$third-party
@@ -1400,7 +1348,6 @@
 ||thrtle.com$third-party
 ||thunderhead.com$third-party
 ||tidaltv.com$third-party
-||tiktok.com$third-party
 ||tiktokcdn-us.com$third-party
 ||tiktokv.com$third-party
 ||tipslyrev.com$third-party
@@ -1479,7 +1426,6 @@
 ||upsellit.com$third-party
 ||uptrendsdata.com$third-party
 ||usabilla.com$third-party
-||usbank.com$third-party
 ||usbrowserspeed.com$third-party
 ||useinsider.com$third-party
 ||userback.io$third-party
@@ -1533,10 +1479,7 @@
 ||vzew.net$third-party
 ||w.soundcloud.com$third-party
 ||w55c.net$third-party
-||walmart.com$third-party
 ||waqool.com$third-party
-||warnermediacdn.com$third-party
-||washingtonpost.com$third-party
 ||wbtrk.net$third-party
 ||wcfbc.net$third-party
 ||wdsvc.net$third-party

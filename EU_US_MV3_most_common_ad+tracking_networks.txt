@@ -318,7 +318,6 @@
 ||eum-appdynamics.com$third-party
 ||everesttech.net$third-party
 ||evergage.com$third-party
-||eviltracker.net$third-party
 ||exactag.com$third-party
 ||exdynsrv.com$third-party
 ||exelator.com$third-party
@@ -364,13 +363,9 @@
 ||globalwebindex.net$third-party
 ||gnetwork.me$third-party
 ||gnpge.com$third-party
-||go.com$third-party
-||godsave.lgbt$third-party
 ||go-mpulse.net$third-party
-||google.*/ads^$third-party
-||google.com/adsense$third-party
-||google.com/pagead/^$third-party
-||googleadservices.com$third-party
+||google.com/adsense^$third-party
+||google.com/pagead^$third-party
 ||googleadservices.com$third-party
 ||google-analytics.com$third-party
 ||googleoptimize.com$third-party

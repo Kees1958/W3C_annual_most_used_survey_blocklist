@@ -3,12 +3,12 @@
 ! Title: MV3 EU US most used ads & trackers networks (third-party blocking only)
 ! Expires: 365 days 
 !
-! Version: 2023.03.07
+! Version: 2023.03.08
 !
 ! Please report issues related to website breakage at
 ! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
 ! 
-! Experimental, use ad your own risk
+! Experimental, use at your own risk
 !
 ||126.net$third-party
 ||163.com$third-party

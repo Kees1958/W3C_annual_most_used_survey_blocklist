@@ -494,7 +494,6 @@
 ||doubleverify.com$third-party
 ||doyouad.com$third-party
 ||dpgmedia.cloud$third-party
-||dpgmedia.net$third-party
 ||dpmsrv.com$third-party
 ||dprof.site$third-party
 ||dragonforms.com$third-party

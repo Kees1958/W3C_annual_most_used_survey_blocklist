@@ -271,8 +271,6 @@
 ||datadome.co$third-party
 ||datasteam.io$third-party
 ||daum.net$third-party
-||ddos-guard.net$third-party
-||deep.bi$third-party
 ||deepintent.com$third-party
 ||demand.supply$third-party
 ||demandbase.com$third-party

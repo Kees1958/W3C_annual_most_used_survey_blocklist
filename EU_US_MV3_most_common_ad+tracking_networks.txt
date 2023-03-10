@@ -264,6 +264,7 @@
 ||createjs.com^$third-party
 ||creativecdn.com^$third-party
 ||creative-serving.com^$third-party
+||criteo.com^$third-party
 ||crowdriff.com^$third-party
 ||crsspxl.com^$third-party
 ||crwdcntrl.net^$third-party

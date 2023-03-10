@@ -93,6 +93,7 @@
 ||advertising.com^$third-party
 ||advertserve.com^$third-party
 ||adviad.com^$third-party
+||advice-ads.s3.amazonaws.com^$third-party
 ||advividnetwork.com^$third-party
 ||adxcel-ec2.com^$third-party
 ||adxpremium.services^$third-party

@@ -77,6 +77,10 @@
 ||adsrvr.org^$third-party
 ||adstanding.com^$third-party
 ||ad-stir.com^$third-party
+||ads.linkedin.com^$third-party
+||ads.pinterest.com^$third-party
+||ads.tiktok.com^$third-party
+||ads.twitter.com^$third-party
 ||ads-twitter.com^$third-party
 ||adswizz.com^$third-party
 ||adsymptotic.com^$third-party

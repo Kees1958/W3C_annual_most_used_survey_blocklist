@@ -3,12 +3,12 @@
 ! Title: MV3 EU US most used ads & trackers networks (third-party blocking only)
 ! Expires: 365 days 
 !
-! Version: 2023.03.10
+! Version: 2023.03.11
 !
 ! Please report issues related to website breakage at
 ! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
 ! 
-! Experimental, use at your own risk
+! Experimental shortened list for MV3, use at your own risk
 !
 ||1dmp.io^$third-party
 ||247-inc.net^$third-party
@@ -372,6 +372,7 @@
 ||googleadservices.com^$third-party
 ||google-analytics.com^$third-party
 ||googleoptimize.com^$third-party
+||googletagmanager.com^$third-party
 ||googletagservices.com^$third-party
 ||gridsumdissector.com^$third-party
 ||groovinads.com^$third-party

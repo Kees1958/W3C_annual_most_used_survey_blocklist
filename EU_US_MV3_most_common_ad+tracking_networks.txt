@@ -487,6 +487,8 @@
 ||mateti.net^$third-party
 ||matheranalytics.com^$third-party
 ||mathtag.com^$third-party
+||matomo.cloud^$third-party
+||matomo.org^$third-party
 ||mavencoalition.io^$third-party
 ||maxmind.com^$third-party
 ||mdhv.io^$third-party

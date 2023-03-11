@@ -56,6 +56,9 @@
 ||adnuntius.com^$third-party
 ||adnxs.com^$third-party
 ||adnxs-simple.com^$third-party
+||adobedtm.com^$third-party,domain=~adobe.com
+||adobetag.com^$third-party
+||adobetarget.com^$third-party
 ||adocean.pl^$third-party
 ||adop.cc^$third-party
 ||adotmob.com^$third-party

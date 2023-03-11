@@ -718,6 +718,7 @@
 ||sibautomation.com^$third-party
 ||sift.com^$third-party
 ||siftscience.com^$third-party
+||signal.co^$third-party
 ||signifyd.com^$third-party
 ||simpli.fi^$third-party
 ||singular.net^$third-party

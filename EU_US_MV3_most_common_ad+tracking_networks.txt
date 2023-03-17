@@ -3,7 +3,7 @@
 ! Title: MV3 EU US most used ads & trackers networks (third-party blocking only)
 ! Expires: 365 days 
 !
-! Version: 2023.03.11
+! Version: 2023.03.17
 !
 ! Please report issues related to website breakage at
 ! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -151,6 +151,7 @@
 ||attentivemobile.com^$third-party
 ||audrte.com^$third-party
 ||automatad.com^$third-party
+||automattic.com^$third-party
 ||avantisvideo.com^$third-party
 ||avmws.com^$third-party
 ||avplayer.com^$third-party

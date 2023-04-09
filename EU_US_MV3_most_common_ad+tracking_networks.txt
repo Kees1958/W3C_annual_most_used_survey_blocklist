@@ -3,7 +3,7 @@
 ! Title: MV3 EU US most used ads & trackers networks (third-party blocking only)
 ! Expires: 365 days 
 !
-! Version: 2023.03.17
+! Version: 2023.04.09
 !
 ! Please report issues related to website breakage at
 ! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -352,7 +352,7 @@
 ||freshmarketer.com^$third-party
 ||fullstory.com^$third-party
 ||fuseplatform.net^$third-party
-||fwmrm.net^$third-party
+||fwmrm.net^$third-party,~xmlhttprequest
 ||g2.com^$third-party
 ||gaug.es^$third-party
 ||gbqofs.io^$third-party

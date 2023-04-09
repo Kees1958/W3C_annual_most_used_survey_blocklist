@@ -3,7 +3,7 @@
 ! Title: EU US most used ads & trackers networks (third-party blocking only)
 ! Expires: 365 days 
 !
-! Version: 2023.03.21
+! Version: 2023.04.09
 !
 ! Please report issues related to website breakage at
 ! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -2301,7 +2301,6 @@
 ||fusionquest.com$third-party
 ||futureads.com$third-party
 ||fuziontech.net$third-party
-||fwmrm.net$third-party
 ||fwmrm.net$third-party,~xmlhttprequest
 ||fwpixel.com$third-party
 ||fxclix.com$third-party

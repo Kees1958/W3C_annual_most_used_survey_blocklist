@@ -3,7 +3,7 @@
 ! Title: EU US most used ads & trackers networks (third-party blocking only)
 ! Expires: 365 days 
 !
-! Version: 2023.04.10
+! Version: 2023.04.11
 !
 ! Please report issues related to website breakage at
 ! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -2206,6 +2206,7 @@
 ||flixbus.com$third-party
 ||flixcar.com$third-party
 ||flixfacts.com$third-party
+||flixcdn.com$third-party
 ||flixsyndication.net$third-party
 ||flocktory.com$third-party
 ||flowgo.com$third-party
@@ -5713,6 +5714,7 @@
 ||videostat.com$third-party
 ||vidio.com$third-party
 ||vidoomy.com$third-party
+||vidshouse.online$third-party
 ||vidstart.com$third-party
 ||vidy.com$third-party
 ||view4cash.de$third-party
@@ -5781,6 +5783,7 @@
 ||vprza.com$third-party
 ||vrs.cz$third-party
 ||vrtcal.com$third-party
+||vscdns.com$third-party
 ||vserv.*$third-party
 ||vstats.*$third-party
 ||vtracker.net$third-party

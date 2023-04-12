@@ -1193,6 +1193,7 @@
 ||brightedge.com$third-party
 ||brightfunnel.com$third-party
 ||brightinfo.com$third-party
+||brightline.tv$third-party
 ||brilig.com$third-party
 ||brilliantcollector.com$third-party
 ||britepool.com$third-party

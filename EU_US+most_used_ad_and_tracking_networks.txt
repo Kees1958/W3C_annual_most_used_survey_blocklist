@@ -1529,7 +1529,6 @@
 ||convertlanguage.com$third-party
 ||convertro.com$third-party
 ||conviva.com$third-party
-||cookielaw.org$third-party
 ||cooladata.com$third-party
 ||cootlogix.com$third-party
 ||copperegg.com$third-party

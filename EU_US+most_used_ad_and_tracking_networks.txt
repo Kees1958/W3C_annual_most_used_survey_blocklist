@@ -1529,6 +1529,7 @@
 ||convertlanguage.com$third-party
 ||convertro.com$third-party
 ||conviva.com$third-party
+||cookielaw.org$third-party
 ||cooladata.com$third-party
 ||cootlogix.com$third-party
 ||copperegg.com$third-party
@@ -3875,6 +3876,7 @@
 ||onet.pl$third-party
 ||onetag.*$third-party
 ||onetag-sys.com$third-party
+||onetrust.com$third-party,ping
 ||oneupweb.com$third-party
 ||onewaylinkexchange.net$third-party
 ||ongsono.com$third-party

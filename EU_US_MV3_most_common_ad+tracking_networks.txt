@@ -1,6 +1,6 @@
 [AdBlockPlus 2.0]
 !
-! Title: EU US top 1000 ads & trackers networks (third-party blocking only)
+! Title: EU US ads&tracking networks MV3 (third-party blocking only)
 ! Expires: 365 days 
 !
 ! Version: 2023.05.03

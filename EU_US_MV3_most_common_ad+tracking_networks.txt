@@ -187,7 +187,6 @@
 ||adnetik.com^$third-party
 ||adnetinteractive.com^$third-party
 ||adnetwork.net^$third-party
-||adnetwork.vn^$third-party
 ||adnext.fr^$third-party
 ||adnium.com^$third-party
 ||adnologies.com^$third-party

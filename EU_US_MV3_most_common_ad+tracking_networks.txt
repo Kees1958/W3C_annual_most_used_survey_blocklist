@@ -174,6 +174,7 @@
 ||admedo.com^$third-party
 ||admeld.com^$third-party
 ||admeta.com^$third-party
+||admicro.vn^$third-party
 ||admission.net^$third-party
 ||admixer.co.kr^$third-party
 ||admixer.net^$third-party
@@ -436,6 +437,7 @@
 ||anonymous-media.com^$third-party
 ||anormal-media.de^$third-party
 ||anormal-tracker.de^$third-party
+||antifraudjs.friends2follow.com^$third-party
 ||anyclip.com^$third-party
 ||aolcloud.net^$third-party
 ||aparat.com^$third-party
@@ -1164,6 +1166,7 @@
 ||gostats.com^$third-party
 ||goutee.top^$third-party
 ||grapeshot.co.uk^$third-party
+||graphenedigitalanalytics.in^$third-party
 ||greystripe.com^$third-party
 ||gridsumdissector.com^$third-party
 ||groovinads.com^$third-party
@@ -1707,6 +1710,7 @@
 ||onet.pl^$third-party
 ||onetag-sys.com^$third-party
 ||oneupweb.com^$third-party
+||onevision.com.tw^$third-party
 ||online-metrix.net^$third-party
 ||onlinewebstats.com^$third-party
 ||onm.de^$third-party

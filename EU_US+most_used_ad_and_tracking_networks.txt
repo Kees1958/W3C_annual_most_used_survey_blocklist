@@ -2438,7 +2438,6 @@
 ||gmads.net$third-party
 ||gnetwork.me$third-party
 ||gnpge.com$third-party
-||go.com$third-party
 ||go.pl$third-party
 ||go2link.net$third-party
 ||goadservices.com$third-party

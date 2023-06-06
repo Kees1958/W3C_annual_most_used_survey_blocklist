@@ -615,7 +615,6 @@
 ||brealtime.com^$third-party
 ||bridgetrack.com^$third-party
 ||brightcove.com^$third-party
-||brightcove.net^$third-party
 ||brightedge.com^$third-party
 ||brightroll.com^$third-party
 ||brighttag.com^$third-party

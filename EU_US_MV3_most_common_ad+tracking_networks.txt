@@ -1141,7 +1141,6 @@
 ||gmads.net^$third-party
 ||gnetwork.me^$third-party
 ||gnpge.com^$third-party
-||go.com^$third-party
 ||gocampaignlive.com^$third-party
 ||godatafeed.com^$third-party
 ||goldbach.com^$third-party

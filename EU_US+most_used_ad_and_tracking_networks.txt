@@ -1300,6 +1300,7 @@
 ||cccpmo.com$third-party
 ||ccgateway.net$third-party
 ||ccscserver.com$third-party
+||cdctwm.com$third-party
 ||cdnanalytics.xyz$third-party
 ||cdnmaster.com$third-party
 ||cdn-net.com$third-party
@@ -1357,6 +1358,7 @@
 ||cleananalytics.com$third-party
 ||clearbit.com$third-party
 ||clearbitjs.com$third-party
+||clearonclick.com$third-party
 ||cleveritics.com$third-party
 ||clevernt.com$third-party
 ||clevi.com$third-party
@@ -1907,6 +1909,7 @@
 ||eazy.de$third-party
 ||e-bannerx.com$third-party
 ||e-bannery.cz$third-party
+||easyvids.space$third-party
 ||ebayadvertising.com$third-party
 ||ebocornac.com$third-party
 ||ebtrk1.com$third-party
@@ -4306,6 +4309,7 @@
 ||ptp123.com$third-party
 ||ptrk-wn.com$third-party
 ||pt-trx.com$third-party
+||ptwmstcnt.com$third-party
 ||pub.network$third-party
 ||pubdirecte.com$third-party
 ||pubdream.com$third-party
@@ -4663,6 +4667,7 @@
 ||runads.com$third-party
 ||runtnc.net$third-party
 ||rvty.net$third-party
+||rxeosevsso.com$third-party
 ||rythmxchange.com$third-party
 ||rztrkr.com$third-party
 ||s2d6.com$third-party
@@ -5689,6 +5694,7 @@
 ||valuesponsor.com$third-party
 ||vantage-media.net$third-party
 ||vbanalytics.com$third-party
+||vcmdiawe.com$third-party
 ||vdna-assets.com$third-party
 ||vdoing.com$third-party
 ||ve.com$third-party
@@ -6010,6 +6016,7 @@
 ||xhit.com$third-party
 ||xiti.com$third-party
 ||xius.com$third-party
+||xlirdr.com$third-party
 ||xlovecam.com$third-party
 ||xmladed.com$third-party
 ||xpanama.net$third-party

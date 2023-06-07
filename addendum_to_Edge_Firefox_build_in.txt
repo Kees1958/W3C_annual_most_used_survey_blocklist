@@ -3350,8 +3350,6 @@
 ||navilytics.com$third-party
 ||navrcholu.cz$third-party
 ||naytev.com$third-party
-||nbcnews.com$third-party
-||nbcsports.com$third-party
 ||nbjmp.com$third-party
 ||ncaudienceexchange.com$third-party
 ||ncom.dk$third-party

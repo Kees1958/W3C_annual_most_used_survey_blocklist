@@ -3,7 +3,7 @@
 ! Title: EU US most used advertising supplement for Edge and Firefox build-in
 ! Expires: 365 days 
 !
-! Version: 2023.02.28
+! Version: 2023.06.07
 !
 ! Please report issues related to website breakage at
 ! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -816,6 +816,7 @@
 ||bridgewell.com.tw$third-party
 ||brightcom.com$third-party
 ||brightinfo.com$third-party
+||brightline.tv$third-party
 ||british-banners.com$third-party
 ||bronto.com$third-party
 ||btttag.com$third-party
@@ -862,6 +863,7 @@
 ||cben1.net$third-party
 ||cbmall.com$third-party
 ||cbx.net$third-party
+||cdctwm.com$third-party
 ||cdn.adsafeprotected.^$third-party
 ||cdn.cxense.com$third-party
 ||cdn.freefacti.com$third-party
@@ -897,6 +899,7 @@
 ||claria.com$third-party
 ||clashmobile.com$third-party
 ||class-act-clicks.com$third-party
+||clearonclick.com$third-party
 ||clic2buy.com$third-party
 ||click.absoluteagency.com$third-party
 ||click.fool.com$third-party
@@ -988,6 +991,7 @@
 ||conversionlogic.com$third-party
 ||conversionlogic.net$third-party
 ||conviva.com$third-party
+||cookielaw.org$third-party
 ||cookies.cmpnet.com$third-party
 ||coretalk.co$third-party
 ||corp.aarki.com$third-party
@@ -1108,6 +1112,7 @@
 ||domaining.in$third-party
 ||domainsponsor.com$third-party
 ||domainsteam.de$third-party
+||doppiocdn.com$third-party
 ||doubleclick.com$third-party
 ||doubleclick.de$third-party
 ||doubleclick.net$third-party
@@ -1134,6 +1139,7 @@
 ||easyhits4u.com$third-party
 ||easy-m.de$third-party
 ||easyplatform.com$third-party
+||easyvids.space$third-party
 ||eazy.de$third-party
 ||eb2.3lift.com/sync$third-party
 ||eb2.3lift.com/xuid$third-party
@@ -1250,6 +1256,7 @@
 ||flixbus.com$third-party
 ||flowgo.com$third-party
 ||fls.doubleclick.net/activityi$third-party
+||fn-pz.com$third-party
 ||fonecta.leiki.com$third-party
 ||foo.cosmocode.de$third-party
 ||forex-affiliate.net$third-party
@@ -1931,6 +1938,7 @@
 ||optomaton.com$third-party
 ||orangeadvertising.fr$third-party
 ||orbisvideo.com$third-party
+||orbsrv.com$third-party
 ||ordingly.com$third-party
 ||ortecadscience.com$third-party
 ||ota.cartrawler.com$third-party
@@ -2073,6 +2081,7 @@
 ||pr-star.de$third-party
 ||pr-ten.de$third-party
 ||psstt.com$third-party
+||ptwmstcnt.com$third-party
 ||pub.chez.com$third-party
 ||pub.club-internet.fr$third-party
 ||pub.hardware.fr$third-party
@@ -2204,6 +2213,7 @@
 ||rubicon.com$third-party
 ||rum-static.pingdom.net$third-party
 ||rvty.net$third-party
+||rxeosevsso.com$third-party
 ||rythmxchange.com$third-party
 ||s.pinimg.com/ct/core.js$third-party
 ||s.rfihub.^$third-party
@@ -2384,6 +2394,7 @@
 ||strikeiron.com$third-party
 ||stripst.com$third-party
 ||stroeer.de$third-party
+||strpst.com$third-party
 ||suavalds.com$third-party
 ||sublimeskinz.com$third-party
 ||subscribe.hearstmags.com$third-party
@@ -2609,6 +2620,7 @@
 ||validclick.com$third-party
 ||valuecommerce.com$third-party
 ||valuesponsor.com$third-party
+||vcmdiawe.com$third-party
 ||ve.com$third-party
 ||veille-referencement.com$third-party
 ||ventivmedia.com$third-party
@@ -2645,6 +2657,7 @@
 ||vrs.cz$third-party
 ||vrtcal.com$third-party
 ||vs.tucows.com$third-party
+||vscdns.com$third-party
 ||vuble.tv$third-party
 ||vungle.com$third-party
 ||w3i.com$third-party
@@ -2670,6 +2683,7 @@
 ||webangel.ru$third-party
 ||webcash.nl$third-party
 ||webclicks24.com$third-party
+||webcontentassessor.com$third-party
 ||webcounter.cz$third-party
 ||webcounter.goweb.de$third-party
 ||webgains.com$third-party
@@ -2719,6 +2733,7 @@
 ||xclicks.net$third-party
 ||xertive.com$third-party
 ||xius.com$third-party
+||xlirdr.com$third-party
 ||xponsor.com$third-party
 ||xq1.net$third-party
 ||xrea.com$third-party
@@ -2728,6 +2743,7 @@
 ||xxxcounter.com$third-party
 ||xxxlutz.de$third-party
 ||xxxmyself.com$third-party
+||xxxviijmp.com$third-party
 ||xy7elite.com$third-party
 ||y.ibsys.com$third-party
 ||yastatic.net$third-party

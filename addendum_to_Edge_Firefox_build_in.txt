@@ -1113,6 +1113,7 @@
 ||domainsponsor.com$third-party
 ||domainsteam.de$third-party
 ||doppiocdn.com$third-party
+||dotmetrics.net$third-part
 ||doubleclick.com$third-party
 ||doubleclick.de$third-party
 ||doubleclick.net$third-party

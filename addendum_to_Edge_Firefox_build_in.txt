@@ -4360,6 +4360,7 @@
 ||sniphub.com$third-party
 ||snitcher.com$third-party
 ||snowsignal.com$third-party
+||s-onetag.com$third-party
 ||soapps.net$third-party
 ||socialchorus.com$third-party
 ||socialhoney.co$third-party

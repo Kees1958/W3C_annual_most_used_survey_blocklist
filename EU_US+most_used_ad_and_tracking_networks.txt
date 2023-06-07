@@ -2413,7 +2413,6 @@
 ||gezinti.com$third-party
 ||gfk.com$third-party
 ||gglscr.online$third-party
-||ggpht.com$third-party
 ||ghtinc.com$third-party
 ||giantmedia.com$third-party
 ||giddyuptrk.com$third-party

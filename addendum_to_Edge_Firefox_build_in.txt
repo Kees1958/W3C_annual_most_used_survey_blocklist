@@ -1895,7 +1895,7 @@
 ||ewebcounter.com$third-party
 ||e-webtrack.net$third-party
 ||exapxl.de$third-party
-||excellent-vids.com^$third-party
+||excellent-vids.online^$third-party
 ||exchange.bg$third-party
 ||exchangead.com$third-party
 ||exchangeclicksonline.com$third-party

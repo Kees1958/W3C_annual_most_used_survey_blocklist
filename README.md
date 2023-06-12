@@ -30,7 +30,7 @@ use new software which makes them reluctant to change to a different advertising
 
                                                       ADVICED USAGE  
 
-When you use Ege or Firefox with build-in tracking protection, you can use this version (also works with AdGuard Mv3)
+When you use Ege or Firefox with build-in tracking protection, you can use this version 
 https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/addendum_to_Edge_Firefox_build_in.txt
 
                                                       ERRORS & ISSUES

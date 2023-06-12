@@ -1,11 +1,11 @@
                                                         NOTICE
-For some reason I am limited to around 580 lines to copy at once. This is the reason the EU-US most used has been deleted,
-After an update it only showed the first 580 lines and I tried copying, plling and imprting the new batch update, but 
-all imports were limited to around 580 lines. Seems a new limitation of Github.
+For some reason I am limited to around 580 lines to copy at once. This is the reason the old EU-US most used has been deleted,
+After a mass update (deleting all rules and copying new sorted rules back again), I only showed the first 580 lines.  I tried 
+copying, pasting and importing the new batch update, but all methods were limited to around 580 lines. 
 
-You can stil get this list by using the MV3 version and the FF-Edge addendum. I am afraid this is the end of the most used 
-blocklist when there is no way to overcome this limitation (for free accounts). When you know how to circumvent this limit
-on imported lines, please open an issue and I will try to rebuild the  EU-US most used again.
+The old Most used EU-US now is labelled MV2. I decided to copy and paste the over 6500 rules in batches of 500. The file in 
+total is only 10KB, so it can't be the large file limitation. When someone knwos a workaround please mail me or explain it 
+by opening an issue.
 
 ******************************************************************************************************************************
 

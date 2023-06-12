@@ -1,4 +1,16 @@
-                                                         SOURCES
+                                                        NOTICE
+For some reason I am limited to around 580 lines to copy at once. This is the reason the EU-US most used has been deleted,
+After an update it only showed the first 580 lines and I tried copying, plling and imprting the new batch update, but 
+all imports were limited to around 580 lines. Seems a new limitation of Github.
+
+You can stil get this list by using the MV3 version and the FF-Edge addendum. I am afraid this is the end of the most used 
+blocklist when there is no way to overcome this limitation (for free accounts). When you know how to circumvent this limit
+on imported lines, please open an issue and I will try to rebuild the  EU-US most used again.
+
+******************************************************************************************************************************
+
+
+                                                          SOURCES
 This blocklist is based on surveys of most used advertising and tracking technology (e.g. surveys of W3C, W3Tech and the
 digital marketing community itself). The online advertising industry likes to keep lists of top performing companies in
 the ad supply chain (including advertising exchange platforms). The list and surveys monitored are oriented on Europe and 

@@ -5,10 +5,10 @@
 !
 ! Version: 2023.06.12
 !
-! ****************************************************************************
-! **** SECOND MAJOR UPDATE ATTEMPT, pulled first one back                 ****
-! **** some lareg visitor websites might be included as false positives   ****
-! **** Please report issues related to website breakage at                ****
+! ********************************************************************************
+! **** SECOND MAJOR UPDATE ATTEMPT, pulled first one back                     ****
+! **** some websites with much traffic might be included as false positives   ****
+! **** Please report issues related to website breakage at                    ****
 !
 ! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
 ! 

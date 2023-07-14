@@ -2824,7 +2824,6 @@
 ||gsicommerce.com^$third-party
 ||gsimedia.net^$third-party
 ||gsi-one.org^$third-party
-||gstatic.com,^$third-party
 ||gtcslt-di2.com^$third-party
 ||gtop.ro^$third-party
 ||gtop100.com^$third-party
@@ -4285,7 +4284,7 @@
 ||onclickads.net^$third-party
 ||ondeviceresearch.com^$third-party
 ||oneandonlynetwork.com^$third-party
-||oneaudience.^$third-party
+||oneaudience.*^$third-party
 ||onedigitalad.com^$third-party
 ||oneimpress.io^$third-party
 ||oneiota.co.uk^$third-party
@@ -4297,7 +4296,7 @@
 ||onet.pl^$third-party
 ||onetag.*^$third-party
 ||onetag-sys.com^$third-party
-||onetrust.com,ping^$third-party
+||onetrust.com^$ping,third-party
 ||oneupweb.com^$third-party
 ||onevision.com.tw^$third-party
 ||onewaylinkexchange.net^$third-party
@@ -4458,7 +4457,7 @@
 ||pclicks.com^$third-party
 ||pcspeedup.com^$third-party
 ||pdbu.net^$third-party
-||pdst.fm$script,third-party^$third-party
+||pdst.fm^$script,third-party
 ||pdvacde.com^$third-party
 ||peakadx.com^$third-party
 ||peakcounter.dk^$third-party
@@ -5800,7 +5799,7 @@
 ||textads.biz^$third-party
 ||text-link-ads.com^$third-party
 ||textlinks.com^$third-party
-||tf1.fr^$third-party
+||tf1.fr^$third-party,domain=~tf1info.fr
 ||tfag.de^$third-party
 ||tfosrv.com^$third-party
 ||tgdaudience.com^$third-party
@@ -5869,7 +5868,6 @@
 ||tmogul.com^$third-party
 ||tmvtp.com^$third-party
 ||tnctrx.com^$third-party
-
 ||tns-cs.net^$third-party
 ||tns-gallup.dk^$third-party
 ||tnsinternet.be^$third-party
@@ -6376,7 +6374,7 @@
 ||wayfair.com^$third-party
 ||wbdx.fr^$third-party
 ||wbtrk.net^$third-party
-||wc4.net$image,third-party^$third-party
+||wc4.net^$image,third-party
 ||wcfbc.net^$third-party
 ||wda.com^$third-party
 ||wdfl.*^$third-party

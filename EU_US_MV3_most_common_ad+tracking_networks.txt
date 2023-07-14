@@ -1128,7 +1128,6 @@
 ||getsitecontrol.com^$third-party
 ||gfk.com^$third-party
 ||gfkdaphne.com^$third-party
-||ggpht.com^$third-party
 ||giantrealm.com^$third-party
 ||gigya.com^$third-party
 ||giraff.io^$third-party
@@ -1350,7 +1349,7 @@
 ||jumptap.com^$third-party
 ||justpremium.com^$third-party
 ||justuno.com^$third-party
-||jwpltx.com^$third-party$third-party
+||jwpltx.com^$third-party
 ||kampyle.com^$third-party
 ||kanoodle.com^$third-party
 ||kantarmedia.com^$third-party

@@ -498,7 +498,7 @@
 ||adtechjp.com$third-party
 ||adtechus.*$third-party
 ||adtegrity.*$third-party
-||adtelli.comt$third-party
+||adtelli.com$third-party
 ||adtelligence.*$third-party
 ||adternal.com$third-party
 ||adtheorent.com$third-party
@@ -806,7 +806,7 @@
 ||atatus.com$third-party
 ||atdmt.com$third-party
 ||athenainstitute.biz$third-party
-||atlassolutions.com
+||atlassolutions.com$third-party
 ||atp.io$third-party
 ||atraxio.com$third-party
 ||atrinsic.com$third-party
@@ -1377,7 +1377,7 @@
 ||comm100.io$third-party
 ||commandersact.com$third-party
 ||commindo-media-ressourcen.de$third-party
-||commissionfactory.com
+||commissionfactory.com$third-party
 ||commissionmonster.com$third-party
 ||communicationads.net$third-party
 ||communicatorcorp.com$third-party
@@ -2067,7 +2067,7 @@
 ||freeweblogger.com$third-party
 ||free-website-hit-counters.com$third-party
 ||free-website-statistics.com$third-party
-||freewheel*$third-party
+||freewheel.*$third-party
 ||freihit.de$third-party
 ||fremaks.net$third-party
 ||fresh8gaming.com$third-party
@@ -2256,7 +2256,6 @@
 ||gsecondscreen.com$third-party
 ||gsicommerce.com$third-party
 ||gsi-one.org$third-party
-||gstatic.com,$third-party
 ||gtcslt-di2.com$third-party
 ||gtop100.com$third-party
 ||gtsads.com$third-party
@@ -3004,7 +3003,7 @@
 ||merchenta.com$third-party
 ||metadsp.co.uk$third-party
 ||metaffiliation.com$third-party
-||metakeyproducer.com^
+||metakeyproducer.com$third-party
 ||metalyzer.com$third-party
 ||metanetwork.*$third-party
 ||metapeople.com$third-party
@@ -3283,7 +3282,7 @@
 ||newrrb.bid$third-party
 ||newscurve.com$third-party
 ||newsroom.bi$third-party
-||newtention*$third-party
+||newtention.*$third-party
 ||newtention.de$third-party
 ||newtention.net$third-party
 ||newtentionassets.net$third-party
@@ -3382,15 +3381,14 @@
 ||onclickads.net$third-party
 ||ondeviceresearch.com$third-party
 ||oneandonlynetwork.com$third-party
-||oneaudience$third-party
+||oneaudience.*$third-party
 ||onedigitalad.com$third-party
 ||oneimpress.io$third-party
 ||oneiota.co.uk$third-party
 ||onenetworkdirect.com$third-party
 ||onestatfree.com$third-party
 ||onetag.*$third-party
-||onetrust.com$third-party,ping
-||onevision.com.tw$third-party
+||onetrust.com$ping,third-party
 ||onewaylinkexchange.net$third-party
 ||ongsono.com$third-party
 ||oniad.com$third-party
@@ -4132,7 +4130,7 @@
 ||shrinktheweb.com$third-party
 ||shutterstock.com$third-party
 ||siccash.com$third-party
-||sift*third-party
+||sift.*third-party
 ||sift.com$third-party
 ||signalhq.com$third-party
 ||signalsdata.com$third-party
@@ -4501,7 +4499,7 @@
 ||textads.biz$third-party
 ||text-link-ads.com$third-party
 ||textlinks.com$third-party
-||tf1.fr$third-party
+||tf1.fr$third-party,domain=~tf1info.fr
 ||tfag.de$third-party
 ||tfosrv.com$third-party
 ||tgdaudience.com$third-party

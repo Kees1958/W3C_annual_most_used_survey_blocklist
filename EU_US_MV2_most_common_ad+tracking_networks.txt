@@ -2767,8 +2767,7 @@
 ||goodeed.com^$third-party
 ||goodmeasure.io^$third-party
 ||goodwaygroup.com^$third-party
-||google.*^$third-party
-||google.^/ads^$third-party
+||google.*/ads^$third-party
 ||google.com/adsense^$third-party
 ||google.com/pagead^$third-party
 ||google.com/pagead/^$third-party

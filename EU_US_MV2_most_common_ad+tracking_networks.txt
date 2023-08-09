@@ -3,7 +3,7 @@
 ! Version: 2023 
 ! Title: Kees1958 most used EU US ad & tracking networks
 !
-! Version: 2023.08.06
+! Version: 2023.08.09
 ! Expires: 365 days 
 !
 ! Please report issues related to website breakage at
@@ -515,7 +515,7 @@
 ||adrunnr.*^$third-party
 ||ads*apps.*^$third-party
 ||ads*pubs.*^$third-party
-||ads.*^$third-party
+||ads-api.twitter.com^$third-party
 ||ads.gold^$third-party
 ||ads.linkedin.com^$third-party
 ||ads.pinterest.com^$third-party
@@ -686,6 +686,7 @@
 ||advertiserurl.*^$third-party
 ||advertisespace.com^$third-party
 ||advertiseurl.*^$third-party
+||advertising.apple.com^$third-party
 ||advertising.com^$third-party
 ||advertising-api-eu.amazon.com^$third-party
 ||advertisingbanners.com^$third-party
@@ -906,6 +907,7 @@
 ||apexstats.com^$third-party
 ||apextag.com^$third-party
 ||apextwo.com^$third-party
+||api-adservices.apple.com^$third-party
 ||api64.com^$third-party
 ||apicit.net^$third-party
 ||apmebf.com^$third-party
@@ -1417,6 +1419,7 @@
 ||byside.com^$third-party
 ||bytedance.com^$third-party
 ||bytemgdd.com^$third-party
+||byteoversea.com^$third-party
 ||c1exchange.com^$third-party
 ||c212.net^$third-party
 ||c3metrics.com^$third-party
@@ -2347,6 +2350,7 @@
 ||evadav.com^$third-party
 ||evanetpro.com^$third-party
 ||events.reddit.com^$third-party
+||events.redditmedia.com^$third-party
 ||everestads.net^$third-party
 ||everestjs.net^$third-party
 ||everesttech.net^$third-party
@@ -5136,6 +5140,7 @@
 ||samandehi.ir^$third-party
 ||samba.tv^$third-party
 ||samplicio.us^$third-party
+||samsungads.com^$third-party
 ||sanjagh.com^$third-party
 ||san-spr-01.net^$third-party
 ||sapha.com^$third-party

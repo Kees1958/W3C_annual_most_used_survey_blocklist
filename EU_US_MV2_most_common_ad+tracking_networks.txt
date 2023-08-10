@@ -923,6 +923,7 @@
 ||appdog.com^$third-party
 ||appdynamics.com^$third-party
 ||appenda.com^$third-party
+||app.getsentry.com^$third-party
 ||appflood.com^$third-party
 ||appia.com^$third-party
 ||appier.com^$third-party
@@ -1415,6 +1416,7 @@
 ||buzzonclick.com^$third-party
 ||buzzoola.com^$third-party
 ||buzzparadise.com^$third-party
+||browser.sentry-cdn.com^$third-party
 ||bvalphaserver.com^$third-party
 ||bvmedia.ca^$third-party
 ||byside.com^$third-party

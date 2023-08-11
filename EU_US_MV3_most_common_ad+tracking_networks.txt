@@ -3,7 +3,7 @@
 ! Title: EU US ads&tracking networks MV3 (third-party blocking only)
 ! Expires: 365 days 
 !
-! Version: 2023.07.14
+! Version: 2023.08.11
 !
 ! Please report issues related to website breakage at
 ! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -239,15 +239,8 @@
 ||adrotate.de^$third-party
 ||adrta.com^$third-party
 ||adrtx.net^$third-party
-||ads.linkedin.com^$third-party
-||ads.pinterest.com^$third-party
-||ads.tiktok.com^$third-party
-||ads.twitter.com^$third-party
-||ads.yahoo.com^$third-party
 ||adsafemedia.com^$third-party
 ||adsafeprotected.com^$third-party
-||ads-api.tiktok.com^$third-party
-||ads-api.twitter.com^$third-party
 ||adsbwm.com^$third-party
 ||adsbyisocket.com^$third-party
 ||adscale.com^$third-party
@@ -256,11 +249,8 @@
 ||adsco.re^$third-party
 ||ad-score.com^$third-party
 ||adserver.com^$third-party
-||adserver.yahoo.com^$third-party
 ||adserverplus.com^$third-party
 ||adserverpub.com^$third-party
-||adservice.google.ca^$third-party
-||adservice.google.com^$third-party
 ||adsfac.eu^$third-party
 ||adsfac.info^$third-party
 ||adsfac.net^$third-party
@@ -283,11 +273,9 @@
 ||adspsp.com^$third-party
 ||adsrevenue.net^$third-party
 ||adsrvr.org^$third-party
-||ads-sg.tiktok.com^$third-party
 ||adstanding.com^$third-party
 ||ad-stir.com^$third-party
 ||adstours.com^$third-party
-||ads-twitter.com^$third-party
 ||adsty.com^$third-party
 ||adsummos.com^$third-party
 ||adsummos.net^$third-party
@@ -333,7 +321,6 @@
 ||advertise.com^$third-party
 ||advertisespace.com^$third-party
 ||advertising.com^$third-party
-||advertising.yahoo.com^$third-party
 ||advertising-api-eu.amazon.com^$third-party
 ||advertserve.com^$third-party
 ||advertstream.com^$third-party
@@ -344,7 +331,6 @@
 ||adviva.net^$third-party
 ||advividnetwork.com^$third-party
 ||adwitserver.com^$third-party
-||adwords.google.com^$third-party
 ||adworx.at^$third-party
 ||adworx.be^$third-party
 ||adworx.nl^$third-party
@@ -404,7 +390,6 @@
 ||alenty.com^$third-party
 ||alexametrics.com^$third-party
 ||aliapp.org^$third-party
-||alibaba.com^$third-party
 ||allstarmediagroup.com^$third-party
 ||alocdn.com^$third-party
 ||aloodo.com^$third-party
@@ -421,16 +406,7 @@
 ||ampxchange.com^$third-party
 ||amung.us^$third-party
 ||anadcoads.com^$third-party
-||analytics.google.com^$third-party
-||analytics.pinterest.com^$third-party
-||analytics.pointdrive.linkedin.com^$third-party
-||analytics.s3.amazonaws.com^$third-party
-||analytics.tiktok.com^$third-party
-||analytics.twitter.com^$third-party
-||analytics.yahoo.com^$third-party
 ||analytics-egain.com^$third-party
-||analyticsengine.s3.amazonaws.com^$third-party
-||analytics-sg.tiktok.com^$third-party
 ||analytics-sm.com^$third-party
 ||andbeyond.media^$third-party
 ||aniview.com^$third-party
@@ -524,7 +500,6 @@
 ||barilliance.com^$third-party
 ||baronsoffers.com^$third-party
 ||bashirian.biz^$third-party
-||bat.bing.com^$third-party
 ||batanga.com^$third-party
 ||batanganetwork.com^$third-party
 ||bbelements.com^$third-party
@@ -637,7 +612,6 @@
 ||burstly.com^$third-party
 ||burstmedia.com^$third-party
 ||burstnet.com^$third-party
-||business-api.tiktok.com^$third-party
 ||businessol.com^$third-party
 ||buy.at^$third-party
 ||buysellads.com^$third-party
@@ -648,6 +622,7 @@
 ||buzzparadise.com^$third-party
 ||bvmedia.ca^$third-party
 ||bytedance.com^$third-party
+||byteoversea.com^$third-party
 ||c1exchange.com^$third-party
 ||c212.net^$third-party
 ||c3metrics.com^$third-party
@@ -1009,8 +984,6 @@
 ||eulerian.net^$third-party
 ||eum-appdynamics.com^$third-party
 ||euroclick.com^$third-party
-||events.reddit.com^$third-party
-||events.redditmedia.com^$third-party
 ||everestads.net^$third-party
 ||everestjs.net^$third-party
 ||everesttech.net^$third-party
@@ -1050,8 +1023,6 @@
 ||eyeviewdigital.com^$third-party
 ||eyewonder.com^$third-party
 ||eztargetmedia.com^$third-party
-||facebook.com^$third-party,domain=~instagram.com|~whatsapp.com
-||facebook.net^$third-party,domain=~facebook.com|~instagram.com|~whatsapp.com
 ||facilitatedigital.com^$third-party
 ||factortg.com^$third-party
 ||faithadnet.com^$third-party
@@ -1147,18 +1118,6 @@
 ||goldbachgroup.com^$third-party
 ||goldspotmedia.com^$third-party
 ||go-mpulse.net^$third-party
-||google.com/adsense^$third-party
-||google.com/adsense^^$third-party
-||google.com/pagead^$third-party
-||google.com/pagead^^$third-party
-||google.nl^$third-party
-||googleadservices.com^$third-party
-||googleanalytics.com^$third-party
-||google-analytics.com^$third-party
-||googleoptimize.com^$third-party
-||googlesyndication.com^$third-party
-||googletagmanager.com^$third-party
-||googletagservices.com^$third-party
 ||gorillanation.com^$third-party
 ||gosquared.com^$third-party
 ||gostats.com^$third-party
@@ -1428,7 +1387,6 @@
 ||localyokelmedia.com^$third-party
 ||localytics.com^$third-party
 ||lockerdome.com^$third-party
-||log.pinterest.com^$third-party
 ||logdy.com^$third-party
 ||loggly.com^$third-party
 ||longboardmedia.com^$third-party
@@ -1470,7 +1428,6 @@
 ||marinsm.com^$third-party
 ||marketgid.com^$third-party
 ||marketingautomation.services^$third-party
-||marketingsolutions.yahoo.com^$third-party
 ||marketlinc.com^$third-party
 ||marketo.com^$third-party
 ||marketo.net^$third-party
@@ -2177,7 +2134,6 @@
 ||stack-sonar.com^$third-party
 ||stargamesaffiliate.com^$third-party
 ||statcounter.com^$third-party
-||static.ads-twitter.com^$third-party
 ||staticstuff.net^$third-party
 ||statisfy.net^$third-party
 ||statistics.ro^$third-party
@@ -2334,7 +2290,6 @@
 ||triggit.com^$third-party
 ||trinitymedia.ai^$third-party
 ||triplelift.com^$third-party
-||trk.pinterest.com^$third-party
 ||trkn.us^$third-party
 ||trueffect.com^$third-party
 ||truefitcorp.com^$third-party
@@ -2485,7 +2440,6 @@
 ||weibo.com^$third-party
 ||whiteops.com^$third-party
 ||widerplanet.com^$third-party
-||widgets.pinterest.com^$third-party
 ||widgetserver.com^$third-party
 ||wingify.com^$third-party
 ||wiredminds.com^$third-party
@@ -2522,7 +2476,6 @@
 ||xtremepush.com^$third-party
 ||xxxjmp.com^$third-party
 ||yabuka.com^$third-party
-||yandex.com^$third-party
 ||ybrantdigital.com^$third-party
 ||ybx.io^$third-party
 ||yceml.net^$third-party
@@ -2584,3 +2537,72 @@
 ||zucks.net^$third-party
 ||zumobi.com^$third-party
 ||zypmedia.com^$third-party
+!
+! Google 
+! 
+||adservice.google.com^$third-party
+||adwords.google.com^$third-party
+||analytics.google.com^$third-party
+||google.com/adsense^$third-party
+||google.com/pagead^$third-party
+||googleadservices.com^$third-party
+||googleanalytics.com^$third-party
+||google-analytics.com^$third-party
+||googleoptimize.com^$third-party
+||googlesyndication.com^$third-party
+||googletagmanager.com^$third-party
+||googletagservices.com^$third-party
+!
+! Other search engines
+!
+||bat.bing.com^$third-party
+||adserver.yahoo.com^$third-party
+||ads.yahoo.com^$third-party
+||advertising.yahoo.com^$third-party
+||analytics.yahoo.com^$third-party
+||analytics.query.yahoo.com^$third-party
+||marketingsolutions.yahoo.com^$third-party
+||partnerads.*.yahoo.com^$third-party
+||adtech.yahooinc.com^$third-party
+||log.*.yahoo.com^$third-party
+||yandex.com^$third-party
+||yandex.net^$third-party,domain=~yandex.com
+||yandex.ru^$third-party,,domain=~yandex.com
+
+!
+! Social medua
+! 
+||ads.youtube.com^
+||facebook.com^$third-party,domain=~instagram.com|~whatsapp.com
+||facebook.net^$third-party,domain=~facebook.com|~instagram.com|~whatsapp.com
+||ads.pinterest.com^$third-party
+||analytics.pinterest.com^$third-party
+||log.pinterest.com^$third-party
+||widgets.pinterest.com^$third-party
+||trk.pinterest.com^$third-party
+||events.reddit.com^$third-party
+||events.redditmedia.com^$third-party
+!
+||ads.linkedin.com^$third-party
+||analytics.pointdrive.linkedin.com^$third-party
+
+||ads.tiktok.com^$third-party
+||ads-api.tiktok.com^$third-party
+||ads-sg.tiktok.com^$third-party
+||analytics.tiktok.com^$third-party
+||analytics-sg.tiktok.com^$third-party
+||business-api.tiktok.com^$third-party
+!|ads.twitter.com^$third-party
+||ads-twitter.com^$third-party
+||ads-api.twitter.com^$third-party
+||analytics.twitter.com^$third-party
+||static.ads-twitter.com^$third-party
+
+!
+! Mega online stores
+! 
+||alibaba.com^$third-party
+||analytics.s3.amazonaws.com^$third-party
+||analyticsengine.s3.amazonaws.com^$third-party
+
+|

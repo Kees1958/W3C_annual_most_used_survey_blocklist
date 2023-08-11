@@ -2567,7 +2567,7 @@
 ||log.*.yahoo.com^$third-party
 ||yandex.com^$third-party
 ||yandex.net^$third-party,domain=~yandex.com
-||yandex.ru^$third-party,,domain=~yandex.com
+||yandex.ru^$third-party,domain=~yandex.com
 
 !
 ! Social medua

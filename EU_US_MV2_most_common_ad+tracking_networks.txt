@@ -6596,6 +6596,7 @@
 ||xxxjmp.com^$third-party
 ||xxxlutz.de^$third-party
 ||xxxmyself.com^$third-party
+||xxxviijmp.com^$third-party
 ||xxxwebtraffic.com^$third-party
 ||xy7elite.com^$third-party
 ||xyztraffic.com^$third-party

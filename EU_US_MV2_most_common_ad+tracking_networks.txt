@@ -3644,6 +3644,7 @@
 ||magnetmail1.net^$third-party
 ||magnify360.com^$third-party
 ||magnuum.com^$third-party
+||magsrv.com^$third-part
 ||mailchimp.com^$third-party
 ||mailerlite.com^$third-party
 ||mailstat.us^$third-party

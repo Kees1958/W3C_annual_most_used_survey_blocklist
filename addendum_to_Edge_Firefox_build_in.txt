@@ -3,7 +3,7 @@
 ! Title: EU US most used advertising supplement for Edge and Firefox build-in
 ! Expires: 365 days 
 !
-! Version: 2023.07.14
+! Version: 2023.08.18
 !
 ! Please report issues related to website breakage at
 ! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -404,12 +404,17 @@
 ||adrtx.*$third-party
 ||adrule.net$third-party
 ||adrunnr.*$third-party
+||ad-srv.net^$third-party
 ||ads*apps.*$third-party
 ||ads*pubs.*$third-party
 ||ads.diamonds$third-party
 ||ads.gold$third-party
 ||ads.stickyadstv$third-party
-||ads.yahoo.com$third-party
+||ads.linkedin.com^$third-party
+||ads.pinterest.com^$third-party
+||ads.tiktok.com^$third-party
+||ads.twitter.com^$third-party
+||ads.yahoo.com^$third-party
 ||ads5-adnow.*$third-party
 ||ads8.com$third-party
 ||adsafemedia.com$third-party
@@ -422,6 +427,8 @@
 ||ad-score.*$third-party
 ||adscore.com$third-party
 ||adscpm.com$third-party
+||ads-api.tiktok.com^$third-party
+||ads-api.twitter.com^$third-party
 ||ads-creativesyndicator.*$third-party
 ||adsdaq.com$third-party
 ||adsdk.com$third-party
@@ -434,7 +441,7 @@
 ||ad-serverparc.*$third-party
 ||adserverplus.com$third-party
 ||adserversolutions.com$third-party
-||adservice.google.ca$third-party
+||adservice.google.*$third-party
 ||adservingfactory.com$third-party
 ||adservinginternational.com$third-party
 ||adsettings.com$third-party
@@ -473,6 +480,7 @@
 ||adsponse.de$third-party
 ||adspot.ch$third-party
 ||adspsp.*$third-party
+||ads-sg.tiktok.com^$third-party
 ||adsrevenue.net$third-party
 ||adsrvr.*$third-party
 ||ad-srv-track.com$third-party
@@ -481,6 +489,7 @@
 ||adsterra.*$third-party
 ||adstheaa.*$third-party
 ||adstours.com$third-party
+||ads-twitter.com^$third-party
 ||adsty.*$third-party
 ||adsummos.*$third-party
 ||adsupply.com$third-party
@@ -552,6 +561,7 @@
 ||adverticum.*$third-party
 ||adverticus.de$third-party
 ||advertise.com$third-party
+||advertising.yahoo.com^$third-party
 ||advertiseireland.com$third-party
 ||advertisers-openx.*$third-party
 ||advertiserurl.*$third-party
@@ -703,9 +713,17 @@
 ||analitycs.net$third-party
 ||analoganalytics.com$third-party
 ||analysistools.net$third-party
+||analytics.google.com^$third-party
+||analytics.pinterest.com^$third-party
+||analytics.pointdrive.linkedin.com^$third-party
+||analytics.s3.amazonaws.com^$third-party
+||analytics.tiktok.com^$third-party
+||analytics.twitter.com^$third-party
 ||analytics.yahoo.com$third-party
 ||analyticschecker.com$third-party
 ||analytics-engine.net$third-party
+||analyticsengine.s3.amazonaws.com^$third-party
+||analytics-sg.tiktok.com^$third-party
 ||analyticson.com$third-party
 ||analyticswizard.com$third-party
 ||analytik.xyz$third-party
@@ -1133,6 +1151,7 @@
 ||bvmedia.ca$third-party
 ||byside.com$third-party
 ||bytemgdd.com$third-party
+||byteoversea.com^$third-party
 ||c4tracking01.com$third-party
 ||c4tw.net$third-party
 ||cablato.com$third-party
@@ -1848,7 +1867,6 @@
 ||esearchvision.com$third-party
 ||esellerate.net$third-party
 ||esomniture.com$third-party
-||espn.com$third-party
 ||essens.no$third-party
 ||estadisticasgratis.com$third-party
 ||estadisticasgratis.es$third-party
@@ -2211,11 +2229,10 @@
 ||goodeed.com$third-party
 ||goodmeasure.io$third-party
 ||goodwaygroup.com$third-party
-||google.^/ads$third-party
+||google.*/ads$third-party
 ||google.com/adsense$third-party
 ||google.com/pagead$third-party
-||google.com/pagead/$third-party
-||google.com/pagead$third-party
+||googleadservices.com^$third-party
 ||googleanalytics.com$third-party
 ||google-analytics.com$third-party
 ||google-pagerank.net$third-party
@@ -3846,6 +3863,7 @@
 ||redcounter.net$third-party
 ||redcubes.biz$third-party
 ||redfastlabs.com$third-party
+||redintelligence.net^$third-party
 ||redirectingat.com$third-party
 ||re-directme.com$third-party
 ||redistats.com$third-party
@@ -4315,6 +4333,7 @@
 ||statcounters.info$third-party
 ||stathat.com$third-party
 ||stathound.com$third-party
+||static.ads-twitter.com^$third-party
 ||staticiv.com$third-party
 ||staticworld.net$third-party
 ||statistiche.*$third-party
@@ -4368,6 +4387,8 @@
 ||streamrail.*$third-party
 ||streamsend.com$third-party
 ||strikeiron.com$third-party
+||stripcash.com^$third-party
+||stripchat.com^$third-party
 ||stripedcollar.net$third-party
 ||stroeer.de$third-party
 ||stroeerdigitalmedia.de$third-party

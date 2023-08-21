@@ -523,6 +523,7 @@
 ||ads.stickyadstv^$third-party
 ||ads.tiktok.com^$third-party
 ||ads.twitter.com^$third-party
+||ads.youtube.com^
 ||ads5-adnow.*^$third-party
 ||ads8.com^$third-party
 ||adsafemedia.com^$third-party

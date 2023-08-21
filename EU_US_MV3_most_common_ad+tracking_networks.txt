@@ -2573,7 +2573,7 @@
 !
 ! Social medua
 ! 
-||ads.youtube.com^
+||ads.youtube.com^$third-party
 ||facebook.com^$third-party,domain=~instagram.com|~whatsapp.com
 ||facebook.net^$third-party,domain=~facebook.com|~instagram.com|~whatsapp.com
 ||ads.pinterest.com^$third-party

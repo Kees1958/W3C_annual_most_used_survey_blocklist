@@ -2393,7 +2393,7 @@
 ||exitjunction.com^$third-party
 ||exitmonitor.com^$third-party
 ||exmarkt.de^$third-party
-||exoclick.com^
+||exoclick.com^$third-party
 ||exogripper.com^$third-party
 ||exosrv.com^$third-party
 ||exoticads.com^$third-party
@@ -4347,7 +4347,7 @@
 ||opinionbar.com^$third-party
 ||opinmind.com^$third-party
 ||opmnstr.com^$third-party
-||opoxv.com^
+||opoxv.com^$third-party
 ||oproi.com^$third-party
 ||opstag.com^$third-party
 ||optify.net^$third-party
@@ -4375,7 +4375,7 @@
 ||orangesoda.com^$third-party
 ||orbengine.com^$third-party
 ||orbisvideo.com^$third-party
-||orbsrv.com^
+||orbsrv.com^$third-party
 ||orcapia.com^$third-party
 ||ordingly.com^$third-party
 ||oribi.io^$third-party
@@ -5991,9 +5991,9 @@
 ||trafficby.net^$third-party
 ||trafficengine.net^$third-party
 ||traffic-exchange.com^$third-party
-||trafficfactory.*^
+||trafficfactory.*^$third-party
 ||trafficfacts.com^$third-party
-||trafficforce.com^
+||trafficforce.com^$third-party
 ||trafficforme.com^$third-party
 ||trafficfuel.com^$third-party
 ||trafficguard.ai^$third-party
@@ -6002,7 +6002,7 @@
 ||traffichouse.com^$third-party
 ||traffichunt.com^$third-party
 ||trafficjoint.com^$third-party
-||trafficjunky.*^
+||trafficjunky.*^$third-party
 ||trafficleader.com^$third-party
 ||trafficmaxx.de^$third-party
 ||trafficmp.com^$third-party
@@ -6095,7 +6095,7 @@
 ||tsk5.com^$third-party
 ||tst14netreal.com^$third-party
 ||tsw0.com^$third-party
-||tsyndicate.com^
+||tsyndicate.com^$third-party
 ||tubedspots.com^$third-party
 ||tubemogul.com^$third-party
 ||tuinfra.com^$third-party

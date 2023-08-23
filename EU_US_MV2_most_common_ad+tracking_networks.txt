@@ -3,7 +3,7 @@
 ! Version: 2023 
 ! Title: Kees1958 most used EU US ad & tracking networks
 !
-! Version: 2023.08.21
+! Version: 2023.08.23
 ! Expires: 365 days 
 !
 ! Please report issues related to website breakage at
@@ -2393,7 +2393,7 @@
 ||exitjunction.com^$third-party
 ||exitmonitor.com^$third-party
 ||exmarkt.de^$third-party
-||exoclick.com^$third-party
+||exoclick.com^
 ||exogripper.com^$third-party
 ||exosrv.com^$third-party
 ||exoticads.com^$third-party
@@ -4347,7 +4347,7 @@
 ||opinionbar.com^$third-party
 ||opinmind.com^$third-party
 ||opmnstr.com^$third-party
-||opoxv.com^$third-party
+||opoxv.com^
 ||oproi.com^$third-party
 ||opstag.com^$third-party
 ||optify.net^$third-party
@@ -4375,7 +4375,7 @@
 ||orangesoda.com^$third-party
 ||orbengine.com^$third-party
 ||orbisvideo.com^$third-party
-||orbsrv.com^$third-party
+||orbsrv.com^
 ||orcapia.com^$third-party
 ||ordingly.com^$third-party
 ||oribi.io^$third-party
@@ -5991,9 +5991,9 @@
 ||trafficby.net^$third-party
 ||trafficengine.net^$third-party
 ||traffic-exchange.com^$third-party
-||trafficfactory.*^$third-party
+||trafficfactory.*^
 ||trafficfacts.com^$third-party
-||trafficforce.com^$third-party
+||trafficforce.com^
 ||trafficforme.com^$third-party
 ||trafficfuel.com^$third-party
 ||trafficguard.ai^$third-party
@@ -6002,7 +6002,7 @@
 ||traffichouse.com^$third-party
 ||traffichunt.com^$third-party
 ||trafficjoint.com^$third-party
-||trafficjunky.*^$third-party
+||trafficjunky.*^
 ||trafficleader.com^$third-party
 ||trafficmaxx.de^$third-party
 ||trafficmp.com^$third-party
@@ -6095,7 +6095,7 @@
 ||tsk5.com^$third-party
 ||tst14netreal.com^$third-party
 ||tsw0.com^$third-party
-||tsyndicate.com^$third-party
+||tsyndicate.com^
 ||tubedspots.com^$third-party
 ||tubemogul.com^$third-party
 ||tuinfra.com^$third-party

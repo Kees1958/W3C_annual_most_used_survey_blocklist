@@ -3,7 +3,7 @@
 ! Version: 2023 
 ! Title: Kees1958 most used EU US ad & tracking networks
 !
-! Version: 2023.08.23
+! Version: 2023.10.18
 ! Expires: 365 days 
 !
 ! Please report issues related to website breakage at
@@ -4670,7 +4670,6 @@
 ||prismaconnect.fr^$third-party
 ||prismapp.io^$third-party
 ||privacycounter.com^$third-party
-||privacy-mgmt.com^$third-party
 ||privatecash.com^$third-party
 ||privymktg.com^$third-party
 ||pr-linktausch.de^$third-party

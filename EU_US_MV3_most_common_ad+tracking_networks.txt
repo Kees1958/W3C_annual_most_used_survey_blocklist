@@ -3,7 +3,7 @@
 ! Title: EU US ads&tracking networks MV3 (third-party blocking only)
 ! Expires: 365 days 
 !
-! Version: 2023.08.16
+! Version: 2023.11.19
 !
 ! Please report issues related to website breakage at
 ! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -245,6 +245,7 @@
 ||adsbyisocket.com^$third-party
 ||adscale.com^$third-party
 ||adscale.de^$third-party
+||adscendmedia.com^$third-party
 ||adscience.nl^$third-party
 ||adsco.re^$third-party
 ||ad-score.com^$third-party
@@ -682,6 +683,7 @@
 ||clickable.net^$third-party
 ||clickagy.com^$third-party
 ||clickaider.com^$third-party
+||clickbank.net^$third-party
 ||clickbooth.com^$third-party
 ||clickcease.com^$third-party
 ||clickdensity.com^$third-party

@@ -3,7 +3,7 @@
 ! Title: EU US most used advertising supplement for Edge and Firefox build-in
 ! Expires: 365 days 
 !
-! Version: 2023.08.18
+! Version: 2023.11.19
 !
 ! Please report issues related to website breakage at
 ! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -433,6 +433,7 @@
 ||adsdaq.com$third-party
 ||adsdk.com$third-party
 ||adsend.de$third-party
+||adscendmedia.com$third-party
 ||adsensecustomsearchads.*$third-party
 ||adsensedetective.com$third-party
 ||adserve.zone$third-party
@@ -490,6 +491,7 @@
 ||adstheaa.*$third-party
 ||adstours.com$third-party
 ||ads-twitter.com^$third-party
+||adsrvr.org^$third-party
 ||adsty.*$third-party
 ||adsummos.*$third-party
 ||adsupply.com$third-party
@@ -1721,7 +1723,7 @@
 ||dotaki.com$third-party
 ||dotjs.com$third-party
 ||double-check.com$third-party
-||doubleclick.*$third-party
+||doubleclick.net$third-party
 ||dpbolvw.net$third-party
 ||dp-dhl.com$third-party
 ||dps-reach.com$third-party
@@ -3638,7 +3640,7 @@
 ||pontiflex.com$third-party
 ||poool.fr$third-party
 ||pop6.com$third-party
-||popads.*$third-party
+||popads.net$third-party
 ||popcash.net$third-party
 ||popmyads.com$third-party
 ||poprule.com$third-party
@@ -5234,6 +5236,7 @@
 ||zarget.com$third-party
 ||zdtag.com$third-party
 ||zebestof.com$third-party
+||zedo.com$third-party
 ||zedwhyex.com$third-party
 ||zeepmedia.com$third-party
 ||zeerat.com$third-party

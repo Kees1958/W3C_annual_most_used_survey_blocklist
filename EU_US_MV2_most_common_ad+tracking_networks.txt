@@ -3,7 +3,7 @@
 ! Version: 2023 
 ! Title: Kees1958 most used EU US ad & tracking networks
 !
-! Version: 2023.10.18
+! Version: 2023.11.19
 ! Expires: 365 days 
 !
 ! Please report issues related to website breakage at
@@ -547,6 +547,7 @@
 ||adsdaq.com^$third-party
 ||adsdk.com^$third-party
 ||adsend.de^$third-party
+||adscendmedia.com$third-party
 ||adsensecustomsearchads.*^$third-party
 ||adsensedetective.com^$third-party
 ||adserve.zone^$third-party
@@ -593,7 +594,7 @@
 ||adspot.ch^$third-party
 ||adspsp.*^$third-party
 ||adsrevenue.net^$third-party
-||adsrvr.*^$third-party
+||adsrvr.org^$third-party
 ||ad-srv-track.com^$third-party
 ||adssets.com^$third-party
 ||ads-sg.tiktok.com^$third-party
@@ -1587,7 +1588,7 @@
 ||clickagy.com^$third-party
 ||clickaider.com^$third-party
 ||clickalyzer.com^$third-party
-||clickbank.com^$third-party
+||clickbank.net^$third-party
 ||clickbooth.com^$third-party
 ||clickboothlnk.com^$third-party
 ||clickbrainiacs.com^$third-party
@@ -2118,7 +2119,7 @@
 ||dotmetrics.net^$third-party
 ||dotomi.com^$third-party
 ||double-check.com^$third-party
-||doubleclick.*^$third-party
+||doubleclick.net^$third-party
 ||doublepimp.com^$third-party
 ||doublepositive.com^$third-party
 ||doubleverify.com^$third-party
@@ -4612,7 +4613,7 @@
 ||pontiflex.com^$third-party
 ||poool.fr^$third-party
 ||pop6.com^$third-party
-||popads.*^$third-party
+||popads.net^$third-party
 ||popadscdn.net^$third-party
 ||popcash.net^$third-party
 ||popcde.com^$third-party

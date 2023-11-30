@@ -14,8 +14,15 @@ AdBlockPlus 2.0]
 ! Kees1958 Mv3 https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US_MV3_most_common_ad%2Btracking_networks.txt
 ! 
 
-! DuckDuckGo 
+! DuckDuckGo search
 duckduckgo.com##[class^="badge-link__wrap"]
+
+! Startpage search
+startpage.com###block-display
+startpage.com###master-a-1
+startpage.com###master-2
+startpage.com###master-2
+startpage.com##[id*="adBlock"]
 
 ! Youtube
 youtube.com##+js(set-constant, ytInitialPlayerResponse.adPlacements, undefined) 

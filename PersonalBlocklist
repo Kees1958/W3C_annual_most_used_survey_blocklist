@@ -6,12 +6,13 @@ AdBlockPlus 2.0]
 ! Version: 2023.11.30
 ! Expires: 365 days 
 !
-! I use it in combination with three filters
+! I use it in combination with below filters:
 !
 ! Magnolia BPC https://gitlab.com/magnolia1234/bypass-paywalls-clean-filters/-/raw/main/bpc-paywall-filter.txt
 ! AdGuard base https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt
 ! uBlock fixes https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/quick-fixes.txt
 ! Kees1958 Mv3 https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US_MV3_most_common_ad%2Btracking_networks.txt
+! 
 
 ! DuckDuckGo 
 duckduckgo.com##[class^="badge-link__wrap"]

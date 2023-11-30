@@ -1,3 +1,16 @@
+AdBlockPlus 2.0]
+!
+! Version: 2023 
+! Title: Kees1958 personal blocklist
+!
+! Version: 2023.11.30
+! Expires: 365 days 
+!
+! Used in combo with
+! Magnolia BPC https://gitlab.com/magnolia1234/bypass-paywalls-clean-filters/-/raw/main/bpc-paywall-filter.txt
+! AdGuard base https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt
+! uBlock fixes https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/quick-fixes.txt
+
 ! DuckDuckGo 
 duckduckgo.com##[class^="badge-link__wrap"]
 

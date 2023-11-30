@@ -16,6 +16,8 @@ AdBlockPlus 2.0]
 duckduckgo.com##[class^="badge-link__wrap"]
 
 ! Startpage search (EU privacy law)
+||startpage.com^$subdocument
+startpage.com###widget-install-legacy
 startpage.com###block-display
 startpage.com###master-a-1
 startpage.com###master-2

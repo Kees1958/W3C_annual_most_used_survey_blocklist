@@ -1,0 +1,19 @@
+! DuckDuckGo 
+duckduckgo.com##[class^="badge-link__wrap"]
+
+! Youtube
+youtube.com##+js(set-constant, ytInitialPlayerResponse.adPlacements, undefined) 
+youtube.com##+js(set-constant, playerResponse.adPlacements, undefined) 
+youtube.com##+js(json-prune, [].playerResponse.adPlacements [].playerResponse.playerAds playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds) 
+
+! Diverse
+||ster.nl^
+nos.nl###regio-onboarding
+nu.nl##.banner, .banner--h1
+nu.nl##div[class="modal-layer modal-layer--noscroll"]
+rtlnieuws.nl###dfp-wrapper-billboard1
+volkskrant.nl###top1
+parool.nl###top1
+bbc.com###dotcom-leaderboard
+bbc.com##.nw-c-leaderboard-ad
+cnn.com##.ad-slot-header__wrapper

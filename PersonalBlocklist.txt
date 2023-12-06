@@ -37,7 +37,10 @@ nu.nl##div[class="modal-layer modal-layer--noscroll"]
 rtlnieuws.nl###dfp-wrapper-billboard1
 volkskrant.nl###top1
 parool.nl###top1
+bbc.com##div[class*="ConsentBanner"]
+bbc.com###cookiePrompt
 bbc.com###dotcom-leaderboard
 bbc.com##.nw-c-leaderboard-ad
 cnn.com##.ad-slot-header__wrapper
 cnn.com##.ad-slot
+

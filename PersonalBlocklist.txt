@@ -1,4 +1,4 @@
-AdBlockPlus 2.0]
+[AdBlockPlus 2.0]
 !
 ! Version: 2023 
 ! Title: Kees1958 personal blocklist

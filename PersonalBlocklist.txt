@@ -15,7 +15,12 @@
 ! DuckDuckGo search (US privacy law)
 duckduckgo.com##[class^="badge-link__wrap"]
 
-! Startpage search (EU privacy law)
+! EU privacy law add to search engine with below data
+! Startpage  
+! Startpage.com 
+! https://www.startpage.com/do/search?lui=nederlands&language=nederlands&cat=web&nj=&anticache=397090&query=%s
+!
+! 
 ||startpage.com^$subdocument
 startpage.com###widget-install-legacy
 startpage.com###block-display

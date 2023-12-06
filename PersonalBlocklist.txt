@@ -3,7 +3,7 @@ AdBlockPlus 2.0]
 ! Version: 2023 
 ! Title: Kees1958 personal blocklist
 !
-! Version: 2023.11.30
+! Version: 2023.12.06
 ! Expires: 365 days 
 !
 ! I use it in combination with my own "most used" filters and below:
@@ -40,3 +40,4 @@ parool.nl###top1
 bbc.com###dotcom-leaderboard
 bbc.com##.nw-c-leaderboard-ad
 cnn.com##.ad-slot-header__wrapper
+cnn.com##.ad-slot

@@ -3,7 +3,7 @@
 ! Version: 2023 
 ! Title: Kees1958 personal blocklist
 !
-! Version: 2023.12.06
+! Version: 2023.12.31
 ! Expires: 365 days 
 !
 ! I use it in combination with my own "most used" filters and below:

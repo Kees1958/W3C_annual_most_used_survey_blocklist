@@ -45,6 +45,7 @@ parool.nl###top1
 bbc.com##div[class*="ConsentBanner"]
 bbc.com###cookiePrompt
 bbc.com###dotcom-leaderboard
+bbc.com##.bbccom_slot, .leaderboard-ad-placeholder
 bbc.com##.nw-c-leaderboard-ad
 cnn.com##.ad-slot-header__wrapper
 cnn.com##.ad-slot

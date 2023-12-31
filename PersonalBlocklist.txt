@@ -30,7 +30,7 @@ youtube.com##+js(set-constant, ytInitialPlayerResponse.adPlacements, undefined)
 youtube.com##+js(set-constant, playerResponse.adPlacements, undefined) 
 youtube.com##+js(json-prune, [].playerResponse.adPlacements [].playerResponse.playerAds playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds) 
 
-! Diverse
+! Leftovers (mostly cosmetic)
 ||ster.nl^
 nos.nl###regio-onboarding
 nu.nl##.banner, .banner--h1

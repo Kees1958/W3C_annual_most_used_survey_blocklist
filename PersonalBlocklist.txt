@@ -6,7 +6,7 @@
 ! Version: 2024.01.01
 ! Expires: 365 days 
 !
-! I use Chrome with AdGuard Mv3 in my COMPATIBLE PROFILE with below filters only:
+! On Windows, I use Chrome with AdGuard Mv3 in my COMPATIBLE PROFILE with below filters only:
 !
 ! Most used EU  https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US_MV2_most_common_ad%2Btracking_networks.txt
 ! Magnolia BPC  https://gitlab.com/magnolia1234/bypass-paywalls-clean-filters/-/raw/main/bpc-paywall-filter.txt

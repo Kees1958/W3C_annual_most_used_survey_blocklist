@@ -3,15 +3,18 @@
 ! Version: 2023 
 ! Title: Kees1958 personal blocklist
 !
-! Version: 2023.12.31
+! Version: 2024.01.01
 ! Expires: 365 days 
 !
-! I use AdGuard Mv3 now with below filters only:
+! I use Chrome with AdGuard Mv3 in my COMPATIBLE PROFILE with below filters only:
 !
 ! Most used EU  https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US_MV2_most_common_ad%2Btracking_networks.txt
 ! Magnolia BPC  https://gitlab.com/magnolia1234/bypass-paywalls-clean-filters/-/raw/main/bpc-paywall-filter.txt
 ! uBlock fixes  https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/quick-fixes.txt
 ! Leftovers     https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/PersonalBlocklist.txt
+!
+! I also have a SAFE PROFILE in which I have most file permissions on block with uBO Lite and JShelter 
+! (explanation for my old friend OldSchool :-)
 
 ! DuckDuckGo search (US privacy law)
 duckduckgo.com##[class^="badge-link__wrap"]

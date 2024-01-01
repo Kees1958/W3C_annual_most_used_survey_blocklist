@@ -14,7 +14,7 @@
 ! Leftovers     https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/PersonalBlocklist.txt
 !
 ! I also have a SAFE PROFILE for surfing in which I have most file permissions on block with uBO Lite and JShelter 
-! (explanation for my old friend OldSchool on MT, who I thank for promoting Brave, which is my preferred browser on Android now) :-)
+! (explanation for my old friend OldSchool on MT, who I thank for promoting Brave, which is my preferred browser on Android now :-)
 
 ! DuckDuckGo search (US privacy law)
 duckduckgo.com##[class^="badge-link__wrap"]

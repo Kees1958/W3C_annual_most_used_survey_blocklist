@@ -13,7 +13,7 @@
 ! uBlock fixes  https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/quick-fixes.txt
 ! Leftovers     https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/PersonalBlocklist.txt
 !
-! I also have a SAFE PROFILE for surfing in which I have most file permissions on block with uBO Lite and JShelter 
+! I also have a SAFE PROFILE for surfing in which I have most site permissions on block with uBO Lite and JShelter 
 ! (explanation for my old friend OldSchool on MT, who I thank for promoting Brave, which is my preferred browser on Android now :-)
 
 ! DuckDuckGo search (US privacy law)

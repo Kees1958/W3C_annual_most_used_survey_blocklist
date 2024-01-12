@@ -32,6 +32,7 @@ startpage.com##[id*="adBlock"]
 youtube.com##+js(set-constant, ytInitialPlayerResponse.adPlacements, undefined) 
 youtube.com##+js(set-constant, playerResponse.adPlacements, undefined) 
 youtube.com##+js(json-prune, [].playerResponse.adPlacements [].playerResponse.playerAds playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds) 
+youtube.com##div[class*="promoted-sparkles"]
 
 ! Leftovers (mostly cosmetic)
 ||ster.nl^

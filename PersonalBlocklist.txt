@@ -1,7 +1,7 @@
 [AdBlockPlus 2.0]
 !
 ! Version: 2023 
-! Title: Kees1958 personal blocklist
+! Title: Cosmetic filter left over list
 !
 ! Version: 2024.01.01
 ! Expires: 365 days 
@@ -27,12 +27,6 @@ startpage.com###master-a-1
 startpage.com###master-2
 startpage.com###master-2
 startpage.com##[id*="adBlock"]
-
-! Youtube
-youtube.com##+js(set-constant, ytInitialPlayerResponse.adPlacements, undefined) 
-youtube.com##+js(set-constant, playerResponse.adPlacements, undefined) 
-youtube.com##+js(json-prune, [].playerResponse.adPlacements [].playerResponse.playerAds playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds) 
-youtube.com##div[class*="promoted-sparkles"]
 
 ! Leftovers (mostly cosmetic)
 ||ster.nl^

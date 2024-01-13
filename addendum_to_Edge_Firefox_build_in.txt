@@ -5234,6 +5234,7 @@
 ||zantracker.com$third-party
 ||zapunited.com$third-party
 ||zarget.com$third-party
+||zblkqa.com$third-party
 ||zdtag.com$third-party
 ||zebestof.com$third-party
 ||zedo.com$third-party

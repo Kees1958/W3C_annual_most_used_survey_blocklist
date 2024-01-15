@@ -3,7 +3,7 @@
 ! Title: EU US most used advertising supplement for Edge and Firefox build-in
 ! Expires: 365 days 
 !
-! Version: 2023.11.19
+! Version: 2024.01.15
 !
 ! Please report issues related to website breakage at
 ! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -2001,6 +2001,7 @@
 ||find-ip-address.org$third-party
 ||findyourcasino.com$third-party
 ||fineclicks.com$third-party
+||firstdata.io$third-party
 ||firstlightera.com$third-party
 ||firstpromoter.com$third-party
 ||firststars.*$third-party

@@ -19,8 +19,15 @@ use new software which makes them reluctant to change to a different advertising
 
                                                       ADVICED USAGE  
 
-When you use Ege or Firefox with build-in tracking protection, you can use this version 
+For people using AdGuard MV3 experimental, I have the MV3 version: 
+https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US_MV3_most_common_ad%2Btracking_networks.txt
+
+For people using Firefox or Edge build-in tracking protection use:
 https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/addendum_to_Edge_Firefox_build_in.txt
+
+People using AdGuard or uBlockOrigin can use the combined MV2 version: 
+https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US_MV2_most_common_ad%2Btracking_networks.txt
+
 
                                                       ERRORS & ISSUES
 Please report site breakage on github by creating an issue. https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues. 

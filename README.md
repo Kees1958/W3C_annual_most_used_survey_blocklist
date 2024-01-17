@@ -28,7 +28,7 @@ https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist
 People using AdGuard or uBlockOrigin can use the combined MV2 version: 
 https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US_MV2_most_common_ad%2Btracking_networks.txt
 
-You can use one of aboce list with AdGuard's (advertising) base filter for optimal blocking, website functionality and performance baance.
+You can use one of aboce list with AdGuard's (advertising) base filter for optimal cosmetic filtering, website functionality and performance.
 
 
 

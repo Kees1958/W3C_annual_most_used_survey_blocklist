@@ -16,9 +16,6 @@
 ! I also have a SAFE PROFILE for surfing in which I have most site permissions on block with uBO Lite and JShelter 
 ! (explanation for my old friend OldSchool on MT, who I thank for promoting Brave, which is my preferred browser on Android now :-)
 
-! DuckDuckGo search (US privacy law)
-duckduckgo.com##[class^="badge-link__wrap"]
-
 ! Startpage search (EU privacy law)  
 ||startpage.com^$subdocument
 startpage.com###widget-install-legacy
@@ -31,8 +28,12 @@ startpage.com##[id*="adBlock"]
 ! Leftovers (mostly cosmetic)
 ||ster.nl^
 nos.nl###regio-onboarding
+! Leftovers Dutch websites (mostly cosmetic)
+||ster.nl^
+nos.nl###regio-onboarding
+nu.nl##.banner 
+nu.nl###h1-fixed__slot
+nu.nl##.modal-layer__shade
+nu.nl##.modal__container
 rtlnieuws.nl###dfp-wrapper-billboard1
 volkskrant.nl###top1
-parool.nl###top1
-
-

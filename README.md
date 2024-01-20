@@ -28,7 +28,10 @@ https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist
 People using AdGuard or uBlockOrigin can use the combined MV2 version: 
 https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US_MV2_most_common_ad%2Btracking_networks.txt
 
-You can combine one of above list with AdGuard's (advertising) base filter for optimal cosmetic filtering, website functionality and performance.
+You can combine one of above list with AdGuard's optimized (anti) advertising filter for optimal cosmetic filtering and performance
+(optimized means this combined AdGuard+Easlylist filter only contains domains which block rules are often triggered)  
+https://filters.adtidy.org/extension/ublock/filters/2_optimized.txt 
+
 
 
 

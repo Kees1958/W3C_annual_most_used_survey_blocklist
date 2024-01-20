@@ -11,6 +11,8 @@ while the number three (Comscore) just has a little over 2.5% marketshare. For c
 about the same advertising traffic on its own website. Number 100 on this list is probably used at 5000 websites of the Alexa 
 Top 300.000 websites, while number 250 may only track you on 500 websites of the Alexa Top 300.000. 
 
+This study performed by the Brave browser developers supports above claim: https://brave.com/the-mounting-cost-of-stale-ad-blocking-rules/
+
                                                   LOW UPDATE FREQUENCY
 Because this list focusses on the advertising and tracking networks which place the adds on the websites you visit, this list 
 is not subjective to a lot of changes. Simply because it takes a lot of time and money to build such a backbone (ad serving) 

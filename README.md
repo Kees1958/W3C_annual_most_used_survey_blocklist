@@ -12,7 +12,8 @@ about the same advertising traffic on its own website. Number 100 on this list i
 Top 300.000 websites, while number 250 may only track you on 500 websites of the Alexa Top 300.000. 
 
 This study performed by the Brave browser developers supports above claim (scroll to "EasyList Applied at the Web" section):
-https://brave.com/the-mounting-cost-of-stale-ad-blocking-rules/ ==> "FOUND THAT 201 RULES ACCOUNTED FOR 90% OF THE BLOCKING!" 
+https://brave.com/the-mounting-cost-of-stale-ad-blocking-rules/ 
+==> "WE (Brave) FOUND THAT ONLY 201 RULES ACCOUNTED FOR 90% OF THE BLOCKING ACTIVITY" 
 
                                                   LOW UPDATE FREQUENCY
 Because this list focusses on the advertising and tracking networks which place the adds on the websites you visit, this list 

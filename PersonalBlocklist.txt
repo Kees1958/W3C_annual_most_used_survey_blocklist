@@ -1,20 +1,9 @@
 [AdBlockPlus 2.0]
 !
-! Version: 2023 
+! Version: 2024 
 ! Title: Cosmetic filter left over list
-!
-! Version: 2024.01.01
 ! Expires: 365 days 
 !
-! On Windows, I use Chrome with AdGuard Mv3 in my COMPATIBLE PROFILE with below filters only:
-!
-! Most used EU  https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US_MV2_most_common_ad%2Btracking_networks.txt
-! Magnolia BPC  https://gitlab.com/magnolia1234/bypass-paywalls-clean-filters/-/raw/main/bpc-paywall-filter.txt
-! uBlock fixes  https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/quick-fixes.txt
-! Leftovers     https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/PersonalBlocklist.txt
-!
-! I also have a SAFE PROFILE for surfing in which I have most site permissions on block with uBO Lite and JShelter 
-! (explanation for my old friend OldSchool on MT, who I thank for promoting Brave, which is my preferred browser on Android now :-)
 
 ! Startpage search (EU privacy law)  
 ||startpage.com^$subdocument
@@ -25,15 +14,68 @@ startpage.com###master-2
 startpage.com###master-2
 startpage.com##[id*="adBlock"]
 
-! Leftovers (mostly cosmetic)
-||ster.nl^
+! Youtube
+youtube.com#%#//scriptlet('set-constant', 'google_ad_status', '1')
+youtube.com#%#//scriptlet('set-constant', 'ytInitialPlayerResponse.adPlacements', 'undefined')
+youtube.com#%#//scriptlet('set-constant', 'ytInitialPlayerResponse.adSlots', 'undefined')
+youtube.com#%#//scriptlet('set-constant', 'ytInitialPlayerResponse.playerAds', 'undefined')
+youtube.com#%#//scriptlet('trusted-replace-fetch-response', '/"adPlacements.*?([A-Z]"\}|"\}{2})\}\]\,/', '', 'player?key=')
+youtube.com#%#//scriptlet('trusted-replace-xhr-response', '/\"adPlacements.*?([A-Z]"\}|"\}{2})\}\]\,/', '', '/^(?!.*(\/\/tv\.youtube\.com)).*(playlist\?list=|player\?key=|watch\?v=)/')
+youtube.com#%#(function(){window.self!==window.top||document.cookie.includes("visitor=")||(document.cookie="visitor=1; path=/;",document.cookie&&location.reload())})();
+youtube.com#%#//scriptlet('trusted-click-element', 'ytd-consent-bump-v2-lightbox .eom-buttons > .ytd-consent-bump-v2-lightbox > .ytd-consent-bump-v2-lightbox button.yt-spec-button-shape-next')
+youtube.com#%#(function(){try{var time=(new Date).getTime();var cookieDate=new Date(time+1314E6);var hostname=location.host;var locSubString=null;if(!hostname.startsWith("google.")&&!hostname.startsWith("youtube."))locSubString=hostname.substring(hostname.indexOf(".")+1);var loc=locSubString||hostname;if(document.cookie.indexOf("CONSENT=YES")!==-1)return;document.cookie="CONSENT=YES+; domain="+loc+"; path=/; expires="+cookieDate.toUTCString()}catch(ex){console.error("AG: failed to set consent cookie: "+ex)}})();
+youtube.com##body > ytd-app > #content.ytd-app.style-scope > tp-yt-app-drawer#guide.ytd-app.style-scope[align="start"][role="navigation"][style^="transition-duration:"][position] + ytd-mini-guide-renderer.ytd-app.style-scope + ytd-page-manager#page-manager.ytd-app.style-scope > ytd-search.ytd-page-manager.style-scope[role="main"] > #container.ytd-search.style-scope > ytd-two-column-search-results-renderer.ytd-search.style-scope[is-search="true"] > #primary.ytd-two-column-search-results-renderer.style-scope > ytd-section-list-renderer.ytd-two-column-search-results-renderer.style-scope > #contents.ytd-section-list-renderer.style-scope > ytd-item-section-renderer.ytd-section-list-renderer.style-scope > #spinner-container.ytd-item-section-renderer.style-scope + #contents.ytd-item-section-renderer.style-scope > ytd-ad-slot-renderer.ytd-item-section-renderer.style-scope:not(:empty)
+
+! NL nieuws websites
+nos.nl###ccm_notification
+nos.nl###ccm_notification_host
 nos.nl###regio-onboarding
-! Leftovers Dutch websites (mostly cosmetic)
 ||ster.nl^
-nos.nl###regio-onboarding
+
 nu.nl##.banner 
 nu.nl###h1-fixed__slot
 nu.nl##.modal-layer__shade
 nu.nl##.modal__container
+
 rtlnieuws.nl###dfp-wrapper-billboard1
 volkskrant.nl###top1
+nrc.nl##.user-confirmation-screen__inner
+
+! DPG media
+margriet.nl,libelle.nl,flair.nl,nrc.nl,nu.nl,rtlnieuws.nl#%#//scriptlet('trusted-click-element', 'button#onetrust-accept-btn-handler')
+margriet.nl,libelle.nl,flair.nl,volkskrant.nl,nu.nl,cmp.dpgmedia.nl#%#//scriptlet('trusted-click-element', 'button[title="Akkoord"]')
+||advertising-cdn.dpgmedia.cloud^$domain=flair.nl|margriet.nl|libelle.nl|rtlnieuws.nl|nu.nl|volkskrant.nl|nrc.nl
+
+! cookielaw
+||cookielaw.org^$domain=cnn.com|rtlnieuws.nl
+
+! BBC
+bbc.com#%#//scriptlet('trusted-click-element', 'div[data-testid="placeholder-embed-container"] > div[class*="SocialConsentPlaceholder"] > p ~ button', '', '1500')
+bbc.com#%#//scriptlet('set-constant', 'dotcom.reinitAds', 'noopFunc')
+bbc.com##div[id^="piano-inline"]
+bbc.com###dotcom-leaderboard
+bbc.com##.bbccom_advert
+bbc.com##.advert--leaderboard
+bbc.com,bbc.co.uk##div[class*="leaderboard-ad"]
+bbc.com,bbc.co.uk##div[class*="-ConsentBanner"]
+bbc.com,bbc.co.uk$#body { overflow: auto !important; }
+/cookie-banner$domain=bbc.com
+||bbc.com/ngas/latest/dotcom-ads.js
+||cdn.privacy-mgmt.com^$third-party,domain=bbc.com
+
+! CNN
+cnn.com#%#//scriptlet('set-constant', 'apstag', 'undefined')
+cnn.com#%#//scriptlet('set-constant', 'Object.prototype._setAdsConfigurations', 'noopFunc')
+cnn.com#%#(()=>{window.FAVE=window.FAVE||{};const s={set:(s,e,n,a)=>{if(s?.settings?.ads?.ssai?.prod?.clips?.enabled&&(s.settings.ads.ssai.prod.clips.enabled=!1),s?.player?.instances)for(var i of Object.keys(s.player.instances))s.player.instances[i]?.configs?.ads?.ssai?.prod?.clips?.enabled&&(s.player.instances[i].configs.ads.ssai.prod.clips.enabled=!1);return Reflect.set(s,e,n,a)}};window.FAVE=new Proxy(window.FAVE,s)})();
+cnn.com#%#(function(){window.AdFuel={queueRegistry(){},destroySlots(){}}})();
+cnn.com#%#//scriptlet('prevent-addEventListener', 'oneTrustBlocked', 'browser-blocked')
+cnn.com##.ad-feedback__modal
+cnn.com##.ad-slot-header__wrapper
+cnn.com##.ad-slot-header
+cnn.com##.adSlotHeaderContainer
+cnn.com##.ad-slot
+cnn.com###ad_bnr_atf_01
+cnn.com##.ad-feedback-link-container
+cnn.com##.stack__ads
+cnn.com##.zone__ads
+cnn.com##.ad

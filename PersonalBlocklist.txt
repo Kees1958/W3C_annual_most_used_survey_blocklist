@@ -39,6 +39,7 @@ nu.nl##.modal__container
 
 rtlnieuws.nl###dfp-wrapper-billboard1
 volkskrant.nl###top1
+volkskrant.nl##div[class*="top1-container"]
 nrc.nl##.user-confirmation-screen__inner
 
 ! DPG media

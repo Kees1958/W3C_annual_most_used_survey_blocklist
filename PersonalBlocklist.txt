@@ -19,7 +19,7 @@ nos.nl###ccm_notification
 nos.nl###ccm_notification_host
 nos.nl###regio-onboarding
 ||ster.nl^
-
+/prebid.$domain=rtl.nl
 nu.nl##.banner 
 nu.nl###h1-fixed__slot
 nu.nl##.modal-layer__shade
@@ -46,18 +46,19 @@ bbc.com,bbc.co.uk$#body { overflow: auto !important; }
 ||cdn.privacy-mgmt.com^$third-party,domain=bbc.com
 
 ! CNN
-cnn.com#%#//scriptlet('set-constant', 'apstag', 'undefined')
-cnn.com#%#//scriptlet('set-constant', 'Object.prototype._setAdsConfigurations', 'noopFunc')
+cnn.com##.ad
+cnn.com##.ad-feedback__modal
+cnn.com##.ad-feedback-link-container
+cnn.com##.ad-slot
+cnn.com##.ad-slot-header
+cnn.com##.ad-slot-header__wrapper
+cnn.com##.adSlotHeaderContainer
+cnn.com##.header__wrapper-inner
+cnn.com##.header__wrapper-outer
+cnn.com##.stack__ads
+cnn.com##.zone__ads
 cnn.com#%#(()=>{window.FAVE=window.FAVE||{};const s={set:(s,e,n,a)=>{if(s?.settings?.ads?.ssai?.prod?.clips?.enabled&&(s.settings.ads.ssai.prod.clips.enabled=!1),s?.player?.instances)for(var i of Object.keys(s.player.instances))s.player.instances[i]?.configs?.ads?.ssai?.prod?.clips?.enabled&&(s.player.instances[i].configs.ads.ssai.prod.clips.enabled=!1);return Reflect.set(s,e,n,a)}};window.FAVE=new Proxy(window.FAVE,s)})();
 cnn.com#%#(function(){window.AdFuel={queueRegistry(){},destroySlots(){}}})();
 cnn.com#%#//scriptlet('prevent-addEventListener', 'oneTrustBlocked', 'browser-blocked')
-cnn.com##.ad-feedback__modal
-cnn.com##.ad-slot-header__wrapper
-cnn.com##.ad-slot-header
-cnn.com##.adSlotHeaderContainer
-cnn.com##.ad-slot
-cnn.com###ad_bnr_atf_01
-cnn.com##.ad-feedback-link-container
-cnn.com##.stack__ads
-cnn.com##.zone__ads
-cnn.com##.ad
+cnn.com#%#//scriptlet('set-constant', 'apstag', 'undefined')
+cnn.com#%#//scriptlet('set-constant', 'Object.prototype._setAdsConfigurations', 'noopFunc')

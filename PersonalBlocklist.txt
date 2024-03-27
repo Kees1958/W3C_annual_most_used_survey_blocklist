@@ -1,7 +1,7 @@
 [AdBlockPlus 2.0]
 !
 ! Version: 2024 
-! Title: Cosmetic filter left over list
+! Title: Kees1958 personal blocklist for cosmetic filter leftovers 
 ! Expires: 365 days 
 !
 
@@ -26,7 +26,6 @@ rtl.nl##div[data-adslot-variant*="halfpage"]
 rtl.nl##div[data-adslot-variant*="rectangle"]
 rtl.nl##div[data-adslot-variant*="advertorial"]
 /prebid.$domain=rtl.nl
-||cookielaw.org^$domain=rtl.nl
 
 ! NU.nl
 nu.nl##.banner 

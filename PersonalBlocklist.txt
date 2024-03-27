@@ -20,6 +20,8 @@ nos.nl###ccm_notification_host
 nos.nl###regio-onboarding
 ||ster.nl^
 /prebid.$domain=rtl.nl
+rtl.nl##div[data-adslot-variant*="billboard"]
+rtl.nl##div[data-adslot-variant*="halfpage"]
 nu.nl##.banner 
 nu.nl###h1-fixed__slot
 nu.nl##.modal-layer__shade

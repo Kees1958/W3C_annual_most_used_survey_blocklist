@@ -14,24 +14,41 @@ startpage.com###master-2
 startpage.com###master-2
 startpage.com##[id*="adBlock"]
 
-! NL nieuws websites
+! NOS.nl
 nos.nl###ccm_notification
 nos.nl###ccm_notification_host
 nos.nl###regio-onboarding
 ||ster.nl^
-/prebid.$domain=rtl.nl
+
+! RTL.nl
 rtl.nl##div[data-adslot-variant*="billboard"]
 rtl.nl##div[data-adslot-variant*="halfpage"]
+rtl.nl##div[data-adslot-variant*="rectangle"]
+rtl.nl##div[data-adslot-variant*="advertorial"]
+/prebid.$domain=rtl.nl
+||cookielaw.org^$domain=rtl.nl
+
+! NU.nl
 nu.nl##.banner 
 nu.nl###h1-fixed__slot
 nu.nl##.modal-layer__shade
 nu.nl##.modal__container
+nu.nl##+js(rc, authorized-content, div.authorized-content)
+nu.nl##article#LOGIN
+
+! Volkskrant
 volkskrant.nl###top1
 volkskrant.nl##div[class*="top1-container"]
-nrc.nl##.user-confirmation-screen__inner
+/temptation/resolve$xmlhttprequest,~third-party,domain=volkskrant.nl
+||temptation.*/temptation.js$script,~third-party,domain=volkskrant.nl
+@@||myprivacy-static.dpgmedia.net/consent.js$script,third-party
 
-! cookielaw
-||cookielaw.org^$domain=cnn.com|rtlnieuws.nl
+! NRC
+nrc.nl##.user-confirmation-screen__inner
+nrc.nl##+js(cookie-remover, counter)
+nrc.nl##div[id$="modal__overlay"],div.header__subscribe-bar,div.banner
+||nrc.nl/paywall-api/api/zephr$xmlhttprequest,~third-party
+||nrc.nl/paywall-api/api/zephr$xmlhttprequest,~third-party
 
 ! BBC
 bbc.com#%#//scriptlet('trusted-click-element', 'div[data-testid="placeholder-embed-container"] > div[class*="SocialConsentPlaceholder"] > p ~ button', '', '1500')
@@ -64,3 +81,4 @@ cnn.com#%#(function(){window.AdFuel={queueRegistry(){},destroySlots(){}}})();
 cnn.com#%#//scriptlet('prevent-addEventListener', 'oneTrustBlocked', 'browser-blocked')
 cnn.com#%#//scriptlet('set-constant', 'apstag', 'undefined')
 cnn.com#%#//scriptlet('set-constant', 'Object.prototype._setAdsConfigurations', 'noopFunc')
+||cookielaw.org^$domain=cnn.com

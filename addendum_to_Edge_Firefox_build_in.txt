@@ -5250,6 +5250,7 @@
 ||zenzuu.com^$third-party
 ||zero.kz^$third-party
 ||zeropark.com^$third-party
+||zephr.com^$third-party
 ||zesep.com^$third-party
 ||zetaemailsolutions.com^$third-party
 ||zetaglobal.com^$third-party

@@ -4,16 +4,6 @@
 ! Title: Kees1958 personal blocklist for cosmetic filter leftovers 
 ! Expires: 365 days 
 !
-
-! Startpage search (EU privacy law)  
-||startpage.com^$subdocument
-startpage.com###widget-install-legacy
-startpage.com###block-display
-startpage.com###master-a-1
-startpage.com###master-2
-startpage.com###master-2
-startpage.com##[id*="adBlock"]
-
 ! NOS.nl
 nos.nl###ccm_notification
 nos.nl###ccm_notification_host

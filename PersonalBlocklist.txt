@@ -71,3 +71,8 @@ cnn.com#%#//scriptlet('prevent-addEventListener', 'oneTrustBlocked', 'browser-bl
 cnn.com#%#//scriptlet('set-constant', 'apstag', 'undefined')
 cnn.com#%#//scriptlet('set-constant', 'Object.prototype._setAdsConfigurations', 'noopFunc')
 ||cookielaw.org^$domain=cnn.com
+
+! Ads on startpage.com
+startpage.com###master-a-1
+startpage.com###master-1
+startpage.com##.block-display

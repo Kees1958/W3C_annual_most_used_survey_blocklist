@@ -1,0 +1,44 @@
+[AdBlockPlus 2.0]
+!
+! Version: 2024 
+! Title: Kees1958 personal blocklist for cosmetic filter leftovers 
+! Expires: 365 days 
+!
+
+!
+! Experiment to use my filters with only with ABP filters enabled in AdBlockPlus
+! (the buikd-in ABP filter contains complex rules, so I need less custom rules)
+!
+
+! cosmetic enhancements for news websites
+nu.nl##.banner__slot
+nu.nl##.banner.banner--h1.h1
+nu.nl##.banner.banner--h1.banner--hide-single-column.h1
+nu.nl###h1-fixed__slot
+volkskrant.nl##.ad--top.fjs-hide-on-paywall
+volkskrant.nl###top1
+nrc.nl##.header__buttons
+||temptation.*/temptation.js$script,~third-party,domain=volkskrant.nl
+||nrc.nl/paywall-api/api/zephr$xmlhttprequest,~third-party||nrc.nl/paywall-api/api/zephr$xmlhttprequest,~third-party
+||nrc.nl/paywall-api/api/zephr$xmlhttprequest,~third-party
+@@||myprivacy-static.dpgmedia.net/consent.js$script,third-party
+/temptation/resolve$xmlhttprequest,~third-party,domain=volkskrant.nl|flair.nl|libelle.nl|margriet.nl
+edition.cnn.com##.ad-slot-header__wrapper
+edition.cnn.com##.ad-slot-header
+
+! hide startpage ads
+startpage.com##.block-display
+startpage.com###master-a-1
+startpage.com###master-1
+startpage.com###gcsa-top
+
+! hide Youtube chat
+youtube.com###chat
+||youtube.com/live_chat
+
+
+
+
+
+
+

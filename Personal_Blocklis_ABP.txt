@@ -11,6 +11,7 @@
 !
 
 ! cosmetic enhancements for news websites
+rtl.nl##.css-1tpumuz
 nu.nl##.banner__slot
 nu.nl##.banner.banner--h1.h1
 nu.nl##.banner.banner--h1.banner--hide-single-column.h1

@@ -7,7 +7,7 @@
 
 !
 ! Experiment to use my filters with only with ABP filters enabled in AdBlockPlus
-! (the buikd-in ABP filter contains complex rules, so I need less custom rules)
+! (the build-in ABP filter contains complex rules, so I need less custom rules)
 !
 
 ! cosmetic enhancements for news websites

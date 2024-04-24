@@ -7,7 +7,7 @@
 
 !
 ! Experiment to use my filters with only with ABP filters enabled in AdBlockPlus
-! (the build-in ABP filter contains complex rules, so I need less custom rules)
+! (the build-in ABP filter contains complex rules, so I need less custom rules :-)
 !
 
 ! cosmetic enhancements for news websites
@@ -24,6 +24,7 @@ nrc.nl##.header__buttons
 ||nrc.nl/paywall-api/api/zephr$xmlhttprequest,~third-party
 @@||myprivacy-static.dpgmedia.net/consent.js$script,third-party
 /temptation/resolve$xmlhttprequest,~third-party,domain=volkskrant.nl|flair.nl|libelle.nl|margriet.nl
+bbc.com###dotcom-leaderboard
 edition.cnn.com##.ad-slot-header__wrapper
 edition.cnn.com##.ad-slot-header
 

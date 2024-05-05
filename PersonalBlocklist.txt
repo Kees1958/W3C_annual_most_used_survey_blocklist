@@ -24,6 +24,7 @@ nu.nl##.modal-layer__shade
 nu.nl##.modal__container
 nu.nl##+js(rc, authorized-content, div.authorized-content)
 nu.nl##article#LOGIN
+||advertising-cdn.dpgmedia.cloud^
 
 ! Volkskrant
 volkskrant.nl###top1
@@ -72,8 +73,3 @@ cnn.com#%#//scriptlet('set-constant', 'apstag', 'undefined')
 cnn.com#%#//scriptlet('set-constant', 'Object.prototype._setAdsConfigurations', 'noopFunc')
 ||cookielaw.org^$domain=cnn.com
 
-! Ads on startpage.com
-startpage.com###master-a-1
-startpage.com###master-1
-startpage.com##.block-display
-startpage.com###gcsa-top

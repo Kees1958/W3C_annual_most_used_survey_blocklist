@@ -51,10 +51,29 @@ nrc.nl##div[id$="modal__overlay"],div.header__subscribe-bar,div.banner
 
 ! BBC
 bbc.com###dotcom-leaderboard
+bbc.com##div[id^="piano-inline"]
+bbc.com###dotcom-leaderboard
+bbc.com##.bbccom_advert
+bbc.com##.advert--leaderboard
+bbc.com,bbc.co.uk##div[class*="leaderboard-ad"]
+bbc.com,bbc.co.uk##div[class*="-ConsentBanner"]
+/cookie-banner$domain=bbc.com
+||bbc.com/ngas/latest/dotcom-ads.js
+||cdn.privacy-mgmt.com^$third-party,domain=bbc.com
 
 ! CNN
-edition.cnn.com##.ad-slot-header__wrapper
-edition.cnn.com##.ad-slot-header
+cnn.com##.ad
+cnn.com##.ad-feedback__modal
+cnn.com##.ad-feedback-link-container
+cnn.com##.ad-slot
+cnn.com##.ad-slot-header
+cnn.com##.ad-slot-header__wrapper
+cnn.com##.adSlotHeaderContainer
+cnn.com##.header__wrapper-inner
+cnn.com##.header__wrapper-outer
+cnn.com##.stack__ads
+cnn.com##.zone__ads
+||cookielaw.org^$domain=cnn.com
 
 ! hide Youtube chat
 youtube.com###chat

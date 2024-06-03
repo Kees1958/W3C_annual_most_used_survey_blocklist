@@ -2573,7 +2573,7 @@
 ||yandex.ru^$third-party,domain=~yandex.com
 
 !
-! Social medua
+! Social media
 ! 
 ||ads.youtube.com^
 ||facebook.com^$third-party,domain=~instagram.com|~whatsapp.com

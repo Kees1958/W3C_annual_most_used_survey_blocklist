@@ -14,6 +14,6 @@
 ! Block advertising and tracking networks
 !
 ! Per januari 2024 this combines my other most used lists 
-#include EU_US_MV3_most_common_ad+tracking_networks.txt
-#include addendum_to_Edge_Firefox_build_in.txt
-#include URL_tracking_parameters.txt
+!#include EU_US_MV3_most_common_ad+tracking_networks.txt
+!#include addendum_to_Edge_Firefox_build_in.txt
+!#include URL_tracking_parameters.txt

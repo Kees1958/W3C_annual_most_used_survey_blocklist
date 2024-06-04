@@ -5169,9 +5169,7 @@
 ||xy7elite.com^$third-party
 ||xyztraffic.com^$third-party
 ||yabuka.com^$third-party
-||yahoo.*^$third-party
 ||yamanoha.com^$third-party
-||yandex.*^$third-party
 ||yandexadexchange.net^$third-party
 ||yastatic.net^$third-party
 ||yaudience.com^$third-party

@@ -23,14 +23,14 @@ use new software which makes them reluctant to change to a different advertising
 
                                                       ADVICED USAGE  
 
-For people using AdGuard MV3 experimental, I have the MV3 version: 
+The initial limitation for Manifest V3 (Mv3) was 5000 dynamic rules. AdGuard Mv3 therefore only allows importing other filters up to a maximum of 5000. This is why I have an MV3 version with less than 3000 rules: 
 https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US_MV3_most_common_ad%2Btracking_networks.txt
 
 People using Firefox or Edge build-in tracking protection can use:
 https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/addendum_to_Edge_Firefox_build_in.txt
 
-People using AdGuard or uBlockOrigin can use the combined MV2 version: 
-https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US_MV2_most_common_ad%2Btracking_networks.txt
+For people using AdGuard (current Mv2 stable) or uBlockOrigin can use the combined version of Mv3 and the addendum filter, which I calle the MV2 version: 
+https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US_MV2_most_common_ad%2Btracking_networks.txt. Google announced more genereous filter limitations. When this is implemented in AdGuard (and AdBlockPlus) it is better to use both the Mv2 and Addendum filters.
 
 You can combine one of above list with AdGuard's optimized (anti) advertising filter for optimal cosmetic filtering and performance
 (optimized means this combined AdGuard+Easlylist filter only contains domains which block rules are often triggered)  

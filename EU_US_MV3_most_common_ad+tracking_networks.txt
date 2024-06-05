@@ -2568,7 +2568,7 @@
 ||adtech.yahooinc.com^$third-party
 ||log.*.yahoo.com^$third-party
 !
-! Social medua
+! Social media
 ! 
 ||ads.youtube.com^
 ||facebook.com^$third-party,domain=~instagram.com|~whatsapp.com

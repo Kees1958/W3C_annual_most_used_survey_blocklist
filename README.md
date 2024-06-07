@@ -29,7 +29,7 @@ https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist
 People using Firefox or Edge build-in tracking protection can use:
 https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/addendum_to_Edge_Firefox_build_in.txt
 
-For people using AdGuard (current Mv2 stable) or uBlockOrigin can use the combined version of Mv3 and the addendum filter, which I calle the MV2 version: 
+For people using AdGuard (current Mv2 stable) or uBlockOrigin can use the combined version of Mv3 and the addendum filter, which I calle the MV2 version: People using AdBlockPlus better yse both Mv3 and the Addendum filters, because ABP does not (yet) support param opton originally introduced by AG and adopted by UbO.
 https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US_MV2_most_common_ad%2Btracking_networks.txt. Google announced more genereous filter limitations. When this is implemented in AdGuard (and AdBlockPlus) it is better to use both the Mv2 and Addendum filters.
 
 You can combine one of above list with AdGuard's optimized (anti) advertising filter for optimal cosmetic filtering and performance

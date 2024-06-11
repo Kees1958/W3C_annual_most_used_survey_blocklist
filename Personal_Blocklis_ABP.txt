@@ -69,8 +69,6 @@ cnn.com##.ad-slot
 cnn.com##.ad-slot-header
 cnn.com##.ad-slot-header__wrapper
 cnn.com##.adSlotHeaderContainer
-cnn.com##.header__wrapper-inner
-cnn.com##.header__wrapper-outer
 cnn.com##.stack__ads
 cnn.com##.zone__ads
 ||cookielaw.org^$domain=cnn.com

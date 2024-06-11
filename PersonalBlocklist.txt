@@ -41,15 +41,13 @@ nrc.nl##div[id$="modal__overlay"],div.header__subscribe-bar,div.banner
 ||nrc.nl/paywall-api/api/zephr$xmlhttprequest,~third-party
 
 ! BBC
-bbc.com#%#//scriptlet('trusted-click-element', 'div[data-testid="placeholder-embed-container"] > div[class*="SocialConsentPlaceholder"] > p ~ button', '', '1500')
-bbc.com#%#//scriptlet('set-constant', 'dotcom.reinitAds', 'noopFunc')
+bbc.com###dotcom-leaderboard
 bbc.com##div[id^="piano-inline"]
 bbc.com###dotcom-leaderboard
 bbc.com##.bbccom_advert
 bbc.com##.advert--leaderboard
 bbc.com,bbc.co.uk##div[class*="leaderboard-ad"]
 bbc.com,bbc.co.uk##div[class*="-ConsentBanner"]
-bbc.com,bbc.co.uk$#body { overflow: auto !important; }
 /cookie-banner$domain=bbc.com
 ||bbc.com/ngas/latest/dotcom-ads.js
 ||cdn.privacy-mgmt.com^$third-party,domain=bbc.com
@@ -66,10 +64,4 @@ cnn.com##.header__wrapper-inner
 cnn.com##.header__wrapper-outer
 cnn.com##.stack__ads
 cnn.com##.zone__ads
-cnn.com#%#(()=>{window.FAVE=window.FAVE||{};const s={set:(s,e,n,a)=>{if(s?.settings?.ads?.ssai?.prod?.clips?.enabled&&(s.settings.ads.ssai.prod.clips.enabled=!1),s?.player?.instances)for(var i of Object.keys(s.player.instances))s.player.instances[i]?.configs?.ads?.ssai?.prod?.clips?.enabled&&(s.player.instances[i].configs.ads.ssai.prod.clips.enabled=!1);return Reflect.set(s,e,n,a)}};window.FAVE=new Proxy(window.FAVE,s)})();
-cnn.com#%#(function(){window.AdFuel={queueRegistry(){},destroySlots(){}}})();
-cnn.com#%#//scriptlet('prevent-addEventListener', 'oneTrustBlocked', 'browser-blocked')
-cnn.com#%#//scriptlet('set-constant', 'apstag', 'undefined')
-cnn.com#%#//scriptlet('set-constant', 'Object.prototype._setAdsConfigurations', 'noopFunc')
 ||cookielaw.org^$domain=cnn.com
-

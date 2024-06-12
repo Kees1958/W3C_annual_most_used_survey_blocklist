@@ -1,3 +1,6 @@
+                                                          NOTICE
+I am moving away from AdGuaard. Its HQ in Nicosia is only a postbox office, like Kaspersky's holding company is in London.  
+Filter lists which are impacted by this decision are: Youtube_AG_rules and PersonalBlocklist. I will remove those lists end of July.
 
                                                           SOURCES
 This blocklist is based on surveys of most used advertising and tracking technology (e.g. surveys of W3C, W3Tech and the
@@ -20,21 +23,6 @@ Because this list focusses on the advertising and tracking networks which place 
 is not subjective to a lot of changes. Simply because it takes a lot of time and money to build such a backbone (ad serving) 
 network. Also the digital marketeers using these networks are a constraining factor, because most don't like to learn how to
 use new software which makes them reluctant to change to a different advertising platform when the business advantage is marginal.
-
-                                                      ADVICED USAGE  
-
-The initial limitation for Manifest V3 (Mv3) was 5000 dynamic rules. AdGuard Mv3 therefore only allows importing other filters up to a maximum of 5000. This is why I have an MV3 version with less than 3000 rules: 
-https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US_MV3_most_common_ad%2Btracking_networks.txt
-
-People using Firefox or Edge build-in tracking protection can use:
-https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/addendum_to_Edge_Firefox_build_in.txt
-
-For people using AdGuard (current Mv2 stable) or uBlockOrigin can use the combined version of Mv3 and the addendum filter, which I called the MV2 version: People using AdBlockPlus better yse both Mv3 and the Addendum filters, because ABP does not (yet) support param opton originally introduced by AG and adopted by UbO.
-https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US_MV2_most_common_ad%2Btracking_networks.txt. Google announced more genereous filter limitations. When this is implemented in AdGuard (and AdBlockPlus) it is better to use both the Mv2 and Addendum filters.
-
-You can combine one of above list with AdGuard's optimized (anti) advertising filter for optimal cosmetic filtering and performance
-(optimized means this combined AdGuard+Easlylist filter only contains domains which block rules are often triggered)  
-https://filters.adtidy.org/extension/ublock/filters/2_optimized.txt 
 
 
 

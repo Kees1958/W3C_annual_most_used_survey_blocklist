@@ -1,5 +1,5 @@
                                                           NOTICE
-I am moving away from AdGuard. Its HQ in Nicosia is only a postbox office, like Kaspersky's holding company is in London.  
+I am moving away from AdGuard. Its HQ in Nicosia is only a 'legal' office, like Kaspersky's holding company is in London.  
 Filter lists which are impacted by this decision are: Youtube_AG_rules and PersonalBlocklist. I will remove those lists end of July.
 
                                                           SOURCES

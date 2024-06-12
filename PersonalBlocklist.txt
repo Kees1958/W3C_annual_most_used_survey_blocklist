@@ -4,6 +4,8 @@
 ! Title: Kees1958 personal blocklist for cosmetic filter leftovers 
 ! Expires: 365 days 
 !
+! Important notice: this list will be removed end of July 2024, use Personal_Blocklist_ABP instead
+!
 ! NOS.nl
 nos.nl###ccm_notification
 nos.nl###ccm_notification_host

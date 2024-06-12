@@ -5,6 +5,8 @@
 !
 ! Expires: 365 days 
 ! You are free to copy and distribute this file, but use at your own risk
+!
+! Important notice: this list will be removed end of July 2024
 ! 
 ! This blocklist is an extract of AdGuard filter rules for youtube (april 2024), credits to the AdGuard team
 ! https://github.com/AdguardTeam/AdguardFilters

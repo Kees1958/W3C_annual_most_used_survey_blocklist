@@ -1,5 +1,5 @@
                                                           NOTICE
-I am moving away from AdGuard. here is no security or privacy related motivation for this move. Filter lists which are 
+I am moving away from AdGuard. There is no security or privacy related motivation for this move. Filter lists which are 
 impacted by this decision are: Youtube_AG_rules and PersonalBlocklist. I will remove those lists end of July. 
 
                                                           SOURCES

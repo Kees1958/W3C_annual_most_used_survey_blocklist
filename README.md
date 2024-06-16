@@ -2,6 +2,8 @@
 I am moving away from AdGuard. There is no security or privacy related motivation for this move. Filter lists which are 
 impacted by this decision are: Youtube_AG_rules and PersonalBlocklist. I will remove those lists end of July. 
 
+Host file format available at https://github.com/mikynov/kees1958-most-used-ad-hosts thabks to Mikynov
+
                                                           SOURCES
 This blocklist is based on surveys of most used advertising and tracking technology (e.g. surveys of W3C, W3Tech and the
 digital marketing community itself). The online advertising industry likes to keep lists of top performing companies in

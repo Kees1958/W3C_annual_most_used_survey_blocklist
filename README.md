@@ -1,7 +1,7 @@
                                                           NOTICE
 I am moving away from AdGuard. There is no security or privacy related motivation for this move. Filter lists which are 
 impacted by this decision are: Youtube_AG_rules and PersonalBlocklist. I will remove those lists end of July. I ahave
-created a Personal_Blocklist_ABP (using only ABP) which should work in uB), AG and ABP/
+created a Personal_Blocklist_ABP (using only ABP) which should work in uB), AG and ABP.
 
 Host file format available at https://github.com/mikynov/kees1958-most-used-ad-hosts thanks to Mikynov
 

@@ -3,7 +3,7 @@ I am moving away from AdGuard. There is no security or privacy related motivatio
 impacted by this decision are: Youtube_AG_rules and PersonalBlocklist. I will remove those lists end of July. I have
 created a Personal_Blocklist_ABP (using only simple ABP rules) which should work in uBO, AG and ABP.
 
-Google's Manifest Mv3 now allows for 15.000 dynmaic filter rules. This is the reason why I am experimenting with a 
+Google's Manifest Mv3 now allows for 15.000 dynamic filter rules. This is the reason why I am experimenting with a 
 "World's most used" version (currently < 10.000 rules). End of July I wll only maintain a World's most used version.
 Filterlist impacted are "Mv2, Mv3 and Addendum". 
 

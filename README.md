@@ -5,7 +5,7 @@ created a Personal_Blocklist_ABP (using only simple ABP rules) which should work
 
 Google's Manifest Mv3 now allows for 15.000 dynmaic filter rules. This is the reason why I am experimenting with a 
 "World's most used" version (currently < 10.000 rules). End of July I wll only maintain an "EU's most used" and
-the a "World's most used". Filterlist impacted will "Mv2, Mv3 and Addendum". Depending on your region and surfing
+the "World's most used". Filterlist impacted will "Mv2, Mv3 and Addendum". Depending on your region and surfing
 behavior people should switch to the EU or World version.  
 
 Host file format available at https://github.com/mikynov/kees1958-most-used-ad-hosts thanks to Mikynov

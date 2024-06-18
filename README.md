@@ -4,9 +4,8 @@ impacted by this decision are: Youtube_AG_rules and PersonalBlocklist. I will re
 created a Personal_Blocklist_ABP (using only simple ABP rules) which should work in uBO, AG and ABP.
 
 Google's Manifest Mv3 now allows for 15.000 dynmaic filter rules. This is the reason why I am experimenting with a 
-"World's most used" version (currently < 10.000 rules). End of July I wll only maintain an "EU's most used" and
-the "World's most used". Filterlist impacted are "Mv2, Mv3 and Addendum". Depending on your region and surfing
-behavior you can switch to the EU or World version.  
+"World's most used" version (currently < 10.000 rules). End of July I wll only maintain a World's most used version.
+Filterlist impacted are "Mv2, Mv3 and Addendum". 
 
 Host file format available at https://github.com/mikynov/kees1958-most-used-ad-hosts thanks to Mikynov
 

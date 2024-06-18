@@ -3,10 +3,15 @@ I am moving away from AdGuard. There is no security or privacy related motivatio
 impacted by this decision are: Youtube_AG_rules and PersonalBlocklist. I will remove those lists end of July. I have
 created a Personal_Blocklist_ABP (using only simple ABP rules) which should work in uBO, AG and ABP.
 
+Google's Manifest Mv3 now allows for 15.000 dynmaic filter rules. Thia is the reason why I am experimenting with a 
+"World's most used" version (currently < 10.000 rules). End of July I wll only maintain an "EU's most used" and
+the a "World's most used". Filterlist impacted will "Mv2, Mv3 and Addendum". Depending on your region and surfing
+behavior people should switch to the EU or World version.  
+
 Host file format available at https://github.com/mikynov/kees1958-most-used-ad-hosts thanks to Mikynov
 
                                                           SOURCES
-This blocklist is based on surveys of most used advertising and tracking technology (e.g. surveys of W3C, W3Tech and the
+The blocklists are based on surveys of most used advertising and tracking technology (e.g. surveys of W3C, W3Tech and the
 digital marketing community itself). The online advertising industry likes to keep lists of top performing companies in
 the ad supply chain (including advertising exchange platforms). The list and surveys monitored are oriented on Europe and 
 North America, this is the reason this blocklist contains mostly EU and US based advertising and tracking networks. 

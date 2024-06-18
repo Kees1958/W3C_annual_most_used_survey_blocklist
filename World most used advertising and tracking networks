@@ -1292,11 +1292,10 @@
 ||appsflyer.com^$third-party
 ||appsnack.com^$third-party
 ||appssavvy.com^$third-party
-||apptentive.com$redirect=nooptext
-||apptentive.com^$third-party$redirect=nooptext
+||apptentive.com$third-party
+||apptentive.com^$third-party
 ||apptera.com^$third-party
-||apptimize.com$redirect=nooptext
-||apptimize.com^$third-party$redirect=nooptext
+||apptimize.com$third-party
 ||apptv.com^$third-party
 ||appular.com^$third-party
 ||app-us1.com^$third-party
@@ -1336,7 +1335,6 @@
 ||artefact.com^$third-party
 ||artefact.is^$third-party
 ||artfut.com^$third-party
-||artfut.com^$third-party$redirect=nooptext,important
 ||artofclick.com^$third-party
 ||artsai.com^$third-party
 ||ar-x.site^$third-party
@@ -2725,8 +2723,7 @@
 ||datalicious.com^$third-party
 ||datam.com^$third-party
 ||datamaster.com.cn^$third-party
-||datametrical.com$redirect=nooptext
-||datametrical.com^$third-party$redirect=nooptext
+||datametrical.com^$third-party
 ||dataperforma.com^$third-party
 ||dataplusmath.com^$third-party
 ||datarating.com^$third-party

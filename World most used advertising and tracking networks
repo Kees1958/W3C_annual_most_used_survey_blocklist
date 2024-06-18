@@ -247,8 +247,6 @@
 ||actnx.com^$third-party
 ||act-on.com^$third-party
 ||actonservice.com^$third-party
-||actonsoftware.com^$third-party
-||actonsoftware.com^$third-party$domain=~actonsoftware.com
 ||actualdeals.com^$third-party
 ||acuity.com^$third-party
 ||acuityads.com^$third-party
@@ -572,8 +570,6 @@
 ||adnz.co^$third-party
 ||adobe.com^$third-party
 ||adobedc.net^$third-party
-||adobedtm.com^$third-party
-||adobedtm.com^$third-party,domain=~adobe.com
 ||adobetag.com^$third-party
 ||adobetarget.com^$third-party
 ||adocean.pl^$third-party
@@ -4206,7 +4202,6 @@
 ||i.clean.gg^$third-party
 ||i.compendium.com^$third-party
 ||i.moshimo.com^$third-party
-||i.snssdk.com^$third-party$domain=~i.snssdk.com
 ||i.tct-rom.com^$third-party
 ||i.ua^$third-party
 ||i.viafoura.co^$third-party
@@ -4706,7 +4701,6 @@
 ||kayak.com^$third-party
 ||kcdwa.com^$third-party
 ||kdmttk.com^$third-party
-||keen.io^$third-party,domain=~keen.github.io|~keen.io
 ||keewurd.com^$third-party
 ||kelkoo.fr^$third-party
 ||kenshoo.com^$third-party
@@ -8277,7 +8271,6 @@
 ||textads.biz^$third-party
 ||text-link-ads.com^$third-party
 ||textlinks.com^$third-party
-||tf1.fr^$third-party,domain=~tf1info.fr
 ||tfag.de^$third-party
 ||tfosrv.com^$third-party
 ||tg1.premiumimpression.com^$third-party

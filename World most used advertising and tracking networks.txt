@@ -3978,7 +3978,6 @@
 ||guoshipartners.com^$third-party
 ||guppymedia.com^$third-party
 ||gvisit.com^$third-party
-||gwallet.com^$third-party
 ||gw-ec.com^$third-party
 ||gweini.com^$third-party
 ||gwmtracking.com^$third-party
@@ -4517,7 +4516,6 @@
 ||ipify.org^$third-party
 ||ipinfo.info^$third-party
 ||ipinfodb.com^$third-party
-||ipinyou.com.cn^$third-party
 ||ipinyou.com^$third-party
 ||ip-label.net^$third-party
 ||iplis.ru^$third-party
@@ -9665,10 +9663,8 @@
 ||zoomanalytics.co^$third-party
 ||zoomflow.com^$third-party
 ||zoominfo.com^$third-party
-||zoomino.com^$third-party
 ||zoosnet.net^$third-party
 ||zoossoft.net^$third-party
-||zorosrv.com$third-party
 ||zorosrv.com^$third-party
 ||zowary.com^$third-party
 ||zprk.io^$third-party

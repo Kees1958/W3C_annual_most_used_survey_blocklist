@@ -4119,7 +4119,6 @@
 ||hockeystack.com^$third-party
 ||hollandbusinessadvertising.nl^$third-party
 ||holmesmind.com^$third-party
-||home.neustar^$third-party
 ||homepageking.de^$third-party
 ||hooklogic.com^$third-party
 ||hoood.info^$third-party
@@ -4918,8 +4917,6 @@
 ||link-booster.de^$third-party
 ||linkbuddies.com^$third-party
 ||linkconnector.com^$third-party
-||linkedin.com/csp/bngsync^$third-party
-||linkedin.com^$third-party
 ||link-empfehlen24.de^$third-party
 ||linkexchange.com^$third-party
 ||linkexchange.ru^$third-party

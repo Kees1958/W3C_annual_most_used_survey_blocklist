@@ -8322,7 +8322,6 @@
 ||tidaltv.com^$third-party
 ||tieszhu.com^$third-party
 ||tikstok.fun^$third-party
-||tiktok.com^$third-party
 ||tiktokcdn-us.com^$third-party
 ||tiktokv.com^$third-party
 ||timeone.io^$third-party

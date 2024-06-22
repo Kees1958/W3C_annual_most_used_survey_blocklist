@@ -1689,7 +1689,6 @@
 ||directrdr.com^$third-party
 ||directtrack.com^$third-party
 ||direct-xxx-access.com^$third-party
-||discord.com^$third-party
 ||discountclick.com^$third-party
 ||discover-path.com^$third-party
 ||discovertrail.net^$third-party

@@ -1041,7 +1041,6 @@
 ||alfasense.com^$third-party
 ||alfasense.net^$third-party
 ||aliapp.org^$third-party
-||alibaba.com^$third-party
 ||alion.nl^$third-party
 ||alipay.com^$third-party
 ||alkemics.com^$third-party
@@ -2864,9 +2863,6 @@
 ||directrix.ru^$third-party
 ||directtrack.com^$third-party
 ||direct-xxx-access.com^$third-party
-||discord.com^$third-party
-||discordapp.com^$third-party
-||discordapp.net^$third-party
 ||discountclick.com^$third-party
 ||discover-path.com^$third-party
 ||discovertrail.net^$third-party
@@ -2875,7 +2871,6 @@
 ||displayadsmedia.com^$third-party
 ||displaymarketplace.com^$third-party
 ||displaypagerank.com^$third-party
-||disqus.com^$third-party
 ||disqusads.com^$third-party
 ||distillery.wistia.com^$third-party
 ||distiltag.com^$third-party
@@ -3864,7 +3859,6 @@
 ||gobid.auction^$third-party
 ||gocampaignlive.com^$third-party
 ||go-clicks.de^$third-party
-||godaddy.com^$third-party
 ||godatafeed.com^$third-party
 ||godhat.com^$third-party
 ||godpvqnszo.com^$third-party
@@ -6358,7 +6352,6 @@
 ||pingmeter.com^$third-party
 ||pingomatic.com^$third-party
 ||pinpoll.com^$third-party
-||pinterest.com^$third-party
 ||pipedream.wistia.com^$third-party
 ||pipfire.com^$third-party
 ||pippio.com^$third-party

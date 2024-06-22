@@ -8778,7 +8778,6 @@
 ||twinrdsrv.com^$third-party
 ||twinrdsyte.com^$third-party
 ||twittad.com^$third-party
-||twitter.com^$third-party
 ||twopointo.io^$third-party
 ||twrencesprin.info^$third-party
 ||twyn.com^$third-party

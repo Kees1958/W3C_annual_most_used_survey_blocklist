@@ -1369,7 +1369,6 @@
 ||atoomic.com^$third-party
 ||atp.fox^$third-party
 ||atp.io^$third-party
-||atrack.avplayer.com^$third-party
 ||atraxio.com^$third-party
 ||atrinsic.com^$third-party
 ||atsfi.de^$third-party
@@ -1442,7 +1441,6 @@
 ||avmws.com^$third-party
 ||avo.app^$third-party
 ||avocet.io^$third-party
-||avplayer.com^$third-party
 ||avres.net^$third-party
 ||avsads.com^$third-party
 ||avsadvertising.com^$third-party
@@ -1652,7 +1650,6 @@
 ||bidswitch.com^$third-party
 ||bidswitch.net^$third-party
 ||bidsxchange.com^$third-party
-||bidsxplayer.com^$third-party
 ||bidsystem.com^$third-party
 ||bid-tag.com^$third-party
 ||bidtellect.com^$third-party
@@ -3505,7 +3502,6 @@
 ||flixtrial.com^$third-party
 ||flocktory.com^$third-party
 ||flowgo.com^$third-party
-||flowplayer.com^$third-party
 ||flowtype.press^$third-party
 ||fluctuo.com^$third-party
 ||fluencymedia.com^$third-party
@@ -6410,8 +6406,6 @@
 ||play4traffic.com^$third-party
 ||playbuy.agency^$third-party
 ||playdigo.com^$third-party
-||player.bilibili.com^$third-party
-||player.captivate.fm^$third-party
 ||playground.xyz^$third-party
 ||playhaven.com^$third-party
 ||playstream.media^$third-party
@@ -8714,7 +8708,6 @@
 ||trustedsite.com^$third-party
 ||trustwave.com^$third-party
 ||trustx.org^$third-party
-||truvidplayer.com^$third-party
 ||trv.upperbooking.com^$third-party
 ||trvdp.com^$third-party
 ||trvl-px.com^$third-party

@@ -4652,7 +4652,6 @@
 ||justwatch.com^$third-party
 ||justwebads.com^$third-party
 ||jwmstats.com^$third-party
-||jwpltx.com^$third-party
 ||jysk.ee^$third-party
 ||k3node.com^$third-party
 ||k50.ru^$third-party

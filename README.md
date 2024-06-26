@@ -1,7 +1,6 @@
                                                           NOTICE
 Google's Manifest Mv3 now allows for 15.000 dynamic filter rules. This is the reason why I am experimenting with a 
-"World's most used" version (currently < 10.000 rules). End of July I wll only maintain a World's most used version.
-Filterlist impacted are "Mv2, Mv3 and Addendum". 
+"World's most used" version (currently < 10.000 rules). End of July I wll delete Mv2 and "addendum to Edge/Firefox".
 
 Host file format available at https://github.com/mikynov/kees1958-most-used-ad-hosts thanks to Mikynov
 

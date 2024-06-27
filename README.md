@@ -27,7 +27,7 @@ network. Also the digital marketeers using these networks are a constraining fac
 use new software which makes them reluctant to change to a different advertising platform when the business advantage is marginal.
 
                                                   SUGGESTED USAGE
-Best dafe for work combo is "Most Used EU+US MV3" + "URL tracking param". Best Ad-free private surfing experience is to combine
+Best safe for work combo is "Most Used EU+US MV3" + "URL tracking param". Best Ad-free private surfing experience is to combine
 the new "World most used" with AdGuard base and Easylist optimized plus AG URL param abnd your language filter (AdGuard local
 language filters are better than EL local language filters). 
 

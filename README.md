@@ -28,7 +28,8 @@ use new software which makes them reluctant to change to a different advertising
 
                                                   SUGGESTED USAGE
 Nest dafe for work combo is "Most Used EU+US MV3" + "URL tracking param". Best Ad-free private surfing experience is to combine
-the new "World most used" with AdGuard base and Easylist optimized plus AG URL param abnd your language filter (AG or EL).
+the new "World most used" with AdGuard base and Easylist optimized plus AG URL param abnd your language filter (AdGuard local
+language filters are better than EL local language filters). 
 
                                                       ERRORS & ISSUES
 Please report site breakage on github by creating an issue. https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues. 

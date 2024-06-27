@@ -32,7 +32,8 @@ because EasyList filters broke web functionality on my work laptop). Best Ad-fre
 the new "World most used" with AdGuard base and Easylist optimized plus AG URL param abnd your language filter (AdGuard local
 language filters are better than EL local language filters). When you are only using one browser profile it is worth learning
 how to use two profiles (for instance one for working, banking and buying and obe for private surfing). On chromium browser it
-is very easy to harden the surfing profile by setting 80% of the site permissions on block (making that profile much safer).
+is very easy to harden the surfing profile by setting 80% of the site permissions on block (making that profile much safer). 
+Most Chromium browsers allow you to use a different extensions and security settings also,
 
                                                       ERRORS & ISSUES
 Please report site breakage on github by creating an issue. https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues. 

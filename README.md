@@ -31,7 +31,7 @@ Best safe for work combo is "Most Used EU+US MV3" + "URL tracking param" (the re
 because EasyList filters broke web functionality on my work laptop). Best Ad-free private surfing experience is to combine
 the new "World most used" with AdGuard base and Easylist optimized plus AG URL param and your language filter (AdGuard local
 language filters are better than EL local language filters). When you are only using one browser profile it is worth learning
-how to use two profiles (for instance one for working, banking and buying and obe for private surfing). On chromium browser it
+how to use two profiles (for instance one for working, banking and buying and one for private surfing). On chromium browser it
 is very easy to harden the surfing profile by setting 80% of the site permissions on block (making that profile much safer). 
 Most Chromium browsers allow you to use a different extensions and security settings also,
 

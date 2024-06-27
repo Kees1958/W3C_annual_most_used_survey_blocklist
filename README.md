@@ -26,7 +26,7 @@ is not subjective to a lot of changes. Simply because it takes a lot of time and
 network. Also the digital marketeers using these networks are a constraining factor, because most don't like to learn how to
 use new software which makes them reluctant to change to a different advertising platform when the business advantage is marginal.
 
-                                                  SUGGESTED USAGE
+                                                      SUGGESTED USAGE
 Best safe for work combo is "Most Used EU+US MV3" + "URL tracking param" (the reason I started with this most used filter was
 because EasyList filters broke web functionality on my work laptop). Best Ad-free private surfing experience is to combine
 the new "World most used" with AdGuard base and Easylist optimized plus AG URL param and your language filter (AdGuard local

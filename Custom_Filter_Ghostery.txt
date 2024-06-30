@@ -18,6 +18,6 @@ volkskrant.nl##.ad--top.fjs-hide-on-paywall
 
 ||nrc.nl/paywall-api/api/zephr$xmlhttprequest,~third-party
 
-||aa.tweakers.nl^$domain=tweakers.net
-||ab.tweakers.nl^$domain=tweakers.net
-tweakers.net##div[id="bilBoard"]
+||aa.tweakers.nl^
+||ab.tweakers.nl^
+

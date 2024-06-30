@@ -48,6 +48,11 @@ nrc.nl##.user-confirmation-screen__inner
 nrc.nl##div[id$="modal__overlay"],div.header__subscribe-bar,div.banner
 ||nrc.nl/paywall-api/api/zephr$xmlhttprequest,~third-party
 ||nrc.nl/paywall-api/api/zephr$xmlhttprequest,~third-party
+||content2.nrc.nl^
+
+!Tweakers.net
+||aa.tweakers.nl^
+||ab.tweakers.nl^
 
 ! BBC
 bbc.com###dotcom-leaderboard

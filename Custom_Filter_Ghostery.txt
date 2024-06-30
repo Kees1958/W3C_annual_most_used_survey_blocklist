@@ -11,10 +11,11 @@ nu.nl##.banner
 
 rtl.nl##div[data-adslot-variant]
 
-/temptation/resolve$xmlhttprequest,~third-party,domain=demorgen.be|flair.nl|humo.be|libelle.nl|margriet.nl|parool.nl|trouw.nl|volkskrant.nl
-||temptation.*/temptation.js$script,~third-party,domain=demorgen.be|flair.nl|humo.be|libelle.nl|margriet.nl|parool.nl|trouw.nl|volkskrant.nl
+volkskrant.nl##div[class*="top1-container"]
+volkskrant.nl##.ad--top.fjs-hide-on-paywall
+/temptation/resolve$xmlhttprequest,~third-party,domain=volkskrant.nl|flair.nl|libelle.nl|margriet.nl
+||temptation.*/temptation.js$script,~third-party,domain=volkskrant.nl
 @@||myprivacy-static.dpgmedia.net/consent.js$script,third-party
-@@/wrapperMessagingWithoutDetection.js$script,~third-party,domain=demorgen.be|flair.nl|humo.be|libelle.nl|margriet.nl|parool.nl|trouw.nl|volkskrant.nl
 
 ||nrc.nl/paywall-api/api/zephr$xmlhttprequest,~third-party
 

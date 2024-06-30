@@ -1,0 +1,22 @@
+[AdBlockPlus 2.0]
+!
+! Version: 2024 
+! Title: Kees1958 personal blocklist for cosmetic filter leftovers 
+! Expires: 365 days 
+!
+!
+! Testing Ghostery's new custom filters option (to replace AdGuard by Ghostery)
+!
+nu.nl##.banner 
+
+rtl.nl##div[data-adslot-variant]
+
+/temptation/resolve$xmlhttprequest,~third-party,domain=demorgen.be|flair.nl|humo.be|libelle.nl|margriet.nl|parool.nl|trouw.nl|volkskrant.nl
+||temptation.*/temptation.js$script,~third-party,domain=demorgen.be|flair.nl|humo.be|libelle.nl|margriet.nl|parool.nl|trouw.nl|volkskrant.nl
+@@||myprivacy-static.dpgmedia.net/consent.js$script,third-party
+@@/wrapperMessagingWithoutDetection.js$script,~third-party,domain=demorgen.be|flair.nl|humo.be|libelle.nl|margriet.nl|parool.nl|trouw.nl|volkskrant.nl
+
+||nrc.nl/paywall-api/api/zephr$xmlhttprequest,~third-party
+
+||aa.tweakers.nl^$domain=tweakers.net
+||ab.tweakers.nl^$domain=tweakers.net

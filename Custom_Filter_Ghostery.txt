@@ -11,7 +11,6 @@ nu.nl##.banner
 
 rtl.nl##div[data-adslot-variant]
 
-volkskrant.nl##div[class*="top1-container"]
 volkskrant.nl##.ad--top.fjs-hide-on-paywall
 /temptation/resolve$xmlhttprequest,~third-party,domain=volkskrant.nl|flair.nl|libelle.nl|margriet.nl
 ||temptation.*/temptation.js$script,~third-party,domain=volkskrant.nl

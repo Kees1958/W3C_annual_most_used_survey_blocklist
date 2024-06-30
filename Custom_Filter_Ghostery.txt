@@ -20,4 +20,4 @@ volkskrant.nl##.ad--top.fjs-hide-on-paywall
 
 ||aa.tweakers.nl
 ||ab.tweakers.nl
-tweaker.net##div[id="bilBoard"]
+tweakers.net##div[id="bilBoard"]

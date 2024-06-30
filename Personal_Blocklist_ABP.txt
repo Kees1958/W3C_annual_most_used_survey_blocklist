@@ -73,11 +73,6 @@ cnn.com##.stack__ads
 cnn.com##.zone__ads
 ||cookielaw.org^$domain=cnn.com
 
-! Tweakers.net
-tweakers.net##div[class*="banner"]
-tweakers.net##div[id*="banner"]
-||tweakers.net/track^
-
 ! hide Youtube chat
 youtube.com###chat
 ||youtube.com/live_chat

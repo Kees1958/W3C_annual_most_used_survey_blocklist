@@ -7,6 +7,8 @@
 !
 ! Testing Ghostery's new custom filters option (to replace AdGuard by Ghostery)
 !
+google.nl##div[class*="VEELad"]
+
 nu.nl##.banner 
 
 rtl.nl##div[data-adslot-variant]

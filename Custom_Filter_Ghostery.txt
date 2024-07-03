@@ -16,7 +16,6 @@ rtl.nl##div[data-adslot-variant]
 volkskrant.nl##.ad--top.fjs-hide-on-paywall
 /temptation/resolve$xmlhttprequest,~third-party,domain=volkskrant.nl|flair.nl|libelle.nl|margriet.nl
 ||temptation.*/temptation.js$script,~third-party,domain=volkskrant.nl
-@@||myprivacy-static.dpgmedia.net/consent.js$script,third-party
 
 ||nrc.nl/paywall-api/api/zephr$xmlhttprequest,~third-party
 

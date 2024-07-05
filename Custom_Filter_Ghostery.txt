@@ -14,11 +14,18 @@ nu.nl##.banner
 
 rtl.nl##div[data-adslot-variant]
 
+volkskrant.nl###top1
+volkskrant.nl##div[class*="top1-container"]
 volkskrant.nl##.ad--top.fjs-hide-on-paywall
 /temptation/resolve$xmlhttprequest,~third-party,domain=volkskrant.nl|flair.nl|libelle.nl|margriet.nl
 ||temptation.*/temptation.js$script,~third-party,domain=volkskrant.nl
+@@||myprivacy-static.dpgmedia.net/consent.js$script,third-party
 
+nrc.nl##.header__buttons
+nrc.nl##.user-confirmation-screen__inner
+nrc.nl##div[id$="modal__overlay"],div.header__subscribe-bar,div.banner
 ||nrc.nl/paywall-api/api/zephr$xmlhttprequest,~third-party
+||content2.nrc.nl^
 
 ||aa.tweakers.nl^
 ||ab.tweakers.nl^

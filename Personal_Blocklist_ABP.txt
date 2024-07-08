@@ -27,12 +27,6 @@ rtl.nl##div[data-adslot-variant*="advertorial"]
 ! NU.nl
 nu.nl##.banner 
 nu.nl###h1-fixed__slot
-nu.nl##.modal-layer__shade
-nu.nl##.modal__container
-nu.nl##.banner__slot
-nu.nl##.banner.banner--h1.h1
-nu.nl##.banner.banner--h1.banner--hide-single-column.h1
-nu.nl##article#LOGIN
 
 ! Volkskrant
 volkskrant.nl###top1

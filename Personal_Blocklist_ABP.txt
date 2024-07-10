@@ -24,7 +24,7 @@ nrc.nl##div[id$="modal__overlay"],div.header__subscribe-bar,div.banner
 
 ||imasdk.googleapis.com^,domain=tl.nl
 ||widgets.pexi.nl^$third-party,domain=nu.nl
-||temptation.*/temptation.js$script,~third-party,domain=dflair.nl|libelle.nl|margriet.nl|volkskrant.nl
+||temptation.*/temptation.js$script,~third-party,domain=flair.nl|libelle.nl|margriet.nl|volkskrant.nl
 ||nrc.nl/paywall-api/api/zephr$xmlhttprequest,~third-party
 ||content2.nrc.nl/tag/tag.js
 

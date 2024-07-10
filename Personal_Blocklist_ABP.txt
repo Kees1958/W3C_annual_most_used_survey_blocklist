@@ -4,12 +4,6 @@
 ! Title: Kees1958 personal blocklist for cosmetic filter leftovers 
 ! Expires: 365 days 
 !
-! block tracking pings and obsolete plugins
-||*$ping,object
-
-! block scripts and data connections on insecure HTTP websites
-|HTTP://*$script,websocket
-
 ! NOS.nl
 ||adcdn.ster.nl^$third-party
 

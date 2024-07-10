@@ -4,72 +4,56 @@
 ! Title: Kees1958 personal blocklist for cosmetic filter leftovers 
 ! Expires: 365 days 
 !
+! block tracking pings and obsolete plugins
+||*$ping,object
 
-!
-! Experiment to use my filters with only with ABP filters enabled in AdBlockPlus
-! (the build-in ABP filter contains complex rules, so I need less custom rules :-)
-!
+! block scripts and data connections on insecure HTTP websites
+|HTTP://*$script,websocket
 
 ! NOS.nl
-nos.nl###ccm_notification
-nos.nl###ccm_notification_host
-nos.nl###regio-onboarding
-||ster.nl^
+||adcdn.ster.nl^$third-party
 
-! RTL.nl
-rtl.nl##.css-1tpumuz
-rtl.nl##div[data-adslot-variant*="billboard"]
-rtl.nl##div[data-adslot-variant*="halfpage"]
-rtl.nl##div[data-adslot-variant*="rectangle"]
-rtl.nl##div[data-adslot-variant*="advertorial"]
-/prebid.$domain=rtl.nl
-
-! NU.nl
-nu.nl##.banner 
-nu.nl###h1-fixed__slot
-
-! Volkskrant
-volkskrant.nl###top1
-volkskrant.nl##div[class*="top1-container"]
-volkskrant.nl##.ad--top.fjs-hide-on-paywall
-/temptation/resolve$xmlhttprequest,~third-party,domain=volkskrant.nl|flair.nl|libelle.nl|margriet.nl
-||temptation.*/temptation.js$script,~third-party,domain=volkskrant.nl
+! DPG media websites 
+||advertising-module.api.dpgmedia.cloud^
+||advertising-cdn.dpgmedia.cloud^
 @@||myprivacy-static.dpgmedia.net/consent.js$script,third-party
 
-! NRC
-nrc.nl##.header__buttons
-nrc.nl##.user-confirmation-screen__inner
+rtl.nl##div[data-adslot-variant]
+flair.nl,libelle.nl,margriet.nl,volkskrant.nl##div[class*="top1-container"]
+nu.nl##article#LOGIN
+nu.nl##.banner
+volkskrant.nl##div[class*="ad--top"]
+nrc.nl##div[class^="native-ad-"]
 nrc.nl##div[id$="modal__overlay"],div.header__subscribe-bar,div.banner
-||nrc.nl/paywall-api/api/zephr$xmlhttprequest,~third-party
-||content2.nrc.nl^
 
-!Tweakers.net
+||imasdk.googleapis.com^,domain=tl.nl
+||widgets.pexi.nl^$third-party,domain=nu.nl
+||temptation.*/temptation.js$script,~third-party,domain=dflair.nl|libelle.nl|margriet.nl|volkskrant.nl
+||nrc.nl/paywall-api/api/zephr$xmlhttprequest,~third-party
+||content2.nrc.nl/tag/tag.js
+
+! Tweakers.net
 ||aa.tweakers.nl^
 ||ab.tweakers.nl^
 
-! BBC
+! BBC.com
+bbc.com##.dotcom-ad
 bbc.com###dotcom-leaderboard
-bbc.com##div[id^="piano-inline"]
-bbc.com###dotcom-leaderboard
-bbc.com##.bbccom_advert
-bbc.com##.advert--leaderboard
-bbc.com,bbc.co.uk##div[class*="leaderboard-ad"]
-bbc.com,bbc.co.uk##div[class*="-ConsentBanner"]
-/cookie-banner$domain=bbc.com
-||bbc.com/ngas/latest/dotcom-ads.js
 ||cdn.privacy-mgmt.com^$third-party,domain=bbc.com
+||bbc.com/*/dotcom-ads.js
 
 ! CNN
 cnn.com##.ad
-cnn.com##.ad-feedback__modal
-cnn.com##.ad-feedback-link-container
 cnn.com##.ad-slot
 cnn.com##.ad-slot-header
 cnn.com##.ad-slot-header__wrapper
 cnn.com##.adSlotHeaderContainer
+cnn.com##.ad-feedback__modal
+cnn.com##.ad-feedback-link-container
 cnn.com##.stack__ads
 cnn.com##.zone__ads
 ||cookielaw.org^$domain=cnn.com
+
 
 ! hide Youtube chat
 youtube.com###chat

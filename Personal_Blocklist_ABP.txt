@@ -5,6 +5,7 @@
 ! Expires: 365 days 
 !
 ! NOS.nl
+nos.nl##div[id="regio-onboarding"]
 ||adcdn.ster.nl^$third-party
 
 ! DPG media websites 

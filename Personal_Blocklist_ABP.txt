@@ -15,6 +15,7 @@ nos.nl##div[id="regio-onboarding"]
 
 rtl.nl##div[data-adslot-variant]
 flair.nl,libelle.nl,margriet.nl,volkskrant.nl##div[class*="top1-container"]
+flair.nl##div[data-temptation-position]
 nu.nl##article#LOGIN
 nu.nl##.banner
 volkskrant.nl##div[class*="ad--top"]

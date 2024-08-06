@@ -18,7 +18,7 @@ In advertising the number one (Google) has a marketshare of around 40 percent, F
 while the number three (Comscore) just has a little over 2.5% marketshare. For comparison Amazon with its huge webstore generates 
 about the same advertising traffic on its own website. Number 100 on this list is probably used at 5000 websites of the Alexa 
 Top 300.000 websites, while number 500 may only track you on 250 websites of the Alexa Top 10.000.000. This is why the small
-Mv3 list is probably as effective as the experimental large list (with less chance on False Positives/Webssite breakage).
+Mv3 list is probably as effective as the experimental large list (with less chance on False Positives/Website breakage).
 
 This study performed by the Brave browser developers supports above claim (scroll to "EasyList Applied at the Web" section):
 https://brave.com/the-mounting-cost-of-stale-ad-blocking-rules/ 

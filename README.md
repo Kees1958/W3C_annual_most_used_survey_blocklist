@@ -7,8 +7,6 @@ extension usage on my work laptop (I moved to Linux on my old Windows10 desktop 
 and Ungoogled Chromium with uBlockLight. So please report false positives or website breakage when you enconter them
 (especially for my experimental "World most used" large list). 
 
-Host file format available at https://github.com/mikynov/kees1958-most-used-ad-hosts thanks to Mikynov
-
                                                           SOURCES
 The blocklists are based on surveys of most used advertising and tracking technology (e.g. surveys of W3C, W3Tech and the
 digital marketing community itself). The online advertising industry likes to keep lists of top performing companies in

@@ -11,7 +11,7 @@ and Ungoogled Chromium with uBlockLight. So please report false positives or web
 The blocklists are based on surveys of most used advertising and tracking technology (e.g. surveys of W3C, W3Tech and the
 digital marketing community itself). The online advertising industry likes to keep lists of top performing companies in
 the ad supply chain (including advertising exchange platforms). The list and surveys monitored are oriented on Europe and 
-North America, this is the reason this blocklist contains mostly EU and US based advertising and tracking networks. 
+North America, this is the reason the slim Mv3 blocklist contains mostly EU and US based advertising and tracking networks. 
 
                                 WHY USE A LIMITED ADVERTISING AND TRACKING NETWORKS BLOCK LIST? 
 In advertising the number one (Google) has a marketshare of around 40 percent, Facebook the number two hits the 20 percent mark 

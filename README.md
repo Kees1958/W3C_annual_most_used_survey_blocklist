@@ -4,7 +4,7 @@ Google's Manifest Mv3 now allows for 15.000 dynamic filter rules. This is the re
 and "Addendum to Firefox & Edge build-in tracking". I will maintain the slim "EU-US most used Mv3" also (less than 3000
 rules for advertising and tracking networks). I am currently not using my lists anymore due to restrictions of adblock
 extension usage on my work laptop (I moved to Linux on my old Windows10 desktop and am using Brave without extensions
-and Ungoogled Chromium with uBlockLight. So please report false positives or website breakage when you enconter them
+and Ungoogled Chromium with uBlockLight. So please report false positives or website breakage when you encounter them
 (especially for my experimental "World most used" large list). 
 
                                                           SOURCES

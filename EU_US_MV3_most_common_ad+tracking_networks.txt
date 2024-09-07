@@ -3,7 +3,7 @@
 ! Title: EU US ads&tracking networks MV3 (third-party blocking only)
 ! Expires: 365 days 
 !
-! Version: 2024.06.24
+! Version: 2024.09.07
 !
 ! Please report issues related to website breakage at
 ! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -529,6 +529,7 @@
 ||bidstreamserver.com^$third-party
 ||bidswitch.net^$third-party
 ||bidsystem.com^$third-party
+||bidvertiser.com^$third-party
 ||bid-tag.com^$third-party
 ||bidtellect.com^$third-party
 ||bidtheatre.com^$third-party
@@ -680,6 +681,8 @@
 ||clearsightinteractive.com^$third-party
 ||clearstream.tv^$third-party
 ||clickable.net^$third-party
+||clickadilla.com^$third-party
+||clickadu.com^$third-party
 ||clickagy.com^$third-party
 ||clickaider.com^$third-party
 ||clickbank.net^$third-party
@@ -728,6 +731,7 @@
 ||cobaltgroup.com^$third-party
 ||cognitivematch.com^$third-party
 ||cohesionapps.com^$third-party
+||coinis.com^$third-party
 ||collective.com^$third-party
 ||collective-media.net^$third-party
 ||collserve.com^$third-party
@@ -1022,6 +1026,7 @@
 ||eyereturnmarketing.com^$third-party
 ||eyeviewdigital.com^$third-party
 ||eyewonder.com^$third-party
+||ezmob.com^$third-party
 ||eztargetmedia.com^$third-party
 ||facilitatedigital.com^$third-party
 ||factortg.com^$third-party
@@ -1071,6 +1076,7 @@
 ||futureads.com^$third-party
 ||fwmrm.net^$third-party,~xmlhttprequest
 ||g2.com^$third-party
+||galaksion.com^$third-party
 ||game-advertising-online.com^$third-party
 ||games2win.com^$third-party
 ||gamned.com^$third-party
@@ -1568,6 +1574,7 @@
 ||mxpnl.com^$third-party
 ||mxptint.net^$third-party
 ||myads.com^$third-party
+||mybid.io^$third-party
 ||mybuys.com^$third-party
 ||mycounter.com.ua^$third-party
 ||mydas.mobi^$third-party
@@ -1766,6 +1773,7 @@
 ||playground.xyz^$third-party
 ||plista.com^$third-party
 ||plugin.management^$third-party
+||plugrush.com^$third-party
 ||pm14.com^$third-party
 ||pocketcents.com^$third-party
 ||pointmediatracker.com^$third-party
@@ -1868,6 +1876,7 @@
 ||rapleaf.com^$third-party
 ||ratevoice.com^$third-party
 ||rdcdn.com^$third-party
+||reacheffect.com^$third-party
 ||reachlocal.com^$third-party
 ||react2media.com^$third-party
 ||reactful.com^$third-party
@@ -2272,6 +2281,7 @@
 ||trafficrevenue.net^$third-party
 ||trafficroots.com^$third-party
 ||trafficscore.com^$third-party
+||trafficstar.com^$third-party
 ||traffiliate.com^$third-party
 ||traffiq.com^$third-party
 ||trafmag.com^$third-party
@@ -2329,6 +2339,7 @@
 ||uniqlick.com^$third-party
 ||unityads.unity3d.com^$third-party
 ||unrulymedia.com^$third-party
+||unqads.com^$third-party
 ||uplift-platform.com^$third-party
 ||upravel.com^$third-party
 ||upsellit.com^$third-party
@@ -2529,6 +2540,7 @@
 ||zephr.com^$third-party
 ||zergnet.com^$third-party
 ||zeronaught.com^$third-party
+||zeropark.com^$third-party
 ||zestad.com^$third-party
 ||zetaemailsolutions.com^$third-party
 ||zg-api.com^$third-party

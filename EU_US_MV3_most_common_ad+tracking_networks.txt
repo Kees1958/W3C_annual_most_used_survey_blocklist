@@ -2603,7 +2603,6 @@
 ||analytics.tiktok.com^$third-party
 ||analytics-sg.tiktok.com^$third-party
 ||business-api.tiktok.com^$third-party
-!|ads.twitter.com^$third-party
 ||ads-twitter.com^$third-party
 ||ads-api.twitter.com^$third-party
 ||analytics.twitter.com^$third-party

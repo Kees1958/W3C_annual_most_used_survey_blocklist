@@ -2564,7 +2564,7 @@
 ||googleanalytics.com^$third-party
 ||google-analytics.com^$third-party
 ||googleoptimize.com^$third-party
-||googlesyndication.com^$third-party
+||pagead2.googlesyndication.com^$third-party
 ||googletagmanager.com^$third-party
 ||googletagservices.com^$third-party
 !

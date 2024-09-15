@@ -9678,7 +9678,7 @@
 ! I am willing to sanatize 4 adult websites which are in the top 50 websites with most traffic and add 1 popular Dutch adult website
 ! So you can safely watch pornhub (no 16 with most traffic in August 2024), xvideos (nr 25), xhamster (nr 33), xnxx (nr 46) and populat Duct eporner
 ! 5 websites to choose from must be enough to find your favorite clips, when below rules break funtionality, please open an issue.
-||*$third-party,script,subdocument,websocket,domain=xhamster.com|xvideos.com|pornhub.com|eporner.com
+||*$third-party,script,subdocument,websocket,domain=xhamster.com|xvideos.com|xnxx.com|pornhub.com|eporner.com
 @@phncdn.com$script,domain=pornhub.com
 @@xvideos-cdn.com$script,domain=xvideos.com
 @@xhcdn.com$script,domain=xhamster.com

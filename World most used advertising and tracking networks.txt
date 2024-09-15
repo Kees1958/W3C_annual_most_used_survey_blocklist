@@ -9683,3 +9683,4 @@
 @@xvideos-cdn.com$script,domain=xvideos.com
 @@xhcdn.com$script,domain=xhamster.com
 @@xnxx-cdn.com$script,domain=xnxx.com
+||pornhub.com/_xa/ads_batch

@@ -9683,5 +9683,6 @@
 @@xvideos-cdn.com$script,domain=xvideos.com
 @@xhcdn.com$script,domain=xhamster.com
 @@xnxx-cdn.com$script,domain=xnxx.com
-||pornhub.com/_xa/ads_batch
-||xhamster.com/api/models/vast
+
+! for ad surpression on above websites use below filter of ABP (addition to Easylist English)
+! https://gitlab.com/eyeo/anti-cv/abp-filters-anti-cv/-/raw/master/english.txt

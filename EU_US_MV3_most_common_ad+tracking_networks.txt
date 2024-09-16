@@ -174,7 +174,6 @@
 ||admedo.com^$third-party
 ||admeld.com^$third-party
 ||admeta.com^$third-party
-||admicro.vn^$third-party
 ||admission.net^$third-party
 ||admixer.co.kr^$third-party
 ||admixer.net^$third-party
@@ -284,12 +283,10 @@
 ||adsvelocity.com^$third-party
 ||adswizz.com^$third-party
 ||adsymptotic.com^$third-party
-||adtago.s3.amazonaws.com^$third-party
 ||adtarget.me^$third-party
 ||adtdp.com^$third-party
 ||adtech.com^$third-party
 ||adtech.de^$third-party
-||adtechjp.com^$third-party
 ||adtechus.com^$third-party
 ||adtegrity.com^$third-party
 ||adtegrity.net^$third-party
@@ -322,11 +319,9 @@
 ||advertise.com^$third-party
 ||advertisespace.com^$third-party
 ||advertising.com^$third-party
-||advertising-api-eu.amazon.com^$third-party
 ||advertserve.com^$third-party
 ||advertstream.com^$third-party
 ||adviad.com^$third-party
-||advice-ads.s3.amazonaws.com^$third-party
 ||advisormedia.cz^$third-party
 ||adviva.co.uk^$third-party
 ||adviva.net^$third-party
@@ -397,8 +392,6 @@
 ||altitude-arena.com^$third-party
 ||amadesa.com^$third-party
 ||amazingcounters.com^$third-party
-||amazon.co.uk^$third-party
-||amazon-adsystem.com^$third-party
 ||amgdgt.com^$third-party
 ||amigos.com^$third-party
 ||a-mo.net^$third-party
@@ -442,8 +435,6 @@
 ||aroa.io^$third-party
 ||arrivalist.com^$third-party
 ||asadcdn.com^$third-party
-||assoc-amazon.com^$third-party
-||associates-amazon.com^$third-party
 ||aswpsdkus.com^$third-party
 ||atedra.com^$third-party
 ||atemda.com^$third-party
@@ -2223,7 +2214,6 @@
 ||techsolutions.com.tw^$third-party
 ||tellapart.com^$third-party
 ||tellapt.com^$third-party
-||telstra.com.au^$third-party
 ||tend-table.com^$third-party
 ||tenmax.io^$third-party
 ||tensquare.com^$third-party
@@ -2432,7 +2422,6 @@
 ||webengage.com^$third-party
 ||webeyez.com^$third-party
 ||webgozar.com^$third-party
-||webgozar.ir^$third-party
 ||webmecanik.com^$third-party
 ||webmetro.com^$third-party
 ||weborama.com^$third-party
@@ -2467,7 +2456,6 @@
 ||wordstream.com^$third-party
 ||wowanalytics.co.uk^$third-party
 ||wpmudev.com^$third-party
-||wpp.com^$third-party
 ||wrethicap.info^$third-party
 ||wsod.com^$third-party
 ||wt-eu02.net^$third-party
@@ -2609,10 +2597,14 @@
 ||static.ads-twitter.com^$third-party
 
 !
-! Mega online stores
+! Amazon
 ! 
-||alibaba.com^$third-party
+||amazon-adsystem.com^$third-party
 ||analytics.s3.amazonaws.com^$third-party
 ||analyticsengine.s3.amazonaws.com^$third-party
-
+||advertising-api-eu.amazon.com^$third-party
+||advice-ads.s3.amazonaws.com^$third-party
+||adtago.s3.amazonaws.com^$third-party
+||assoc-amazon.com^$third-party
+||associates-amazon.com^$third-party
 |

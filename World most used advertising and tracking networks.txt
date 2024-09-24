@@ -3,7 +3,7 @@
 ! Title: World's most used advertising and tracking networks 
 ! Expires: 365 days 
 !
-! Version: 2024.09.15
+! Version: 2024.09.24
 !
 !         ******************************************************
 !         ***                                                ***

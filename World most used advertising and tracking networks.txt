@@ -4049,8 +4049,6 @@
 ||highwire.org^$third-party
 ||hilltopads.com^$third-party
 ||hilltopads.net^$third-party
-||hindustantimes.com^$third-party
-||hinet.net^$third-party
 ||hipcricket.com^$third-party
 ||hiperstat.com^$third-party
 ||hirmatrix.hu^$third-party

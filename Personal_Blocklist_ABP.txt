@@ -12,6 +12,7 @@ nos.nl##div[id="regio-onboarding"]
 ||advertising-module.api.dpgmedia.cloud^
 ||advertising-cdn.dpgmedia.cloud^
 @@||myprivacy-static.dpgmedia.net/consent.js$script,third-party
+||myprivacy-static.dpgmedia.net^$domain=nu.nl|rtl.nl|volkskrant.nl
 
 rtl.nl##div[data-adslot-variant]
 flair.nl,libelle.nl,margriet.nl,volkskrant.nl##div[class*="top1-container"]

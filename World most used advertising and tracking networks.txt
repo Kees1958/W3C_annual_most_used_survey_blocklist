@@ -9672,16 +9672,4 @@
 ||zzrqkvwmrkvll.top^$third-party
 ||zzyryrylwkwve.top^$third-party
 
-! I was asked to add uBO like third-party medium mode security for adult websites, but that is to much hassle to maintain.
-! I am willing to sanatize 4 adult websites which are in the most viewed top 50 websites and 1 popular Dutch adult website.
-! So you can safely watch pornhub (no 16 most viewed), xvideos (nr 25), xhamster (nr 33), xnxx (nr 46) and eporner (Dutch).
-! 5 websites to choose from must be enough to find your favorite clips, please open an issue when below rules break something.
-!
-||*$third-party,script,subdocument,websocket,domain=xhamster.com|xvideos.com|xnxx.com|pornhub.com|eporner.com
-@@phncdn.com$script,domain=pornhub.com
-@@xvideos-cdn.com$script,domain=xvideos.com
-@@xhcdn.com$script,domain=xhamster.com
-@@xnxx-cdn.com$script,domain=xnxx.com
 
-! for ad surpression on above websites use below filter of ABP (addition to Easylist English)
-! https://gitlab.com/eyeo/anti-cv/abp-filters-anti-cv/-/raw/master/english.txt

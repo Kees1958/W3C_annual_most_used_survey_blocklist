@@ -3,16 +3,15 @@
 ! Version: 2024 november
 ! Title: Block in video advertisements on Youtube.com READ NOTICE!
 !
+! Expires: 365 days 
+! You are free to copy and distribute this file, but use at your own risk
+!
 ! NOTICE: 
 !  1. Not using AG anymore, so maintaining this list once a quarter.
 !  2. This list is only maintained for my old friend Oldschool (at MT)
 !  3. You need to refresh to play video's (a quirk I can't find)
-!
-! Expires: 365 days 
-! You are free to copy and distribute this file, but use at your own risk
-
-! This blocklist is an extract of AdGuard filter rules for youtube, credits to the AdGuard team
-! https://github.com/AdguardTeam/AdguardFilters
+!  4. This blocklist is an extract of AdGuard filter rules for youtube, ALL CREDITS TO THE ADGUARD TEAM
+!     https://github.com/AdguardTeam/AdguardFilters
 !
 
 */.*/$domain=youtube,permissions=identity-credentials-get=(),document

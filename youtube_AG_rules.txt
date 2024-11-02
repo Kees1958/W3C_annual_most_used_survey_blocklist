@@ -3,8 +3,10 @@
 ! Version: 2024 november
 ! Title: Block in video advertisements on Youtube.com READ NOTICE!
 !
-! NOTICE: this list is only maintained for my old friend Oldschool (you need to refresh the tab to proceed playing youtube mwdia)
-! 
+! NOTICE: 
+!  1. Not using AG anymore, so maintaining this list once a quarter.
+!  2. This list is only maintained for my old friend Oldschool (at MT)
+!  3. You need to refresh to play video's (a quirk I can't find)
 !
 ! Expires: 365 days 
 ! You are free to copy and distribute this file, but use at your own risk

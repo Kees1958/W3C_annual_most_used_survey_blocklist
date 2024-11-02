@@ -1,8 +1,8 @@
                                                           NOTICE
-Google's Manifest Mv3 now allows for 15.000 dynamic filter rules. This is the reason why I am experimenting with a 
-"World's most used" version (currently < 10.000 rules). AdGuard is now fully Mv3 compatible. but they seem to maintain
-the old 5000 rules dynamic maximum. I think adblockers may use the 15.000 maximum to push quick fixes into production
-versions without updating their extension, which means the new "World's most used" has little practical use.
+
+After a long head to head comparison of Mv3 EU_US most used versus World most used, the benefit of the larger third-party 
+blocklist is minimal, that is why I am dropping maintenance of the World most uses (with nearly 10.000 rules). I will delete
+this list end 2024, so users have some time to look for an alternative. 
 
                                                           SOURCES
 The blocklists are based on surveys of most used advertising and tracking technology (e.g. surveys of W3C, W3Tech and the

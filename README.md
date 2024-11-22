@@ -1,13 +1,8 @@
                                                       SUGGESTED USE
 
-Like the first build-in anti-tracking of Firefox and Edge build-in filters, the EU-US most used Mv3 filter is directed to
-delivering maximum effect with maximum compatibility. That is why it is using simple third-party blocking ABP syntax for
-the most used advertising and tracking networks and can be used by most adblockers.
+Like the first build-in anti-tracking of Firefox and Edge build-in filters, the EU-US most used Mv3 filter is directed to delivering maximum effect with maximum compatibility. That is why it is using simple third-party blocking ABP syntax for the most used advertising and tracking networks and can be used by most adblockers.
 
-I normally use the EU-US-most used filter in combination with my extension's own adblocking filter to reduce the number  
-of rules in my safe-surfing profile (Chrome with all website permissions on block except image, sound and scripts) and as 
-main filter (together with my other filters) in my default profile (browser in default settings for maximum compatibility)
-with my other filter lists (less than 3000 rules in total) used for visiting (trusted) bookmarked websites. 
+I normally use the EU-US-most used filter in combination with my extension's own adblocking filter to reduce the number of rules in my safe-surfing profile (Chrome with all website permissions on block except image, sound and scripts) and as main filter (together with my other filters) in my default profile (browser in default settings for maximum compatibility) with my other filter lists (less than 3000 rules in total) used for visiting (trusted) bookmarked websites. 
 
                                 WHY USE A LIMITED ADVERTISING AND TRACKING NETWORKS BLOCK LIST? 
 In advertising the number one (Google) has a marketshare of around 40 percent, Facebook the number two hits the 20% mark 

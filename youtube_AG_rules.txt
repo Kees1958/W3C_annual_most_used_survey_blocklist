@@ -30,8 +30,8 @@ youtube.com##.ytp-cards-teaser
 youtube.com##.ytp-paid-content-overlay
 youtube.com##.ytp-featured-product
 youtube.com##.ytp-suggested-action > button.ytp-suggested-action-badge
-youtube-nocookie.com,youtube.com##.annotation.iv-branding
-youtube-nocookie.com,youtube.com##.video-annotations
+youtube.com##.annotation.iv-branding
+youtube.com##.video-annotations
 youtube.com#$##ticker.ytd-masthead { display: none!important; }
 youtube.com###masthead-ad
 youtube.com###player-ads

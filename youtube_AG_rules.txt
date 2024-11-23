@@ -9,8 +9,7 @@
 ! NOTICE: 
 !  1. Not using AG anymore, so maintaining this list once a quarter.
 !  2. This list is only maintained for my old friend Oldschool (at MT)
-!  3. You may need to refresh to play video's (a quirk I can't solve)
-!  4. This blocklist is an extract of AdGuard filter rules for youtube, ALL CREDITS TO THE ADGUARD TEAM
+!  3. This blocklist is an extract of AdGuard filter rules for youtube, ALL CREDITS TO THE ADGUARD TEAM
 !     https://github.com/AdguardTeam/AdguardFilters
 !
 youtube.com#%#//scriptlet('set-constant', 'google_ad_status', '1')

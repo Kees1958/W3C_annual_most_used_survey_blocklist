@@ -5,7 +5,7 @@
 !
 ! Expires: 365 days 
 ! You are free to copy and distribute this file, but use at your own risk
-!
+! Rules are based on AdGuard filters, so all credits go the AdGuard team
 !
 youtube.com#%#//scriptlet('set-constant', 'google_ad_status', '1')
 youtube.com#%#//scriptlet('set-constant', 'yt.config_.EXPERIMENT_FLAGS.web_bind_fetch', 'false')

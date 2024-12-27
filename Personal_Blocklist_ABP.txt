@@ -1,6 +1,6 @@
 [AdBlockPlus 2.0]
 !
-! Version: 2024 
+! Version: 2025 
 ! Title: Kees1958 personal blocklist for cosmetic filter leftovers 
 ! Expires: 365 days 
 !
@@ -36,6 +36,7 @@ nrc.nl##div[id$="modal__overlay"],div.header__subscribe-bar,div.banner
 ! BBC.com
 bbc.com##.dotcom-ad
 bbc.com###dotcom-leaderboard
+bbc.com##div[data-component="ad-slot"]
 ||cdn.privacy-mgmt.com^$third-party,domain=bbc.com
 ||bbc.com/*/dotcom-ads.js
 

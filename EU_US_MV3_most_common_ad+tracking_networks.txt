@@ -8,7 +8,7 @@
 ! Please report issues related to website breakage at
 ! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
 ! 
-! Experimental shortened list for MV3, use at your own risk
+! Use at your own risk
 !
 ||1dmp.io^$third-party
 ||1rx.io^$third-party

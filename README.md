@@ -3,6 +3,8 @@ In advertising the number one (Google) has a marketshare of around 40 percent, F
 
 A study performed by Brave browser (https://brave.com/the-mounting-cost-of-stale-ad-blocking-rules/) seems to support above claim: QUOTE "WE FOUND THAT ONLY 201 RULES ACCOUNTED FOR 90% OF THE BLOCKING ACTIVITY" 
 
+See https://w3techs.com/technologies/overview/advertising or https://w3techs.com/technologies/overview/traffic_analysis or https://w3techs.com/technologies/overview/tag_manager
+
                                                   LOW UPDATE FREQUENCY
 This list focusses on the advertising and tracking networks which place the adds on the websites you visit. It is therefore not subjective to a lot of changes for two reasons. First: it takes a lot of time and money to build such a backbone (ad serving) network. Because the market is more or less saturated, the chance of a new adnetwork entering this market is very low. Second: the digital marketeers using these networks are a constraining factor. Because most people don't like to learn how to use new software, human reluctance to chance is the second constraining factor for new adnetworks to popup. 
 

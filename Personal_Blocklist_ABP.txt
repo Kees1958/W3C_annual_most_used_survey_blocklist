@@ -11,52 +11,7 @@ nos.nl##div[id="regio-onboarding"]
 ! DPG media websites 
 ||advertising-module.api.dpgmedia.cloud^
 ||advertising-cdn.dpgmedia.cloud^
-@@||myprivacy-static.dpgmedia.net/consent.js$script,third-party
-||myprivacy-static.dpgmedia.net^$image,domain=nu.nl|rtl.nl|volkskrant.nl
-
-rtl.nl##div[data-adslot-variant]
-flair.nl,libelle.nl,margriet.nl,volkskrant.nl##div[class*="top1-container"]
-flair.nl##div[data-temptation-position]
-nu.nl##article#LOGIN
-nu.nl##.banner
-volkskrant.nl##div[class*="ad--top"]
-nrc.nl##div[class^="native-ad-"]
-nrc.nl##div[id$="modal__overlay"],div.header__subscribe-bar,div.banner
-
-||imasdk.googleapis.com^,domain=tl.nl
-||widgets.pexi.nl^$third-party,domain=nu.nl
-||temptation.*/temptation.js$script,~third-party,domain=flair.nl|libelle.nl|margriet.nl|volkskrant.nl
-||nrc.nl/paywall-api/api/zephr$xmlhttprequest,~third-party
-||content2.nrc.nl/tag/tag.js
-
-! Tweakers.net
-||aa.tweakers.nl^
-||ab.tweakers.nl^
-
-! BBC.com
-bbc.com##.dotcom-ad
-bbc.com###dotcom-leaderboard
-bbc.com##div[data-component="ad-slot"]
-||cdn.privacy-mgmt.com^$third-party,domain=bbc.com
-||bbc.com/*/dotcom-ads.js
-
-! the Guardian
-theguardian.com##div[class*="top-banner-ad-container"]
-
-! CNN
-cnn.com##.ad
-cnn.com##.ad-slot
-cnn.com##.ad-slot-header
-cnn.com##.ad-slot-header__wrapper
-cnn.com##.adSlotHeaderContainer
-cnn.com##.ad-feedback__modal
-cnn.com##.ad-feedback-link-container
-cnn.com##.stack__ads
-cnn.com##.zone__ads
-||cookielaw.org^$domain=cnn.com
-
-! fox
-foxnews.com##+js(ra, class, div[class*="gated-overlay"])
-foxnews.com##div.article-gating-wrapper
-! Hide (empty) ad place holders
-thewindowsclub.com##.widget
+nu.nl##.banner, .banner--h1, .h1
+volkskrant.nl##div[class*="top1-container"]
+||tentacles.com^$third-party
+||pexi.nl^$third-party

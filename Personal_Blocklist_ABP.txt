@@ -24,3 +24,16 @@ volkskrant.nl##div[class*="ad--top"]
 nrc.nl##div[class^="native-ad-"]
 
 ||pexi.nl^$third-party
+
+! BBC news
+bbc.com##div[data-component="ad-slot"]
+bbc.com###dotcom-leaderboard
+
+! The Guardian
+theguardian.com##div[class*="ad-container"]
+
+! CNN
+cnn.com##.ad-slot-header__wrapper
+
+! ABC news
+abcnews.go.com##div[data-testid*="ad-wrapper"]

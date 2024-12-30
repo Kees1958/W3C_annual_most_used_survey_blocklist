@@ -13,5 +13,4 @@ nos.nl##div[id="regio-onboarding"]
 ||advertising-cdn.dpgmedia.cloud^
 nu.nl##.banner, .banner--h1, .h1
 volkskrant.nl##div[class*="top1-container"]
-||tentacles.com^$third-party
 ||pexi.nl^$third-party

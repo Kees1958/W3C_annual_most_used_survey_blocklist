@@ -11,19 +11,21 @@ nos.nl##div[id="regio-onboarding"]
 ! DPG media websites 
 ||advertising-module.api.dpgmedia.cloud^
 ||advertising-cdn.dpgmedia.cloud^
+||pexi.nl^$third-party
+
+nu.nl##.banner
+nu.nl##+js(rc, authorized-content, div.authorized-content, stay)
+nu.nl##+js(rc, semi-authorized-content, div.semi-authorized-content, stay)
+nu.nl##article#LOGIN
 
 ||temptation.*/temptation.js$script,~third-party,domain=flair.nl|libelle.nl|margriet.nl|volkskrant.nl
-||nrc.nl/paywall-api/api/zephr$xmlhttprequest,~third-party
-||content2.nrc.nl/tag/tag.js
-
-rtl.nl##div[data-adslot-variant]
+flair.nl,libelle.nl,margriet.nl,volkskrant.nl##div[class*="ad--top"]
 flair.nl,libelle.nl,margriet.nl,volkskrant.nl##div[class*="top1-container"]
 flair.nl##div[data-temptation-position]
-nu.nl##.banner
-volkskrant.nl##div[class*="ad--top"]
-nrc.nl##div[class^="native-ad-"]
 
-||pexi.nl^$third-party
+nrc.nl##div[class^="native-ad-"]
+||nrc.nl/paywall-api/api/zephr$xmlhttprequest,~third-party
+||content2.nrc.nl/tag/tag.js
 
 ! BBC news
 bbc.com##div[data-component="ad-slot"]

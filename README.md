@@ -13,7 +13,7 @@ The blocklists are based on surveys of most used advertising and tracking techno
 
                                                       SUGGESTED USE
 
-I normally use the EU-US-most used filter in combination with my extension's own (english) adblocking filter to reduce the number of rules in combination with a country/language specific filter (Easylist or AdgUard country/language specific filters)
+I normally use the EU-US-most used filter in combination with my extension's own (english) adblocking filter to reduce the number of rules in combination with a country/language specific filter (from Easylist or AdGuard)
 
                                                       ERRORS & ISSUES
 Please report site breakage on https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues I will try to correct errors as soon as possible.  

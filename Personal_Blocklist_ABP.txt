@@ -29,7 +29,9 @@ nrc.nl##div[class^="native-ad-"]
 
 ! BBC news
 bbc.com##div[data-component="ad-slot"]
+bbc.com##div[id="cookiePrompt"]
 bbc.com###dotcom-leaderboard
+
 
 ! The Guardian
 theguardian.com##div[class*="ad-container"]

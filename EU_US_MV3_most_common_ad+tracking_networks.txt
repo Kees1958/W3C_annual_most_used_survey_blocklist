@@ -1,7 +1,7 @@
 [AdBlockPlus 2.0]
 !
 ! Title: EU US ads&tracking networks MV3 (third-party blocking only)
-! Expires: 365 days 
+! Expires: 7 days 
 !
 ! Version: 2024.12.28
 !

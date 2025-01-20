@@ -247,7 +247,6 @@
 ||adsfac.eu^$third-party
 ||adsfac.info^$third-party
 ||adsfac.net^$third-party
-||adsfac.sg^$third-party
 ||adsfac.us^$third-party
 ||adshuffle.com^$third-party
 ||adside.com^$third-party
@@ -1157,7 +1156,6 @@
 ||im-apps.net^$third-party
 ||imiclk.com^$third-party
 ||impact.com^$third-party
-||impact-ad.jp^$third-party
 ||impressiondesk.com^$third-party
 ||improvedigital.com^$third-party
 ||imrworldwide.com^$third-party
@@ -1362,7 +1360,6 @@
 ||m6d.com^$third-party
 ||m6r.eu^$third-party
 ||macromill.com^$third-party
-||madhouse.cn^$third-party
 ||madisonlogic.com^$third-party
 ||madvertise.com^$third-party
 ||magnetic.com^$third-party
@@ -1416,7 +1413,6 @@
 ||mediabrix.com^$third-party
 ||mediacategory.com^$third-party
 ||mediacom.com^$third-party
-||mediacorp.sg^$third-party
 ||mediaforge.com^$third-party
 ||mediafuse.com^$third-party
 ||mediago.io^$third-party
@@ -1698,12 +1694,10 @@
 ||piwik.org^$third-party
 ||piwik.pro^$third-party
 ||pixanalytics.com^$third-party
-||pixel.sg^$third-party
 ||pixfuture.com^$third-party
 ||piximedia.com^$third-party
 ||pixlee.com^$third-party
 ||placed.com^$third-party
-||platform-one.co.jp^$third-party
 ||playground.xyz^$third-party
 ||plista.com^$third-party
 ||plugin.management^$third-party
@@ -1960,7 +1954,6 @@
 ||shareasale.com^$third-party
 ||sharedid.org^$third-party
 ||sharethrough.com^$third-party
-||shinobi.jp^$third-party
 ||shinystat.com^$third-party
 ||shop.app^$third-party
 ||shop.pe^$third-party

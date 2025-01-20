@@ -543,7 +543,6 @@
 ||bongacams.com^$third-party
 ||boo-box.com^$third-party
 ||boomtrain.com^$third-party
-||boostbox.com.br^$third-party
 ||boudja.com^$third-party
 ||bounceexchange.com^$third-party
 ||bouncex.com^$third-party
@@ -1327,7 +1326,6 @@
 ||listrak.com^$third-party
 ||listrakbi.com^$third-party
 ||liveintent.com^$third-party
-||liveinternet.ru^$third-party
 ||livejasmin.com^$third-party
 ||liveperson.com^$third-party
 ||liveramp.com^$third-party
@@ -1610,7 +1608,6 @@
 ||onet.pl^$third-party
 ||onetag-sys.com^$third-party
 ||oneupweb.com^$third-party
-||onevision.com.tw^$third-party
 ||online-metrix.net^$third-party
 ||onlinewebstats.com^$third-party
 ||onm.de^$third-party
@@ -1625,7 +1622,6 @@
 ||operasoftware.com^$third-party
 ||opinionbar.com^$third-party
 ||opinmind.com^$third-party
-||opolen.com.br^$third-party
 ||opoxv.com^$third-party
 ||optify.net^$third-party
 ||optim.al^$third-party
@@ -2141,7 +2137,6 @@
 ||techlab-cdn.com^$third-party
 ||technorati.com^$third-party
 ||technoratimedia.com^$third-party
-||techsolutions.com.tw^$third-party
 ||tellapart.com^$third-party
 ||tellapt.com^$third-party
 ||tend-table.com^$third-party
@@ -2150,7 +2145,6 @@
 ||teracent.com^$third-party
 ||teracent.net^$third-party
 ||terminus.services^$third-party
-||terra.com.br^$third-party
 ||theadex.com^$third-party
 ||theblogfrog.com^$third-party
 ||thebrighttag.com^$third-party
@@ -2172,7 +2166,6 @@
 ||tisoomi.com^$third-party
 ||tlvmedia.com^$third-party
 ||tmogul.com^$third-party
-||tns-counter.ru^$third-party
 ||tns-cs.net^$third-party
 ||toast.com^$third-party
 ||todacell.com^$third-party

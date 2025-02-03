@@ -40,9 +40,9 @@ bbc.com###bbccookies
 
 ! The Guardian
 theguardian.com##div[class*="ad-container"]
-theguardian.com#%#//scriptlet('trusted-click-element', 'button.sp_choice_type_12')
+theguardian.com$permissions=identity-credentials-get=(),document
 theguardian.com#%#//scriptlet('remove-class', 'sp-message-open', 'html.sp-message-open')
-theguardian.com##.component-consent-banner-consent-banner
+theguardian.com#%#//scriptlet('trusted-click-element', 'button.sp_choice_type_11')
 
 ! CNN
 cnn.com##.ad-slot-header__wrapper

@@ -43,6 +43,9 @@ theguardian.com##div[class*="ad-container"]
 
 ! CNN
 cnn.com##.ad-slot-header__wrapper
+cnn.com#%#//scriptlet('prevent-addEventListener', 'oneTrustBlocked', 'browser-blocked')
+cnn.com###onetrust-consent-sdk:not([style])
+@@||cdn.cookielaw.org^$xmlhttprequest,script,domain=cnn.com
 
 ! ABC news
 abcnews.go.com##div[data-testid*="ad-wrapper"]

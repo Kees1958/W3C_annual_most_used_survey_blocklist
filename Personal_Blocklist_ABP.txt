@@ -6,6 +6,7 @@
 !
 ! NOS
 nos.nl##div[id="regio-onboarding"]
+nos.nl###ccm_notification_host
 ||ster.nl^$third-party
 
 ! DPG media websites 
@@ -29,9 +30,13 @@ nrc.nl##div[class^="native-ad-"]
 
 ! BBC news
 bbc.com##div[data-component="ad-slot"]
-bbc.com##div[id="cookiePrompt"]
 bbc.com###dotcom-leaderboard
 
+bbc.com#%#//scriptlet('trusted-click-element', 'div[data-testid="placeholder-embed-container"] > div[class*="SocialConsentPlaceholder"] > p ~ button', '', '1500')
+bbc.com#$#body { overflow: auto !important; }
+bbc.com###cookiePrompt
+bbc.com###bbccookies
+@@||cdn.privacy-mgmt.com/mms/$domain=bbc.com
 
 ! The Guardian
 theguardian.com##div[class*="ad-container"]

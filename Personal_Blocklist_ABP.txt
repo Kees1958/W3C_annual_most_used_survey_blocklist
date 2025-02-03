@@ -4,7 +4,7 @@
 ! Title: Kees1958 personal blocklist for cosmetic filter leftovers 
 ! Expires: 365 days 
 !
-! NOS
+! **** Hide/block cookie consents & other annoyances
 nos.nl##div[id="regio-onboarding"]
 nos.nl###ccm_notification_host
 ||ster.nl^$third-party
@@ -15,8 +15,6 @@ nos.nl###ccm_notification_host
 ||pexi.nl^$third-party
 
 nu.nl##.banner
-nu.nl##+js(rc, authorized-content, div.authorized-content, stay)
-nu.nl##+js(rc, semi-authorized-content, div.semi-authorized-content, stay)
 nu.nl##article#LOGIN
 
 ||temptation.*/temptation.js$script,~third-party,domain=flair.nl|libelle.nl|margriet.nl|volkskrant.nl
@@ -31,24 +29,10 @@ nrc.nl##div[class^="native-ad-"]
 ! BBC news
 bbc.com##div[data-component="ad-slot"]
 bbc.com###dotcom-leaderboard
-
-bbc.com#%#//scriptlet('trusted-click-element', 'div[data-testid="placeholder-embed-container"] > div[class*="SocialConsentPlaceholder"] > p ~ button', '', '1500')
-bbc.com#$#body { overflow: auto !important; }
 bbc.com###cookiePrompt
 bbc.com###bbccookies
-@@||cdn.privacy-mgmt.com/mms/$domain=bbc.com
-
-! The Guardian
-theguardian.com##div[class*="ad-container"]
-theguardian.com$permissions=identity-credentials-get=(),document
-theguardian.com#%#//scriptlet('remove-class', 'sp-message-open', 'html.sp-message-open')
-theguardian.com#%#//scriptlet('trusted-click-element', 'button.sp_choice_type_11')
+bbc.com##div[class*="-ConsentBanner"]
 
 ! CNN
 cnn.com##.ad-slot-header__wrapper
-cnn.com#%#//scriptlet('prevent-addEventListener', 'oneTrustBlocked', 'browser-blocked')
-cnn.com###onetrust-consent-sdk:not([style])
-@@||cdn.cookielaw.org^$xmlhttprequest,script,domain=cnn.com
 
-! ABC news
-abcnews.go.com##div[data-testid*="ad-wrapper"]

@@ -1,0 +1,52 @@
+[AdBlockPlus 4.0]
+!
+! Version: 2025 
+! Title: Kees1958 personal blocklist for cosmetic filter leftovers 
+! Expires: 365 days 
+!
+! NOS
+nos.nl##div[id="regio-onboarding"]
+nos.nl###ccm_notification_host
+||ster.nl$domain=nos.nl
+
+! NU.nl
+nu.nl##+js(rc, authorized-content, div.authorized-content, stay)
+nu.nl##+js(rc, semi-authorized-content, div.semi-authorized-content, stay)
+nu.nl##.banner
+nu.nl##article#LOGIN
+||pexi.nl^$domian=nu.nl
+
+! Volkskrant.nl
+/temptation/resolve$xmlhttprequest,~third-party,domain=volkskrant.nl
+||temptation.*/temptation.js$script,~third-party,domain=volkskrant.nl
+volkskrant.nl##div[class="ad--top fjs-hide-on-paywall"]
+volkskrant.nl##div[class*="top1-container"]
+
+! NRC
+||nrc.nl/paywall-api/api/zephr$xmlhttprequest,~third-party
+nrc.nl##div[id$="modal__overlay"],div.header__subscribe-bar,div.banner
+nrc.nl$permissions=identity-credentials-get=(),document
+nrc.nl##+js(cookie-remover, counter)
+privacy-center.org$domain=nrc.nl
+
+! Bypass cookie prompt on NU.nl and Volkskrant
+||myprivacy-static.dpgmedia.net/consent.js$redirect=noop.js
+myprivacy.dpgmedia.nl##+js(trusted-set-cookie, cb, 1_1970_01_01_2-3, 1year, , reload, 1)
+
+
+! BBC
+bbc.com##.dotcom-ad
+bbc.com###cookiePrompt
+bbc.com###bbccookies
+bbc.com##div[class*="-ConsentBanner"]
+||bbc.com/ngas/latest/dotcom-ads.js
+/wrapperMessagingWithoutDetection.js$domain=bbc.com
+
+! CNN
+cnn.com###onetrust-consent-sdk:not([style])
+
+! NBC news
+||cookielaw.org^$third-party,domain=nbcnews.com
+||onetrust.com^$third-party,domain=nbcnews.com
+
+! *** END

@@ -1253,7 +1253,6 @@
 ||jivox.com^$third-party
 ||jixie.io^$third-party
 ||jobthread.com^$third-party
-||js-agent.newrelic.com^$third-party
 ||jsrdn.com^$third-party
 ||juicyads.com^$third-party
 ||jumptap.com^$third-party

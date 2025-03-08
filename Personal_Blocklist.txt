@@ -1,52 +1,189 @@
 [AdBlockPlus 4.0]
 !
 ! Version: 2025 
-! Title: Kees1958 personal blocklist for cosmetic filter leftovers 
+! Title: Kees1958 personal blocklist 
 ! Expires: 365 days 
 !
+! *** Hide/block ads & popups missed by Brave shield ***
+
+! Block Startpage Search ads
+||startpage.com^$script
+
 ! NOS
 nos.nl##div[id="regio-onboarding"]
 nos.nl###ccm_notification_host
-||ster.nl$domain=nos.nl
 
 ! NU.nl
+nu.nl##.banner
 nu.nl##+js(rc, authorized-content, div.authorized-content, stay)
 nu.nl##+js(rc, semi-authorized-content, div.semi-authorized-content, stay)
-nu.nl##.banner
-nu.nl##article#LOGIN
-||pexi.nl^$domian=nu.nl
+||shop.nu.nl
+
 
 ! Volkskrant.nl
-/temptation/resolve$xmlhttprequest,~third-party,domain=volkskrant.nl
-||temptation.*/temptation.js$script,~third-party,domain=volkskrant.nl
 volkskrant.nl##div[class="ad--top fjs-hide-on-paywall"]
 volkskrant.nl##div[class*="top1-container"]
+||*/temptation/resolve$xmlhttprequest,~third-party,domain=volkskrant.nl
+||temptation.*/temptation.js$script,~third-party,domain=volkskrant.nl
 
 ! NRC
-||nrc.nl/paywall-api/api/zephr$xmlhttprequest,~third-party
-nrc.nl##div[id$="modal__overlay"],div.header__subscribe-bar,div.banner
-nrc.nl$permissions=identity-credentials-get=(),document
 nrc.nl##+js(cookie-remover, counter)
-privacy-center.org$domain=nrc.nl
+nrc.nl###adslot0-leaderboard
+nrc.nl## div.paywall--topbanner
+nrc.nl###adslot1-rectangle
+nrc.nl##+js(cookie-remover, counter)
+nrc.nl##div[id$="modal__overlay"],div.header__subscribe-bar,div.banner
+||nrc.nl/paywall-api/api/zephr$xmlhttprequest,~third-party
+||privacy-center.org$domain=nrc.nl
+
 
 ! Bypass cookie prompt on NU.nl and Volkskrant
 ||myprivacy-static.dpgmedia.net/consent.js$redirect=noop.js
-myprivacy.dpgmedia.nl##+js(trusted-set-cookie, cb, 1_1970_01_01_2-3, 1year, , reload, 1)
-
+dpgmedia.nl#%#//scriptlet('set-cookie-reload', 'onzin', 'accept')
 
 ! BBC
 bbc.com##.dotcom-ad
 bbc.com###cookiePrompt
 bbc.com###bbccookies
 bbc.com##div[class*="-ConsentBanner"]
+bbc.com##div[data-component="ad-slot"]
 ||bbc.com/ngas/latest/dotcom-ads.js
 /wrapperMessagingWithoutDetection.js$domain=bbc.com
 
+! The Telegraph
+telegraph.co.uk##div[id^="sp_message_container_"]
+telegraph.co.uk$permissions=identity-credentials-get=(),document
+telegraph.co.uk##.js-advert
+telegraph.co.uk##.advert-label
+telegraph.co.uk##.commercial-unit
+telegraph.co.uk##.article-betting-unit-container
+telegraph.co.uk##+js(ra, amp-access-hide, [amp-access][amp-access-hide])
+||telegraph.co.uk/martech/js/$script,~third-party
+||cdn.privacy-mgmt.com^$third-party,domain=telegraph.co.uk
+@@||evidon.mgr.consensu.org/iab/getcookie$domain=telegraph.co.uk
+@@||vendorlist.consensu.org/vendorlist.json$domain=telegraph.co.uk
+
 ! CNN
 cnn.com###onetrust-consent-sdk:not([style])
+edition.cnn.com##.ad-slot-header__wrapper
 
 ! NBC news
+nbcnews.com##.ad-container
 ||cookielaw.org^$third-party,domain=nbcnews.com
 ||onetrust.com^$third-party,domain=nbcnews.com
 
-! *** END
+
+! **** Block advertising & tracking networks
+
+!
+! Google 
+! 
+||adservice.google.com^$third-party
+||adwords.google.com^$third-party
+||analytics.google.com^$third-party
+||google.com/adsense^$third-party
+||google.com/pagead^$third-party
+||googleadservices.com^$third-party
+||googleanalytics.com^$third-party
+||google-analytics.com^$third-party
+||googleoptimize.com^$third-party
+||pagead2.googlesyndication.com^$third-party
+||googletagmanager.com^$third-party
+||googletagservices.com^$third-party
+!
+! Other search engines
+!
+||bat.bing.com^$third-party
+||adserver.yahoo.com^$third-party
+||ads.yahoo.com^$third-party
+||advertising.yahoo.com^$third-party
+||analytics.yahoo.com^$third-party
+||analytics.query.yahoo.com^$third-party
+||marketingsolutions.yahoo.com^$third-party
+||partnerads.*.yahoo.com^$third-party
+||adtech.yahooinc.com^$third-party
+||log.*.yahoo.com^$third-party
+!
+! Social media
+! 
+||ads.youtube.com^
+||facebook.com^$third-party,domain=~instagram.com|~whatsapp.com
+||facebook.net^$third-party,domain=~facebook.com|~instagram.com|~whatsapp.com
+||ads.pinterest.com^$third-party
+||analytics.pinterest.com^$third-party
+||log.pinterest.com^$third-party
+||widgets.pinterest.com^$third-party
+||trk.pinterest.com^$third-party
+||events.reddit.com^$third-party
+||events.redditmedia.com^$third-party
+!
+||ads.linkedin.com^$third-party
+||analytics.pointdrive.linkedin.com^$third-party
+
+||ads.tiktok.com^$third-party
+||ads-api.tiktok.com^$third-party
+||ads-sg.tiktok.com^$third-party
+||analytics.tiktok.com^$third-party
+||analytics-sg.tiktok.com^$third-party
+||business-api.tiktok.com^$third-party
+||ads-twitter.com^$third-party
+||ads-api.twitter.com^$third-party
+||analytics.twitter.com^$third-party
+||static.ads-twitter.com^$third-party
+
+!
+! Amazon
+! 
+||amazon-adsystem.com^$third-party
+||analytics.s3.amazonaws.com^$third-party
+||analyticsengine.s3.amazonaws.com^$third-party
+||advertising-api-eu.amazon.com^$third-party
+||advice-ads.s3.amazonaws.com^$third-party
+||adtago.s3.amazonaws.com^$third-party
+||assoc-amazon.com^$third-party
+||associates-amazon.com^$third-party
+
+!
+! Generic third-party blocks
+!
+||3lift.com^$third-party
+||adnxs.com^$third-party
+||adroll.com^$third-party
+||ads.celtra.com^$third-party
+||ads.pubmatic.com^$third-party
+||adsafeprotected.com^$third-party
+||adsdk.microsoft.com^$third-party
+||advertising-cdn.dpgmedia.cloud^$third-party
+||awin.com^$third-party
+||casalemedia.com^$third-party
+||chartbeat.com^$third-party
+||contentinsights.com^$third-party
+||dotmetrics.net^$third-party
+||doubleclick.net^$third-party
+||doubleverify.com^$third-party
+||fwmrm.net/*/admanager.js^$third-party
+||imasdk.googleapis.com^$third-party
+||liadm.com^$third-party
+||matomo.^$third-party
+||mgid.com^$third-party
+||ml314.com^$third-party
+||npttech.com/advertising.js^$third-party
+||openx.net^$third-party
+||parsely.com^$third-party
+||petametrics.com^$third-party
+||pexi.nl^$third-party
+||piano.io^$third-party
+||quantcast.com^$third-party
+||rubiconproject.com^$third-party
+||s-onetag.com^$third-party
+||sail-horizon.com^$third-party
+||scorecardresearch.com^$third-party
+||segment.com^$third-party
+||smartadserver.com^^$third-party
+||smartocto.com^$third-party
+||springserve.com^$~media,third-party
+||springserve.com^$third-party
+||ster.nl^$third-party
+||taboola.com^$third-party
+||tag.wknd.ai^$third-party
+||the-ozone-project.com^$third-party

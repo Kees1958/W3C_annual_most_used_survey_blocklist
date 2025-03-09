@@ -6,6 +6,7 @@
  
 !
 ! *** Hide/block ads & popups on my bookmarked websites
+!
 
 ! Block Startpage Search ads
 ||startpage.com^$script

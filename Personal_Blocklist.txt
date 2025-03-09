@@ -47,7 +47,7 @@ bbc.com##.dotcom-ad
 bbc.com###cookiePrompt
 bbc.com###bbccookies
 bbc.com##div[class*="-ConsentBanner"]
-bbc.com##div[data-component="ad-slot"]
+bbc.com##div[data-component="ad-slot"]https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/blob/master/Personal_Blocklist.txt
 ||bbc.com/ngas/latest/dotcom-ads.js
 /wrapperMessagingWithoutDetection.js$domain=bbc.com
 
@@ -69,6 +69,7 @@ cnn.com###onetrust-consent-sdk:not([style])
 edition.cnn.com##.ad-slot-header__wrapper
 
 ! NBC news
+nbcnews.com##div[ID*="sidebar-overlay-lightbox"]
 nbcnews.com##.ad-container
 ||cookielaw.org^$third-party,domain=nbcnews.com
 ||onetrust.com^$third-party,domain=nbcnews.com

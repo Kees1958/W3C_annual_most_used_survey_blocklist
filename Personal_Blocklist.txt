@@ -8,7 +8,7 @@
 ! *** Hide/block ads & popups on my bookmarked websites
 !
 
-! Block Startpage Search ads (is my defaault addres bar search engine)
+! Block Startpage Search ads (my defaault addres bar search engine)
 ||startpage.com^$script
 
 ! NOS

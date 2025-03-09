@@ -21,12 +21,15 @@ nu.nl##+js(rc, authorized-content, div.authorized-content, stay)
 nu.nl##+js(rc, semi-authorized-content, div.semi-authorized-content, stay)
 ||shop.nu.nl
 
-
 ! Volkskrant.nl
 volkskrant.nl##div[class="ad--top fjs-hide-on-paywall"]
 volkskrant.nl##div[class*="top1-container"]
 ||*/temptation/resolve$xmlhttprequest,~third-party,domain=volkskrant.nl
 ||temptation.*/temptation.js$script,~third-party,domain=volkskrant.nl
+
+! Bypass DPG media cookie prompt on NU.nl and Volkskrant
+||myprivacy-static.dpgmedia.net/consent.js$redirect=noop.js
+dpgmedia.nl#%#//scriptlet('set-cookie-reload', 'status', 'accept')
 
 ! NRC
 nrc.nl##+js(cookie-remover, counter)
@@ -37,11 +40,6 @@ nrc.nl##+js(cookie-remover, counter)
 nrc.nl##div[id$="modal__overlay"],div.header__subscribe-bar,div.banner
 ||nrc.nl/paywall-api/api/zephr$xmlhttprequest,~third-party
 ||privacy-center.org$domain=nrc.nl
-
-
-! Bypass DPG media cookie prompt on NU.nl and Volkskrant
-||myprivacy-static.dpgmedia.net/consent.js$redirect=noop.js
-dpgmedia.nl#%#//scriptlet('set-cookie-reload', 'status', 'accept')
 
 ! BBC
 bbc.com##.dotcom-ad

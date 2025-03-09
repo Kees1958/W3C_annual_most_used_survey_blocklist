@@ -1,5 +1,5 @@
                    WHY USE AN ADVERTISING AND TRACKING NETWORKS BLOCK LIST WITH LIMITED NUMBER OF RULES? 
-In advertising the number one (Google) has a marketshare of around 40 percent, Facebook the number two hits the 20% mark while the number three (Comscore) just has a little over 2.5% marketshare. Just have a look at the usage statistics of W3tech website (check the advertising, analysis and segment statistics) see https://w3techs.com/technologies/overview/advertising.
+In advertising the number one (Google) has a marketshare of around 40 percent, Facebook the number two hits the 20% mark while the number three (Comscore) just has a little over 2.5% marketshare. Just have a look at the usage statistics of W3tech website (check the advertising, analysis and tag managers) see https://w3techs.com/technologies/overview/advertising.
 
 A study performed by Brave browser (https://brave.com/the-mounting-cost-of-stale-ad-blocking-rules/) seems to support above claim: QUOTE "WE FOUND THAT ONLY 201 RULES ACCOUNTED FOR 90% OF THE BLOCKING ACTIVITY". Because AdGuard temporarely does not support importing other blocklists, I am using my personal blocklist for the moment and do not see ads either (using around 200 rules). Which can be explained by Brave's study adnd the W3tech usage ststistics.
 

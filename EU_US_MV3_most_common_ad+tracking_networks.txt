@@ -3,7 +3,7 @@
 ! Title: EU US ads&tracking networks MV3 (third-party blocking only)
 ! Expires: 7 days
 !
-! Version: 2025.03.08
+! Version: 2025.03.09
 !
 ! Please report issues related to website breakage at
 ! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -1040,7 +1040,6 @@
 ||fulltango.com^$third-party
 ||fuseplatform.net^$third-party
 ||futureads.com^$third-party
-||fwmrm.net/*/admanager.js^$third-party
 ||fwmrm.net^$third-party,~xmlhttprequest
 ||g2.com^$third-party
 ||galaksion.com^$third-party
@@ -1772,7 +1771,6 @@
 ||pswec.com^$third-party
 ||pub.network^$third-party
 ||publicidees.com^$third-party
-||pubmatic.com^$third-party
 ||pubmine.com^$third-party
 ||pubnation.com^$third-party
 ||pulpix.com^$third-party

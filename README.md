@@ -12,4 +12,4 @@ The blocklists are based on surveys of most used advertising and tracking techno
 To reduce the number of rules use this filter instead of the Easylist privacy or AdGuard privacy filters. This list works fine with english adfilter of Easylist or Adguard with your local language filtering list.
 
                                                       ERRORS & ISSUES
-Please report site breakage on https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues I will try to correct errors as soon as possible.  
+Please report site breakage on https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues.

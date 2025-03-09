@@ -5,7 +5,7 @@
 ! Expires: 365 days 
  
 !
-! *** Hide/block ads & popups missed by Brave shield ***
+! *** Hide/block ads & popups on my bookmarked websites
 
 ! Block Startpage Search ads
 ||startpage.com^$script

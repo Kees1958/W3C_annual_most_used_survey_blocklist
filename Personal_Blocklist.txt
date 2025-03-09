@@ -3,6 +3,7 @@
 ! Version: 2025 
 ! Title: Kees1958 personal blocklist 
 ! Expires: 365 days 
+ 
 !
 ! *** Hide/block ads & popups missed by Brave shield ***
 
@@ -153,6 +154,8 @@ nbcnews.com##.ad-container
 ||ads.pubmatic.com^$third-party
 ||adsafeprotected.com^$third-party
 ||adsdk.microsoft.com^$third-party
+||adthrive.com^$third-party
+||adtidy.org^$third-party
 ||advertising-cdn.dpgmedia.cloud^$third-party
 ||awin.com^$third-party
 ||casalemedia.com^$third-party
@@ -161,6 +164,7 @@ nbcnews.com##.ad-container
 ||dotmetrics.net^$third-party
 ||doubleclick.net^$third-party
 ||doubleverify.com^$third-party
+||dpm.demdex.net^$third-party
 ||fwmrm.net/*/admanager.js^$third-party
 ||imasdk.googleapis.com^$third-party
 ||liadm.com^$third-party

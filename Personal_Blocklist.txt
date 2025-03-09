@@ -75,7 +75,8 @@ nbcnews.com##.ad-container
 ||onetrust.com^$third-party,domain=nbcnews.com
 
 
-! **** Block advertising & tracking networks
+! *** Block advertising & tracking networks
+! *** temporarely running with a subset of my most used list because AdGuard has disabled importing custom filters
 
 !
 ! Google 
@@ -192,3 +193,13 @@ nbcnews.com##.ad-container
 ||taboola.com^$third-party
 ||tag.wknd.ai^$third-party
 ||the-ozone-project.com^$third-party
+
+! Remove Google search tracking paramenters
+||google.*/search$removeparam=biw
+||google.*/search$removeparam=bih
+||google.*/search$removeparam=sa
+||google.*/search$removeparam=source
+||google.*/search$removeparam=aqs
+||google.*/search$removeparam=sourceid
+||google.*/search$removeparam=ei
+||google.*/search$removeparam=gs_lcp

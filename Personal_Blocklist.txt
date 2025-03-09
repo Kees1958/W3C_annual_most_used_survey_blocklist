@@ -39,7 +39,7 @@ nrc.nl##div[id$="modal__overlay"],div.header__subscribe-bar,div.banner
 ||privacy-center.org$domain=nrc.nl
 
 
-! Bypass cookie prompt on NU.nl and Volkskrant
+! Bypass DPG media cookie prompt on NU.nl and Volkskrant
 ||myprivacy-static.dpgmedia.net/consent.js$redirect=noop.js
 dpgmedia.nl#%#//scriptlet('set-cookie-reload', 'status', 'accept')
 

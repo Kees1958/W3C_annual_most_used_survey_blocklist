@@ -9,7 +9,7 @@ The blocklists are based on surveys of most used advertising and tracking techno
 
                                                       SUGGESTED USE
 
-To reduce the number of rules use this filter instead of the Easylist privacy or AdGuard privacy filters. This list works fine with english adfilter of Easylist or Adguard with your local language filtering list.
+To reduce the number of rules use this filter instead of the Easylist privacy or AdGuard privacy filters. This list works fine with english adfilter of Easylist or Adguard with your local language filtering list. Note when you use Edge or Firefox build-in tracking protection in strict mode, the added value of this most used list is minimal (since Firefox and Edge, like Peter Lowe also target the advertising networks serving ads. Dor people using Peter Lowe's list I would either use my list or Peter Low's where US resisdents probably have better blocking results with Peter's list and EU resisdents will have benefits of the EI ad & tracking networks included in my list. 
 
                                                       ERRORS & ISSUES
 Please report site breakage on https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues.

@@ -8,7 +8,7 @@
 ! *** Hide/block ads & popups on my bookmarked websites
 !
 
-! Block Startpage Search ads (my defaault addres bar search engine)
+! Block Startpage Search ads (my default addres bar search engine)
 ||startpage.com^$script
 
 ! NOS
@@ -41,7 +41,7 @@ nrc.nl##div[id$="modal__overlay"],div.header__subscribe-bar,div.banner
 
 ! Bypass cookie prompt on NU.nl and Volkskrant
 ||myprivacy-static.dpgmedia.net/consent.js$redirect=noop.js
-dpgmedia.nl#%#//scriptlet('set-cookie-reload', 'onzin', 'accept')
+dpgmedia.nl#%#//scriptlet('set-cookie-reload', 'status', 'accept')
 
 ! BBC
 bbc.com##.dotcom-ad

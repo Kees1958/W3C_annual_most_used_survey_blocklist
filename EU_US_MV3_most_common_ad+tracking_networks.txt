@@ -14,8 +14,10 @@
 ! You are allowed to use this freely, but at your own risk.
 !
 ! *** Search, social media and shop ads and trackers 
-! 
+
+!
 ! Google related 
+!
 ||adservice.google.com^$third-party
 ||adwords.google.com^$third-party
 ||analytics.google.com^$third-party
@@ -29,8 +31,9 @@
 ||googletagmanager.com^$third-party
 ||googletagservices.com^$third-party
 ||ogads-pa.googleapis.com^$third-party
- 
+!
 ! Other search engines
+!
 ||bat.bing.com^$third-party
 ||adserver.yahoo.com^$third-party
 ||ads.yahoo.com^$third-party
@@ -46,8 +49,9 @@
 ||report.ap.yandex-net.ru^$third-party
 ||report.appmetrica.yandex.net^$third-party
 ||api.appmetrica.yandex.ru^$third-party
-
+!
 ! Social media
+! 
 ||ads.youtube.com^
 ||facebook.com^$third-party,domain=~instagram.com|~whatsapp.com
 ||facebook.net^$third-party,domain=~facebook.com|~instagram.com|~whatsapp.com
@@ -72,18 +76,19 @@
 ||ads-api.twitter.com^$third-party
 ||analytics.twitter.com^$third-party
 ||static.ads-twitter.com^$third-party
-
-! Amazon related 
+!
+! Amazon related
+||adtago.s3.amazonaws.com^$third-party
+||advertising-api-eu.amazon.com^$third-party
+||advice-ads.s3.amazonaws.com^$third-party
 ||amazon-adsystem.com^$third-party
 ||analytics.s3.amazonaws.com^$third-party
 ||analyticsengine.s3.amazonaws.com^$third-party
-||advertising-api-eu.amazon.com^$third-party
-||advice-ads.s3.amazonaws.com^$third-party
-||adtago.s3.amazonaws.com^$third-party
 ||assoc-amazon.com^$third-party
 ||associates-amazon.com^$third-party
 ||paa-reporting-advertising.amazon^$third-party
 ||reachableads-av.*.amazonaws.com^$third-party
+
 !
 ! *** Most common advertising & tracking networks
 !
@@ -421,13 +426,11 @@
 ||adverticum.net^$third-party
 ||advertise.com^$third-party
 ||advertisespace.com^$third-party
-||advertising-api-eu.amazon.com^$third-party
 ||advertising-cdn.dpgmedia.cloud^$third-party
 ||advertising.com^$third-party
 ||advertserve.com^$third-party
 ||advertstream.com^$third-party
 ||adviad.com^$third-party
-||advice-ads.s3.amazonaws.com^$third-party
 ||advisormedia.cz^$third-party
 ||adviva.co.uk^$third-party
 ||adviva.net^$third-party
@@ -510,8 +513,6 @@
 ||amung.us^$third-party
 ||analytics-egain.com^$third-party
 ||analytics-sm.com^$third-party
-||analytics.s3.amazonaws.com^$third-party
-||analyticsengine.s3.amazonaws.com^$third-party
 ||andbeyond.media^$third-party
 ||aniview.com^$third-party
 ||anormal-media.de^$third-party
@@ -544,8 +545,6 @@
 ||arrivalist.com^$third-party
 ||asadcdn.com^$third-party
 ||asiafriendfinder.com^$third-party
-||assoc-amazon.com^$third-party
-||associates-amazon.com^$third-party
 ||aswpsdkus.com^$third-party
 ||at-o.net^$third-party
 ||atedra.com^$third-party
@@ -3085,4 +3084,3 @@
 ||zumobi.com^$third-party
 ||zypmedia.com^$third-party
 !
-! *** end

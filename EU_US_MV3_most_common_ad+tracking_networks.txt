@@ -1122,6 +1122,7 @@
 ||epicadvertising.com^$third-party
 ||epicmarketplace.com^$third-party
 ||episerver.net^$third-party
+||eporner.com/dot/pop4.php
 ||eproof.com^$third-party
 ||epsilon.com^$third-party
 ||eqads.com^$third-party
@@ -3014,6 +3015,7 @@
 ||xplusone.com^$third-party
 ||xtendmedia.com^$third-party
 ||xtremepush.com^$third-party
+||xvideos.com/zoneload/preroll_exo/adblock^
 ||xxxblackbook.com^$third-party
 ||xxxjmp.com^$third-party
 ||xxxmatch.com^$third-party

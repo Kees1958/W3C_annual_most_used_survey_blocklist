@@ -22,8 +22,9 @@ nu.nl##+js(rc, semi-authorized-content, div.semi-authorized-content, stay)
 ||dpns-notifications.com^$domain=nu.nl
 ||shop.nu.nl
 
-
-! Volkskrant.nl Falir en Margriet
+! Volkskrant.nl
+volkskrant.nl###top1
+volkskrant.nl##.top1-container
 flair.nl,margriet.nl,volkskrant.nl##div[class="ad--top fjs-hide-on-paywall"]
 flair.nl,margriet.nl,volkskrant.nl##div[class*="top1-container"]
 ||*/temptation/resolve$xmlhttprequest,~third-party,domain=volkskrant.nl|flair.nl|margriet.nl

@@ -5,7 +5,8 @@
 ! Expires: 7 days 
  
 !
-! *** Hide/block ads & popups on bookmarked websites
+! *** Hide/block ads & popups on bookmarked websites (works for uBlockOriging/Brave and AdGuard user rules)
+!
 
 ! NOS
 nos.nl##div[id="regio-onboarding"]
@@ -20,15 +21,18 @@ nu.nl#$?#body { overflow: visible !important; }
 nu.nl##+js(rc, authorized-content, div.authorized-content, stay)
 nu.nl##+js(rc, semi-authorized-content, div.semi-authorized-content, stay)
 ||dpns-notifications.com^$domain=nu.nl
-||shop.nu.nl
+||advertising-cdn.dpgmedia.cloud^$domain=nu.nl
 
 ! Volkskrant.nl
 volkskrant.nl###top1
 volkskrant.nl##.top1-container
-flair.nl,margriet.nl,volkskrant.nl##div[class="ad--top fjs-hide-on-paywall"]
-flair.nl,margriet.nl,volkskrant.nl##div[class*="top1-container"]
-||*/temptation/resolve$xmlhttprequest,~third-party,domain=volkskrant.nl|flair.nl|margriet.nl
-||temptation.*/temptation.js$script,~third-party,domain=volkskrant.nl|flair.nl|margriet.nl
+volkskrant.nl##div[class="ad--top fjs-hide-on-paywall"]
+/temptation/resolve$xmlhttprequest,~third-party,domain=volkskrant.nl
+||temptation.*/temptation.js$script,~third-party,domain=volkskrant.nl
+
+||myprivacy-static.dpgmedia.net/consent.js$redirect=noop.js
+dpgmedia.nl##+js(set-cookie-reload, akkoord, accept)
+
 
 ! NRC
 nrc.nl##+js(cookie-remover, counter)
@@ -41,8 +45,7 @@ nrc.nl##div[id$="modal__overlay"],div.header__subscribe-bar,div.banner
 ||privacy-center.org$domain=nrc.nl
 
 ! Bypass cookie prompt on NU.nl and Volkskrant
-||myprivacy-static.dpgmedia.net/consent.js$redirect=noop.js
-dpgmedia.nl#%#//scriptlet('set-cookie-reload', 'onzin', 'accept')
+
 
 ! BBC
 bbc.com##.dotcom-ad

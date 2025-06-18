@@ -5,7 +5,7 @@
 ! Expires: 7 days 
  
 !
-! *** Hide/block ads & popups on bookmarked websites (works for uBlockOriging/Brave and AdGuard user rules)
+! *** Hide/block ads & popups on bookmarked websites (works for Brave and AdGuard user rules)
 !
 
 ! NOS

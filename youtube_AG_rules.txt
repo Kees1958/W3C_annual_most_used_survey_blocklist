@@ -4,8 +4,9 @@
 ! Title: Block in video advertisements on Youtube.com READ NOTICE!
 !
 ! Expires: 7 days 
-! You are free to copy and distribute this file, but use at your own risk
-! Rules are based on AdGuard filters, so all credits go the AdGuard team
+! 
+! Notice:
+! Rules are based on AdGuard filters, use at your own risk. All credits go the AdGuard team
 !
 ! Youtube
 */.*/$permissions=identity-credentials-get=(),document

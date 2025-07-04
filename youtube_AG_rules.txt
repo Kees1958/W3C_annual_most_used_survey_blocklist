@@ -1,6 +1,6 @@
 [AdBlockPlus 2.0]
 !
-! Version: 2025 june
+! Version: 2025-07-04
 ! Title: Block in video advertisements on Youtube.com READ NOTICE!
 !
 ! Expires: 7 days 

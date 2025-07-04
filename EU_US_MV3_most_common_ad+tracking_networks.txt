@@ -3,7 +3,7 @@
 ! Title: EU US ads&tracking networks MV3 (third-party blocking only)
 ! Expires: 7 days
 !
-! Version: 2025.06.08
+! Version: 2025.07.04
 !
 ! Please report issues related to website breakage at
 ! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -395,7 +395,6 @@
 ||adsvelocity.com^$third-party
 ||adswizz.com^$third-party
 ||adsymptotic.com^$third-party
-||adtago.s3.amazonaws.com^$third-party
 ||adtarget.me^$third-party
 ||adtdp.com^$third-party
 ||adtech.com^$third-party
@@ -512,7 +511,6 @@
 ||amadesa.com^$third-party
 ||amateurhub.cam^$third-party
 ||amazingcounters.com^$third-party
-||amazon-adsystem.com^$third-party
 ||amgdgt.com^$third-party
 ||amigos.com^$third-party
 ||amobee.com^$third-party
@@ -1731,7 +1729,7 @@
 ||mateti.net^$third-party
 ||matheranalytics.com^$third-party
 ||mathtag.com^$third-party
-||matomo.^$third-party
+||matomo.net^$third-party
 ||matomo.cloud^$third-party
 ||matomo.org^$third-party
 ||matomy.com^$third-party

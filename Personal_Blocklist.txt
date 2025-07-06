@@ -3,15 +3,23 @@
 ! Version: 2025 
 ! Title: Kees1958 personal blocklist 
 ! Expires: 7 days 
- 
-!
-! *** Hide/block ads & popups on bookmarked websites (works for Brave and AdGuard user rules)
-!
-
+! Works with Brave and AdGuard
+! 
+! ******************************************************
+! *** Block / Hide annoyances on bookmarked websites ***
+! ******************************************************
 ! NOS
 nos.nl##div[id="regio-onboarding"]
 nos.nl###ccm_notification_host
-
+||ster.nl^$domain=nos.nl
+!
+! Bypass cookie prompt on NU.nl and Volkskrant
+dpgmediagroup.com###pg-shadow-root-host
+||myprivacy-static.dpgmedia.net/consent.js$redirect=noop.js
+dpgmedia.nl##+js(set-cookie-reload, akkoord, accept)
+myprivacy.dpgmedia.nl##+js(trusted-click-element, [id^="pg-"][id*="root"][id*="shadow"] >>> button#pg-accept-btn)
+dpgmedia.nl##+js(trusted-click-element, button[title="Akkoord"])
+!
 ! NU.nl
 nu.nl##.banner
 nu.nl##.modal__container
@@ -20,20 +28,14 @@ nu.nl##.modal-layer__shade
 nu.nl#$?#body { overflow: visible !important; }
 nu.nl##+js(rc, authorized-content, div.authorized-content, stay)
 nu.nl##+js(rc, semi-authorized-content, div.semi-authorized-content, stay)
-||dpns-notifications.com^$domain=nu.nl
-||advertising-cdn.dpgmedia.cloud^$domain=nu.nl
-
+!
 ! Volkskrant.nl
 volkskrant.nl###top1
 volkskrant.nl##.top1-container
 volkskrant.nl##div[class="ad--top fjs-hide-on-paywall"]
 /temptation/resolve$xmlhttprequest,~third-party,domain=volkskrant.nl
 ||temptation.*/temptation.js$script,~third-party,domain=volkskrant.nl
-
-||myprivacy-static.dpgmedia.net/consent.js$redirect=noop.js
-dpgmedia.nl##+js(set-cookie-reload, akkoord, accept)
-
-
+!
 ! NRC
 nrc.nl##+js(cookie-remover, counter)
 nrc.nl###adslot0-leaderboard
@@ -43,19 +45,18 @@ nrc.nl##+js(cookie-remover, counter)
 nrc.nl##div[id$="modal__overlay"],div.header__subscribe-bar,div.banner
 ||nrc.nl/paywall-api/api/zephr$xmlhttprequest,~third-party
 ||privacy-center.org$domain=nrc.nl
-
-! Bypass cookie prompt on NU.nl and Volkskrant
-
-
+!
 ! BBC
 bbc.com##.dotcom-ad
 bbc.com###cookiePrompt
 bbc.com###bbccookies
 bbc.com##div[class*="-ConsentBanner"]
 bbc.com##div[data-component="ad-slot"]
-||bbc.com/ngas/latest/dotcom-ads.js
-/wrapperMessagingWithoutDetection.js$domain=bbc.com
-
+||bbc.com/ngas/latest/dotcom-ads.js^$domain=bbc.com
+||mybbc-analytics.files.bbci.co.uk^$domain=bbc.com
+/wrapperMessagingWithoutDetection.js^$domain=bbc.com
+||piano.io^$domain=bbc.com
+!
 ! The Telegraph
 telegraph.co.uk##.js-advert
 telegraph.co.uk##.advert-label
@@ -64,20 +65,29 @@ telegraph.co.uk##.article-betting-unit-container
 telegraph.co.uk##div[id^="sp_message_container_"]
 ||telegraph.co.uk/martech/js/$script,~third-party
 ||cdn.privacy-mgmt.com^$third-party,domain=telegraph.co.uk
-||petametrics.com$domain=telegraph.co.uk
-||polyfill-fastly.io$domain=telegraph.co.uk
 @@||evidon.mgr.consensu.org/iab/getcookie$domain=telegraph.co.uk
 @@||vendorlist.consensu.org/vendorlist.json$domain=telegraph.co.uk
-
+||adobedtm.com^$domain=telegraph.co.uk,important
+||polyfill-fastly.io^$domain=telegraph.co.uk
+||viafoura.co^$domain=telegraph.co.uk,important
+||viafoura.net^$domain=telegraph.co.uk,important
+||petametrics.com^$domain=telegraph.co.uk
+!
 ! CNN
 cnn.com###onetrust-consent-sdk:not([style])
 edition.cnn.com##.ad-slot-header__wrapper
-
+||bitmovin.com^$domain=cnn.com
+||accounts.google.com^$domain=cnn.com
+!
 ! NBC news
 nbcnews.com##.ad-container
 nbcnews.com##div[id*="sidebar-overlay-lightbox"]
-||cookielaw.org$domain=nbcnews.com
-||onetrust.com$domain=nbcnews.com
-
+||cookielaw.org^$domain=nbcnews.com
+||onetrust.com$^domain=nbcnews.com
+||fwmrm.net/ad/^$domain=nbcnews.com
+!
 ! FOX news
 foxnews.com##div.alert-container
+foxnews.com##+js(ra, class, div[class*="gated-overlay"])
+foxnews.com##div.article-gating-wrapper
+!

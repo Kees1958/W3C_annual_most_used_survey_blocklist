@@ -12,7 +12,7 @@
 nos.nl##div[id="regio-onboarding"]
 nos.nl###ccm_notification_host
 ||ster.nl^$domain=nos.nl
-||usabilla.com^$domain=nos.nl
+||usabilla.com^$domain=nos.nl,important
 !
 ! Bypass cookie prompt on NU.nl and Volkskrant
 dpgmediagroup.com###pg-shadow-root-host

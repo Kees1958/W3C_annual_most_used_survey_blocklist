@@ -28,6 +28,8 @@ nu.nl##.modal-layer__shade
 nu.nl#$?#body { overflow: visible !important; }
 nu.nl##+js(rc, authorized-content, div.authorized-content, stay)
 nu.nl##+js(rc, semi-authorized-content, div.semi-authorized-content, stay)
+||advertising-cdn.dpgmedia.cloud^$domain=nu.nl
+||pexi.nl^$domain=nu.nl
 !
 ! Volkskrant.nl
 volkskrant.nl###top1

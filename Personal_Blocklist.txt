@@ -12,6 +12,7 @@
 nos.nl##div[id="regio-onboarding"]
 nos.nl###ccm_notification_host
 ||ster.nl^$domain=nos.nl
+||usabilla.com^$domain=nos.nl
 !
 ! Bypass cookie prompt on NU.nl and Volkskrant
 dpgmediagroup.com###pg-shadow-root-host
@@ -37,6 +38,7 @@ volkskrant.nl##.top1-container
 volkskrant.nl##div[class="ad--top fjs-hide-on-paywall"]
 /temptation/resolve$xmlhttprequest,~third-party,domain=volkskrant.nl
 ||temptation.*/temptation.js$script,~third-party,domain=volkskrant.nl
+||visualweb
 !
 ! NRC
 nrc.nl##+js(cookie-remover, counter)

@@ -8,9 +8,6 @@
 ! ******************************************************
 ! *** Block / Hide annoyances on bookmarked websites ***
 ! ******************************************************
-! ******************************************************
-! *** Block / Hide annoyances on bookmarked websites ***
-! ******************************************************
 !
 ! NOS (official Dutch news)
 nos.nl##div[id="regio-onboarding"]
@@ -36,7 +33,7 @@ nu.nl##+js(rc, semi-authorized-content, div.semi-authorized-content, stay)
 ||advertising-cdn.dpgmedia.cloud^$domain=nu.nl
 ||pexi.nl^$domain=nu.nl
 !
-! Volkskrant.nl (quality paper leans left)
+! Volkskrant.nl (quality paper leans left progressive)
 volkskrant.nl###top1
 volkskrant.nl##.top1-container
 volkskrant.nl##div[class="ad--top fjs-hide-on-paywall"]
@@ -45,7 +42,7 @@ volkskrant.nl##div[class="ad--top fjs-hide-on-paywall"]
 ||visualwebsiteoptimizer.com^$domain=volkskrant.nl
 ||advertising-cdn.dpgmedia.cloud^$domain=volkskrant.nl
 !
-! NRC (quality paper leans right)
+! NRC (quality paper leans right liberal)
 nrc.nl##+js(cookie-remover, counter)
 nrc.nl###adslot0-leaderboard
 nrc.nl## div.paywall--topbanner
@@ -66,7 +63,7 @@ bbc.com##div[data-component="ad-slot"]
 /wrapperMessagingWithoutDetection.js^$domain=bbc.com
 ||piano.io^$domain=bbc.com
 !
-! CNN (US news democratic party oriented)
+! CNN (US news pro democrats)
 cnn.com###onetrust-consent-sdk:not([style])
 edition.cnn.com##.ad-slot-header__wrapper
 ||bitmovin.com^$domain=cnn.com
@@ -75,10 +72,10 @@ edition.cnn.com##.ad-slot-header__wrapper
 ||optimizely.com^$domain=cnn.com
 ||s-onetag.com^$domain=cnn.com
 !
-! ABC news (US news closest to centre)
+! ABC news (US news sort of centrist)
 ||uplynk.com^$domain=abcnews.com
 !
-! FOX news (US news republican party oriented)
+! FOX news (US news pro republicans)
 foxnews.com##div.alert-container
 foxnews.com##+js(ra, class, div[class*="gated-overlay"])
 foxnews.com##div.article-gating-wrapper

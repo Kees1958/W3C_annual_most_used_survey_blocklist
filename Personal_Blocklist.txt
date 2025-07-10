@@ -73,7 +73,7 @@ edition.cnn.com##.ad-slot-header__wrapper
 ||s-onetag.com^$domain=cnn.com
 !
 ! ABC news (US news sort of centrist)
-||uplynk.com^$domain=abcnews.com
+||uplynk.com^$domain=abcnews.go.com
 !
 ! FOX news (US news pro republicans)
 foxnews.com##div.alert-container

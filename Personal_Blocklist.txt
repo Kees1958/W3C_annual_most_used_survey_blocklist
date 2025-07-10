@@ -75,7 +75,7 @@ edition.cnn.com##.ad-slot-header__wrapper
 ||optimizely.com^$domain=cnn.com
 ||s-onetag.com^$domain=cnn.com
 !
-! ABC news (US news centre)
+! ABC news (US news closest to centre)
 ||uplynk.com^$domain=abcnews.com
 !
 ! FOX news (US news republican party oriented)

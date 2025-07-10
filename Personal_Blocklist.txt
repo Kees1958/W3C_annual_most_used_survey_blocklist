@@ -8,7 +8,11 @@
 ! ******************************************************
 ! *** Block / Hide annoyances on bookmarked websites ***
 ! ******************************************************
-! NOS
+! ******************************************************
+! *** Block / Hide annoyances on bookmarked websites ***
+! ******************************************************
+!
+! NOS (official Dutch news)
 nos.nl##div[id="regio-onboarding"]
 nos.nl###ccm_notification_host
 ||ster.nl^$domain=nos.nl
@@ -21,7 +25,7 @@ dpgmedia.nl##+js(set-cookie-reload, akkoord, accept)
 myprivacy.dpgmedia.nl##+js(trusted-click-element, [id^="pg-"][id*="root"][id*="shadow"] >>> button#pg-accept-btn)
 dpgmedia.nl##+js(trusted-click-element, button[title="Akkoord"])
 !
-! NU.nl
+! NU.nl (popular Dutch news)
 nu.nl##.banner
 nu.nl##.modal__container
 nu.nl##.modal, .modal--breaking-push, .breaking-push-modal
@@ -32,15 +36,16 @@ nu.nl##+js(rc, semi-authorized-content, div.semi-authorized-content, stay)
 ||advertising-cdn.dpgmedia.cloud^$domain=nu.nl
 ||pexi.nl^$domain=nu.nl
 !
-! Volkskrant.nl
+! Volkskrant.nl (quality paper leans left)
 volkskrant.nl###top1
 volkskrant.nl##.top1-container
 volkskrant.nl##div[class="ad--top fjs-hide-on-paywall"]
 /temptation/resolve$xmlhttprequest,~third-party,domain=volkskrant.nl
 ||temptation.*/temptation.js$script,~third-party,domain=volkskrant.nl
-||visualweb
+||visualwebsiteoptimizer.com^$domain=volkskrant.nl
+||advertising-cdn.dpgmedia.cloud^$domain=volkskrant.nl
 !
-! NRC
+! NRC (quality paper leans right)
 nrc.nl##+js(cookie-remover, counter)
 nrc.nl###adslot0-leaderboard
 nrc.nl## div.paywall--topbanner
@@ -50,7 +55,7 @@ nrc.nl##div[id$="modal__overlay"],div.header__subscribe-bar,div.banner
 ||nrc.nl/paywall-api/api/zephr$xmlhttprequest,~third-party
 ||privacy-center.org$domain=nrc.nl
 !
-! BBC
+! BBC (official UK news)
 bbc.com##.dotcom-ad
 bbc.com###cookiePrompt
 bbc.com###bbccookies
@@ -61,37 +66,21 @@ bbc.com##div[data-component="ad-slot"]
 /wrapperMessagingWithoutDetection.js^$domain=bbc.com
 ||piano.io^$domain=bbc.com
 !
-! The Telegraph
-telegraph.co.uk##.js-advert
-telegraph.co.uk##.advert-label
-telegraph.co.uk##.commercial-unit
-telegraph.co.uk##.article-betting-unit-container
-telegraph.co.uk##div[id^="sp_message_container_"]
-||telegraph.co.uk/martech/js/$script,~third-party
-||cdn.privacy-mgmt.com^$third-party,domain=telegraph.co.uk
-@@||evidon.mgr.consensu.org/iab/getcookie$domain=telegraph.co.uk
-@@||vendorlist.consensu.org/vendorlist.json$domain=telegraph.co.uk
-||adobedtm.com^$domain=telegraph.co.uk,important
-||polyfill-fastly.io^$domain=telegraph.co.uk
-||viafoura.co^$domain=telegraph.co.uk,important
-||viafoura.net^$domain=telegraph.co.uk,important
-||petametrics.com^$domain=telegraph.co.uk
-!
-! CNN
+! CNN (US news democratic party oriented)
 cnn.com###onetrust-consent-sdk:not([style])
 edition.cnn.com##.ad-slot-header__wrapper
 ||bitmovin.com^$domain=cnn.com
 ||accounts.google.com^$domain=cnn.com
+||chartbeat/com^$domain=cnn.com 
+||optimizely.com^$domain=cnn.com
+||s-onetag.com^$domain=cnn.com
 !
-! NBC news
-nbcnews.com##.ad-container
-nbcnews.com##div[id*="sidebar-overlay-lightbox"]
-||cookielaw.org^$domain=nbcnews.com
-||onetrust.com$^domain=nbcnews.com
-||fwmrm.net/ad/^$domain=nbcnews.com
+! ABC news (US news centre)
+||uplynk.com^$domain=abcnews.com
 !
-! FOX news
+! FOX news (US news republican party oriented)
 foxnews.com##div.alert-container
 foxnews.com##+js(ra, class, div[class*="gated-overlay"])
 foxnews.com##div.article-gating-wrapper
+||segment.com^$domain=foxnews.com
 !

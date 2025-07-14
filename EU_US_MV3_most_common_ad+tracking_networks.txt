@@ -3,7 +3,7 @@
 ! Title: EU US ads&tracking networks MV3 (third-party blocking only)
 ! Expires: 7 days
 !
-! Version: 2025.07.04
+! Version: 2025.07.14
 !
 ! Please report issues related to website breakage at
 ! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -50,13 +50,16 @@
 ||udcm.yahoo.com^$third-party
 ||gemini.yahoo.com^$third-party
 ||gotoyahoo.com^$third-party
-||extmaps-api.yandex.net^$third-party
-||report.ap.yandex-net.ru^$third-party
 ||adfstat.yandex.ru^$third-party
+||api-metrika.yandex.net^$third-party
 ||appmetrica.yandex.ru^$third-party
+||appmetrica.yandex.com^$third-party
+||informer.yandex.ru^$third-party
+||mc.yandex.ru^$third-party
 ||metrika.yandex.ru^$third-party
+||metrika.yandex.com^$third-party
 ||offerwall.yandex.net^$third-party
-||adfox.yandex.ru^$third-party
+||report.ap.yandex-net.ru^$third-party
 !
 ! Social media
 ! 

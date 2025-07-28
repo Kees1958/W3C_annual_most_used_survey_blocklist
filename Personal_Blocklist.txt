@@ -7,20 +7,13 @@
 ! 
 ! ******************************************************
 ! *** Block / Hide annoyances on bookmarked websites ***
-! ******************************************************
 !
 ! NOS (official Dutch news)
-nos.nl##div[id="regio-onboarding"]
+nos.nl##ccm-notification
 nos.nl###ccm_notification_host
+nos.nl##div[id="regio-onboarding"]
 ||ster.nl^$domain=nos.nl
 ||usabilla.com^$domain=nos.nl,important
-!
-! Bypass cookie prompt on NU.nl and Volkskrant
-dpgmediagroup.com###pg-shadow-root-host
-||myprivacy-static.dpgmedia.net/consent.js$redirect=noop.js
-dpgmedia.nl##+js(set-cookie-reload, akkoord, accept)
-myprivacy.dpgmedia.nl##+js(trusted-click-element, [id^="pg-"][id*="root"][id*="shadow"] >>> button#pg-accept-btn)
-dpgmedia.nl##+js(trusted-click-element, button[title="Akkoord"])
 !
 ! NU.nl (popular Dutch news)
 nu.nl##.banner
@@ -53,6 +46,7 @@ nrc.nl##div[id$="modal__overlay"],div.header__subscribe-bar,div.banner
 ||privacy-center.org$domain=nrc.nl
 !
 ! BBC (official UK news)
+@@doubleverify.com^$domain=bbc.com,important
 bbc.com##.dotcom-ad
 bbc.com###cookiePrompt
 bbc.com###bbccookies
@@ -64,11 +58,11 @@ bbc.com##div[data-component="ad-slot"]
 ||piano.io^$domain=bbc.com
 !
 ! CNN (US news pro democrats)
+@@cnn.com^$doamin=cnn.com,important
 cnn.com###onetrust-consent-sdk:not([style])
-edition.cnn.com##.ad-slot-header__wrapper
 ||bitmovin.com^$domain=cnn.com
 ||accounts.google.com^$domain=cnn.com
-||chartbeat/com^$domain=cnn.com 
+||chartbeat/com^$domain=cnn.com
 ||optimizely.com^$domain=cnn.com
 ||s-onetag.com^$domain=cnn.com
 !
@@ -76,8 +70,13 @@ edition.cnn.com##.ad-slot-header__wrapper
 ||uplynk.com^$domain=abcnews.go.com
 !
 ! FOX news (US news pro republicans)
+@@demdex.net^$domain=foxnews.com,important
+foxnew.com###alert-container
 foxnews.com##div.alert-container
+foxnews.com###ad-container
+foxnews.com##.item-newsletter
 foxnews.com##+js(ra, class, div[class*="gated-overlay"])
 foxnews.com##div.article-gating-wrapper
 ||segment.com^$domain=foxnews.com
 !
+! ******************************************************

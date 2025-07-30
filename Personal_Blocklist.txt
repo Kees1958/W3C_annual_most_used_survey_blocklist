@@ -4,15 +4,20 @@
 ! Title: Kees1958 personal blocklist 
 ! Expires: 7 days 
 ! Works with Brave and AdGuard
-! 
-! ******************************************************
-! *** Block / Hide annoyances on bookmarked websites ***
+! Dutch ad networks
+||adconfigproxy.azurewebsites.net^$third-party
+||advertising-cdn.dpgmedia.cloud^$third-party
+||cryptosplash.care^$third-party
+||cryptobeneluxbanner.care^$third-party
+||optoutadvertising.com^$third-party
+||optoutadserving.com^$third-party
+||pexi.nl^$third-party
+||ster.nl^$third-party
 !
 ! NOS (official Dutch news)
 nos.nl##ccm-notification
 nos.nl###ccm_notification_host
 nos.nl##div[id="regio-onboarding"]
-||ster.nl^$domain=nos.nl
 ||usabilla.com^$domain=nos.nl,important
 !
 ! NU.nl (popular Dutch news)
@@ -23,8 +28,6 @@ nu.nl##.modal-layer__shade
 nu.nl#$?#body { overflow: visible !important; }
 nu.nl##+js(rc, authorized-content, div.authorized-content, stay)
 nu.nl##+js(rc, semi-authorized-content, div.semi-authorized-content, stay)
-||advertising-cdn.dpgmedia.cloud^$domain=nu.nl
-||pexi.nl^$domain=nu.nl
 !
 ! Volkskrant.nl (quality paper leans left progressive)
 volkskrant.nl###top1
@@ -33,7 +36,6 @@ volkskrant.nl##div[class="ad--top fjs-hide-on-paywall"]
 /temptation/resolve$xmlhttprequest,~third-party,domain=volkskrant.nl
 ||temptation.*/temptation.js$script,~third-party,domain=volkskrant.nl
 ||visualwebsiteoptimizer.com^$domain=volkskrant.nl
-||advertising-cdn.dpgmedia.cloud^$domain=volkskrant.nl
 !
 ! NRC (quality paper leans right liberal)
 nrc.nl##+js(cookie-remover, counter)
@@ -78,5 +80,6 @@ foxnews.com##.item-newsletter
 foxnews.com##+js(ra, class, div[class*="gated-overlay"])
 foxnews.com##div.article-gating-wrapper
 ||segment.com^$domain=foxnews.com
+!
 !
 ! ******************************************************

@@ -1,0 +1,138 @@
+[
+  {
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "/temptation/resolve",
+      "domainType": "firstParty",
+      "initiatorDomains": [
+        "volkskrant.nl"
+      ],
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "id": 1
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "||temptation.*/temptation.js",
+      "domainType": "firstParty",
+      "initiatorDomains": [
+        "volkskrant.nl"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "id": 2
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "||nrc.nl/paywall-api/api/zephr",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "id": 3
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "requestDomains": [
+        "privacy-center.org"
+      ],
+      "initiatorDomains": [
+        "nrc.nl"
+      ]
+    },
+    "id": 4
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "/wrappermessagingwithoutdetection.js^",
+      "initiatorDomains": [
+        "bbc.com"
+      ]
+    },
+    "id": 5
+  },
+  {
+    "priority": 10,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "requestDomains": [
+        "adobedtm.com"
+      ],
+      "excludedRequestDomains": [
+        "adobe.com"
+      ]
+    },
+    "id": 6
+  },
+  {
+    "priority": 10,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "domainType": "thirdParty",
+      "requestDomains": [
+        "facebook.com",
+        "facebook.net"
+      ],
+      "excludedRequestDomains": [
+        "facebook.com",
+        "instagram.com",
+        "whatsapp.com"
+      ]
+    },
+    "id": 7
+  },
+  {
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "transform": {
+          "queryTransform": {
+            "removeParams": [
+              "biw",
+              "bih",
+              "sa",
+              "source",
+              "aqs",
+              "sourceid",
+              "ei",
+              "gs_lcp"
+            ]
+          }
+        }
+      }
+    },
+    "condition": {
+      "urlFilter": "||google.com/search",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame",
+        "xmlhttprequest"
+      ]
+    },
+    "id": 8
+  }
+]

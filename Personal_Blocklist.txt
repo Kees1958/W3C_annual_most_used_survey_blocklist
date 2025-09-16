@@ -13,12 +13,14 @@
 ||optoutadserving.com^$third-party
 ||pexi.nl^$third-party
 ||ster.nl^$third-party
-!
+
 ! NOS (official Dutch news)
 nos.nl##ccm-notification
 nos.nl###ccm_notification_host
 nos.nl##div[id="regio-onboarding"]
-||usabilla.com^$domain=nos.nl,important
+||cdn-ster-nl.akamaized.net/STERAD_P_*.mp4^$media,redirect=noopmp4-1s,domain=nos.nl
+nos.nl##+js(json-prune, adUrl)
+||adconfig.ster.nl^$domain=nos.nl
 !
 ! NU.nl (popular Dutch news)
 nu.nl##.banner
@@ -44,11 +46,13 @@ nrc.nl## div.paywall--topbanner
 nrc.nl###adslot1-rectangle
 nrc.nl##+js(cookie-remover, counter)
 nrc.nl##div[id$="modal__overlay"],div.header__subscribe-bar,div.banner
+nrc.nl##.dmt-login-modal
 ||nrc.nl/paywall-api/api/zephr$xmlhttprequest,~third-party
 ||privacy-center.org$domain=nrc.nl
 !
 ! BBC (official UK news)
 @@doubleverify.com^$domain=bbc.com,important
+bbc.com##top1-container
 bbc.com##.dotcom-ad
 bbc.com###cookiePrompt
 bbc.com###bbccookies
@@ -60,16 +64,13 @@ bbc.com##div[data-component="ad-slot"]
 ||piano.io^$domain=bbc.com
 !
 ! CNN (US news pro democrats)
-@@cnn.com^$doamin=cnn.com,important
+
 cnn.com###onetrust-consent-sdk:not([style])
 ||bitmovin.com^$domain=cnn.com
 ||accounts.google.com^$domain=cnn.com
-||chartbeat/com^$domain=cnn.com
+||chartbeat.com^$domain=cnn.com
 ||optimizely.com^$domain=cnn.com
 ||s-onetag.com^$domain=cnn.com
-!
-! ABC news (US news sort of centrist)
-||uplynk.com^$domain=abcnews.go.com
 !
 ! FOX news (US news pro republicans)
 @@demdex.net^$domain=foxnews.com,important
@@ -80,6 +81,7 @@ foxnews.com##.item-newsletter
 foxnews.com##+js(ra, class, div[class*="gated-overlay"])
 foxnews.com##div.article-gating-wrapper
 ||segment.com^$domain=foxnews.com
+
 !
 !
 ! ******************************************************

@@ -3,7 +3,8 @@
 ! Version: 2025 
 ! Title: Kees1958 personal blocklist 
 ! Expires: 7 days 
-! Works with Brave and AdGuard
+! Works with AdGuard
+
 ! Dutch ad networks
 ||adconfigproxy.azurewebsites.net^$third-party
 ||advertising-cdn.dpgmedia.cloud^$third-party
@@ -18,10 +19,14 @@
 nos.nl##ccm-notification
 nos.nl###ccm_notification_host
 nos.nl##div[id="regio-onboarding"]
-||cdn-ster-nl.akamaized.net/STERAD_P_*.mp4^$media,redirect=noopmp4-1s,domain=nos.nl
 nos.nl##+js(json-prune, adUrl)
-||adconfig.ster.nl^$domain=nos.nl
-!
+||cdn-ster-nl.akamaized.net/STERAD_P_*.mp4^$media,redirect=noopmp4-1s,domain=nos.nl
+
+! BNR 
+bnr.nl##.bnr-message, .ad
+||consent.bnr.nl
+bnr.nl##div[class*="StickyPlayer_sticky-player-container"]
+
 ! NU.nl (popular Dutch news)
 nu.nl##.banner
 nu.nl##.modal__container
@@ -30,6 +35,8 @@ nu.nl##.modal-layer__shade
 nu.nl#$?#body { overflow: visible !important; }
 nu.nl##+js(rc, authorized-content, div.authorized-content, stay)
 nu.nl##+js(rc, semi-authorized-content, div.semi-authorized-content, stay)
+myprivacy.dpgmedia.nl#%#//scriptlet('trusted-set-cookie-reload', 'authId', 'c1844308-aefd-40d5-87ea-c51728ba961f')
+nu.nl###pg-host-shadow-root
 !
 ! Volkskrant.nl (quality paper leans left progressive)
 volkskrant.nl###top1
@@ -37,7 +44,8 @@ volkskrant.nl##.top1-container
 volkskrant.nl##div[class="ad--top fjs-hide-on-paywall"]
 /temptation/resolve$xmlhttprequest,~third-party,domain=volkskrant.nl
 ||temptation.*/temptation.js$script,~third-party,domain=volkskrant.nl
-||visualwebsiteoptimizer.com^$domain=volkskrant.nl
+myprivacy.dpgmedia.nl#%#//scriptlet('trusted-set-cookie-reload', 'authId', 'c1844308-aefd-40d5-87ea-c51728ba961f')
+volkskrant.nl###pg-host-shadow-root
 !
 ! NRC (quality paper leans right liberal)
 nrc.nl##+js(cookie-remover, counter)
@@ -64,8 +72,8 @@ bbc.com##div[data-component="ad-slot"]
 ||piano.io^$domain=bbc.com
 !
 ! CNN (US news pro democrats)
-
 cnn.com###onetrust-consent-sdk:not([style])
+cnn.com##.ad-slot-header__wrapper
 ||bitmovin.com^$domain=cnn.com
 ||accounts.google.com^$domain=cnn.com
 ||chartbeat.com^$domain=cnn.com
@@ -73,15 +81,16 @@ cnn.com###onetrust-consent-sdk:not([style])
 ||s-onetag.com^$domain=cnn.com
 !
 ! FOX news (US news pro republicans)
-@@demdex.net^$domain=foxnews.com,important
 foxnew.com###alert-container
 foxnews.com##div.alert-container
 foxnews.com###ad-container
 foxnews.com##.item-newsletter
 foxnews.com##+js(ra, class, div[class*="gated-overlay"])
 foxnews.com##div.article-gating-wrapper
+foxnews.com##+js(ra, class, div[class*="gated-overlay"])
+foxnews.com##div.article-gating-wrapper
+foxnews.com###fmm-slide-iam > iframe
 ||segment.com^$domain=foxnews.com
 
-!
-!
+!!
 ! ******************************************************

@@ -1,6 +1,6 @@
 [AdBlockPlus 2.0]
 !
-! Title: WARNING! => WEBSITE NOT FROM EU-zone OR 5 EYES (UK, US, CA, AU, NZ)
+! Title: WARNING! WEBSITE NOT FROM EU OR 5 EYES
 ! Expires: 7 days
 !
 ! Version: 2025.09.27

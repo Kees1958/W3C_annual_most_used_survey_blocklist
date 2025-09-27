@@ -1,20 +1,3 @@
-[AdBlockPlus 4.0]
-!
-! Version: 2025 
-! Title: Kees1958 personal blocklist 
-! Expires: 7 days 
-! Works with AdGuard
-
-! Dutch ad networks
-||adconfigproxy.azurewebsites.net^$third-party
-||advertising-cdn.dpgmedia.cloud^$third-party
-||cryptosplash.care^$third-party
-||cryptobeneluxbanner.care^$third-party
-||optoutadvertising.com^$third-party
-||optoutadserving.com^$third-party
-||pexi.nl^$third-party
-||ster.nl^$third-party
-
 ! NOS (official Dutch news)
 nos.nl##ccm-notification
 nos.nl###ccm_notification_host
@@ -35,7 +18,6 @@ nu.nl##.modal-layer__shade
 nu.nl#$?#body { overflow: visible !important; }
 nu.nl##+js(rc, authorized-content, div.authorized-content, stay)
 nu.nl##+js(rc, semi-authorized-content, div.semi-authorized-content, stay)
-
 !
 ! Volkskrant.nl (quality paper leans left progressive)
 volkskrant.nl###top1
@@ -43,7 +25,8 @@ volkskrant.nl##.top1-container
 volkskrant.nl##div[class="ad--top fjs-hide-on-paywall"]
 /temptation/resolve$xmlhttprequest,~third-party,domain=volkskrant.nl
 ||temptation.*/temptation.js$script,~third-party,domain=volkskrant.nl
-
+myprivacy.dpgmedia.nl#%#//scriptlet('trusted-set-cookie-reload', 'authId', 'c1844308-aefd-40d5-87ea-c51728ba961f')
+volkskrant.nl###pg-host-shadow-root
 !
 ! NRC (quality paper leans right liberal)
 nrc.nl##+js(cookie-remover, counter)
@@ -90,5 +73,3 @@ foxnews.com##div.article-gating-wrapper
 foxnews.com###fmm-slide-iam > iframe
 ||segment.com^$domain=foxnews.com
 
-!!
-! ******************************************************

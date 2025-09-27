@@ -1,0 +1,12 @@
+[AdBlockPlus 2.0]
+!
+! Title: Warning not a 5 eyes or EU website 
+! Expires: 7 days
+!
+! Version: 2025.09.27
+!
+! You are allowed to use this freely, but at your own risk.
+
+! Block websites not coming from EU or 5 eyes country codes
+! and some common top level domains (com, edu, io, net, org)
+||*$document,denyallow=AT|BE|BG|HR|CY|CZ|DK|EE|EI|FI|FR|DE|ES|GR|HU|IE|IT|LV|LT|LU|MT|NL|PL|PT|RO|SK|SI|SE|NO|CH|UK|US|CA|AU|NZ|com|edu|io|net|org

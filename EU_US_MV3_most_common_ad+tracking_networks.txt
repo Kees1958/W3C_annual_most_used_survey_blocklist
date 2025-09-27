@@ -30,8 +30,10 @@
 ||pagead2.googlesyndication.com^$third-party
 ||googletagmanager.com^$third-party
 ||googletagservices.com^$third-party
+||imasdk.googleapis.com^$third-party
 ||ogads-pa.googleapis.com^$third-party
 ||afs.googlesyndication.com^$third-party
+||doubleclick.net^$third-party
 !
 ! Other search engines
 !
@@ -1060,7 +1062,6 @@
 ||dotmetrics.net^$third-party
 ||dotomi.com^$third-party
 ||double-check.com^$third-party
-||doubleclick.net^$third-party
 ||doublepimp.com^$third-party
 ||doublepositive.com^$third-party
 ||doubleverify.com^$third-party
@@ -1436,7 +1437,6 @@
 ||iheartbucks.com^$third-party
 ||ilovecheating.com^$third-party
 ||im-apps.net^$third-party
-||imasdk.googleapis.com^$third-party
 ||imediacrew.club^$third-party
 ||imglnka.com^$third-party
 ||imglnkb.com^$third-party
@@ -2760,6 +2760,7 @@
 ||traffic.ru^$third-party
 ||trafficbass.com^$third-party
 ||trafficfacts.com^$third-party
+||trafficforce.com^$third-party
 ||trafficguard.ai^$third-party
 ||traffichaus.com^$third-party
 ||trafficholder.com^$third-party

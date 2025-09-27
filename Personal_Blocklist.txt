@@ -27,6 +27,7 @@ nu.nl##.modal-layer__shade
 nu.nl#$?#body { overflow: visible !important; }
 nu.nl##+js(rc, authorized-content, div.authorized-content, stay)
 nu.nl##+js(rc, semi-authorized-content, div.semi-authorized-content, stay)
+nu.nl###pg-host-shadow-root
 !
 ! Volkskrant.nl (quality paper leans left progressive)
 volkskrant.nl###top1
@@ -34,8 +35,11 @@ volkskrant.nl##.top1-container
 volkskrant.nl##div[class="ad--top fjs-hide-on-paywall"]
 /temptation/resolve$xmlhttprequest,~third-party,domain=volkskrant.nl
 ||temptation.*/temptation.js$script,~third-party,domain=volkskrant.nl
-myprivacy.dpgmedia.nl#%#//scriptlet('trusted-set-cookie-reload', 'authId', 'c1844308-aefd-40d5-87ea-c51728ba961f')
-volkskrant.nl###pg-host-shadow-root
+||myprivacy-static.dpgmedia.net/consent.js$script,redirect=noop.js,domain=volkskrant.nl
+volkskrant.nl#%#//scriptlet('trusted-set-cookie-reload', 'authId', 'c1844308-aefd-40d5-87ea-c51728ba961f')
+volkskrant.nl#%#//scriptlet('trusted-set-cookie-reload', 'sel_tcf20_marketing', '1')
+volkskrant.nl#%#//scriptlet('trusted-set-cookie-reload', 'tcf20_purposes', 'functional')
+
 !
 ! NRC (quality paper leans right liberal)
 nrc.nl##+js(cookie-remover, counter)
@@ -82,3 +86,5 @@ foxnews.com##div.article-gating-wrapper
 foxnews.com###fmm-slide-iam > iframe
 ||segment.com^$domain=foxnews.com
 
+
+! *** end

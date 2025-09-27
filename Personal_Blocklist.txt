@@ -1,3 +1,12 @@
+[AdBlockPlus 2.0]
+!
+! Title: Personal blocklist Kees1958 for bookmarked websites
+! Expires: 7 days
+!
+! Version: 2025.09.27
+!
+! You are allowed to use this freely, but at your own risk.
+
 ! NOS (official Dutch news)
 nos.nl##ccm-notification
 nos.nl###ccm_notification_host

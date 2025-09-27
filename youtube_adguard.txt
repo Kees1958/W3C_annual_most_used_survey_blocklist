@@ -1,3 +1,13 @@
+[AdBlockPlus 2.0]
+!
+! Title: AdGuard's rules for blocking in-video Youtube ads 
+! Expires: 7 days
+!
+! Version: 2025.09.27
+!
+! Credit and thanks to AdGuard team
+
+
 ! Youtube (adguard rules)
 
 youtube.com#%#(()=>{const t={apply:(t,o,n)=>{const e=n[0];return"function"==typeof e&&e.toString().includes("onAbnormalityDetected")&&(n[0]=function(){}),Reflect.apply(t,o,n)}};window.Promise.prototype.then=new Proxy(window.Promise.prototype.then,t)})();

@@ -78,14 +78,6 @@ foxnews.com##div.article-gating-wrapper
 foxnews.com###fmm-slide-iam > iframe
 ||segment.com^$domain=foxnews.com
 
-! Remove Google search tracking parameters
-||google.*/search$removeparam=biw
-||google.*/search$removeparam=bih
-||google.*/search$removeparam=sa
-||google.*/search$removeparam=source
-||google.*/search$removeparam=aqs
-||google.*/search$removeparam=sourceid
-||google.*/search$removeparam=ei
-||google.*/search$removeparam=gs_lcp
 
 ! *** end
+

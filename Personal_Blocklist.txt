@@ -1,12 +1,3 @@
-[AdBlockPlus 2.0]
-!
-! Title: Personal blocklist Kees1958 for bookmarked websites
-! Expires: 7 days
-!
-! Version: 2025.09.27
-!
-! You are allowed to use this freely, but at your own risk.
-
 ! NOS (official Dutch news)
 nos.nl##ccm-notification
 nos.nl###ccm_notification_host
@@ -27,7 +18,8 @@ nu.nl##.modal-layer__shade
 nu.nl#$?#body { overflow: visible !important; }
 nu.nl##+js(rc, authorized-content, div.authorized-content, stay)
 nu.nl##+js(rc, semi-authorized-content, div.semi-authorized-content, stay)
-nu.nl###pg-host-shadow-root
+nu.nl##+js(trusted-set-cookie, sel_tcf20_marketing, 1, 1year, , reload, 1)
+nu.nl##+js(trusted-set-cookie, tcf20_purpose, functional, 1year, , reload, 1)
 !
 ! Volkskrant.nl (quality paper leans left progressive)
 volkskrant.nl###top1
@@ -36,9 +28,9 @@ volkskrant.nl##div[class="ad--top fjs-hide-on-paywall"]
 /temptation/resolve$xmlhttprequest,~third-party,domain=volkskrant.nl
 ||temptation.*/temptation.js$script,~third-party,domain=volkskrant.nl
 ||myprivacy-static.dpgmedia.net/consent.js$script,redirect=noop.js
-myprivacy.dpgmedia.nl#%#//scriptlet('trusted-set-cookie-reload', 'authId', 'c1844308-aefd-40d5-87ea-c51728ba961f')
-volkskrant.nl#%#//scriptlet('trusted-set-cookie-reload', 'sel_tcf20_marketing', '1')
-volkskrant.nl#%#//scriptlet('trusted-set-cookie-reload', 'tcf20_purposes', 'functional')
+myprivacy.dpgmedia.nl##+js(trusted-set-cookie, dummy, 1, , , reload, 1)
+volkskrant.nl##+js(trusted-set-cookie, sel_tcf20_marketing, 1, 1year, , reload, 1)
+volkskrant.nl##+js(trusted-set-cookie, tcf20_purpose, functional, 1year, , reload, 1)
 
 !
 ! NRC (quality paper leans right liberal)
@@ -53,7 +45,7 @@ nrc.nl##.dmt-login-modal
 ||privacy-center.org$domain=nrc.nl
 !
 ! BBC (official UK news)
-@@doubleverify.com^$domain=bbc.com,important
+@@doubleverify.com^$domain=bbc.com
 bbc.com##top1-container
 bbc.com##.dotcom-ad
 bbc.com###cookiePrompt
@@ -86,5 +78,14 @@ foxnews.com##div.article-gating-wrapper
 foxnews.com###fmm-slide-iam > iframe
 ||segment.com^$domain=foxnews.com
 
+! Remove Google search tracking parameters
+||google.*/search$removeparam=biw
+||google.*/search$removeparam=bih
+||google.*/search$removeparam=sa
+||google.*/search$removeparam=source
+||google.*/search$removeparam=aqs
+||google.*/search$removeparam=sourceid
+||google.*/search$removeparam=ei
+||google.*/search$removeparam=gs_lcp
 
 ! *** end

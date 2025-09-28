@@ -1,6 +1,6 @@
 [AdBlockPlus 2.0]
 !
-! Version: 2024
+! Version: 2025
 ! Title: EU US most used URL trackers (remove parameters from URL)
 !
 ! Expires: 365 days
@@ -170,13 +170,3 @@ $removeparam=dpg_campaign
 $removeparam=dpg_medium
 $removeparam=dpg_content
 
-! various e-mail tracking
-$removeparam=bsft_clkid
-$removeparam=bsft_eid
-$removeparam=bsft_mid
-$removeparam=bsft_uid
-$removeparam=bsft_aaid
-$removeparam=bsft_ek
-$removeparam=_kx
-$removeparam=ml_subscriber
-$removeparam=ml_subscriber_hash

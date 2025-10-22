@@ -155,12 +155,10 @@
 ||aweber.com^$third-party
 ||awstats.org^$third-party
 ||axillium.com^$third-party
-||baidu.com^$third-party
 ||beapxad.com^$third-party
 ||bestcontent.com^$third-party
 ||bidvertiser.com^$third-party
 ||biggerads.com^$third-party
-||bigsex.com^$third-party
 ||blockthrough.com^$third-party
 ||blogads.com^$third-party
 ||bongacams.com^$third-party
@@ -221,7 +219,6 @@
 ||ezoic.com^$third-party
 ||facebook.com^$third-party
 ||fc2.com^$third-party
-||feedyourporn.com^$third-party
 ||finteza.com^$third-party
 ||flagcounter.com^$third-party
 ||flags.es^$third-party
@@ -372,7 +369,6 @@
 ||sentry.io^$third-party
 ||serpstat.com^$third-party
 ||sexad.net^$third-party
-||sexlist.com^$third-party
 ||sexmoney.com^$third-party
 ||sexresources.com^$third-party
 ||sexsearch.com^$third-party

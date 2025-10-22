@@ -219,7 +219,6 @@
 ||gfrevenge.com^$third-party
 ||go2traffic.com^$third-party
 ||goatcounter.com^$third-party
-||google.com^$third-party
 ||gosquared.com^$third-party
 ||gostats.com^$third-party
 ||gumgum.com^$third-party

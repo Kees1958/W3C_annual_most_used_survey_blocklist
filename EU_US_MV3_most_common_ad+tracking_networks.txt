@@ -147,8 +147,6 @@
 ||analyzati.com^$third-party
 ||anunciar.com^$third-party
 ||apnadult.com^$third-party
-||app.crazyegg.com^$third-party
-||app.mixpanel.com^$third-party
 ||appdynamics.com^$third-party
 ||ashpublishing.com^$third-party
 ||audiencescience.com^$third-party

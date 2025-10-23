@@ -8,7 +8,7 @@ Like Peter Low explains on his website (https://pgl.yoyo.org/adservers/index.php
 
 1. It takes a lot of time and money to build an (ad serving) backbone network. 
 
-2. The digital advertising market is more or less saturated. Also the AI-generated results are a threat for the digital advertising. People often find the answer in the AI-generated answer, which reduces the effectiveness of search engine advertising. The chance of a new adnetwork entering this market anf gaining a substantial marketshare is therefore (very) low.  
+2. The digital advertising market is more or less saturated. Also the AI-generated results are a threat for the digital advertising. People often find the answer in the AI-generated answer, which reduces the effectiveness of search engine advertising. The chance of a new adnetwork entering this market and gaining a substantial marketshare is therefore (very) low.  
 
 3. The digital marketeers using these networks are a constraining factor too, because most people don't like to learn how to use new software. So human reluctance to change also limits the chances of a new adnetwork to popup. 
 

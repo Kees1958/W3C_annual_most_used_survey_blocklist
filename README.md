@@ -13,7 +13,7 @@ Like Peter Low explains on his website (https://pgl.yoyo.org/adservers/index.php
 3. The digital marketeers using these networks are a constraining factor too, because most people don't like to learn how to use new software. So human reluctance to change also limits the chances of a new adnetwork to popup. 
 
                                                           SOURCES
-The blocklists are based on surveys of most used advertising and tracking technology (e.g. surveys of W3C, W3Tech and the digital marketing community itself). On top of those that the online advertising industry likes to keep lists of top performing companies in the ad supply chain (including advertising exchange platforms). These list and surveys are oriented on Europe and North America, this is the reason this slim (elss than 500 rules) blocklist contains mostly EU and US based advertising and tracking networks. 
+The blocklists are based on surveys of most used advertising and tracking technology (e.g. surveys of W3C, W3Tech and the digital marketing community itself). The online advertising industry likes to keep lists of top performing companies in the ad supply chain (including advertising exchange platforms). Ironically these studies can also be used against them. These list and surveys are oriented on Europe and North America, this is the reason this slim (elss than 500 rules) blocklist contains mostly EU and US based advertising and tracking networks. 
 
                                                       SUGGESTED USE
 

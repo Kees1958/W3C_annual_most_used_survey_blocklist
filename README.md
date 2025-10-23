@@ -6,11 +6,11 @@ A study performed by Brave browser seems to support above claim: QUOTE "WE FOUND
                                                   LOW UPDATE FREQUENCY
 Like Peter Low explains on his website (https://pgl.yoyo.org/adservers/index.php), you need to focus on the advertising and tracking networks which place the adds on the websites you visit. Such a list is not subjective to a lot of changes for three reasons. 
 
-1. it takes a lot of time and money to build an (ad serving) backbone network. 
+1. It takes a lot of time and money to build an (ad serving) backbone network. 
 
-2. the market is more or less saturated, the chance of a new adnetwork entering this market is very low. Also the AI-generated results are a threat for the Search Engine Advertising. People often find the answer in the AI-generated answer, which reduces the effectiveness of search engine advertising.  
+2. The market is more or less saturated, the chance of a new adnetwork entering this market is very low. Also the AI-generated results are a threat for the Search Engine Advertising. People often find the answer in the AI-generated answer, which reduces the effectiveness of search engine advertising.  
 
-3. the digital marketeers using these networks are a constraining factor too, because most people don't like to learn how to use new software. So human reluctance to change also limits the chances of a new adnetwork to popup. 
+3. The digital marketeers using these networks are a constraining factor too, because most people don't like to learn how to use new software. So human reluctance to change also limits the chances of a new adnetwork to popup. 
 
                                                           SOURCES
 The blocklists are based on surveys of most used advertising and tracking technology (e.g. surveys of W3C, W3Tech and the digital marketing community itself). On top of those that the online advertising industry likes to keep lists of top performing companies in the ad supply chain (including advertising exchange platforms). These list and surveys are oriented on Europe and North America, this is the reason this slim (elss than 500 rules) blocklist contains mostly EU and US based advertising and tracking networks. 

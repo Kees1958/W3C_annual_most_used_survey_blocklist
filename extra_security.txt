@@ -15,4 +15,4 @@
 ! You are allowed to use this freely, but at your own risk.
 !
 ! Warn for surfing to uncommon Top Level Domains & Contry Code's (not in EU-zone or 5 Eyes Countries)
-||*^$document,denyallow=com|edu|io|net|org|AT|BE|BG|HR|CY|CZ|DK|DE|EE|IE|EL|ES|FI|FR|GR|HU|IT|LV|LT|LU|MT|NL|PL|PT|RO|SI|SK|SE|GB|UK|NO|CH|NO|CH|LI|IS|US|CA|AU|NZ
+||*^$document,denyallow=com|edu|io|net|org|AT|BE|BG|HR|CY|CZ|DK|DE|EE|IE|EL|ES|FI|FR|GR|HU|IT|LV|LT|LU|MT|NL|PL|PT|RO|SI|SK|SE|EU|GB|UK|NO|CH|NO|CH|LI|IS|US|CA|AU|NZ

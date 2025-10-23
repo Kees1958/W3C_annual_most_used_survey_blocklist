@@ -1,7 +1,7 @@
                    WHY USE AN ADVERTISING AND TRACKING NETWORKS BLOCK LIST WITH LIMITED NUMBER OF RULES? 
 In advertising the number one (Google) has a marketshare of around 40 percent, Facebook the number two hits the 20% mark while the number three (Comscore) just has a little over 2.5% marketshare. Just have a look at the usage statistics on the W3tech website (check the advertising, analysis and tag managers) see https://w3techs.com/technologies/overview/advertising. 
 
-A study performed by Brave browser seems to support above claim: QUOTE "WE FOUND THAT ONLY 201 RULES ACCOUNTED FOR 90% OF THE BLOCKING ACTIVITY" (see https://brave.com/the-mounting-cost-of-stale-ad-blocking-rules/).
+A study performed by Brave browser seems to support above claim: Quote of that study "WE FOUND THAT ONLY 201 RULES ACCOUNTED FOR 90% OF THE BLOCKING ACTIVITY" (see https://brave.com/the-mounting-cost-of-stale-ad-blocking-rules/).
 
                                                    LOW UPDATE FREQUENCY
 Like Peter Low explains on his website (https://pgl.yoyo.org/adservers/index.php), you need to focus on the advertising and tracking networks which place the adds on the websites you visit. Such a list is not subjective to a lot of changes for three reasons. 

@@ -14,6 +14,7 @@ Like Peter Low explains on his website (https://pgl.yoyo.org/adservers/index.php
 
                                                           SOURCES
 The blocklists are based on surveys of most used advertising and tracking technology (e.g. surveys of W3C, W3Tech and the digital marketing community itself). The online advertising industry likes to keep lists of top performing companies in the ad supply chain (including advertising exchange platforms). Ironically these list and surveys can also be used against them. 
+
                                                       SUGGESTED USE
 
 This list works fine with english adfilter of Easylist or Adguard base filter with your local language filtering list. For people using Peter Lowe's list I would either use my list or Peter Low's.

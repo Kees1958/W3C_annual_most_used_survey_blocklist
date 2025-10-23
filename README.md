@@ -17,7 +17,7 @@ The blocklists are based on surveys of most used advertising and tracking techno
 
                                                       SUGGESTED USE
 
-This list works fine with english adfilter of Easylist or Adguard with your local language filtering list. For people using Peter Lowe's list I would either use my list or Peter Low's.
+This list works fine with english adfilter of Easylist or Adguard base filter with your local language filtering list. For people using Peter Lowe's list I would either use my list or Peter Low's.
 
                                                       ERRORS & ISSUES
 Please report site breakage on https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues.

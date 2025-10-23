@@ -1,6 +1,6 @@
 [AdBlockPlus 2.0]
 !
-! Title: WARNING: website outside EU-zone & 5 Eyes, proceed with care!
+! Title: WARNING: website not in EU-zone or 5 Eyes! BE CAREFULL
 ! Expires: 7 days
 !
 ! Version: 2025.10.23

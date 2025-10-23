@@ -3,7 +3,7 @@ In advertising the number one (Google) has a marketshare of around 40 percent, F
 
 A study performed by Brave browser seems to support above claim: QUOTE "WE FOUND THAT ONLY 201 RULES ACCOUNTED FOR 90% OF THE BLOCKING ACTIVITY" (see https://brave.com/the-mounting-cost-of-stale-ad-blocking-rules/).
 
-                                                  LOW UPDATE FREQUENCY
+                                                   LOW UPDATE FREQUENCY
 Like Peter Low explains on his website (https://pgl.yoyo.org/adservers/index.php), you need to focus on the advertising and tracking networks which place the adds on the websites you visit. Such a list is not subjective to a lot of changes for three reasons. 
 
 1. It takes a lot of time and money to build an (ad serving) backbone network. 
@@ -12,7 +12,7 @@ Like Peter Low explains on his website (https://pgl.yoyo.org/adservers/index.php
 
 3. The digital marketeers using these networks are a constraining factor too, because most people don't like to learn how to use new software. So human reluctance to change also limits the chances of a new adnetwork to popup. 
 
-                                                          SOURCES
+                                                         SOURCES
 The blocklists are based on surveys of most used advertising and tracking technology (e.g. surveys of W3C, W3Tech and the digital marketing community itself). The online advertising industry likes to keep lists of top performing companies in the ad supply chain (including advertising exchange platforms). Ironically these list and surveys can also be used against them. 
 
                                                       SUGGESTED USE

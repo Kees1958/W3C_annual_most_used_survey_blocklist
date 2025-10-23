@@ -1,0 +1,18 @@
+[AdBlockPlus 2.0]
+!
+! Title: WARNING: website outside EU-zone & 5 Eyes, proceed with care!
+! Expires: 7 days
+!
+! Version: 2025.10.23
+!
+! Please report issues related to website breakage at
+! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
+!
+! Use this filter list in combinatiom with below two blocklist
+! - https://github.com/LennyFox/Blocklists/blob/master/Block_non_latin_TLDs.txt
+! - https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/spam-tlds.txt
+!
+! You are allowed to use this freely, but at your own risk.
+!
+! Warn for surfing to uncommon Top Level Domains & Contry Code's (not in EU-zone or 5 Eyes Countries)
+||*^$document,denyallow=com|edu|io|net|org|AT|BE|BG|HR|CY|CZ|DK|DE|EE|IE|EL|ES|FI|FR|GR|HU|IT|LV|LT|LU|MT|NL|PL|PT|RO|SI|SK|SE|GB|UK|NO|CH|NO|CH|LI|IS|US|CA|AU|NZ

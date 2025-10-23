@@ -3,7 +3,7 @@
 ! Title: EU US ads&tracking networks MV3 (third-party blocking only)
 ! Expires: 7 days
 !
-! Version: 2025.10.22
+! Version: 2025.10.23
 !
 ! Please report issues related to website breakage at
 ! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -59,6 +59,7 @@
 ||informer.yandex.ru^$third-party
 ||mc.yandex.ru^$third-party
 ||metrika.yandex.ru^$third-party
+||adfox.yandex.ru^$third-party
 ||metrika.yandex.com^$third-party
 ||offerwall.yandex.net^$third-party
 ||report.ap.yandex-net.ru^$third-party
@@ -427,6 +428,7 @@
 ||ukadultads.com^$third-party
 ||umami.is^$third-party
 ||umeng.com^$third-party
+||unityads.unity3d.com^$third-party
 ||usefathom.com^$third-party
 ||usermaven.com^$third-party
 ||usertesting.com^$third-party

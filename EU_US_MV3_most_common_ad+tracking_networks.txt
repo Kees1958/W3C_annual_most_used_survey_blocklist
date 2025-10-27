@@ -3,7 +3,7 @@
 ! Title: EU US ads&tracking networks MV3 (third-party blocking only)
 ! Expires: 7 days
 !
-! Version: 2025.10.23
+! Version: 2025.10.27
 !
 ! Please report issues related to website breakage at
 ! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -218,7 +218,6 @@
 ||extreme-dm.com^$third-party
 ||extremetracking.com^$third-party
 ||ezoic.com^$third-party
-||facebook.com^$third-party
 ||fc2.com^$third-party
 ||finteza.com^$third-party
 ||flagcounter.com^$third-party
@@ -329,7 +328,6 @@
 ||piano.io^$third-party
 ||pirsch.io^$third-party
 ||piwik.pro^$third-party
-||pixel.facebook.com^$third-party
 ||plausible.io^$third-party
 ||plugrush.com^$third-party
 ||popads.net^$third-party

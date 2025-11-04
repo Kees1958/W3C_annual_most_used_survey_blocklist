@@ -94,7 +94,7 @@ condition:
 ---
 #
 # Block third-party data connections not needed for casual internet surfing 
-# They are also mis-used for ad dilivery 
+# These data connections are also mis-used for ad dilivery 
 #
 priority: 20
 action:
@@ -107,7 +107,7 @@ condition:
 ---
 #
 # Block protocols that are normally not needed for casual internet surfing
-# They are also misused for code delivery 
+# These protocols are also misused for code delivery 
 #
 priority: 20
 action:

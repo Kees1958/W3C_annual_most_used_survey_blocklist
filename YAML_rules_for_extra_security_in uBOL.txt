@@ -10,8 +10,8 @@
 !
 ! You are allowed to use this ruleset for uBol freely, but at your own risk.
 !
-! I use uBol only as a connection filter (sort of browser firewall) with all 
-! filters disabled in Brave (with Brave Shield in Aggressive mode)!
+! I use uBol in basic mode only as a connection filter (sort of browser firewall) 
+! with all filters disabled in Brave (with Brave Shield in Aggressive mode)
 ! 
 ! Copy paste below lines into uBol and add or remove TLD's or country codes in first rule
 #

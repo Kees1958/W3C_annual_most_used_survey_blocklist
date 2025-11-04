@@ -29,7 +29,7 @@ condition:
     - io
     - net
     - org
-    - eu
+    - EU
     - AT
     - BE
     - BG

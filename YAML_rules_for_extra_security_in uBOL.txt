@@ -19,7 +19,7 @@
 # AGGRESSIVE AD BLOCKING MODE SHOULD NOT BE USED FOR ONLINE BANKING & SHOPPING !
 ################################################################################
 #
-# Block all connections except from some common TLP's and western world ccountry codes
+# Block all connections except from some common TLD's and western world ccountry codes
 # Allowed Top Level Domains: com, edu, io, net, org
 # Allowed Country codes: extended EU economical zone and 5 Eyes Countries
 #

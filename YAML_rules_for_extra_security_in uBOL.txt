@@ -79,7 +79,7 @@ condition:
   urlFilter: |HTTP://*^
 ---
 #
-# Block controversial resources mis-used for tracking or posing a security risk 
+# Block controversial resources also mis-used for tracking or posing a security risk 
 # Should not break websites using modern development best practices
 #
 priority: 20

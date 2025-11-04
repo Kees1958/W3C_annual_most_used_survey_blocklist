@@ -13,7 +13,7 @@
 ! I use uBol only as a connection filter (sort of browser firewall) with all 
 ! filters disabled in Brave (with Brave Shield in Aggressive mode)!
 ! 
-! Copy paste below lines into uBol and add or remove TLD's mentioned in line 62 to 105
+! Copy paste below lines into uBol and add or remove TLD's or country codes in first rule
 !
 ################################################################################
 # AGGRESSIVE AD BLOCKING MODE SHOULD NOT BE USED FOR ONLINE BANKING & SHOPPING !

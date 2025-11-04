@@ -1,0 +1,164 @@
+[AdBlockPlus 2.0]
+!
+! Title: WARNING: only allows connectiosn to HTTPS western world websites
+! Expires: 7 days
+!
+! Version: 2025.11.04
+!
+! Please report issues related to website breakage at
+! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
+!
+! You are allowed to use this ruleset for uBol freely, but at your own risk.
+!
+! I use uBol only as a connection filter (sort of browser firewall) with all 
+! filters disabled in Brave (with Brave Shield in Aggressive mode)!
+! 
+! Copy paste below lines into uBol and add or remove TLD's mentioned in line 62 to 105
+!
+################################################################################
+# AGGRESSIVE AD BLOCKING MODE SHOULD NOT BE USED FOR ONLINE BANKING & SHOPPING !
+################################################################################
+#
+# Block all connections except from some common TLP's and western world ccountry codes
+# Allowed Top Level Domains: com, edu, io, net, org
+# Allowed Country codes: extended EU economical zone and 5 Eyes Countries
+#
+prority: 10
+action:
+  type: block
+condition:
+  excludedRequestDomains:
+    - com
+    - edu
+    - io
+    - net
+    - org
+    - eu
+    - AT
+    - BE
+    - BG
+    - HR
+    - CY
+    - CZ
+    - DK
+    - EE
+    - FI
+    - FR
+    - DE
+    - GR
+    - HU
+    - IE
+    - IT
+    - LV
+    - LT
+    - LU
+    - MT
+    - NL
+    - PL
+    - PT
+    - RO
+    - SK
+    - SI
+    - ES
+    - SE
+    - NO
+    - CH
+    - IS
+    - LI
+    - GB
+    - UK
+    - CA
+    - US
+    - AU
+    - NZ
+---
+#
+# Block insecure HTTP content (not used anymore by ligitemate western websites) 
+# The majority of internet based malware comes from short lived insecure HTTP websites
+#
+priority: 20
+action:
+  type: block
+condition:
+  urlFilter: |HTTP://*^
+---
+#
+# Block controversial resources posing a security risk or mis-used for tracking
+# Should not break modern websites using website development best practices
+#
+priority: 20
+action:
+  type: block
+condition:
+  resourceTypes:
+    - csp_report
+    - object
+    - ping
+    - webbundle
+---
+#
+# Block third-party data connections not needed for casual internet surfing 
+# They are also mis-used for ad dilivery 
+#
+priority: 20
+action:
+  type: block
+condition:
+  domainType: thirdParty
+  resourceTypes:
+    - websocket
+    - webtransport
+---
+#
+# Block protocols that are normally not needed for casual internet surfing
+# They are also misused for code delivery 
+#
+priority: 20
+action:
+  type: block
+condition:
+  urlFilter: magnet://
+---
+priority: 20
+action:
+  type: block
+condition:
+  urlFilter: telnet://
+---
+priority: 20
+action:
+  type: block
+condition:
+  urlFilter: slack://
+---
+priority: 20
+action:
+  type: block
+condition:
+  urlFilter: org-protocol://
+---
+priority: 20
+action:
+  type: block
+condition:
+  urlFilter: vscode://
+---
+priority: 20
+action:
+  type: block
+condition:
+  urlFilter: apt://
+---
+priority: 20
+action:
+  type: block
+condition:
+  urlFilter: irc://
+---
+priority: 20
+action:
+  type: block
+condition:
+  urlFilter: git://
+---
+# END

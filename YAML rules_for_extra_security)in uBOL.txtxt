@@ -83,7 +83,7 @@ condition:
   urlFilter: |HTTP://*^
 ---
 #
-# Block controversial resources posing a security risk or mis-used for tracking
+# Block controversial resources mis-used for tracking or posing a security risk 
 # Should not break modern websites using website development best practices
 #
 priority: 20
@@ -92,8 +92,8 @@ action:
 condition:
   resourceTypes:
     - csp_report
-    - object
     - ping
+    - object
     - webbundle
 ---
 #

@@ -15,10 +15,6 @@
 ! 
 ! Copy paste below lines into uBol and add or remove TLD's or country codes in first rule
 #
-################################################################################
-# AGGRESSIVE AD BLOCKING MODE SHOULD NOT BE USED FOR ONLINE BANKING & SHOPPING !
-################################################################################
-#
 # Block all connections except from some common TLD's and western world ccountry codes
 # Allowed Top Level Domains: com, edu, io, net, org
 # Allowed Country codes: extended EU economical zone and 5 Eyes Countries

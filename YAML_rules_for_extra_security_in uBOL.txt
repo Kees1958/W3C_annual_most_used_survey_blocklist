@@ -77,6 +77,10 @@ action:
   type: block
 condition:
   urlFilter: |HTTP://*^
+resourceTypes:
+  - main_frame
+  - sub_frame
+  - script
 ---
 #
 # Block controversial resources also mis-used for tracking or posing a security risk 

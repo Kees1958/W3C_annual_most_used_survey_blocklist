@@ -14,7 +14,7 @@
 ! filters disabled in Brave (with Brave Shield in Aggressive mode)!
 ! 
 ! Copy paste below lines into uBol and add or remove TLD's or country codes in first rule
-!
+#
 ################################################################################
 # AGGRESSIVE AD BLOCKING MODE SHOULD NOT BE USED FOR ONLINE BANKING & SHOPPING !
 ################################################################################

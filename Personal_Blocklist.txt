@@ -3,9 +3,14 @@
 ! Title: Kees1958 personal blocklist for bookmarked websites
 ! Expires: 7 days
 !
-! Version: 2025.09.28
+! Version: 2025.11.04
 !
-! You are allowed to use this freely, but at your own risk.
+! You are allowed to use this freely, but at your own risk. Works with Brave browser and AdBlocker Ultimate. 
+! AdGuard and UBlockOrigin are depreciated because AG is developed in Russia and uBo is not Mv3 compliant
+!
+! **********************************************************
+! Hides cookie consent en advertisements on below websites *
+! **********************************************************
 !
 ! NOS (official Dutch news)
 nos.nl##ccm-notification
@@ -13,12 +18,12 @@ nos.nl###ccm_notification_host
 nos.nl##div[id="regio-onboarding"]
 nos.nl##+js(json-prune, adUrl)
 ||cdn-ster-nl.akamaized.net/STERAD_P_*.mp4^$media,redirect=noopmp4-1s,domain=nos.nl
-
-! BNR 
+!
+! BNR (popular Dutch news radio station)
 bnr.nl##.bnr-message, .ad
-||consent.bnr.nl
+||consent.bnr.nl^$domain=bnr.nl
 bnr.nl##div[class*="StickyPlayer_sticky-player-container"]
-
+!
 ! NU.nl (popular Dutch news)
 nu.nl##.banner
 nu.nl##.modal__container
@@ -37,10 +42,9 @@ volkskrant.nl##div[class="ad--top fjs-hide-on-paywall"]
 /temptation/resolve$xmlhttprequest,~third-party,domain=volkskrant.nl
 ||temptation.*/temptation.js$script,~third-party,domain=volkskrant.nl
 ||myprivacy-static.dpgmedia.net/consent.js$script,redirect=noop.js
-myprivacy.dpgmedia.nl##+js(trusted-set-cookie, dummy, 1, , , reload, 1)
+myprivacy.dpgmedia.nl##+js(trusted-set-cookie, dummy, 1, , , reload, 1),~third-party
 volkskrant.nl##+js(trusted-set-cookie, sel_tcf20_marketing, 1, 1year, , reload, 1)
 volkskrant.nl##+js(trusted-set-cookie, tcf20_purpose, functional, 1year, , reload, 1)
-
 !
 ! NRC (quality paper leans right liberal)
 nrc.nl##+js(cookie-remover, counter)
@@ -64,19 +68,13 @@ bbc.com##div[data-component="ad-slot"]
 ||bbc.com/ngas/latest/dotcom-ads.js^$domain=bbc.com
 ||mybbc-analytics.files.bbci.co.uk^$domain=bbc.com
 /wrapperMessagingWithoutDetection.js^$domain=bbc.com
-||piano.io^$domain=bbc.com
 !
 ! CNN (US news pro democrats)
 cnn.com###onetrust-consent-sdk:not([style])
 cnn.com##.ad-slot-header__wrapper
-||bitmovin.com^$domain=cnn.com
-||accounts.google.com^$domain=cnn.com
-||chartbeat.com^$domain=cnn.com
-||optimizely.com^$domain=cnn.com
-||s-onetag.com^$domain=cnn.com
 !
 ! FOX news (US news pro republicans)
-foxnew.com###alert-container
+foxnews.com###alert-container
 foxnews.com##div.alert-container
 foxnews.com###ad-container
 foxnews.com##.item-newsletter
@@ -85,8 +83,5 @@ foxnews.com##div.article-gating-wrapper
 foxnews.com##+js(ra, class, div[class*="gated-overlay"])
 foxnews.com##div.article-gating-wrapper
 foxnews.com###fmm-slide-iam > iframe
-||segment.com^$domain=foxnews.com
-
-
+!
 ! *** end
-

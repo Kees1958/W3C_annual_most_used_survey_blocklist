@@ -80,7 +80,7 @@ condition:
 ---
 #
 # Block controversial resources mis-used for tracking or posing a security risk 
-# Should not break modern websites using website development best practices
+# Should not break websites using modern development best practices
 #
 priority: 20
 action:

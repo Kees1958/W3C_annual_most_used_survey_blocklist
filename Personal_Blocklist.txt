@@ -32,8 +32,7 @@ nu.nl##.modal-layer__shade
 nu.nl#$?#body { overflow: visible !important; }
 nu.nl##+js(rc, authorized-content, div.authorized-content, stay)
 nu.nl##+js(rc, semi-authorized-content, div.semi-authorized-content, stay)
-nu.nl##+js(trusted-set-cookie, sel_tcf20_marketing, 1, 1year, , reload, 1)
-nu.nl##+js(trusted-set-cookie, tcf20_purpose, functional, 1year, , reload, 1)
+
 !
 ! Volkskrant.nl (quality paper leans left progressive)
 volkskrant.nl###top1
@@ -41,10 +40,6 @@ volkskrant.nl##.top1-container
 volkskrant.nl##div[class="ad--top fjs-hide-on-paywall"]
 /temptation/resolve$xmlhttprequest,~third-party,domain=volkskrant.nl
 ||temptation.*/temptation.js$script,~third-party,domain=volkskrant.nl
-||myprivacy-static.dpgmedia.net/consent.js$script,redirect=noop.js
-myprivacy.dpgmedia.nl##+js(trusted-set-cookie, dummy, 1, , , reload, 1),~third-party
-volkskrant.nl##+js(trusted-set-cookie, sel_tcf20_marketing, 1, 1year, , reload, 1)
-volkskrant.nl##+js(trusted-set-cookie, tcf20_purpose, functional, 1year, , reload, 1)
 !
 ! NRC (quality paper leans right liberal)
 nrc.nl##+js(cookie-remover, counter)

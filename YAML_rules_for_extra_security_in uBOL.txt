@@ -14,7 +14,7 @@
 ! This to make sure every website I use for work and sensitive transaction works as intended.
 !
 ! I use uBol in basic mode only in my SURFING profile as a connection filter (sort of browser firewall) 
-! with all filters disabled and Brave Shield in Aggressive mode in my SURFING profile. 
+! with all uBol filters disabled and Brave Shield in Aggressive mode in my SURFING profile. 
 !
 ! This Surfing profile has all site permissions disabled (only content permissions are allowed)
 ! for maximum security and privacy (the old fashioned two browser profile approach).

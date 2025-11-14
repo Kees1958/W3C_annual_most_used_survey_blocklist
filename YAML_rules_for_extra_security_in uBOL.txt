@@ -3,7 +3,7 @@
 ! Title: WARNING: only allows connectiosn to HTTPS western world websites
 ! Expires: 7 days
 !
-! Version: 2025.11.04
+! Version: 2025.11.14
 !
 ! Please report issues related to website breakage at
 ! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues

@@ -103,19 +103,6 @@ condition:
     - webbundle
 ---
 #
-# Block third-party data connections not needed for casual internet surfing 
-# These data connections are also mis-used for ad dilivery 
-#
-priority: 20
-action:
-  type: block
-condition:
-  domainType: thirdParty
-  resourceTypes:
-    - websocket
-    - webtransport
----
-#
 # Block protocols that are normally not needed for casual internet surfing
 # These protocols are also misused for code delivery 
 #

@@ -20,12 +20,104 @@
 ! for maximum security and privacy (the old fashioned two browser profile approach).
 ! 
 ! Copy paste below lines into uBol and add or remove TLD's or country codes in first rule
+---
 #
-# Block all connections except from some common TLD's and western world country codes
-# Allowed Top Level Domains: com, edu, io, net, org
-# Allowed Country codes: extended EU economical zone and 5 Eyes Countries
+# Upgrade HTTP to HTTPS when available 
 #
-prority: 10
+priority: 40
+action:
+  type: upgradeScheme
+condition:
+  urlFilter: http://  
+---
+#
+# Block scripts of unsafe HTTP connections
+#
+priority: 30
+action:
+  type: block
+condition:
+  urlFilter: http://  
+  resourceTypes:
+    - script
+---
+#
+# Block protocols that are normally not needed for casual internet surfing
+#
+priority: 30
+action:
+  type: block
+condition:
+  urlFilter: magnet://
+---
+priority: 20
+action:
+  type: block
+condition:
+  urlFilter: telnet://
+---
+priority: 30
+action:
+  type: block
+condition:
+  urlFilter: slack://
+---
+priority: 30
+action:
+  type: block
+condition:
+  urlFilter: org-protocol://
+---
+priority: 30
+action:
+  type: block
+condition:
+  urlFilter: vscode://
+---
+priority: 30
+action:
+  type: block
+condition:
+  urlFilter: apt://
+---
+priority: 30
+action:
+  type: block
+condition:
+  urlFilter: irc://
+---
+priority: 30
+action:
+  type: block
+condition:
+  urlFilter: git://
+---
+#
+# Block resources mis-used for tracking or posing a security risk 
+#
+priority: 20
+action:
+  type: block
+condition:
+  resourceTypes:
+    - csp_report
+    - ping
+    - object
+    - webbundle
+---
+#
+# Block links containing executable Linux formats
+#
+priority: 20
+action:
+  type: block
+condition:
+  regexFilter: /.*\.(appimage|bin|deb|elf|py|pyc|pyo|pyd|pyw|pyi|pyz|ipynb|sh|rpm|run)\b/
+---
+#
+# Block request outside EU-zone and 5 eyes countries
+#
+priority: 10
 action:
   type: block
 condition:
@@ -74,84 +166,3 @@ condition:
     - AU
     - NZ
 ---
-#
-# Block insecure HTTP content (not used anymore by ligitemate western websites) 
-# The majority of internet based malware comes from short lived insecure HTTP websites
-#
-priority: 20
-action:
-  type: block
-condition:
-  urlFilter: |HTTP://*^
-resourceTypes:
-  - main_frame
-  - sub_frame
-  - script
----
-#
-# Block controversial resources also mis-used for tracking or posing a security risk 
-# Should not break websites using modern development best practices
-#
-priority: 20
-action:
-  type: block
-condition:
-  resourceTypes:
-    - csp_report
-    - ping
-    - object
-    - webbundle
----
-#
-# Block protocols that are normally not needed for casual internet surfing
-# These protocols are also misused for code delivery 
-#
-priority: 20
-action:
-  type: block
-condition:
-  urlFilter: magnet://
----
-priority: 20
-action:
-  type: block
-condition:
-  urlFilter: telnet://
----
-priority: 20
-action:
-  type: block
-condition:
-  urlFilter: slack://
----
-priority: 20
-action:
-  type: block
-condition:
-  urlFilter: org-protocol://
----
-priority: 20
-action:
-  type: block
-condition:
-  urlFilter: vscode://
----
-priority: 20
-action:
-  type: block
-condition:
-  urlFilter: apt://
----
-priority: 20
-action:
-  type: block
-condition:
-  urlFilter: irc://
----
-priority: 20
-action:
-  type: block
-condition:
-  urlFilter: git://
----
-# END

@@ -3,7 +3,7 @@
 ! Title: EU US ads&tracking networks MV3 (third-party blocking only)
 ! Expires: 7 days
 !
-! Version: 2025.10.28
+! Version: 2026.01.17
 !
 ! Please report issues related to website breakage at
 ! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -109,7 +109,6 @@
 ||123count.com^$third-party
 ||24counter.com^$third-party
 ||51.la^$third-party
-||ackee.so^$third-party
 ||acoustic.com^$third-party
 ||ad-delivery.net^$third-party
 ||ad4game.com^$third-party
@@ -147,16 +146,13 @@
 ||analytics.salesforce.com^$third-party
 ||analyzati.com^$third-party
 ||anunciar.com^$third-party
-||apnadult.com^$third-party
 ||appdynamics.com^$third-party
-||ashpublishing.com^$third-party
 ||audiencescience.com^$third-party
 ||auriq.com^$third-party
 ||avantlink.com^$third-party
 ||aweber.com^$third-party
 ||awstats.org^$third-party
 ||axillium.com^$third-party
-||beapxad.com^$third-party
 ||bestcontent.com^$third-party
 ||bidvertiser.com^$third-party
 ||biggerads.com^$third-party
@@ -166,11 +162,9 @@
 ||buysellads.com^$third-party
 ||c1000.com^$third-party
 ||camads.net^$third-party
-||candidwhores.com^$third-party
 ||carbonads.com^$third-party
 ||cashfiesta.com^$third-party
 ||cashlayer.com^$third-party
-||cexclick.com^$third-party
 ||chartbeat.com^$third-party
 ||cj.com^$third-party
 ||clearbit.com^$third-party
@@ -178,7 +172,6 @@
 ||clickadilla.com^$third-party
 ||clickbank.com^$third-party
 ||clickbooth.com^$third-party
-||clicksvenue.com^$third-party
 ||clicktale.com^$third-party
 ||clicky.com^$third-party
 ||clustrmaps.com^$third-party
@@ -229,10 +222,8 @@
 ||fullcircle.com^$third-party
 ||fullstory.com^$third-party
 ||fusedeck.com^$third-party
-||gadultads.com^$third-party
 ||gaug.es^$third-party
 ||gemius.com^$third-party
-||getsitcontrol.com^$third-party
 ||gfrevenge.com^$third-party
 ||go2traffic.com^$third-party
 ||goatcounter.com^$third-party
@@ -299,7 +290,6 @@
 ||naked.com^$third-party
 ||nativo.com^$third-party
 ||navegg.com^$third-party
-||netcost-security.com^$third-party
 ||newrelic.com^$third-party
 ||nexxen.io^$third-party
 ||nielsen.com^$third-party
@@ -307,7 +297,6 @@
 ||niscprts.com^$third-party
 ||nudereviews.com^$third-party
 ||nuffnang.com^$third-party
-||nutra-origin.com^$third-party
 ||octoclick.com^$third-party
 ||onedollarstats.com^$third-party
 ||onlyads.com^$third-party
@@ -350,11 +339,11 @@
 ||rakutenadvertising.com^$third-party
 ||rambler.ru^$third-party
 ||ravantmedia.com^$third-party
-||realadx.com^$third-party
 ||realtimeanalytics.com^$third-party
 ||redlightcenter.com^$third-party
 ||referralcandy.com^$third-party
 ||revcash.com^$third-party
+||revcontent.com^$third-party
 ||rhythmone.com^$third-party
 ||richads.com^$third-party
 ||rollerads.com^$third-party
@@ -388,7 +377,6 @@
 ||solarads.com^$third-party
 ||sovrn.com^$third-party
 ||sparkmedia.com^$third-party
-||specific-click.com^$third-party
 ||splitbee.io^$third-party
 ||spyfu.com^$third-party
 ||statcounter.com^$third-party
@@ -405,7 +393,6 @@
 ||top.mail.ru^$third-party
 ||toplist.cz^$third-party
 ||tradedoubler.com^$third-party
-||traffic-ox.com^$third-party
 ||trafficfactory.biz^$third-party
 ||trafficfactory.com^$third-party
 ||trafficforce.com^$third-party
@@ -420,9 +407,7 @@
 ||tubecorporate.com^$third-party
 ||twilio.com^$third-party
 ||twinred.com^$third-party
-||twipla.ru^$third-party
 ||u2media.com^$third-party
-||ukadultads.com^$third-party
 ||umami.is^$third-party
 ||umeng.com^$third-party
 ||unityads.unity3d.com^$third-party

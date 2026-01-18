@@ -3,7 +3,7 @@
 ! Title: EU US ads&tracking networks MV3 (third-party blocking only)
 ! Expires: 7 days
 !
-! Version: 2026.01.17
+! Version: 2026.01.18
 !
 ! Please report issues related to website breakage at
 ! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -159,6 +159,7 @@
 ||blockthrough.com^$third-party
 ||blogads.com^$third-party
 ||bongacams.com^$third-party
+||braze.com^$third-party
 ||buysellads.com^$third-party
 ||c1000.com^$third-party
 ||camads.net^$third-party
@@ -177,6 +178,7 @@
 ||clustrmaps.com^$third-party
 ||collective.com^$third-party
 ||commandersact.com^$third-party
+||contentinsights.com^$third-party
 ||contentsquare.com^$third-party
 ||count.ly^$third-party
 ||counter.dev^$third-party
@@ -189,10 +191,12 @@
 ||criteo.com^$third-party
 ||cronitor.io^$third-party
 ||crosspixel.cloud^$third-party
+||cxense.com^$third-party
 ||datingads.com^$third-party
 ||demandjump.com^$third-party
 ||digitalremedy.com^$third-party
 ||doppiocdn.com^$third-party
+||dotmetrics.net^$third-party
 ||dreamdata.io^$third-party
 ||dstillery.com^$third-party
 ||dynatrace.com^$third-party
@@ -309,11 +313,13 @@
 ||outbrain.com^$third-party
 ||paidonresults.com^$third-party
 ||parse.ly^$third-party
+||parsely.com^$third-party
 ||partnerize.com^$third-party
 ||paysites.com^$third-party
 ||peanutlabs.com^$third-party
 ||pendo.io^$third-party
 ||performancerevenue.com^$third-party
+||permutive.com^$third-party
 ||piano.io^$third-party
 ||pirsch.io^$third-party
 ||piwik.pro^$third-party
@@ -336,6 +342,8 @@
 ||qads.com^$third-party
 ||qualaroo.com^$third-party
 ||quantcast.com^$third-party
+||quantcount.com^$third-party
+||quantserve.com^$third-party
 ||rakutenadvertising.com^$third-party
 ||rambler.ru^$third-party
 ||ravantmedia.com^$third-party
@@ -370,6 +378,7 @@
 ||skimlinks.com^$third-party
 ||skimresources.com^$third-party
 ||smartlook.com^$third-party
+||smartocto.com^$third-party
 ||smartyads.com^$third-party
 ||snoobi.com^$third-party
 ||snowplow.io^$third-party
@@ -402,6 +411,7 @@
 ||trafficstars.com^$third-party
 ||trendcounter.com^$third-party
 ||trix.net^$third-party
+||trueanthem.com^$third-party
 ||tsyndicate.com^$third-party
 ||tubeads.com^$third-party
 ||tubecorporate.com^$third-party
@@ -411,6 +421,7 @@
 ||umami.is^$third-party
 ||umeng.com^$third-party
 ||unityads.unity3d.com^$third-party
+||usabilla.com^$third-party
 ||usefathom.com^$third-party
 ||usermaven.com^$third-party
 ||usertesting.com^$third-party
@@ -419,6 +430,7 @@
 ||valuecommerce.co.jp^$third-party
 ||vdx.tv^$third-party
 ||vibrantmedia.com^$third-party
+||visualwebsiteoptimizer.com^$third-party
 ||vwo.com^$third-party
 ||w3counter.com^$third-party
 ||web-stat.com^$third-party

@@ -40,13 +40,11 @@
 ||adcolony.com^$third-party
 ||ademails.com^$third-party
 ||adform.net^$third-party
-||adfox.ru^$third-party
 ||adify.com^$third-party
 ||admaven.com^$third-party
 ||adnium.com^$third-party
 ||adnow.com^$third-party
 ||adnxs.com^$third-party
-||adriver.ru^$third-party
 ||adroll.com^$third-party
 ||ads.ourdream.ai^$third-party
 ||adsmaven.com^$third-party

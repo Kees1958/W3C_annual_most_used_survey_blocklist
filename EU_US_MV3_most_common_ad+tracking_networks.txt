@@ -12,10 +12,8 @@
 ! The 7 day expiration period s only for adblockers to check weekly for updates.
 !
 ! You are allowed to use this freely, but at your own risk.
-!
-! *** Search, social media and shop ads and trackers 
 
-!
+!************************************************************
 ! Google related 
 ||googleadservices.com^$third-party
 ||adservice.google.com^$third-party
@@ -25,6 +23,7 @@
 ||pagead2.googlesyndication.com^$third-party
 ||google-analytics.com^$third-party
 ||analytics.google.com^$third-party
+||googletagmanager.com^$third-party
 
 ! Other advertising and tracking networks
 ||24log.com^
@@ -188,6 +187,7 @@
 ||freelogs.com^
 ||freestats.com^
 ||freestats.tv^
+||freshmarketer.com
 ||freshrelevance.com^
 ||fullstory.com^
 ||funnelytics.io^
@@ -196,10 +196,6 @@
 ||getclicky.com^
 ||go-mpulse.net^
 ||goldstats.com^
-||google-analytics.com/analytics.js
-||google-analytics.com^
-||googleadservices.com^
-||googletagmanager.com^
 ||gostats.com^
 ||growthrx.in^
 ||hentaicounter.com^
@@ -318,6 +314,7 @@
 ||piano.io^
 ||pipedream.wistia.com^
 ||pippio.com^
+||pixel.facebook.com^
 ||pixel.watch^
 ||plausible.avris.it^
 ||porngraph.com^

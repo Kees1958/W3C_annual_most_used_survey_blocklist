@@ -14,6 +14,7 @@
 ! You are allowed to use this freely, but at your own risk.
 
 !************************************************************
+!************************************************************
 ! Google related 
 ||googleadservices.com^$third-party
 ||adservice.google.com^$third-party
@@ -39,6 +40,7 @@
 ||2cnt.net^
 ||2o7.net^
 ||33across.com^
+||33across.net^
 ||360i.com^
 ||360tag.com^
 ||3dlivestats.com^
@@ -88,6 +90,7 @@
 ||adblockrelief.com^
 ||addfreestats.com^
 ||adelixir.com^
+||adform.net^
 ||adfenix.com^
 ||adfox.ru^
 ||adgreed.com^
@@ -172,6 +175,7 @@
 ||app-measurement.com^
 ||app.pendo.io^
 ||appboycdn.com^
+||appnexus.com^
 ||appcast.io^
 ||aprtx.com^
 ||aqtracker.com^
@@ -181,6 +185,8 @@
 ||arpxs.com^
 ||artefact.is^
 ||artfut.com^
+||artsai.com^
+||artsai.io^
 ||assoctrac.com^
 ||astro-way.com^
 ||aswpsdkus.com^
@@ -188,6 +194,7 @@
 ||atdmt.com^
 ||athenainstitute.biz^
 ||attracta.com^
+||audience.advertising.com^
 ||audienceiq.com^
 ||audienceplay.com^
 ||audiencerate.com^
@@ -245,6 +252,7 @@
 ||bigreal.org^
 ||bigtracker.com^
 ||billygrace.com^
+||bingads.com^
 ||bionicclick.com^
 ||bizible.com^
 ||bizo.com^
@@ -358,7 +366,6 @@
 ||clientgear.com^
 ||clixgalore.com^
 ||cloud-exploration.com^
-||cloudflareinsights.com^
 ||clustrmaps.com^
 ||cmcore.com^
 ||cmmeglobal.com^
@@ -881,6 +888,7 @@
 ||linksynergy.com^
 ||linkxchanger.com^
 ||litix.io^
+||liveramp.com^
 ||livestat.com^
 ||livetrafficfeed.com^
 ||lloogg.com^
@@ -997,6 +1005,7 @@
 ||mplxtms.com^
 ||mpstat.us^
 ||mr-rank.de^
+||msads.net^
 ||msgapp.com^
 ||mstrlytcs.com^
 ||mutinycdn.com^
@@ -1727,6 +1736,7 @@
 ||wzrkt.com^
 ||x-stat.de^
 ||x-traceur.com^
+||xandr.com^
 ||xg4ken.com^
 ||xiti.com^
 ||xlisting.jp^

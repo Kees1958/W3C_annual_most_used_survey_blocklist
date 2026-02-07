@@ -57,6 +57,8 @@ nrc.nl##+js(cookie-remover, counter)
 ! BBC
 bbc.com###bbccookies
 bbc.com###cookiePrompt
+bbc.com###dotcom-leaderboard
+bbc.com##div[data-component="ad-slot"]
 bbc.com##div[class*="-ConsentBanner"]
 ||bbc.com/*/dotcom-ads.js^$domain=bbc.com
 ||mybbc-analytics.files.bbci.co.uk^$domain=bbc.com

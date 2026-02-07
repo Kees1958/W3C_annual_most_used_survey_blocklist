@@ -3,7 +3,7 @@
 ! Title: EU US ads&tracking networks MV3 (third-party blocking only)
 ! Expires: 7 days
 !
-! Version: 2026.02.05
+! Version: 2026.02.07
 !
 ! Please report issues related to website breakage at
 ! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -977,6 +977,7 @@
 ||mmtro.com^
 ||mobalyzer.net^
 ||mochibot.com^
+||moengage.com^
 ||mon-va.byteoversea.com^
 ||mon.zijieapi.com^
 ||monetate.net^
@@ -1716,6 +1717,7 @@
 ||wowanalytics.co.uk^
 ||wpdstat.com^
 ||wpfc.ml^
+||stats.wp.com^
 ||wrating.com^
 ||wt-eu02.net^
 ||wt-safetag.com^

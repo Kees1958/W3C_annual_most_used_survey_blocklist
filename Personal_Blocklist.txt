@@ -3,7 +3,7 @@
 ! Title: Kees1958 personal blocklist for bookmarked websites
 ! Expires: 7 days
 !
-! Version: 2026.02.05
+! Version: 2026.02.07
 !
 ! You are allowed to use this freely, but at your own risk. Works with Brave browser and AdBlocker Ultimate. 
 ! AdGuard and UBlockOrigin are depreciated because AG is developed in Russia and uBo is not Mv3 compliant
@@ -62,6 +62,21 @@ bbc.com##div[class*="-ConsentBanner"]
 ||mybbc-analytics.files.bbci.co.uk^$domain=bbc.com
 ||dotcom.bbc-reporting-api.app^$domain=bbc.com
 /wrapperMessagingWithoutDetection.js^$domain=bbc.com
+
+! The Guardian
+theguardian.com###sign-in-gate
+theguardian.com##[data-spacefinder-role] aside[aria-label]
+theguardian.com##[data-spacefinder-type="model.dotcomrendering.pageElements.NewsletterSignupBlockElement"]
+||theguardian.com/*/wrapperMessagingWithoutDetection.js$domain=theguardian.com
+||assets.guim.co.uk/commercial/$domain=theguardian.com
+||assets.guim.co.uk/assets/StickyBottomBanner-importable.client.web^$script,domain=theguardian.com
+||assets.guim.co.uk/assets/BrazeMessaging-importable.client^$script,domain=theguardian.com
+||assets.guim.co.uk/assets/ReaderRevenueDev-importable.client.web^$script,domain=theguardian.com
+||assets.guim.co.uk/assets/SetAdTargeting-importable.client.web^$script,domain=theguardian.com
+||assets.guim.co.uk/assets/Metrics-importable.client.web^$script,domain=theguardian.com
+||assets.guim.co.uk/assets/EmailSignUpWrapper-importable.client.web^$script,domain=theguardian.com
+||assets.guim.co.uk/polyfill.io/^$domain=theguardian.com
+
 
 ! CNN.COM
 cnn.com###onetrust-consent-sdk:not([style])

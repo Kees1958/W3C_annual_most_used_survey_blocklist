@@ -3,7 +3,7 @@
 ! Title: EU US ads&tracking networks MV3 (third-party blocking only)
 ! Expires: 7 days
 !
-! Version: 2026.02.07
+! Version: 2026.02.10
 !
 ! Please report issues related to website breakage at
 ! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -12,8 +12,7 @@
 ! The 7 day expiration period s only for adblockers to check weekly for updates.
 !
 ! You are allowed to use this freely, but at your own risk.
-!************************************************************   
-! Block advertising and tracking networks
+!************************************************************
 ||0emm.com^$third-party
 ||103bees.com^$third-party
 ||11nux.com^$third-party
@@ -75,10 +74,11 @@
 ||adblade.com^$third-party
 ||adblockanalytics.com^$third-party
 ||adblockrelief.com^$third-party
+||adcolony.com^$third-party
 ||addfreestats.com^$third-party
 ||adelixir.com^$third-party
-||adform.net^$third-party
 ||adfenix.com^$third-party
+||adform.net^$third-party
 ||adgreed.com^$third-party
 ||adheart.de^$third-party
 ||adinsight.co.kr^$third-party
@@ -94,11 +94,18 @@
 ||adpies.com^$third-party
 ||adrizer.com^$third-party
 ||adrta.com^$third-party
+||ads-api.tiktok.com^$third-party
+||ads-api.twitter.com^$third-party
+||ads-sg.tiktok.com^$third-party
+||ads.linkedin.com^$third-party
+||ads.pinterest.com^$third-party
+||ads.tiktok.com^$third-party
 ||adsafeprotected.com^$third-party
 ||adsave.co^$third-party
 ||adsensedetective.com^$third-party
 ||adspsp.com^$third-party
 ||adsrvr.org^$third-party
+||adtago.s3.amazonaws.com^$third-party
 ||adtarget.me^$third-party
 ||adtelligence.de^$third-party
 ||adtraction.com^$third-party
@@ -142,18 +149,22 @@
 ||amikay.com^$third-party
 ||amplitude.com^$third-party
 ||amung.us^$third-party
+||an.facebook.com^$third-party
 ||analoganalytics.com^$third-party
 ||analytically.net^$third-party
+||analytics-sg.tiktok.com^$third-party
 ||analytics.google.com^$third-party
 ||analytics.jst.ai^$third-party
+||analytics.pointdrive.linkedin.com^$third-party
+||analytics.s3.amazonaws.com^$third-party
 ||analytics.tiktok.com^$third-party
+||analyticsengine.s3.amazonaws.com^$third-party
 ||analyticswizard.com^$third-party
 ||angelfishstats.com^$third-party
 ||anonymised.io^$third-party
 ||anrdoezrs.net^$third-party
 ||apexstats.com^$third-party
 ||apextwo.com^$third-party
-||api.amplitude.com^$third-party
 ||api.iterable.com^$third-party
 ||apicit.net^$third-party
 ||apollofind.com^$third-party
@@ -161,8 +172,8 @@
 ||app-measurement.com^$third-party
 ||app.pendo.io^$third-party
 ||appboycdn.com^$third-party
-||appnexus.com^$third-party
 ||appcast.io^$third-party
+||appnexus.com^$third-party
 ||aprtx.com^$third-party
 ||aqtracker.com^$third-party
 ||arcadeweb.com^$third-party
@@ -180,7 +191,6 @@
 ||atdmt.com^$third-party
 ||athenainstitute.biz^$third-party
 ||attracta.com^$third-party
-||audience.advertising.com^$third-party
 ||audienceiq.com^$third-party
 ||audienceplay.com^$third-party
 ||audiencerate.com^$third-party
@@ -227,7 +237,6 @@
 ||belstat.fr^$third-party
 ||belstat.nl^$third-party
 ||best-top.de^$third-party
-||bestcontactform.com^$third-party$~image,third-party
 ||betarget.com^$third-party
 ||beusable.net^$third-party
 ||bfmio.com^$third-party
@@ -283,6 +292,7 @@
 ||bubblestat.com^$third-party
 ||burstbeacon.com^$third-party
 ||burt.io^$third-party
+||business-api.tiktok.com^$third-party
 ||buzzdeck.com^$third-party
 ||bytemgdd.com^$third-party
 ||c-o-u-n-t.com^$third-party
@@ -327,6 +337,7 @@
 ||clarivoy.com^$third-party
 ||clevi.com^$third-party
 ||click-url.com^$third-party
+||click.googleanalytics.com^$third-party
 ||clickable.net^$third-party
 ||clickaider.com^$third-party
 ||clickalyzer.com^$third-party
@@ -495,7 +506,6 @@
 ||ekmpinpoint.co.uk^$third-party
 ||ekmpinpoint.com^$third-party
 ||elitics.com^$third-party
-||eloqua.com^$third-party$~stylesheet
 ||email-match.com^$third-party
 ||embeddedanalytics.com^$third-party
 ||emetriq.de^$third-party
@@ -532,6 +542,8 @@
 ||eum-appdynamics.com^$third-party
 ||europuls.eu^$third-party
 ||europuls.net^$third-party
+||events.reddit.com^$third-party
+||events.redditmedia.com^$third-party
 ||everestjs.net^$third-party
 ||everesttech.net^$third-party
 ||evergage.com^$third-party
@@ -658,6 +670,7 @@
 ||goldstats.com^$third-party
 ||goneviral.com^$third-party
 ||goodcounter.org^$third-party
+||google-analytics.com^$third-party
 ||googleadservices.com^$third-party
 ||googlerank.info^$third-party
 ||gooo.al^$third-party
@@ -873,6 +886,8 @@
 ||lloogg.com^$third-party
 ||lngtd.com^$third-party
 ||localytics.com^$third-party
+||log.byteoversea.com^$third-party
+||log.pinterest.com^$third-party
 ||logaholic.com^$third-party
 ||logbor.com^$third-party
 ||logcounter.com^$third-party
@@ -1022,7 +1037,6 @@
 ||neatstats.com^$third-party
 ||nedstatbasic.net^$third-party
 ||net-filter.com^$third-party
-||netaffiliation.com^$script,third-party
 ||netagent.cz^$third-party
 ||netapplications.com^$third-party
 ||netbiscuits.net^$third-party
@@ -1192,7 +1206,6 @@
 ||pushengage.com^$third-party
 ||px.mountain.com^$third-party
 ||pxaction.com^$third-party
-||pxf.io^$image,script,third-party
 ||pxi.pub^$third-party
 ||pymx5.com^$third-party
 ||q-counter.com^$third-party
@@ -1425,6 +1438,7 @@
 ||statistiche-web.com^$third-party
 ||statistik-gallup.net^$third-party
 ||statowl.com^$third-party
+||stats.wp.com^$third-party
 ||stats2.com^$third-party
 ||stats21.com^$third-party
 ||stats4all.com^$third-party
@@ -1520,7 +1534,6 @@
 ||trace-2000.com^$third-party
 ||trace.events^$third-party
 ||traceworks.com^$third-party
-||track.customer.io^$third-party
 ||track.mailerlite.com^$third-party
 ||trackalyzer.com^$third-party
 ||trackcmp.net^$third-party
@@ -1550,6 +1563,7 @@
 ||trialfire.com^$third-party
 ||triggit.com^$third-party
 ||triptease.io^$third-party
+||trk.pinterest.com^$third-party
 ||trk.techtarget.com^$third-party
 ||trkjmp.com^$third-party
 ||trkn.us^$third-party
@@ -1576,6 +1590,7 @@
 ||umbel.com^$third-party
 ||uniqodo.com^$third-party
 ||united-infos.net^$third-party
+||unityads.unity3d.com^$third-party
 ||uplift-platform.com^$third-party
 ||upscore.com^$third-party
 ||upsellit.com^$third-party
@@ -1695,7 +1710,6 @@
 ||wowanalytics.co.uk^$third-party
 ||wpdstat.com^$third-party
 ||wpfc.ml^$third-party
-||stats.wp.com^$third-party
 ||wrating.com^$third-party
 ||wt-eu02.net^$third-party
 ||wt-safetag.com^$third-party
@@ -1737,4 +1751,3 @@
 ||zoosnet.net^$third-party
 ||zoossoft.net^$third-party
 ||zprk.io^$third-party
-! *** END

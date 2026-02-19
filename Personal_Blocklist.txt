@@ -29,7 +29,9 @@ bnr.nl##div[class*="BNRAd_ad_"]
 
 !AD.nl
 ad.nl##.advertising-container-top
+ad.nl##[data-category="teaser"][data-list="webwinkel"][data-type="shop"] > article > div
 ||login.ad.nl^$domain=ad.nl
+||webwinkel.ad.nl^$domain=ad.nl
 ||temptation.ad.nl^$domain=ad.nl
 ||login.dpgmedia.nl^$domain=ad.nl
 ||advertising-module.api.dpgmedia.cloud^$domain=ad.nl

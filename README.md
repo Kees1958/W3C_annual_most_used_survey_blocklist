@@ -21,3 +21,6 @@ This list works fine with the English adfilter of Easylist or Adguard's base fil
 
                                                       ERRORS & ISSUES
 Please report site breakage on https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues.
+
+                               Less is more with Chrome's MV3 Declaratibe Net Request 
+When you import the YAML format rules, yoy will notice the 1700 ad & tracking domains blocked only count as 1 rule! Less is more :-)

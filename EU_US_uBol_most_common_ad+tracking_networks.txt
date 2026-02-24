@@ -68,6 +68,7 @@ condition:
     - ad-srv-track.com
     - ad.admitad.com
     - ad.gt
+    - ad.sxp.smartclip.net
     - adabra.com
     - adara.com
     - adblade.com
@@ -85,6 +86,7 @@ condition:
     - adku.co
     - adku.com
     - admantx.com
+    - adnami.io
     - adnxs.com
     - adobetag.com
     - adoftheyear.com
@@ -112,6 +114,7 @@ condition:
     - advangelists.com
     - advconversion.com
     - advertising-cdn.dpgmedia.cloud
+    - advertising-module.api.dpgmedia.cloud
     - advertising.com
     - adwstats.com
     - adxcel-ec2.com
@@ -223,6 +226,8 @@ condition:
     - basicstat.com
     - basilic.io
     - batch.com
+    - bat.bing.com 
+    - bat.bing.net
     - bdash-cloud.com
     - beanstalkdata.com
     - beanstock.com
@@ -285,6 +290,7 @@ condition:
     - browser-statistik.de
     - browser-update.org
     - btbuckets.com
+    - btloader.com
     - bttrack.com
     - btttag.com
     - bubblestat.com
@@ -1404,6 +1410,7 @@ condition:
     - softonic-analytics.net
     - sokrati.com
     - sometrics.com
+    - sophi.io
     - sophus3.com
     - spectate.com
     - speed-trap.com
@@ -1491,6 +1498,7 @@ condition:
     - taplytics.com
     - taps.io
     - tapstream.com
+    - target.digitalaudience.io
     - targetfuel.com
     - tatsumi-sys.jp
     - tcactivity.net
@@ -1513,6 +1521,7 @@ condition:
     - thecounter.com
     - thesearchagency.net
     - tinycounter.com
+    - tinypass.com
     - tiser.com.au
     - tkqlhce.com
     - tl813.com

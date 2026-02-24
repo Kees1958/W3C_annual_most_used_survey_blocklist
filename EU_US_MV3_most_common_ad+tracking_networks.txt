@@ -3,7 +3,7 @@
 ! Title: EU US ads&tracking networks MV3 (third-party blocking only)
 ! Expires: 7 days
 !
-! Version: 2026.02.10
+! Version: 2026.02.24
 !
 ! Please report issues related to website breakage at
 ! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -69,6 +69,7 @@
 ||ad-srv-track.com^$third-party
 ||ad.admitad.com^$third-party
 ||ad.gt^$third-party
+||ad.sxp.smartclip.net^$third-party
 ||adabra.com^$third-party
 ||adara.com^$third-party
 ||adblade.com^$third-party
@@ -87,6 +88,7 @@
 ||adku.co^$third-party
 ||adku.com^$third-party
 ||admantx.com^$third-party
+||adnami.io^$third-party
 ||adnxs.com^$third-party
 ||adobetag.com^$third-party
 ||adoftheyear.com^$third-party
@@ -114,6 +116,7 @@
 ||advangelists.com^$third-party
 ||advconversion.com^$third-party
 ||advertising-cdn.dpgmedia.cloud^$third-party
+||advertising-module.api.dpgmedia.cloud^$third-party
 ||advertising.com^$third-party
 ||adwstats.com^$third-party
 ||adxcel-ec2.com^$third-party
@@ -224,6 +227,8 @@
 ||barilliance.net^$third-party
 ||basicstat.com^$third-party
 ||basilic.io^$third-party
+||bat.bing.com^$third-party
+||bat.bing.net^$third-party
 ||batch.com^$third-party
 ||bdash-cloud.com^$third-party
 ||beanstalkdata.com^$third-party
@@ -287,6 +292,7 @@
 ||browser-statistik.de^$third-party
 ||browser-update.org^$third-party
 ||btbuckets.com^$third-party
+||btloader.com^$third-party
 ||bttrack.com^$third-party
 ||btttag.com^$third-party
 ||bubblestat.com^$third-party
@@ -1406,6 +1412,7 @@
 ||softonic-analytics.net^$third-party
 ||sokrati.com^$third-party
 ||sometrics.com^$third-party
+||sophi.io^$third-party
 ||sophus3.com^$third-party
 ||spectate.com^$third-party
 ||speed-trap.com^$third-party
@@ -1493,6 +1500,7 @@
 ||taplytics.com^$third-party
 ||taps.io^$third-party
 ||tapstream.com^$third-party
+||target.digitalaudience.io^$third-party
 ||targetfuel.com^$third-party
 ||tatsumi-sys.jp^$third-party
 ||tcactivity.net^$third-party
@@ -1515,6 +1523,7 @@
 ||thecounter.com^$third-party
 ||thesearchagency.net^$third-party
 ||tinycounter.com^$third-party
+||tinypass.com^$third-party
 ||tiser.com.au^$third-party
 ||tkqlhce.com^$third-party
 ||tl813.com^$third-party

@@ -112,6 +112,7 @@ bbc.com##div[class*="-ConsentBanner"]
 ! Sky news
 news.sky.com##div.sdc-article-strapline--default-layout
 news.sky.com##div.ui-advert.sdc-site-au__leaderboard
+/wrapperMessagingWithoutDetection.js^$domain=news.sky.com
 ||googletagservices.com/tag/js/gpt.js/gpt.js$script^$domain=news.sky.com
 ||imasdk.googleapis.com^$script^$domain=news.sky.com
 ||doubleclick.net^$domain=news.sky.com

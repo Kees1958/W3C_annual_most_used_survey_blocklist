@@ -3,21 +3,21 @@
 ! Title: Kees1958 personal blocklist for bookmarked websites
 ! Expires: 7 days
 !
-! Version: 2026.02.19
+! Version: 2026.03.08
 !
 ! You are allowed to use this freely, but at your own risk. Works with Brave browser and AdBlocker Ultimate. 
 ! AdGuard and UBlockOrigin are depreciated because AG is developed in Russia and uBo is not Mv3 compliant
 !
-! **********************************************************
-! Hides cookie consent en advertisements on below websites *
-! **********************************************************
-!
 !*** block rules for bookmarked websites
+!
 ! NOS
 nos.nl##div[id="regio-onboarding"]
 ccm-wrapper$script,domain=nos.nl
 ||cdn-ster-nl.akamaized.net/*.mp4$redirect=noopmp4-1s,domain=nos.nl
 ||ster.nl^$domain=nos.nl
+||optoutadvertising.com^$domain=nos.nl
+||ingest.sentry.io^$domain=nos.nl
+||smartocto.com^$domain=nos.nl
 
 ! BNR
 bnr.nl##.bnr-message, .ad
@@ -26,17 +26,13 @@ bnr.nl##div[class*="StickyPlayer"]
 bnr.nl##div[class*="BNRAd_ad_"]
 ||consent.bnr.nl^$domain=bnr.nl
 ||messages-cdn.fdmg.nl^$domain=bnr.nl
-
-!AD.nl
-ad.nl##.advertising-container-top
-ad.nl##[data-category="teaser"][data-list="webwinkel"][data-type="shop"] > article > div
-||login.ad.nl^$domain=ad.nl
-||webwinkel.ad.nl^$domain=ad.nl
-||temptation.ad.nl^$domain=ad.nl
-||login.dpgmedia.nl^$domain=ad.nl
-||advertising-module.api.dpgmedia.cloud^$domain=ad.nl
-||login-static.dpgmedia.net^$domain=ad.nl
-||dns-finder.com^$domain=ad.nl
+||scorecardresearch.com^$domain=bnr.nl
+||via.batch.com^$domain=bnr.nl
+||doubleclick.net^$domain=bnr.nl
+||bing.com^$domain=bnr.nl
+||connect.facebook.net^$domain=bnr.nl
+||chartbeat.com^$domain=bnr.nl
+||googletagmanager.com^$domain=bnr.nl
 
 !Nu.nl
 nu.nl##.banner
@@ -49,15 +45,32 @@ nu.nl##.tm-login__body
 nu.nl##body:style(overflow: visible !important;)
 nu.nl##+js(rc, authorized-content, div.authorized-content, stay)
 nu.nl##+js(rc, semi-authorized-content, div.semi-authorized-content, stay)
+||advertising-cdn.dpgmedia.cloud^$domain=nu.nl
+||optoutadvertising.com^$domain=nu.nl
+||pexi.nl^$domain=nu.nl
+||applets.ebxcdn.com^$domain=nu.nl
 ||ping.dpns-notifications.com^$domain=nu.nl
 
 ! Volkskrant.nl
 volkskrant.nl###top1
 volkskrant.nl##.top1-container
+volkskrant.nl##.AdSense
 volkskrant.nl##div[class="ad--top fjs-hide-on-paywall"]
-||myprivacy-static.dpgmedia.net/consent.js$domain=volkskrant.nl|nu.nl
+volkskrant.nl##a.tm-overflow-scroll__space.fjs-tm-close
+volkskrant.nl##aside.marketing-banner[data-temptation-position]
+volkskrant.nl###PURCHASE_VERTICAL__OVERLAY
+*/gtm.js^$script,domain=volkskrant.nl
 /temptation/resolve$xmlhttprequest,~third-party,domain=volkskrant.nl
 ||temptation.*/temptation.js$script,~third-party,domain=volkskrant.nl
+||myprivacy-static.dpgmedia.net/consent.js$domain=volkskrant.nl|nu.nl
+||pushengage.com^$domain=volkskrant.nl
+||adnxs.com^$domain=volkskrant.nl
+||advertising-cdn.dpgmedia.cloud^$domain=volkskrant.nl
+||usabilla.com^$domain=volkskrant.nl
+||optoutadvertising.com^$domain=volkskrant.nl
+||scorecardresearch.com^$domain=volkskrant.nl
+||smartocto.com^$domain=volkskrant.nl
+||sp.dpgmedia.net^$domain=volkskrant.nl
 
 ! NRC
 nrc.nl###adslot0-leaderboard
@@ -69,6 +82,9 @@ nrc.nl##div[id$="modal__overlay"], div.header__subscribe-bar, div.banner
 ||nrc.nl/paywall-api/api/zephr$xmlhttprequest,~third-party
 ||content2.nrc.nl^$domain=nrc.nl
 ||prod-nrcm.mhtr.be/public/tr/tracker.min.js$domain=nrc.nl
+||chartbeat.com^$domain=nrc.nl
+||scorecardresearch.com^$domain=nrc.nl
+||parsely.com^$domain=nrc.nl
 ||sophi.io^$domain=nrc.nl
 ||leub.stape.net^$domain=nrc.nl
 
@@ -82,7 +98,24 @@ bbc.com##div[class*="-ConsentBanner"]
 ||mybbc-analytics.files.bbci.co.uk^$domain=bbc.com
 ||dotcom.bbc-reporting-api.app^$domain=bbc.com
 /wrapperMessagingWithoutDetection.js^$domain=bbc.com
+||optimizely.com^$domain=bbc.com
+||chartbeat.com^$domain=bbc.com
+||dotmetrics.net^$domain=bbc.com
+||permutive.com^$domain=bbc.com
+||doubleverify.com^$domain=bbc.com
+||cxense.com^$domain=bbc.com
+||webcontentassessor.com^$domain=bbc.com
+||doubleclick.net^$domain=bbc.com
 ||tinypass.com^$domain=bbc.com
+
+
+! Sky news
+news.sky.com##div.sdc-article-strapline--default-layout
+news.sky.com##div.ui-advert.sdc-site-au__leaderboard
+||googletagservices.com/tag/js/gpt.js/gpt.js$script^$domain=news.sky.com
+||imasdk.googleapis.com^$script^$domain=news.sky.com
+||doubleclick.net^$domain=news.sky.com
+||widgets.outbrain.com/outbrain.js$script^$domain=news.sky.com
 
 ! The Guardian
 theguardian.com###sign-in-gate
@@ -90,7 +123,7 @@ theguardian.com##.ad-slot-container
 theguardian.com##[data-spacefinder-role] aside[aria-label]
 theguardian.com##[data-spacefinder-type="model.dotcomrendering.pageElements.NewsletterSignupBlockElement"]
 ||theguardian.com/*/wrapperMessagingWithoutDetection.js$domain=theguardian.com
-||assets.guim.co.uk/commercial/$domain=theguardian.com
+!||assets.guim.co.uk/commercial/$domain=theguardian.com
 ||assets.guim.co.uk/assets/StickyBottomBanner-importable.client.web^$script,domain=theguardian.com
 ||assets.guim.co.uk/assets/BrazeMessaging-importable.client^$script,domain=theguardian.com
 ||assets.guim.co.uk/assets/ReaderRevenueDev-importable.client.web^$script,domain=theguardian.com
@@ -105,9 +138,28 @@ cnn.com###onetrust-consent-sdk:not([style])
 ||collector.cdp.cnn.com/com.snowplowanalytics.snowplow/$domain=ix.cnn.io
 ||pagead2.googlesyndication.com^$domain=edition.cnn.com
 ||media.max.com/*/main.mpd^$domain=cnn.com
+||ml314.com^$domain=edition.cnn.com
+||quantserve.com^$domain=edition.cnn.com
+||optimizely.com^$domain=edition.cnn.com
+||quantcount.com^$domain=edition.cnn.com
+||piano.io^$domain=edition.cnn.com
 ||tinypass.com^$domain=edition.cnn.com
+||cxense.com^$domain=edition.cnn.com
+||litix.io^$domain=edition.cnn.com
+||piano.io^$domain=edition.cnn.com
 ||brightline.tv^$domain=edition.cnn.com
+||scorecardresearch.com^$domain=edition.cnn.com
 
+! NBC News
+nbcnews.com##div#onetrust-banner-sdk
+nbcnews.com##div.header-and-footer--banner-ad.ad-container.topbannerAd
+nbcnews.com##div.onetrust-pc-dark-filter
+||mps.nbcuni.com/fetch/ext/^$domain=nbcnews.com
+/admanager.js$script,domain=nbcnews.com
+||video-ads-module.ad-tech.nbcuni.com^$domain=nbcnews.com
+||doubleclick.net^%domain=nbcnews.com
+||amazon-adsystem.com^%domain=nbcnews.com
+||skimresources.com^$script,subdocument,third-party,domain=nbcnews.com
 
 ! Foxnews
 foxnews.com###alert-container
@@ -116,5 +168,16 @@ foxnews.com##.item-newsletter
 ||api.community.fox.com/*/metrics^$domain=foxnews.com
 ||prod.fennec.atp.fox^$domain=foxnews.com
 ||prod.pyxis.atp.fox^$domain=foxnews.com
+||braze.com^$domain=foxnews.com
+||demdex.net^$domain=foxnews.com
+||knotch.com^$domain=foxnews.com
+||trueanthem.com^$domain=foxnews.com
+||amazon-adsystem.com^$domain=foxnews.com
 ||interactives.ap.org^$domain=foxnews.com
+||omtrdc.net^$domain=foxnews.com
 ||pix.pub^$domain=foxnews.com
+||segment.com^$domain=foxnews.com
+
+
+
+! END

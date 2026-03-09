@@ -180,6 +180,24 @@ foxnews.com##.item-newsletter
 ||segment.com^$domain=foxnews.com
 
 ! New York Times
+nytimes.com##div[class*="ad top-wrapper"]
+nytimes.com##div:has(> div[data-testid="StandardAd"]:only-child)
+nytimes.com##[data-testid="StandardAd"]
+nytimes.com##body .ad
+nytimes.com##div[id^="dfp-ad-"]
+nytimes.com###after-dfp-ad-top
+nytimes.com###story-ad-1-wrapper
+nytimes.com###ad-0
+nytimes.com###ad-1
+nytimes.com###ad-2
+nytimes.com###ad-3
+nytimes.com###ad-4
+nytimes.com###after-dfp-ad-mid0
+nytimes.com###after-dfp-ad-mid1
+nytimes.com###after-dfp-ad-mid2
+nytimes.com###after-dfp-ad-mid3
+nytimes.com###after-dfp-ad-mid4
+nytimes.com###top-wrapper
 pay.js^$domain=nytimes.com
 nytimes.com/track^$domain=nytimes.com
 nytimes.com/meter.js^$domain=nytimes.com
@@ -201,21 +219,6 @@ imasdk.googleapis.com/js/sdkloader
 ||doubleclick.net^$domain=nytimes.com
 ||accounts.google.com^$domain=nytimes.com
 ||a.et.nytimes.com//.status$domain=nytimes.com
-nytimes.com##div[class*="ad top-wrapper"]
-nytimes.com##div:has(> div[data-testid="StandardAd"]:only-child)
-nytimes.com##[data-testid="StandardAd"]
-nytimes.com##body .ad
-nytimes.com##div[id^="dfp-ad-"]
-nytimes.com###after-dfp-ad-top
-nytimes.com###ad-0
-nytimes.com###ad-2
-nytimes.com###ad-2
-nytimes.com###ad-3
-nytimes.com###ad-3
-nytimes.com###after-dfp-ad-mid0
-nytimes.com###after-dfp-ad-mid1
-nytimes.com###after-dfp-ad-mid2
-nytimes.com###after-dfp-ad-mid3
-nytimes.com###after-dfp-ad-mid4
+
 
 ! END

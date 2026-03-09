@@ -3,13 +3,12 @@
 ! Title: Kees1958 personal blocklist for bookmarked websites
 ! Expires: 7 days
 !
-! Version: 2026.03.08
+! Version: 2026.03.09
 !
 ! You are allowed to use this freely, but at your own risk. Works with Brave browser and AdBlocker Ultimate. 
 ! AdGuard and UBlockOrigin are depreciated because AG is developed in Russia and uBo is not Mv3 compliant
 !
 !*** block rules for bookmarked websites
-!
 ! NOS
 nos.nl##div[id="regio-onboarding"]
 ccm-wrapper$script,domain=nos.nl
@@ -112,7 +111,6 @@ bbc.com##div[class*="-ConsentBanner"]
 ! Sky news
 news.sky.com##div.sdc-article-strapline--default-layout
 news.sky.com##div.ui-advert.sdc-site-au__leaderboard
-/wrapperMessagingWithoutDetection.js^$domain=news.sky.com
 ||googletagservices.com/tag/js/gpt.js/gpt.js$script^$domain=news.sky.com
 ||imasdk.googleapis.com^$script^$domain=news.sky.com
 ||doubleclick.net^$domain=news.sky.com
@@ -179,6 +177,43 @@ foxnews.com##.item-newsletter
 ||pix.pub^$domain=foxnews.com
 ||segment.com^$domain=foxnews.com
 
-
+! New York Times
+pay.js^$domain=nytimes.com
+nytimes.com/track^$domain=nytimes.com
+nytimes.com/meter.js^$domain=nytimes.com
+nyt.com/ads^$domain=nytimes.com
+nytimes.com/svc/onsite-messaging^$domain=nytimes.com
+purr.nytimes.com/v1/purr-cache^$domain=nytimes.com
+als-svc.nytimes.com/als^$domain=nytimes.com
+warp.media.net/js/tags/clientag.js^$domain=nytimes.com
+datadoghq-browser-agent.com^$domain=nytimes.com
+rumcdn.geoedge.be^$domain=nytimes.com
+amazon-adsystem.com^$domain=nytimes.com
+pagead2.googlesyndication.com^$domain=nytimes.com
+pay.google.com^$domain=nytimes.com
+play.google.com^$domain=nytimes.com
+googletagmanager.com^$domain=nytimes.com
+imasdk.googleapis.com/js/sdkloader
+/.*adslot.*/$script,domain=nytimes.com
+||privacymanager.io^$domain=nytimes.com
+||doubleclick.net^$domain=nytimes.com
+||accounts.google.com^$domain=nytimes.com
+||a.et.nytimes.com//.status$domain=nytimes.com
+nytimes.com##div[class*="ad top-wrapper"]
+nytimes.com##div:has(> div[data-testid="StandardAd"]:only-child)
+nytimes.com##[data-testid="StandardAd"]
+nytimes.com##body .ad
+nytimes.com##div[id^="dfp-ad-"]
+nytimes.com###after-dfp-ad-top
+nytimes.com###ad-0
+nytimes.com###ad-2
+nytimes.com###ad-2
+nytimes.com###ad-3
+nytimes.com###ad-3
+nytimes.com###after-dfp-ad-mid0
+nytimes.com###after-dfp-ad-mid1
+nytimes.com###after-dfp-ad-mid2
+nytimes.com###after-dfp-ad-mid3
+nytimes.com###after-dfp-ad-mid4
 
 ! END

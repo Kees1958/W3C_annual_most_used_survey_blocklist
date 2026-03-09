@@ -151,7 +151,9 @@ cnn.com###onetrust-consent-sdk:not([style])
 
 ! NBC News
 nbcnews.com##div#onetrust-banner-sdk
+nbcnews.com##div.adSlot.topbanner[data-ad-label]
 nbcnews.com##div.header-and-footer--banner-ad.ad-container.topbannerAd
+nbcnews.comdiv.header-and-footer--banner-ad.ad-container.topbannerAd
 nbcnews.com##div.onetrust-pc-dark-filter
 ||mps.nbcuni.com/fetch/ext/^$domain=nbcnews.com
 /admanager.js$script,domain=nbcnews.com

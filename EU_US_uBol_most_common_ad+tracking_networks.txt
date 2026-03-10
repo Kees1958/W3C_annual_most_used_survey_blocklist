@@ -13,6 +13,16 @@ action:
 condition:
   excludedInitiatorDomains:
     - amazon.com
+    - amazon.be
+    - amazon.ca
+    - amazon.com.uk
+    - amazon.de
+    - amazon.es
+    - amazon.fr
+    - amazon.ie
+    - amazon.it
+    - amazon.nl
+    - amazon.se
     - facebook.com
     - google.com
     - instagram.com

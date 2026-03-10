@@ -1,4 +1,4 @@
-# Version: 2026.02.10 in YAML format to be used in the CUSTOM DNR RULES section of uBlock Origin Lite 
+# Version: 2026.03.10 in YAML format to be used in the CUSTOM DNR RULES section of uBlock Origin Lite 
 
 # Please report issues related to website breakage at
 # https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -7,10 +7,22 @@
 # You are allowed to use this freely, but at your own risk.
 
 # Block advertising and tracking networks (with just ! rule :-) 
+
 action:
   type: block
 condition:
-  domainType: thirdParty
+  excludedInitiatorDomains:
+    - amazon.com
+    - facebook.com
+    - google.com
+    - instagram.com
+    - linkedin.com
+    - pinterest.com
+    - reddit.com
+    - tiktok.com
+    - twitter.com
+    - whatsapp.com
+    - x.com
   requestDomains:
     - 0emm.com
     - 103bees.com
@@ -96,9 +108,12 @@ condition:
     - adrta.com
     - ads-api.tiktok.com
     - ads-api.twitter.com
+    - ads-dev.pinterest.com
     - ads-sg.tiktok.com
+    - ads.facebook.com
     - ads.linkedin.com
     - ads.pinterest.com
+    - ads.reddit.com
     - ads.tiktok.com
     - adsafeprotected.com
     - adsave.co
@@ -116,11 +131,13 @@ condition:
     - advertising-cdn.dpgmedia.cloud
     - advertising-module.api.dpgmedia.cloud
     - advertising.com
+    - advertising.twitter.com
     - adwstats.com
     - adxcel-ec2.com
     - adyapper.com
     - affilae.com
     - affiliateedge.eu
+    - affiliationjs.s3.amazonaws.com
     - affinesystems.com
     - affinitymatrix.com
     - affistats.com
@@ -154,8 +171,10 @@ condition:
     - analoganalytics.com
     - analytically.net
     - analytics-sg.tiktok.com
+    - analytics.facebook.com
     - analytics.google.com
     - analytics.jst.ai
+    - analytics.pinterest.com
     - analytics.pointdrive.linkedin.com
     - analytics.s3.amazonaws.com
     - analytics.tiktok.com
@@ -167,6 +186,7 @@ condition:
     - apexstats.com
     - apextwo.com
     - api.iterable.com
+    - api-hotjar.com
     - apicit.net
     - apollofind.com
     - apolloprogram.io
@@ -174,6 +194,7 @@ condition:
     - app.pendo.io
     - appboycdn.com
     - appcast.io
+    - applets.ebxcdn.com
     - appnexus.com
     - aprtx.com
     - aqtracker.com
@@ -225,9 +246,10 @@ condition:
     - barilliance.net
     - basicstat.com
     - basilic.io
-    - batch.com
+    - bat.bing.com
     - bat.bing.com 
     - bat.bing.net
+    - batch.com
     - bdash-cloud.com
     - beanstalkdata.com
     - beanstock.com
@@ -283,6 +305,7 @@ condition:
     - breaktime.com.tw
     - bridged.media
     - bridgevine.com
+    - brightline.tv
     - brilig.com
     - brilliantcollector.com
     - bronto.com
@@ -571,6 +594,8 @@ condition:
     - ezytrack.com
     - fabricww.com
     - fanplayr.com
+    - fastclick.com
+    - fastclick.net
     - fast-thinking.co.uk
     - fastly-analytics.com
     - fastly-insights.com
@@ -727,6 +752,7 @@ condition:
     - hostip.info
     - hotjar.com
     - hotjar.io
+    - hotjar-analytics.com
     - hotrank.com.tw
     - hs-analytics.net
     - hsadspixel.net
@@ -778,6 +804,7 @@ condition:
     - infinity-tracking.com
     - infinity-tracking.net
     - inflectionpointmedia.com
+    - ingest.sentry.io
     - innovateads.com
     - inphonic.com
     - inpwrd.com
@@ -792,6 +819,7 @@ condition:
     - intake-lr.com
     - intelli-direct.com
     - intelligencefocus.com
+    - interactives.ap.org
     - interceptum.com
     - interstateanalytics.com
     - intervigil.com
@@ -871,6 +899,7 @@ condition:
     - leafmedia.io
     - legolas-media.com
     - lemnisk.co
+    - leub.stape.net
     - levexis.com
     - lexity.com
     - lfeeder.com
@@ -1084,6 +1113,7 @@ condition:
     - ometria.com
     - omguk.com
     - omniconvert.com
+    - omtrdc.net
     - onaudience.com
     - onefeed.co.uk
     - onesignal.com
@@ -1115,6 +1145,7 @@ condition:
     - p7cloud.net
     - pa-oa.com
     - pabidding.io
+    - pagead2.googlesyndication.com
     - pagefair.com
     - pages05.net
     - pagesense.io
@@ -1149,6 +1180,7 @@ condition:
     - pipedream.wistia.com
     - pippio.com
     - pirsch.io
+    - pix.pub
     - pixel.ad
     - pixel.facebook.com
     - pixel.watch
@@ -1264,6 +1296,7 @@ condition:
     - repixel.co
     - replaybird.com
     - requestmetrics.com
+    - rereddit.com
     - res-x.com
     - research-tool.com
     - responsetap.com
@@ -1627,6 +1660,7 @@ condition:
     - verticalscope.com
     - verticalsearchworks.com
     - vertster.com
+    - via.batch.com
     - viafoura.net
     - video.oms.eu
     - videos.oms.eu
@@ -1706,6 +1740,7 @@ condition:
     - whosclickingwho.com
     - wickedreports.com
     - widerplanet.com
+    - widgets.pinterest.com
     - wikia-beacon.com
     - wiredminds.de
     - wisetrack.net
@@ -1758,4 +1793,3 @@ condition:
     - zoosnet.net
     - zoossoft.net
     - zprk.io
-# end

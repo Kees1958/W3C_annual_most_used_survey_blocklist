@@ -54,6 +54,7 @@ nu.nl##+js(rc, semi-authorized-content, div.semi-authorized-content, stay)
 volkskrant.nl###top1
 volkskrant.nl##.top1-container
 volkskrant.nl##.AdSense
+volkskrant.nl###article_paragraph_3
 volkskrant.nl##div[class="ad--top fjs-hide-on-paywall"]
 volkskrant.nl##a.tm-overflow-scroll__space.fjs-tm-close
 volkskrant.nl##aside.marketing-banner[data-temptation-position]
@@ -187,6 +188,11 @@ nytimes.com##body .ad
 nytimes.com##div[id^="dfp-ad-"]
 nytimes.com###after-dfp-ad-top
 nytimes.com###story-ad-1-wrapper
+nytimes.com###story-ad-2-wrapper
+nytimes.com###story-ad-3-wrapper
+nytimes.com###story-ad-4-wrapper
+nytimes.com###story-ad-5-wrapper
+nytimes.com###story-ad-6-wrapper
 nytimes.com###ad-0
 nytimes.com###ad-1
 nytimes.com###ad-2
@@ -198,6 +204,7 @@ nytimes.com###after-dfp-ad-mid2
 nytimes.com###after-dfp-ad-mid3
 nytimes.com###after-dfp-ad-mid4
 nytimes.com###top-wrapper
+nytimes.com###bottom-wrapper
 pay.js^$domain=nytimes.com
 nytimes.com/track^$domain=nytimes.com
 nytimes.com/meter.js^$domain=nytimes.com

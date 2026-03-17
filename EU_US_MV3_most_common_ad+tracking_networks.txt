@@ -576,6 +576,7 @@
 ||experianmarketingservices.digital^$third-party
 ||explore-123.com^$third-party
 ||exposebox.com^$third-party
+||extmaps-api.yandex.net^$third-party
 ||extole.com^$third-party
 ||extrawatch.com^$third-party
 ||extreme-dm.com^$third-party
@@ -1724,6 +1725,7 @@
 ||whosclickingwho.com^$third-party
 ||wickedreports.com^$third-party
 ||widerplanet.com^$third-party
+||widgets.pinterest.com^$third-party
 ||wikia-beacon.com^$third-party
 ||wiredminds.de^$third-party
 ||wisetrack.net^$third-party

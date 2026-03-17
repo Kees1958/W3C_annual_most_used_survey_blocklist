@@ -3,7 +3,7 @@
 ! Title: EU US ads&tracking networks MV3 (third-party blocking only)
 ! Expires: 7 days
 !
-! Version: 2026.02.24
+! Version: 2026.03.17
 !
 ! Please report issues related to website breakage at
 ! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -85,7 +85,6 @@
 ||adinsight.co.kr^$third-party
 ||adinsight.com^$third-party
 ||adjust.com^$third-party
-||adku.co^$third-party
 ||adku.com^$third-party
 ||admantx.com^$third-party
 ||adnami.io^$third-party
@@ -96,13 +95,17 @@
 ||adpies.com^$third-party
 ||adrizer.com^$third-party
 ||adrta.com^$third-party
+||ads-dev.pinterest.com^$third-party
 ||ads-api.tiktok.com^$third-party
 ||ads-api.twitter.com^$third-party
 ||ads-sg.tiktok.com^$third-party
 ||ads.linkedin.com^$third-party
+||ads.facebook.com^$third-party
 ||ads.pinterest.com^$third-party
 ||ads.tiktok.com^$third-party
+||ads.reddit.com^$third-party
 ||adsafeprotected.com^$third-party
+||adsdk.yandex.ru^$third-party
 ||adsave.co^$third-party
 ||adsensedetective.com^$third-party
 ||adspsp.com^$third-party
@@ -115,14 +118,17 @@
 ||advanced-web-analytics.com^$third-party
 ||advangelists.com^$third-party
 ||advconversion.com^$third-party
+||advertising-api-eu.amazon.com^$third-party
 ||advertising-cdn.dpgmedia.cloud^$third-party
 ||advertising-module.api.dpgmedia.cloud^$third-party
 ||advertising.com^$third-party
+||advertising.twitter.com^$third-party
 ||adwstats.com^$third-party
 ||adxcel-ec2.com^$third-party
 ||adyapper.com^$third-party
 ||affilae.com^$third-party
 ||affiliateedge.eu^$third-party
+||affiliationjs.s3.amazonaws.com^$third-party
 ||affinesystems.com^$third-party
 ||affinitymatrix.com^$third-party
 ||affistats.com^$third-party
@@ -156,11 +162,15 @@
 ||analoganalytics.com^$third-party
 ||analytically.net^$third-party
 ||analytics-sg.tiktok.com^$third-party
+||analytics.facebook.com^$third-party
 ||analytics.google.com^$third-party
 ||analytics.jst.ai^$third-party
+||analytics.mobile.yandex.net^$third-party
+||analytics.pinterest.com^$third-party
 ||analytics.pointdrive.linkedin.com^$third-party
 ||analytics.s3.amazonaws.com^$third-party
 ||analytics.tiktok.com^$third-party
+||analytics.yahoo.com^$third-party
 ||analyticsengine.s3.amazonaws.com^$third-party
 ||analyticswizard.com^$third-party
 ||angelfishstats.com^$third-party
@@ -168,6 +178,7 @@
 ||anrdoezrs.net^$third-party
 ||apexstats.com^$third-party
 ||apextwo.com^$third-party
+||api-hotjar.com^$third-party
 ||api.iterable.com^$third-party
 ||apicit.net^$third-party
 ||apollofind.com^$third-party
@@ -176,6 +187,7 @@
 ||app.pendo.io^$third-party
 ||appboycdn.com^$third-party
 ||appcast.io^$third-party
+||appmetrica.yandex.com^$third-party
 ||appnexus.com^$third-party
 ||aprtx.com^$third-party
 ||aqtracker.com^$third-party
@@ -436,6 +448,7 @@
 ||cya2.net^$third-party
 ||cyberanalytics.nl^$third-party
 ||d-collector.jennifersoft.com^$third-party
+||d.reddit.com^$third-party
 ||d41.co^$third-party
 ||dacounter.com^$third-party
 ||dapxl.com^$third-party
@@ -729,6 +742,7 @@
 ||hostip.info^$third-party
 ||hotjar.com^$third-party
 ||hotjar.io^$third-party
+||hotjar-analytics.com^$third-party
 ||hotrank.com.tw^$third-party
 ||hs-analytics.net^$third-party
 ||hsadspixel.net^$third-party
@@ -946,6 +960,7 @@
 ||mbww.com^$third-party
 ||measuremap.com^$third-party
 ||measurementapi.com^$third-party
+||media.fastclick.net^$third-party
 ||media.net^$third-party
 ||media01.eu^$third-party
 ||mediaarmor.com^$third-party
@@ -1266,6 +1281,7 @@
 ||repixel.co^$third-party
 ||replaybird.com^$third-party
 ||requestmetrics.com^$third-party
+||rereddit.com^$third-party
 ||res-x.com^$third-party
 ||research-tool.com^$third-party
 ||responsetap.com^$third-party
@@ -1737,6 +1753,7 @@
 ||xxxcounter.com^$third-party
 ||y-track.com^$third-party
 ||yamanoha.com^$third-party
+||yandexadexchange.net^$third-party
 ||yandexmetrica.com^$third-party
 ||yaudience.com^$third-party
 ||ybotvisit.com^$third-party

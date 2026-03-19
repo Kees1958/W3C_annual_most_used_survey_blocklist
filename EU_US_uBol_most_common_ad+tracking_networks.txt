@@ -256,7 +256,6 @@ condition:
     - barilliance.net
     - basicstat.com
     - basilic.io
-    - bat.bing.com
     - bat.bing.com 
     - bat.bing.net
     - batch.com

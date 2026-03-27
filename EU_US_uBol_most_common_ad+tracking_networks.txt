@@ -1,16 +1,17 @@
-# Version: 2026.03.10 in YAML format to be used in the CUSTOM DNR RULES section of uBlock Origin Lite 
-
+# Version: 2026.03.27 in YAML format to be used in the CUSTOM DNR RULES section of uBlock Origin Lite 
 # Please report issues related to website breakage at
 # https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
-
 # This filter list does not need regular updates as explained in the read me.
 # You are allowed to use this freely, but at your own risk.
-
-# Block advertising and tracking networks (with just ! rule :-) 
+#
+# Block advertising and tracking networks (with just ! rule :-) in uBol
+# copy paste this into the customized DNR rules
+#
 
 action:
   type: block
 condition:
+  domainType: thirdParty
   excludedInitiatorDomains:
     - amazon.com
     - amazon.be

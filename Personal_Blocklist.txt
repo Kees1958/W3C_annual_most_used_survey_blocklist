@@ -121,7 +121,7 @@ theguardian.com##.ad-slot-container
 theguardian.com##[data-spacefinder-role] aside[aria-label]
 theguardian.com##[data-spacefinder-type="model.dotcomrendering.pageElements.NewsletterSignupBlockElement"]
 ||theguardian.com/*/wrapperMessagingWithoutDetection.js$domain=theguardian.com
-!||assets.guim.co.uk/commercial/$domain=theguardian.com
+||assets.guim.co.uk/commercial/$domain=theguardian.com
 ||assets.guim.co.uk/assets/StickyBottomBanner-importable.client.web^$script,domain=theguardian.com
 ||assets.guim.co.uk/assets/BrazeMessaging-importable.client^$script,domain=theguardian.com
 ||assets.guim.co.uk/assets/ReaderRevenueDev-importable.client.web^$script,domain=theguardian.com

@@ -55,6 +55,7 @@ nu.nl##+js(rc, semi-authorized-content, div.semi-authorized-content, stay)
 ! Volkskrant.nl
 volkskrant.nl###top1
 volkskrant.nl##.top1-container
+volkskrant.nl##div.h1-container
 volkskrant.nl##.AdSense
 volkskrant.nl###article_paragraph_3
 volkskrant.nl##div[class="ad--top fjs-hide-on-paywall"]

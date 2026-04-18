@@ -134,9 +134,9 @@ theguardian.com##[data-spacefinder-type="model.dotcomrendering.pageElements.News
 ! Sky news
 news.sky.com##div.sdc-article-strapline--default-layout
 news.sky.com##div.ui-advert.sdc-site-au__leaderboard
-||googletagservices.com/tag/js/gpt.js/gpt.js$script^$domain=news.sky.com
-||imasdk.googleapis.com^$script^$domain=news.sky.com
-||widgets.outbrain.com/outbrain.js$script^$domain=news.sky.com
+||googletagservices.com/tag/js/gpt.js/gpt.js$script,domain=news.sky.com
+||imasdk.googles.com^$script,domain=news.sky.com
+||widgets.outbrain.com/outbrain.js$script,domain=news.sky.com
 ||metrics.brightcove.com^$domain=news.sky.com
 ||doubleclick.net^$domain=news.sky.com
 ||dotmetrics.net^$domain=news.sky.com
@@ -185,7 +185,7 @@ pay.js^$domain=nytimes.com
 ||pay.google.com^$domain=nytimes.com
 ||play.google.com^$domain=nytimes.com
 ||googletagmanager.com^$domain=nytimes.com
-||imasdk.googleapis.com/js/sdkloader^$domain=nytimes.com
+||imasdk.googles.com/js/sdkloader^$domain=nytimes.com
 ||privacymanager.io^$domain=nytimes.com
 ||doubleclick.net^$domain=nytimes.com
 ||accounts.google.com^$domain=nytimes.com

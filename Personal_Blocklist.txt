@@ -74,6 +74,7 @@ volkskrant.nl###PURCHASE_VERTICAL__OVERLAY
 ||scorecardresearch.com^$domain=volkskrant.nl
 ||smartocto.com^$domain=volkskrant.nl
 ||sp.dpgmedia.net^$domain=volkskrant.nl
+||visualwebsiteoptimzer^$domain=volkskrant.nl
 
 ! NRC
 nrc.nl###adslot0-leaderboard

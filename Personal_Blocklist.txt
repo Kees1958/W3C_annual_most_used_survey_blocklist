@@ -224,6 +224,7 @@ nbcnews.comdiv.header-and-footer--banner-ad.ad-container.topbannerAd
 ||amazon-adsystem.com^$domain=nbcnews.com
 ||branch.io^$domain=nbcnews.com
 ||doubleclick.net^$domain=nbcnews.com
+||tinypass.com^$domain=nbcnews.com
 
 ! Foxnews
 foxnews.com###alert-container

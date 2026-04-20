@@ -1,4 +1,4 @@
-# Version: 2026.03.27 in YAML format to be used in the CUSTOM DNR RULES section of uBlock Origin Lite 
+# Version: 2026.04.20 in YAML format to be used in the CUSTOM DNR RULES section of uBlock Origin Lite 
 # Please report issues related to website breakage at
 # https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
 # This filter list does not need regular updates as explained in the read me.
@@ -7,11 +7,10 @@
 # Block advertising and tracking networks (with just ! rule :-) in uBol
 # copy paste this into the customized DNR rules
 #
-
+priority: 10
 action:
   type: block
 condition:
-  domainType: thirdParty
   excludedInitiatorDomains:
     - amazon.com
     - amazon.be
@@ -34,6 +33,7 @@ condition:
     - twitter.com
     - whatsapp.com
     - x.com
+  domainType: thirdParty
   requestDomains:
     - 0emm.com
     - 103bees.com
@@ -68,7 +68,6 @@ condition:
     - a013.com
     - a8ww.net
     - aaddzz.com
-    - aamsitecertifier.com
     - abcstats.com
     - abmr.net
     - absolstats.co.za
@@ -104,9 +103,9 @@ condition:
     - adform.net
     - adgreed.com
     - adheart.de
+    - adinsight.co.kr
     - adinsight.com
     - adjust.com
-    - adku.co
     - adku.com
     - admantx.com
     - adnami.io
@@ -128,6 +127,7 @@ condition:
     - ads.tiktok.com
     - adsafeprotected.com
     - adsave.co
+    - adsdk.yandex.ru
     - adsensedetective.com
     - adspsp.com
     - adsrvr.org
@@ -139,6 +139,7 @@ condition:
     - advanced-web-analytics.com
     - advangelists.com
     - advconversion.com
+    - advertising-api-eu.amazon.com
     - advertising-cdn.dpgmedia.cloud
     - advertising-module.api.dpgmedia.cloud
     - advertising.com
@@ -185,10 +186,12 @@ condition:
     - analytics.facebook.com
     - analytics.google.com
     - analytics.jst.ai
+    - analytics.mobile.yandex.net
     - analytics.pinterest.com
     - analytics.pointdrive.linkedin.com
     - analytics.s3.amazonaws.com
     - analytics.tiktok.com
+    - analytics.yahoo.com
     - analyticsengine.s3.amazonaws.com
     - analyticswizard.com
     - angelfishstats.com
@@ -196,8 +199,8 @@ condition:
     - anrdoezrs.net
     - apexstats.com
     - apextwo.com
-    - api.iterable.com
     - api-hotjar.com
+    - api.iterable.com
     - apicit.net
     - apollofind.com
     - apolloprogram.io
@@ -205,7 +208,7 @@ condition:
     - app.pendo.io
     - appboycdn.com
     - appcast.io
-    - applets.ebxcdn.com
+    - appmetrica.yandex.com
     - appnexus.com
     - aprtx.com
     - aqtracker.com
@@ -216,7 +219,6 @@ condition:
     - artefact.is
     - artfut.com
     - artsai.com
-    - artsai.io
     - assoctrac.com
     - astro-way.com
     - aswpsdkus.com
@@ -257,7 +259,7 @@ condition:
     - barilliance.net
     - basicstat.com
     - basilic.io
-    - bat.bing.com 
+    - bat.bing.com
     - bat.bing.net
     - batch.com
     - bdash-cloud.com
@@ -315,7 +317,6 @@ condition:
     - breaktime.com.tw
     - bridged.media
     - bridgevine.com
-    - brightline.tv
     - brilig.com
     - brilliantcollector.com
     - bronto.com
@@ -355,7 +356,6 @@ condition:
     - cashburners.com
     - cashcount.com
     - causecherry.com
-    - cccpmo.com
     - ccgateway.net
     - cedexis.com
     - celebros-analytics.com
@@ -467,6 +467,7 @@ condition:
     - cya2.net
     - cyberanalytics.nl
     - d-collector.jennifersoft.com
+    - d.reddit.com
     - d41.co
     - dacounter.com
     - dapxl.com
@@ -556,7 +557,6 @@ condition:
     - enhencer.com
     - enquisite.com
     - ensighten.com
-    - eperfectdata.com
     - epitrack.com
     - eproof.com
     - eps-analyzer.de
@@ -592,8 +592,8 @@ condition:
     - exelator.com
     - exitmonitor.com
     - experianmarketingservices.digital
-    - explore-123.com
     - exposebox.com
+    - extmaps-api.yandex.net
     - extole.com
     - extrawatch.com
     - extreme-dm.com
@@ -604,8 +604,6 @@ condition:
     - ezytrack.com
     - fabricww.com
     - fanplayr.com
-    - fastclick.com
-    - fastclick.net
     - fast-thinking.co.uk
     - fastly-analytics.com
     - fastly-insights.com
@@ -760,9 +758,9 @@ condition:
     - hitwebcounter.com
     - hlstatus.com
     - hostip.info
+    - hotjar-analytics.com
     - hotjar.com
     - hotjar.io
-    - hotjar-analytics.com
     - hotrank.com.tw
     - hs-analytics.net
     - hsadspixel.net
@@ -814,7 +812,6 @@ condition:
     - infinity-tracking.com
     - infinity-tracking.net
     - inflectionpointmedia.com
-    - ingest.sentry.io
     - innovateads.com
     - inphonic.com
     - inpwrd.com
@@ -829,7 +826,6 @@ condition:
     - intake-lr.com
     - intelli-direct.com
     - intelligencefocus.com
-    - interactives.ap.org
     - interceptum.com
     - interstateanalytics.com
     - intervigil.com
@@ -909,7 +905,6 @@ condition:
     - leafmedia.io
     - legolas-media.com
     - lemnisk.co
-    - leub.stape.net
     - levexis.com
     - lexity.com
     - lfeeder.com
@@ -978,11 +973,11 @@ condition:
     - maxtracker.net
     - maxymiser.com
     - maxymiser.net
-    - mb4a.com
     - mbsy.co
     - mbww.com
     - measuremap.com
     - measurementapi.com
+    - media.fastclick.net
     - media.net
     - media01.eu
     - mediaarmor.com
@@ -1057,7 +1052,6 @@ condition:
     - myomnistar.com
     - mypagerank.net
     - myseostats.com
-    - mysitetraffic.net
     - mysocialpixel.com
     - mystat-in.net
     - mytictac.com
@@ -1085,7 +1079,6 @@ condition:
     - netbiscuits.net
     - netclickstats.com
     - netcoresmartech.com
-    - netflame.cc
     - netgraviton.net
     - netmining.com
     - netmng.com
@@ -1123,7 +1116,6 @@ condition:
     - ometria.com
     - omguk.com
     - omniconvert.com
-    - omtrdc.net
     - onaudience.com
     - onefeed.co.uk
     - onesignal.com
@@ -1155,7 +1147,6 @@ condition:
     - p7cloud.net
     - pa-oa.com
     - pabidding.io
-    - pagead2.googlesyndication.com
     - pagefair.com
     - pages05.net
     - pagesense.io
@@ -1190,7 +1181,6 @@ condition:
     - pipedream.wistia.com
     - pippio.com
     - pirsch.io
-    - pix.pub
     - pixel.ad
     - pixel.facebook.com
     - pixel.watch
@@ -1278,7 +1268,6 @@ condition:
     - ranking-hits.de
     - rankinteractive.com
     - rapidcounter.com
-    - rapidstats.net
     - rapidtrk.net
     - rating.in
     - reachforce.com
@@ -1333,7 +1322,6 @@ condition:
     - roiservice.com
     - roosterfirework.com
     - rqtrk.eu
-    - rs0.co.uk
     - rs6.net
     - rtmark.net
     - rtrk.co.nz
@@ -1358,7 +1346,6 @@ condition:
     - scriptshead.com
     - searchfeed.com
     - searchignite.com
-    - searchplow.com
     - securepaths.com
     - sedotracker.com
     - seehits.com
@@ -1438,7 +1425,6 @@ condition:
     - smartlook.com
     - smartocto.com
     - smartracker.net
-    - smartzonessva.com
     - smct.co
     - smileyhost.net
     - smrtb.com
@@ -1546,7 +1532,6 @@ condition:
     - tatsumi-sys.jp
     - tcactivity.net
     - tctm.co
-    - td573.com
     - tdstats.com
     - tealiumiq.com
     - techlab-cdn.com
@@ -1570,7 +1555,6 @@ condition:
     - tl813.com
     - tmvtp.com
     - tns-cs.net
-    - top100bloggers.com
     - top100webshops.com
     - top10sportsites.com
     - topblogarea.com
@@ -1670,7 +1654,6 @@ condition:
     - verticalscope.com
     - verticalsearchworks.com
     - vertster.com
-    - via.batch.com
     - viafoura.net
     - video.oms.eu
     - videos.oms.eu
@@ -1716,7 +1699,6 @@ condition:
     - webcontentassessor.com
     - webcounter.co.za
     - webcounter.ws
-    - webflowmetrics.com
     - webforensics.co.uk
     - webgains.com
     - webglstats.com
@@ -1780,6 +1762,7 @@ condition:
     - xxxcounter.com
     - y-track.com
     - yamanoha.com
+    - yandexadexchange.net
     - yandexmetrica.com
     - yaudience.com
     - ybotvisit.com
@@ -1803,3 +1786,4 @@ condition:
     - zoosnet.net
     - zoossoft.net
     - zprk.io
+---

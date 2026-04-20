@@ -214,7 +214,7 @@ nbcnews.com##div.adSlot.topbanner[data-ad-label]
 nbcnews.com##div.header-and-footer--banner-ad.ad-container.topbannerAd
 nbcnews.com##div.onetrust-pc-dark-filter
 nbcnews.com##div#onetrust-banner-sdk
-nbcnews.comd##div.header-and-footer--banner-ad.ad-container.topbannerAd
+nbcnews.com##div.header-and-footer--banner-ad.ad-container.topbannerAd
 ||nbcnews.com.*.omtrdc.net^$domain=nbcnews.com
 ||mps.nbcuni.com/fetch/ext/^$domain=nbcnews.com
 ||video-ads-module.ad-tech.nbcuni.com^$domain=nbcnews.com

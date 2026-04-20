@@ -161,7 +161,6 @@
 ||amikay.com^$third-party
 ||amplitude.com^$third-party
 ||amung.us^$third-party
-||an.facebook.com^$third-party
 ||analoganalytics.com^$third-party
 ||analytically.net^$third-party
 ||analytics-sg.tiktok.com^$third-party
@@ -181,7 +180,6 @@
 ||anrdoezrs.net^$third-party
 ||apexstats.com^$third-party
 ||apextwo.com^$third-party
-||api-hotjar.com^$third-party
 ||api.iterable.com^$third-party
 ||apicit.net^$third-party
 ||apollofind.com^$third-party
@@ -398,7 +396,6 @@
 ||confiant-integrations.net^$third-party
 ||confirmational.com^$third-party
 ||connatix.com^$third-party
-||connect.facebook.net^$third-party
 ||contactmonkey.com^$third-party
 ||contentinsights.com^$third-party
 ||contentspread.net^$third-party

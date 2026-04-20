@@ -83,8 +83,10 @@
 ||adheart.de^$third-party
 ||adinsight.co.kr^$third-party
 ||adinsight.com^$third-party
+||adition.com^$third-party
 ||adjust.com^$third-party
 ||adku.com^$third-party
+||admanmedia.com^$third-party
 ||admantx.com^$third-party
 ||adnami.io^$third-party
 ||adnxs.com^$third-party
@@ -94,23 +96,25 @@
 ||adpies.com^$third-party
 ||adrizer.com^$third-party
 ||adrta.com^$third-party
-||ads-dev.pinterest.com^$third-party
 ||ads-api.tiktok.com^$third-party
 ||ads-api.twitter.com^$third-party
+||ads-dev.pinterest.com^$third-party
 ||ads-sg.tiktok.com^$third-party
-||ads.linkedin.com^$third-party
 ||ads.facebook.com^$third-party
+||ads.linkedin.com^$third-party
 ||ads.pinterest.com^$third-party
-||ads.tiktok.com^$third-party
 ||ads.reddit.com^$third-party
+||ads.tiktok.com^$third-party
 ||adsafeprotected.com^$third-party
-||adsdk.yandex.ru^$third-party
 ||adsave.co^$third-party
+||adsdk.yandex.ru^$third-party
 ||adsensedetective.com^$third-party
 ||adspsp.com^$third-party
 ||adsrvr.org^$third-party
+||adsymptotic.com^$third-party
 ||adtago.s3.amazonaws.com^$third-party
 ||adtarget.me^$third-party
+||adtech.com^$third-party
 ||adtelligence.de^$third-party
 ||adtraction.com^$third-party
 ||adultblogtoplist.com^$third-party
@@ -232,6 +236,7 @@
 ||babator.com^$third-party
 ||baikalize.com^$third-party
 ||bam-x.com^$third-party
+||bannerflow.com^$third-party
 ||baptisttop1000.com^$third-party
 ||baremetrics.com^$third-party
 ||barilliance.net^$third-party
@@ -393,11 +398,13 @@
 ||conductrics.com^$third-party
 ||confiant-integrations.net^$third-party
 ||confirmational.com^$third-party
+||connatix.com^$third-party
 ||connect.facebook.net^$third-party
 ||contactmonkey.com^$third-party
 ||contentinsights.com^$third-party
 ||contentspread.net^$third-party
 ||contentsquare.net^$third-party
+||contextweb.com^$third-party
 ||convergetrack.com^$third-party
 ||conversionlogic.net^$third-party
 ||conversionly.com^$third-party
@@ -527,6 +534,7 @@
 ||emetriq.de^$third-party
 ||emjcd.com^$third-party
 ||emltrk.com^$third-party
+||emxdgt.com^$third-party
 ||enecto.com^$third-party
 ||engagetosell.com^$third-party
 ||engageya.com^$third-party
@@ -536,6 +544,7 @@
 ||enquisite.com^$third-party
 ||ensighten.com^$third-party
 ||epitrack.com^$third-party
+||eplanning.com^$third-party
 ||eproof.com^$third-party
 ||eps-analyzer.de^$third-party
 ||ereportz.com^$third-party
@@ -705,6 +714,7 @@
 ||gtcslt-di2.com^$third-party
 ||gtopstats.com^$third-party
 ||guanoo.net^$third-party
+||gumgum.com^$third-party
 ||gvisit.com^$third-party
 ||gwmtracking.com^$third-party
 ||halldata.com^$third-party
@@ -736,9 +746,9 @@
 ||hitwebcounter.com^$third-party
 ||hlstatus.com^$third-party
 ||hostip.info^$third-party
+||hotjar-analytics.com^$third-party
 ||hotjar.com^$third-party
 ||hotjar.io^$third-party
-||hotjar-analytics.com^$third-party
 ||hotrank.com.tw^$third-party
 ||hs-analytics.net^$third-party
 ||hsadspixel.net^$third-party
@@ -772,12 +782,14 @@
 ||imhd.io^$third-party
 ||immanalytics.com^$third-party
 ||imonomy.com^$third-party
+||improvedigital.com^$third-party
 ||imrtrack.com^$third-party
 ||imrworldwide.com^$third-party
 ||imtwjwoasak.com^$third-party
 ||inboxtag.com^$third-party
 ||incentivesnetwork.net^$third-party
 ||increasingcustomers-tag.com^$third-party
+||indexexchange.com^$third-party
 ||indexstats.com^$third-party
 ||indextools.com^$third-party
 ||indexww.com^$third-party
@@ -840,6 +852,7 @@
 ||jirafe.com^$third-party
 ||jixie.io^$third-party
 ||jstracker.com^$third-party
+||justpremium.com^$third-party
 ||justuno.com^$third-party
 ||jwmstats.com^$third-party
 ||k-analytix.com^$third-party
@@ -902,6 +915,7 @@
 ||lloogg.com^$third-party
 ||lngtd.com^$third-party
 ||localytics.com^$third-party
+||lockerdome.com^$third-party
 ||log.byteoversea.com^$third-party
 ||log.pinterest.com^$third-party
 ||logaholic.com^$third-party
@@ -977,6 +991,7 @@
 ||metricsdirect.com^$third-party
 ||metricswave.com^$third-party
 ||mezzobit.com^$third-party
+||mgid.com^$third-party
 ||microanalytics.io^$third-party
 ||midas-i.com^$third-party
 ||mieru-ca.com^$third-party
@@ -1001,6 +1016,7 @@
 ||mongoosemetrics.com^$third-party
 ||monitis.com^$third-party
 ||monitus.net^$third-party
+||mookie1.com^$third-party
 ||mopinion.com^$third-party
 ||motrixi.com^$third-party
 ||mouse3k.com^$third-party
@@ -1039,6 +1055,7 @@
 ||n-analytics.io^$third-party
 ||naj.sk^$third-party
 ||native.ai^$third-party
+||nativo.com^$third-party
 ||natpal.com^$third-party
 ||naturaltracking.com^$third-party
 ||navdmp.com^$third-party
@@ -1098,12 +1115,14 @@
 ||onefeed.co.uk^$third-party
 ||onesignal.com^$third-party
 ||onestat.com^$third-party
+||onetag.com^$third-party
 ||online-metrix.net^$third-party
 ||onthe.io^$third-party
 ||openclick.com^$third-party
 ||openhit.com^$third-party
 ||openstat.net^$third-party
 ||opentracker.net^$third-party
+||openx.net^$third-party
 ||oproi.com^$third-party
 ||optimix.asia^$third-party
 ||optimizely.com^$third-party
@@ -1192,6 +1211,7 @@
 ||predicta.net^$third-party
 ||predictiveresponse.net^$third-party
 ||preflect.com^$third-party
+||primis.tech^$third-party
 ||privacy-center.org^$third-party
 ||privymktg.com^$third-party
 ||prnx.net^$third-party
@@ -1213,6 +1233,7 @@
 ||pubexchange.com^$third-party
 ||publicidees.com^$third-party
 ||publishflow.com^$third-party
+||pubmatic.com^$third-party
 ||pubperf.com^$third-party
 ||pulselog.com^$third-party
 ||pulsemaps.com^$third-party
@@ -1279,6 +1300,7 @@
 ||responsetap.com^$third-party
 ||retargetly.com^$third-party
 ||revcatch.com^$third-party
+||revcontent.com^$third-party
 ||revenuepilot.com^$third-party
 ||revenueroll.com^$third-party
 ||revenuescience.com^$third-party
@@ -1305,6 +1327,7 @@
 ||rtrk.co.nz^$third-party
 ||rtrk.com^$third-party
 ||ru4.com^$third-party
+||rubiconproject.com^$third-party
 ||rudderlabs.com^$third-party
 ||rumanalytics.com^$third-party
 ||rztrkr.com^$third-party
@@ -1326,6 +1349,7 @@
 ||searchignite.com^$third-party
 ||securepaths.com^$third-party
 ||sedotracker.com^$third-party
+||seedtag.com^$third-party
 ||seehits.com^$third-party
 ||segment.com^$third-party
 ||segment.io^$third-party
@@ -1354,6 +1378,7 @@
 ||sexystat.com^$third-party
 ||sf14g.com^$third-party
 ||shareasale.com^$third-party
+||sharethrough.com^$third-party
 ||sharpspring.com^$third-party
 ||shinystat.com^$third-party
 ||shinystat.it^$third-party
@@ -1395,8 +1420,11 @@
 ||skyglue.com^$third-party
 ||sl-ct5.com^$third-party
 ||slingpic.com^$third-party
+||smaato.net^$third-party
 ||smart-digital-solutions.com^$third-party
 ||smart-ip.net^$third-party
+||smartadserver.com^$third-party
+||smartclip.net^$third-party
 ||smartctr.com^$third-party
 ||smarterhq.io^$third-party
 ||smarterremarketer.net^$third-party
@@ -1425,6 +1453,7 @@
 ||splitbee.io^$third-party
 ||splyt.com^$third-party
 ||sponsored.com^$third-party
+||spotxchange.com^$third-party
 ||spring.de^$third-party
 ||springmetrics.com^$third-party
 ||springserve.com^$third-party
@@ -1511,6 +1540,7 @@
 ||tcactivity.net^$third-party
 ||tctm.co^$third-party
 ||tdstats.com^$third-party
+||teads.tv^$third-party
 ||tealiumiq.com^$third-party
 ||techlab-cdn.com^$third-party
 ||telize.com^$third-party
@@ -1574,6 +1604,7 @@
 ||trendemon.com^$third-party
 ||trialfire.com^$third-party
 ||triggit.com^$third-party
+||triplelift.com^$third-party
 ||triptease.io^$third-party
 ||trk.pinterest.com^$third-party
 ||trk.techtarget.com^$third-party
@@ -1600,6 +1631,7 @@
 ||udkcrj.com^$third-party
 ||umami.is^$third-party
 ||umbel.com^$third-party
+||undertone.com^$third-party
 ||uniqodo.com^$third-party
 ||united-infos.net^$third-party
 ||unityads.unity3d.com^$third-party
@@ -1633,6 +1665,7 @@
 ||verticalsearchworks.com^$third-party
 ||vertster.com^$third-party
 ||viafoura.net^$third-party
+||vidazoo.com^$third-party
 ||video.oms.eu^$third-party
 ||videos.oms.eu^$third-party
 ||videostat.com^$third-party
@@ -1748,9 +1781,11 @@
 ||yext-pixel.com^$third-party
 ||yieldbot.com^$third-party
 ||yieldify.com^$third-party
+||yieldlab.net^$third-party
 ||yieldsoftware.com^$third-party
 ||yjtag.jp^$third-party
 ||ymetrica1.com^$third-party
+||yoc.com^$third-party
 ||youramigo.com^$third-party
 ||zanox-affiliate.de^$third-party
 ||zanox.com^$third-party

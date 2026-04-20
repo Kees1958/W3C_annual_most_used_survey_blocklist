@@ -3,7 +3,7 @@
 ! Title: EU US ads&tracking networks MV3 (third-party blocking only)
 ! Expires: 7 days
 !
-! Version: 2026.03.17
+! Version: 2026.04.20
 !
 ! Please report issues related to website breakage at
 ! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
@@ -46,7 +46,6 @@
 ||a013.com^$third-party
 ||a8ww.net^$third-party
 ||aaddzz.com^$third-party
-||aamsitecertifier.com^$third-party
 ||abcstats.com^$third-party
 ||abmr.net^$third-party
 ||absolstats.co.za^$third-party
@@ -198,7 +197,6 @@
 ||artefact.is^$third-party
 ||artfut.com^$third-party
 ||artsai.com^$third-party
-||artsai.io^$third-party
 ||assoctrac.com^$third-party
 ||astro-way.com^$third-party
 ||aswpsdkus.com^$third-party
@@ -336,7 +334,6 @@
 ||cashburners.com^$third-party
 ||cashcount.com^$third-party
 ||causecherry.com^$third-party
-||cccpmo.com^$third-party
 ||ccgateway.net^$third-party
 ||cedexis.com^$third-party
 ||celebros-analytics.com^$third-party
@@ -538,7 +535,6 @@
 ||enhencer.com^$third-party
 ||enquisite.com^$third-party
 ||ensighten.com^$third-party
-||eperfectdata.com^$third-party
 ||epitrack.com^$third-party
 ||eproof.com^$third-party
 ||eps-analyzer.de^$third-party
@@ -574,7 +570,6 @@
 ||exelator.com^$third-party
 ||exitmonitor.com^$third-party
 ||experianmarketingservices.digital^$third-party
-||explore-123.com^$third-party
 ||exposebox.com^$third-party
 ||extmaps-api.yandex.net^$third-party
 ||extole.com^$third-party
@@ -956,7 +951,6 @@
 ||maxtracker.net^$third-party
 ||maxymiser.com^$third-party
 ||maxymiser.net^$third-party
-||mb4a.com^$third-party
 ||mbsy.co^$third-party
 ||mbww.com^$third-party
 ||measuremap.com^$third-party
@@ -1036,7 +1030,6 @@
 ||myomnistar.com^$third-party
 ||mypagerank.net^$third-party
 ||myseostats.com^$third-party
-||mysitetraffic.net^$third-party
 ||mysocialpixel.com^$third-party
 ||mystat-in.net^$third-party
 ||mytictac.com^$third-party
@@ -1064,7 +1057,6 @@
 ||netbiscuits.net^$third-party
 ||netclickstats.com^$third-party
 ||netcoresmartech.com^$third-party
-||netflame.cc^$third-party
 ||netgraviton.net^$third-party
 ||netmining.com^$third-party
 ||netmng.com^$third-party
@@ -1254,7 +1246,6 @@
 ||ranking-hits.de^$third-party
 ||rankinteractive.com^$third-party
 ||rapidcounter.com^$third-party
-||rapidstats.net^$third-party
 ||rapidtrk.net^$third-party
 ||rating.in^$third-party
 ||reachforce.com^$third-party
@@ -1309,7 +1300,6 @@
 ||roiservice.com^$third-party
 ||roosterfirework.com^$third-party
 ||rqtrk.eu^$third-party
-||rs0.co.uk^$third-party
 ||rs6.net^$third-party
 ||rtmark.net^$third-party
 ||rtrk.co.nz^$third-party
@@ -1334,7 +1324,6 @@
 ||scriptshead.com^$third-party
 ||searchfeed.com^$third-party
 ||searchignite.com^$third-party
-||searchplow.com^$third-party
 ||securepaths.com^$third-party
 ||sedotracker.com^$third-party
 ||seehits.com^$third-party
@@ -1414,7 +1403,6 @@
 ||smartlook.com^$third-party
 ||smartocto.com^$third-party
 ||smartracker.net^$third-party
-||smartzonessva.com^$third-party
 ||smct.co^$third-party
 ||smileyhost.net^$third-party
 ||smrtb.com^$third-party
@@ -1522,7 +1510,6 @@
 ||tatsumi-sys.jp^$third-party
 ||tcactivity.net^$third-party
 ||tctm.co^$third-party
-||td573.com^$third-party
 ||tdstats.com^$third-party
 ||tealiumiq.com^$third-party
 ||techlab-cdn.com^$third-party
@@ -1546,7 +1533,6 @@
 ||tl813.com^$third-party
 ||tmvtp.com^$third-party
 ||tns-cs.net^$third-party
-||top100bloggers.com^$third-party
 ||top100webshops.com^$third-party
 ||top10sportsites.com^$third-party
 ||topblogarea.com^$third-party
@@ -1691,7 +1677,6 @@
 ||webcontentassessor.com^$third-party
 ||webcounter.co.za^$third-party
 ||webcounter.ws^$third-party
-||webflowmetrics.com^$third-party
 ||webforensics.co.uk^$third-party
 ||webgains.com^$third-party
 ||webglstats.com^$third-party

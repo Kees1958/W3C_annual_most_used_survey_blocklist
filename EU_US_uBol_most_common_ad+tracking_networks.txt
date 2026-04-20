@@ -7,32 +7,10 @@
 # Block advertising and tracking networks (with just ! rule :-) in uBol
 # copy paste this into the customized DNR rules
 #
-priority: 10
+---
 action:
   type: block
 condition:
-  excludedInitiatorDomains:
-    - amazon.com
-    - amazon.be
-    - amazon.ca
-    - amazon.com.uk
-    - amazon.de
-    - amazon.es
-    - amazon.fr
-    - amazon.ie
-    - amazon.it
-    - amazon.nl
-    - amazon.se
-    - facebook.com
-    - google.com
-    - instagram.com
-    - linkedin.com
-    - pinterest.com
-    - reddit.com
-    - tiktok.com
-    - twitter.com
-    - whatsapp.com
-    - x.com
   domainType: thirdParty
   requestDomains:
     - 0emm.com
@@ -183,7 +161,6 @@ condition:
     - amikay.com
     - amplitude.com
     - amung.us
-    - an.facebook.com
     - analoganalytics.com
     - analytically.net
     - analytics-sg.tiktok.com
@@ -203,7 +180,6 @@ condition:
     - anrdoezrs.net
     - apexstats.com
     - apextwo.com
-    - api-hotjar.com
     - api.iterable.com
     - apicit.net
     - apollofind.com
@@ -325,7 +301,6 @@ condition:
     - brilig.com
     - brilliantcollector.com
     - bronto.com
-    - browser-intake-datadoghq.com
     - browser-statistik.de
     - browser-update.org
     - btbuckets.com
@@ -421,11 +396,9 @@ condition:
     - confiant-integrations.net
     - confirmational.com
     - connatix.com
-    - connect.facebook.net
     - contactmonkey.com
     - contentinsights.com
     - contentspread.net
-    - contentsquare.net
     - contextweb.com
     - convergetrack.com
     - conversionlogic.net
@@ -480,7 +453,6 @@ condition:
     - dapxl.com
     - dashboard.io
     - databrain.com
-    - datadoghq-browser-agent.com
     - datafa.st
     - datafeedfile.com
     - datam.com
@@ -533,7 +505,6 @@ condition:
     - dsply.com
     - dti-ranker.com
     - durationmedia.net
-    - dynatrace-managed.com
     - dyntrk.com
     - e-contenta.com
     - e-pagerank.net
@@ -585,7 +556,6 @@ condition:
     - etyper.com
     - eu-survey.com
     - eulerian.net
-    - eum-appdynamics.com
     - europuls.eu
     - europuls.net
     - events.reddit.com
@@ -677,7 +647,6 @@ condition:
     - fueldeck.com
     - fuelx.com
     - fugetech.com
-    - fullstory.com
     - funneld.com
     - funnelytics.io
     - funstage.com
@@ -769,7 +738,6 @@ condition:
     - hlstatus.com
     - hostip.info
     - hotjar-analytics.com
-    - hotjar.com
     - hotjar.io
     - hotrank.com.tw
     - hs-analytics.net
@@ -831,8 +799,6 @@ condition:
     - insightera.com
     - insightgrit.com
     - insitemetrics.com
-    - inspectlet.com
-    - instana.io
     - instapagemetrics.com
     - instore.biz
     - intake-lr.com
@@ -878,7 +844,6 @@ condition:
     - justuno.com
     - jwmstats.com
     - k-analytix.com
-    - kameleoon.com
     - kameleoon.eu
     - kampyle.com
     - kantartns.lt
@@ -985,7 +950,6 @@ condition:
     - matheranalytics.com
     - mathtag.com
     - maxtracker.net
-    - maxymiser.com
     - maxymiser.net
     - mbsy.co
     - mbww.com
@@ -1034,7 +998,6 @@ condition:
     - moengage.com
     - mon-va.byteoversea.com
     - mon.zijieapi.com
-    - monetate.net
     - mongoosemetrics.com
     - monitis.com
     - monitus.net
@@ -1042,7 +1005,6 @@ condition:
     - mopinion.com
     - motrixi.com
     - mouse3k.com
-    - mouseflow.com
     - mousestats.com
     - mousetrace.com
     - movable-ink-6710.com
@@ -1100,7 +1062,6 @@ condition:
     - netmining.com
     - netmng.com
     - netratings.com
-    - newrelic.com
     - newrrb.bid
     - nextstat.com
     - ngmco.net
@@ -1113,7 +1074,6 @@ condition:
     - nowinteract.com
     - npario-inc.net
     - nprove.com
-    - nr-data.net
     - nr7.us
     - nrich.ai
     - ns1p.net
@@ -1147,7 +1107,6 @@ condition:
     - openx.net
     - oproi.com
     - optimix.asia
-    - optimizely.com
     - optimost.com
     - optoutadvertising.com
     - oracleinfinity.io
@@ -1386,7 +1345,6 @@ condition:
     - sendtraffic.com
     - sentinelbi.com
     - sentinelpro.com
-    - sentry.io
     - seomonitor.ro
     - seomoz.org
     - seoparts.net
@@ -1472,7 +1430,6 @@ condition:
     - spectate.com
     - speed-trap.com
     - speedcurve.com
-    - splitbee.io
     - splyt.com
     - sponsored.com
     - spotxchange.com
@@ -1711,7 +1668,6 @@ condition:
     - visitstreamer.com
     - visualdna.com
     - visualrevenue.com
-    - visualwebsiteoptimizer.com
     - vizisense.net
     - vizury.com
     - vmmpxl.com

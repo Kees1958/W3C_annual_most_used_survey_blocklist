@@ -303,7 +303,6 @@
 ||brilig.com^$third-party
 ||brilliantcollector.com^$third-party
 ||bronto.com^$third-party
-||browser-intake-datadoghq.com^$third-party
 ||browser-statistik.de^$third-party
 ||browser-update.org^$third-party
 ||btbuckets.com^$third-party
@@ -403,7 +402,6 @@
 ||contactmonkey.com^$third-party
 ||contentinsights.com^$third-party
 ||contentspread.net^$third-party
-||contentsquare.net^$third-party
 ||contextweb.com^$third-party
 ||convergetrack.com^$third-party
 ||conversionlogic.net^$third-party
@@ -458,7 +456,6 @@
 ||dapxl.com^$third-party
 ||dashboard.io^$third-party
 ||databrain.com^$third-party
-||datadoghq-browser-agent.com^$third-party
 ||datafa.st^$third-party
 ||datafeedfile.com^$third-party
 ||datam.com^$third-party
@@ -511,7 +508,6 @@
 ||dsply.com^$third-party
 ||dti-ranker.com^$third-party
 ||durationmedia.net^$third-party
-||dynatrace-managed.com^$third-party
 ||dyntrk.com^$third-party
 ||e-contenta.com^$third-party
 ||e-pagerank.net^$third-party
@@ -563,7 +559,6 @@
 ||etyper.com^$third-party
 ||eu-survey.com^$third-party
 ||eulerian.net^$third-party
-||eum-appdynamics.com^$third-party
 ||europuls.eu^$third-party
 ||europuls.net^$third-party
 ||events.reddit.com^$third-party
@@ -655,7 +650,6 @@
 ||fueldeck.com^$third-party
 ||fuelx.com^$third-party
 ||fugetech.com^$third-party
-||fullstory.com^$third-party
 ||funneld.com^$third-party
 ||funnelytics.io^$third-party
 ||funstage.com^$third-party
@@ -747,7 +741,6 @@
 ||hlstatus.com^$third-party
 ||hostip.info^$third-party
 ||hotjar-analytics.com^$third-party
-||hotjar.com^$third-party
 ||hotjar.io^$third-party
 ||hotrank.com.tw^$third-party
 ||hs-analytics.net^$third-party
@@ -809,8 +802,6 @@
 ||insightera.com^$third-party
 ||insightgrit.com^$third-party
 ||insitemetrics.com^$third-party
-||inspectlet.com^$third-party
-||instana.io^$third-party
 ||instapagemetrics.com^$third-party
 ||instore.biz^$third-party
 ||intake-lr.com^$third-party
@@ -856,7 +847,6 @@
 ||justuno.com^$third-party
 ||jwmstats.com^$third-party
 ||k-analytix.com^$third-party
-||kameleoon.com^$third-party
 ||kameleoon.eu^$third-party
 ||kampyle.com^$third-party
 ||kantartns.lt^$third-party
@@ -963,7 +953,6 @@
 ||matheranalytics.com^$third-party
 ||mathtag.com^$third-party
 ||maxtracker.net^$third-party
-||maxymiser.com^$third-party
 ||maxymiser.net^$third-party
 ||mbsy.co^$third-party
 ||mbww.com^$third-party
@@ -1012,7 +1001,6 @@
 ||moengage.com^$third-party
 ||mon-va.byteoversea.com^$third-party
 ||mon.zijieapi.com^$third-party
-||monetate.net^$third-party
 ||mongoosemetrics.com^$third-party
 ||monitis.com^$third-party
 ||monitus.net^$third-party
@@ -1020,7 +1008,6 @@
 ||mopinion.com^$third-party
 ||motrixi.com^$third-party
 ||mouse3k.com^$third-party
-||mouseflow.com^$third-party
 ||mousestats.com^$third-party
 ||mousetrace.com^$third-party
 ||movable-ink-6710.com^$third-party
@@ -1078,7 +1065,6 @@
 ||netmining.com^$third-party
 ||netmng.com^$third-party
 ||netratings.com^$third-party
-||newrelic.com^$third-party
 ||newrrb.bid^$third-party
 ||nextstat.com^$third-party
 ||ngmco.net^$third-party
@@ -1091,7 +1077,6 @@
 ||nowinteract.com^$third-party
 ||npario-inc.net^$third-party
 ||nprove.com^$third-party
-||nr-data.net^$third-party
 ||nr7.us^$third-party
 ||nrich.ai^$third-party
 ||ns1p.net^$third-party
@@ -1125,7 +1110,6 @@
 ||openx.net^$third-party
 ||oproi.com^$third-party
 ||optimix.asia^$third-party
-||optimizely.com^$third-party
 ||optimost.com^$third-party
 ||optoutadvertising.com^$third-party
 ||oracleinfinity.io^$third-party
@@ -1364,7 +1348,6 @@
 ||sendtraffic.com^$third-party
 ||sentinelbi.com^$third-party
 ||sentinelpro.com^$third-party
-||sentry.io^$third-party
 ||seomonitor.ro^$third-party
 ||seomoz.org^$third-party
 ||seoparts.net^$third-party
@@ -1450,7 +1433,6 @@
 ||spectate.com^$third-party
 ||speed-trap.com^$third-party
 ||speedcurve.com^$third-party
-||splitbee.io^$third-party
 ||splyt.com^$third-party
 ||sponsored.com^$third-party
 ||spotxchange.com^$third-party
@@ -1689,7 +1671,6 @@
 ||visitstreamer.com^$third-party
 ||visualdna.com^$third-party
 ||visualrevenue.com^$third-party
-||visualwebsiteoptimizer.com^$third-party
 ||vizisense.net^$third-party
 ||vizury.com^$third-party
 ||vmmpxl.com^$third-party

@@ -245,6 +245,3 @@
 ||xiti.com^$third-party
 ||y-track.com^$third-party
 ||yellowtracker.com^$third-party
-||zprk.io^$third-party
-
-

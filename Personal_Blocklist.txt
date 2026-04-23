@@ -15,7 +15,6 @@ nos.nl##div[id="regio-onboarding"]
 ccm-wrapper$script,domain=nos.nl
 ||cdn-ster-nl.akamaized.net/*.mp4$redirect=noopmp4-1s,domain=nos.nl
 ||ster.nl^$domain=nos.nl
-||optoutadvertising.com^$domain=nos.nl
 ||ingest.sentry.io^$domain=nos.nl
 ||smartocto.com^$domain=nos.nl
 ||2cnt.net^$domain=nos.nl
@@ -47,7 +46,6 @@ nu.nl##body:style(overflow: visible !important;)
 nu.nl##+js(rc, authorized-content, div.authorized-content, stay)
 nu.nl##+js(rc, semi-authorized-content, div.semi-authorized-content, stay)
 ||advertising-cdn.dpgmedia.cloud^$domain=nu.nl
-||optoutadvertising.com^$domain=nu.nl
 ||pexi.nl^$domain=nu.nl
 ||applets.ebxcdn.com^$domain=nu.nl
 ||ping.dpns-notifications.com^$domain=nu.nl
@@ -70,7 +68,6 @@ volkskrant.nl###PURCHASE_VERTICAL__OVERLAY
 ||adnxs.com^$domain=volkskrant.nl
 ||advertising-cdn.dpgmedia.cloud^$domain=volkskrant.nl
 ||usabilla.com^$domain=volkskrant.nl
-||optoutadvertising.com^$domain=volkskrant.nl
 ||scorecardresearch.com^$domain=volkskrant.nl
 ||smartocto.com^$domain=volkskrant.nl
 ||sp.dpgmedia.net^$domain=volkskrant.nl

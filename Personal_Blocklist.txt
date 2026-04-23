@@ -170,7 +170,6 @@ nytimes.com###bottom-wrapper
 ||nytimes.com/meter.js^$domain=nytimes.com
 ||nytimes.com/svc/onsite-messaging^$domain=nytimes.com
 ||nyt.com/ads^$domain=nytimes.com
-||a.et.nytimes.com/*.status$domain=nytimes.com
 ||als-svc.nytimes.com/als^$domain=nytimes.com
 ||purr.nytimes.com/v1/purr-cache^$domain=nytimes.com
 /.*adslot.*/$script,domain=nytimes.com

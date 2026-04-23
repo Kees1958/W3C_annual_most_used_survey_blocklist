@@ -11,7 +11,6 @@
 !
 ! This section block third-party advertising networks only
 !************************************************************
-
 ||24log.com^$third-party
 ||2o7.net^$third-party
 ||33across.com^$third-party
@@ -84,6 +83,7 @@
 !
 ! This section blocks third-party marketing analytics domains only
 ! *****************************************************************
+||2cnt.net^$third-party
 ||abmr.net^$third-party
 ||adform.net^$third-party
 ||akstat.io^$third-party

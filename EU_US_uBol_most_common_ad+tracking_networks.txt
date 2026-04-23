@@ -1,4 +1,4 @@
-# Version: 2026.04.20 in YAML format to be used in the CUSTOM DNR RULES section of uBlock Origin Lite 
+# Version: 2026.04.23 in YAML format to be used in the CUSTOM DNR RULES section of uBlock Origin Lite 
 # Please report issues related to website breakage at
 # https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
 # This filter list does not need regular updates as explained in the read me.
@@ -18,29 +18,35 @@ condition:
     - 11nux.com
     - 123count.com
     - 1freecounter.com
+    - 1rx.io
     - 200summit.com
     - 204st.us
     - 206solutions.com
     - 24counter.com
     - 24log.com
     - 2cnt.net
+    - 2mdn.net
     - 2o7.net
     - 33across.com
     - 33across.net
     - 360i.com
     - 360tag.com
+    - 360yield.com
     - 3dlivestats.com
     - 3dstats.com
+    - 3lift.com
     - 40nuggets.com
+    - 4info.com
     - 4oney.com
     - 55labs.com
     - 6sc.co
     - 77tracking.com
     - 7bpeople.com
     - 7eer.net
+    - 82o9v830.com
     - 99stats.com
     - 9nl.eu
-    - a-cast.jp
+    - a-ads.com
     - a-counters.com
     - a-pagerank.net
     - a013.com
@@ -49,6 +55,8 @@ condition:
     - abcstats.com
     - abmr.net
     - absolstats.co.za
+    - absorbingband.com
+    - abtasty.com
     - abtshield.com
     - acc-hd.de
     - access-analyze.org
@@ -62,44 +70,88 @@ condition:
     - activeconversion.com
     - activemeter.com
     - activeprospects.com
+    - actonsoftware.com
+    - acuityads.com
     - acuityplatform.com
     - acxiom-online.com
+    - ad-delivery.net
     - ad-score.com
     - ad-srv-track.com
     - ad.admitad.com
     - ad.gt
     - ad.sxp.smartclip.net
+    - ad4game.com
+    - ad4mat.de
     - adabra.com
+    - adadvisor.net
+    - adalliance.io
     - adara.com
     - adblade.com
     - adblockanalytics.com
     - adblockrelief.com
+    - adbrite.com
+    - adbroker.de
+    - adbutler.com
+    - adcash.com
+    - adcell.de
     - adcolony.com
+    - adconion.com
     - addfreestats.com
+    - addme.com
+    - adecn.com
     - adelixir.com
+    - adengage.com
     - adfenix.com
+    - adform.com
     - adform.net
+    - adformdsp.net
     - adgreed.com
+    - adhaven.com
     - adheart.de
+    - adhese.com
+    - adhigh.net
     - adinsight.co.kr
     - adinsight.com
     - adition.com
+    - adizio.com
+    - adjug.com
+    - adjuggler.com
     - adjust.com
     - adku.com
+    - adlegend.com
+    - adlightning.com
+    - adloox.com
+    - adlooxtracking.com
+    - admailtiser.com
     - admanmedia.com
     - admantx.com
+    - admarketplace.net
+    - admarvel.com
+    - admedia.com
+    - admeld.com
+    - admixer.net
+    - admob.com
     - adnami.io
+    - adnet.de
+    - adnetwork.net
+    - adnium.com
+    - adnxs-simple.com
     - adnxs.com
     - adobetag.com
     - adoftheyear.com
     - adoric-om.com
+    - adotmob.com
+    - adperium.com
     - adpies.com
+    - adpushup.com
+    - adreactor.com
     - adrizer.com
     - adrta.com
     - ads-api.tiktok.com
     - ads-api.twitter.com
     - ads-dev.pinterest.com
     - ads-sg.tiktok.com
+    - ads-twitter.com
     - ads.facebook.com
     - ads.linkedin.com
     - ads.pinterest.com
@@ -107,48 +159,90 @@ condition:
     - ads.tiktok.com
     - adsafeprotected.com
     - adsave.co
+    - adscale.de
+    - adscience.nl
     - adsdk.yandex.ru
     - adsensedetective.com
+    - adserver.com
+    - adserverplus.com
+    - adserverpub.com
+    - adsfac.net
+    - adside.com
+    - adskeeper.co.uk
+    - adskeeper.com
+    - adsnative.com
+    - adspeed.net
+    - adspirit.de
     - adspsp.com
     - adsrvr.org
+    - adstanding.com
+    - adsupply.com
+    - adswizz.com
     - adsymptotic.com
     - adtago.s3.amazonaws.com
     - adtarget.me
     - adtech.com
+    - adtech.de
+    - adtechjp.com
+    - adtechus.com
+    - adtegrity.net
     - adtelligence.de
+    - adthrive.com
+    - adtiger.de
+    - adtng.com
     - adtraction.com
     - adultblogtoplist.com
+    - adv-adserver.com
     - advanced-web-analytics.com
     - advangelists.com
     - advconversion.com
+    - adventurousamount.com
+    - adverticum.com
+    - adverticum.net
+    - advertise.com
     - advertising-api-eu.amazon.com
     - advertising-cdn.dpgmedia.cloud
     - advertising-module.api.dpgmedia.cloud
     - advertising.com
     - advertising.twitter.com
+    - advertserve.com
+    - adviva.net
+    - adworx.nl
     - adwstats.com
     - adxcel-ec2.com
+    - adxpansion.com
+    - adxpose.com
     - adyapper.com
+    - adyoulike.com
+    - adzerk.net
+    - aerserv.com
     - affilae.com
+    - affili.net
     - affiliateedge.eu
+    - affiliatetracking.com
     - affiliationjs.s3.amazonaws.com
     - affinesystems.com
     - affinitymatrix.com
     - affistats.com
+    - afraidlanguage.com
     - afsanalytics.com
     - agentinteractive.com
     - agilone.com
     - agkn.com
     - agrvt.com
+    - aim4media.com
     - aimediagroup.com
     - airpr.com
+    - airpush.com
     - akanoo.com
     - akstat.com
     - akstat.io
     - alcmpn.com
     - alenty.com
+    - aliasanvil.com
     - alltracked.com
     - alocdn.com
+    - aloofvest.com
     - alpixtrack.com
     - altastat.com
     - alvenda.com
@@ -175,7 +269,10 @@ condition:
     - analytics.yahoo.com
     - analyticsengine.s3.amazonaws.com
     - analyticswizard.com
+    - ancientact.com
     - angelfishstats.com
+    - aniview.com
+    - annoyedairport.com
     - anonymised.io
     - anrdoezrs.net
     - apexstats.com
@@ -188,10 +285,13 @@ condition:
     - app.pendo.io
     - appboycdn.com
     - appcast.io
+    - applovin.com
     - appmetrica.yandex.com
     - appnexus.com
+    - appsflyer.com
     - aprtx.com
     - aqtracker.com
+    - aralego.com
     - arcadeweb.com
     - arkayne.com
     - arlime.com
@@ -199,6 +299,8 @@ condition:
     - artefact.is
     - artfut.com
     - artsai.com
+    - askdriver.com
+    - assoc-amazon.com
     - assoctrac.com
     - astro-way.com
     - aswpsdkus.com
@@ -206,6 +308,9 @@ condition:
     - atdmt.com
     - athenainstitute.biz
     - attracta.com
+    - attractionbanana.com
+    - atwola.com
+    - audience2media.com
     - audienceiq.com
     - audienceplay.com
     - audiencerate.com
@@ -222,6 +327,7 @@ condition:
     - avazudsp.net
     - avenseo.com
     - avmws.com
+    - avocet.io
     - awasete.com
     - awesomelytics.com
     - awin1.com
@@ -232,8 +338,10 @@ condition:
     - b1img.com
     - b2c.com
     - babator.com
+    - backbeatmedia.com
     - baikalize.com
     - bam-x.com
+    - bannerconnect.net
     - bannerflow.com
     - baptisttop1000.com
     - baremetrics.com
@@ -244,6 +352,7 @@ condition:
     - bat.bing.net
     - batch.com
     - bdash-cloud.com
+    - beachfront.com
     - beanstalkdata.com
     - beanstock.com
     - beemray.com
@@ -259,8 +368,11 @@ condition:
     - beusable.net
     - bfmio.com
     - bfoleyinteractive.com
+    - bidpapers.com
     - bidr.io
     - bidswitch.net
+    - bidtellect.com
+    - bidvertiser.com
     - bigcattracks.com
     - bigreal.org
     - bigtracker.com
@@ -269,11 +381,17 @@ condition:
     - bionicclick.com
     - bizible.com
     - bizo.com
+    - bizographics.com
     - bizrate.com
     - bizspring.net
+    - bkrtx.com
+    - bleachbubble.com
+    - blis.com
     - blockmetrics.com
     - blog-stat.com
+    - blogads.com
     - blogcounter.de
+    - blogherads.com
     - blogmeetsbrand.com
     - blogpatrol.com
     - blogrankers.com
@@ -281,6 +399,9 @@ condition:
     - blueconic.net
     - bluecore.com
     - bluekai.com
+    - bluelithium.com
+    - blushingbeast.com
+    - blushingbread.com
     - blvdstatus.com
     - bm23.com
     - bmlmedia.com
@@ -290,13 +411,17 @@ condition:
     - botsvisit.com
     - bounceexchange.com
     - bouncex.com
+    - brand-display.com
     - brandlock.io
     - brandmetrics.com
     - brat-online.ro
     - braze.com
     - brcdn.com
+    - breakableinsurance.com
     - breaktime.com.tw
+    - brealtime.com
     - bridged.media
+    - bridgetrack.com
     - bridgevine.com
     - brilig.com
     - brilliantcollector.com
@@ -305,12 +430,14 @@ condition:
     - browser-update.org
     - btbuckets.com
     - btloader.com
+    - btrll.com
     - bttrack.com
     - btttag.com
     - bubblestat.com
     - burstbeacon.com
     - burt.io
     - business-api.tiktok.com
+    - buysellads.com
     - buzzdeck.com
     - bytemgdd.com
     - c-o-u-n-t.com
@@ -325,31 +452,42 @@ condition:
     - callrail.com
     - calltrackingmetrics.com
     - calltracks.com
+    - calypsocapsule.com
     - campaigncog.com
     - canddi.com
     - canopylabs.com
     - captify.co.uk
     - captivate.ai
+    - carbonads.com
     - carts.guru
     - cartstack.com
+    - carvecakes.com
     - casalemedia.com
     - cashburners.com
     - cashcount.com
     - causecherry.com
+    - cautiouscredit.com
     - ccgateway.net
+    - cedato.com
     - cedexis.com
     - celebros-analytics.com
     - celebrus.com
     - center.io
     - cetrk.com
     - cftrack.com
+    - channelintelligence.com
+    - chargecracker.com
     - chart.dk
     - chartaca.com
     - chartbeat.com
     - chartbeat.net
+    - chartboost.com
     - checkstat.nl
+    - childlikecrowd.com
+    - chitika.net
     - christiantop1000.com
     - citrusad.net
+    - cj.com
     - claritytag.com
     - clarivoy.com
     - clevi.com
@@ -358,11 +496,13 @@ condition:
     - clickable.net
     - clickaider.com
     - clickalyzer.com
+    - clickbooth.com
     - clickbrainiacs.com
     - clickcease.com
     - clickclick.net
     - clickdensity.com
     - clickening.com
+    - clickfuse.com
     - clickguard.com
     - clickmanage.com
     - clickmeter.com
@@ -375,11 +515,13 @@ condition:
     - clickshift.com
     - clicktale.net
     - clicktracks.com
+    - clickyab.com
     - clickzs.com
     - clickzzs.nl
     - clientgear.com
     - clixgalore.com
     - cloud-exploration.com
+    - cloudflareinsights.com
     - clustrmaps.com
     - cmcore.com
     - cmmeglobal.com
@@ -396,11 +538,15 @@ condition:
     - confiant-integrations.net
     - confirmational.com
     - connatix.com
+    - connectad.io
+    - connextra.com
+    - consciouscheese.com
     - contactmonkey.com
     - contentinsights.com
     - contentspread.net
     - contextweb.com
     - convergetrack.com
+    - conversantmedia.com
     - conversionlogic.net
     - conversionly.com
     - conversionruler.com
@@ -409,7 +555,9 @@ condition:
     - convertro.com
     - conviva.com
     - cooladata.com
+    - cootlogix.com
     - copperegg.com
+    - copycarpenter.com
     - core-cen-54.com
     - coremetrics.com
     - coremotives.com
@@ -425,12 +573,15 @@ condition:
     - counting4free.com
     - countomat.com
     - countz.com
+    - cpalead.com
     - cpmstar.com
     - cpx.to
+    - cpxinteractive.com
     - cqcounter.com
     - craftkeys.com
     - craktraffic.com
     - crashlytics.com
+    - cratecamera.com
     - crazyegg.com
     - criteo.com
     - criteo.net
@@ -442,6 +593,7 @@ condition:
     - csdata1.com
     - customer.io
     - customerlabs.co
+    - cutechin.com
     - cux.io
     - cxense.com
     - cya2.net
@@ -450,6 +602,8 @@ condition:
     - d.reddit.com
     - d41.co
     - dacounter.com
+    - damageddistance.com
+    - dapper.net
     - dapxl.com
     - dashboard.io
     - databrain.com
@@ -467,13 +621,18 @@ condition:
     - decdna.net
     - decibelinsight.net
     - decideinteractive.com
+    - decisivebase.com
     - deep.bi
+    - deepintent.com
     - demandbase.com
     - demandscience.com
     - demdex.net
+    - deployads.com
     - deqwas.net
+    - detectdiscovery.com
     - device9.com
     - dialogtech.com
+    - dianomi.com
     - did-it.com
     - didit.com
     - didna.io
@@ -486,34 +645,42 @@ condition:
     - direct-events-collector.spot.im
     - discover-path.com
     - displaymarketplace.com
+    - disqusads.com
     - distillery.wistia.com
     - distiltag.com
+    - districtm.io
     - dmanalytics1.com
     - dmtracker.com
     - dnsdelegation.io
+    - dockdigestion.com
     - doclix.com
     - dojomojo.ninja
+    - domdex.com
     - domodomain.com
     - dotmetrics.net
     - dotomi.com
     - doubleclick.net
+    - doublepimp.com
     - doubleverify.com
     - dpbolvw.net
     - dpns-notifications.com
     - dsmmadvantage.com
     - dsparking.com
     - dsply.com
+    - dstillery.com
     - dti-ranker.com
     - durationmedia.net
     - dyntrk.com
     - e-contenta.com
     - e-pagerank.net
+    - e-planning.net
     - e-referrer.com
     - e-webtrack.net
     - easy-hit-counters.com
     - easycounter.com
     - easyhitcounters.com
     - easyresearch.se
+    - ebuzzing.com
     - ebxcdn.com
     - ec-track.com
     - ecommstats.com
@@ -524,23 +691,31 @@ condition:
     - elitics.com
     - email-match.com
     - embeddedanalytics.com
+    - emerse.com
     - emetriq.de
     - emjcd.com
     - emltrk.com
     - emxdgt.com
+    - emxdigital.com
     - enecto.com
+    - energeticladybug.com
+    - engagebdr.com
     - engagetosell.com
     - engageya.com
     - engine212.com
     - engine64.com
+    - engineertrick.com
     - enhencer.com
+    - enormousearth.com
     - enquisite.com
     - ensighten.com
     - epitrack.com
     - eplanning.com
     - eproof.com
     - eps-analyzer.de
+    - eqads.com
     - ereportz.com
+    - ero-advertising.com
     - esearchvision.com
     - esm1.net
     - esomniture.com
@@ -548,6 +723,7 @@ condition:
     - estat.com
     - estrack.net
     - etahub.com
+    - etargetnet.com
     - ethn.io
     - ethnio.com
     - etracker.com
@@ -558,8 +734,10 @@ condition:
     - eulerian.net
     - europuls.eu
     - europuls.net
+    - eventexistence.com
     - events.reddit.com
     - events.redditmedia.com
+    - everestads.net
     - everestjs.net
     - everesttech.net
     - evergage.com
@@ -567,10 +745,17 @@ condition:
     - evorra.net
     - evyy.net
     - exactag.com
+    - exampleshake.com
     - exclusiveclicks.com
+    - exelate.com
     - exelator.com
+    - exhibitsneeze.com
     - exitmonitor.com
+    - exoclick.com
+    - exosrv.com
     - experianmarketingservices.digital
+    - exponential.com
+    - exportdialog.com
     - exposebox.com
     - extmaps-api.yandex.net
     - extole.com
@@ -582,20 +767,28 @@ condition:
     - eyeota.net
     - ezytrack.com
     - fabricww.com
+    - fadedsnow.com
+    - fakedisguise.com
+    - fallaciousfifth.com
     - fanplayr.com
     - fast-thinking.co.uk
+    - fastclick.com
+    - fastclick.net
     - fastly-analytics.com
     - fastly-insights.com
     - fathomseo.com
+    - faultycanvas.com
     - fcs.ovh
     - feathr.co
     - feedjit.com
     - feedperfect.com
     - fiksu.com
     - filitrac.com
+    - fimserve.com
     - find-ip-address.org
     - fireworkanalytics.com
     - fitanalytics.com
+    - fixedfold.com
     - flagcounter.com
     - flash-counter.com
     - flashtalking.com
@@ -611,6 +804,7 @@ condition:
     - footprintdns.com
     - footprintlive.com
     - force24.co.uk
+    - foresee.com
     - foreseeresults.com
     - forkcdn.com
     - formalyzer.com
@@ -618,7 +812,6 @@ condition:
     - forter.com
     - fouanalytics.com
     - foundry42.com
-    - fout.jp
     - fpctraffic2.com
     - fpjs.io
     - fprnt.com
@@ -644,28 +837,33 @@ condition:
     - friendbuy.com
     - fruitflan.com
     - ftbpro.com
+    - fudgegenie.com
     - fueldeck.com
     - fuelx.com
     - fugetech.com
+    - fullstory.com
     - funneld.com
     - funnelytics.io
     - funstage.com
     - fusestats.com
+    - futuristicframe.com
     - fuziontech.net
     - fwpixel.com
     - fyreball.com
+    - game-advertising-online.com
+    - gammamaximum.com
     - gaug.es
     - gbotvisit.com
     - gc.zgo.at
     - geistm.com
     - gemius.pl
-    - genieesspv.jp
     - geobytes.com
     - geoplugin.net
     - georiot.com
     - getbackstory.com
     - getclicky.com
     - getconversion.net
+    - getintent.com
     - getlasso.co
     - getrockerbox.com
     - getsmartcontent.com
@@ -674,34 +872,42 @@ condition:
     - getstats.org
     - gez.io
     - glassboxdigital.io
+    - glasscoyote.com
     - glbtracker.com
     - globalwebindex.net
     - globase.com
     - globel.co.uk
+    - gloriousbeef.com
+    - gmads.net
     - go-mpulse.net
     - godhat.com
     - goingup.com
     - gojsmanager.com
     - goldstats.com
+    - gondolagnome.com
     - goneviral.com
     - goodcounter.org
     - google-analytics.com
     - googleadservices.com
     - googlerank.info
+    - googlesyndication.com
+    - googletagmanager.com
+    - googletagservices.com
     - gooo.al
     - gopjn.com
     - gostats.com
     - govisibl.io
     - govmetric.com
+    - grandfatherguitar.com
+    - grapeshot.co.uk
     - grapheffect.com
     - gravity4.com
+    - greystripe.com
     - grmtech.net
     - growthrx.in
     - gsecondscreen.com
     - gsght.com
     - gsimedia.net
-    - gsspat.jp
-    - gssprt.jp
     - gtcslt-di2.com
     - gtopstats.com
     - guanoo.net
@@ -709,9 +915,13 @@ condition:
     - gvisit.com
     - gwmtracking.com
     - halldata.com
+    - handyfireman.com
+    - harrenmedia.com
+    - harrenmedianetwork.com
     - haveamint.com
     - heapanalytics.com
     - heatmap.it
+    - hellobar.com
     - hellosherpa.com
     - hentaicounter.com
     - hexagon-analytics.com
@@ -720,7 +930,9 @@ condition:
     - higherengine.com
     - highmetrics.com
     - histats.com
+    - historytrade.com
     - hit-counter.info
+    - hit-parade.com
     - hit2map.com
     - hitbox.com
     - hitcounterstats.com
@@ -736,18 +948,27 @@ condition:
     - hitwake.com
     - hitwebcounter.com
     - hlstatus.com
+    - hocgeese.com
+    - hollowafterthought.com
+    - honorableland.com
     - hostip.info
     - hotjar-analytics.com
+    - hotjar.com
     - hotjar.io
     - hotrank.com.tw
     - hs-analytics.net
+    - hs-banner.com
     - hsadspixel.net
+    - hsleadflows.net
+    - htlbid.com
+    - httpool.com
     - hubvisor.io
     - humanclick.com
     - hurra.com
     - hwpub.com
     - hxtrack.com
     - hybrid.ai
+    - hydraconcept.com
     - hyfntrak.com
     - hyperactivate.com
     - hypestat.com
@@ -785,26 +1006,37 @@ condition:
     - indexww.com
     - indicative.com
     - indicia.com
+    - indieclick.com
     - individuad.net
+    - industrybrains.com
     - ineedhits.com
     - inetstats.org
     - infinigraph.com
     - infinity-tracking.com
     - infinity-tracking.net
     - inflectionpointmedia.com
+    - infolinks.com
+    - inmobi.com
+    - inner-active.com
     - innovateads.com
+    - innovid.com
     - inphonic.com
     - inpwrd.com
+    - inquisitiveinvention.com
     - inside-graph.com
     - insightera.com
+    - insightexpress.com
+    - insightexpressai.com
     - insightgrit.com
     - insitemetrics.com
+    - inspectlet.com
     - instapagemetrics.com
     - instore.biz
     - intake-lr.com
     - intelli-direct.com
     - intelligencefocus.com
     - interceptum.com
+    - intergi.com
     - interstateanalytics.com
     - intervigil.com
     - investingchannel.com
@@ -812,6 +1044,7 @@ condition:
     - invoc.us
     - invoca.net
     - invoca.solutions
+    - ioam.de
     - iocnt.net
     - ip-label.net
     - ip2map.com
@@ -825,6 +1058,7 @@ condition:
     - ipinfodb.com
     - iplocationtools.com
     - ipmeta.io
+    - ipredictive.com
     - ipro.com
     - ist-track.com
     - istrack.com
@@ -836,17 +1070,25 @@ condition:
     - izea.com
     - izearanks.com
     - izooto.com
+    - j93557g.com
     - jdoqocy.com
     - jirafe.com
     - jixie.io
+    - jsrdn.com
     - jstracker.com
+    - jubilantglimmer.com
+    - juiceblocks.com
+    - juicyads.com
+    - jumptap.com
     - justpremium.com
     - justuno.com
     - jwmstats.com
     - k-analytix.com
     - kameleoon.eu
     - kampyle.com
+    - kanoodle.com
     - kantartns.lt
+    - kargo.com
     - keen.io
     - keymetric.net
     - keywee.co
@@ -856,12 +1098,16 @@ condition:
     - kissmetrics.com
     - kissmetrics.io
     - kitbit.net
+    - kittycatking.com
     - klert.com
     - klldabck.com
+    - knitstamp.com
     - knorex.com
     - knotch.com
+    - knottyswing.com
     - knowledgevine.net
     - komtrack.com
+    - kontera.com
     - kopsil.com
     - krxd.net
     - kueezrtb.com
@@ -877,17 +1123,23 @@ condition:
     - leadlab.click
     - leadlife.com
     - leadmanagerfx.com
+    - leadplace.fr
     - leadsius.com
     - leadsmonitor.io
     - leadspace.com
     - leafmedia.io
+    - leftliquid.com
     - legolas-media.com
+    - lemmatechnologies.com
     - lemnisk.co
     - levexis.com
     - lexity.com
     - lfeeder.com
     - lfov.net
+    - lfstmedia.com
     - liadm.com
+    - liftdna.com
+    - ligatus.com
     - lightstep.medium.systems
     - lijit.com
     - linezing.com
@@ -896,9 +1148,13 @@ condition:
     - linksynergy.com
     - linkxchanger.com
     - litix.io
+    - liveintent.com
+    - livelylaugh.com
+    - liverail.com
     - liveramp.com
     - livestat.com
     - livetrafficfeed.com
+    - lkqd.com
     - lloogg.com
     - lngtd.com
     - localytics.com
@@ -916,9 +1172,11 @@ condition:
     - logua.com
     - lookery.com
     - loopfuse.net
+    - loopme.com
     - lopley.com
     - lordoftheentertainingostriches.com
     - losstrack.com
+    - loudlunch.com
     - lp4.io
     - lporirxe.com
     - lr-in-prod.com
@@ -926,8 +1184,10 @@ condition:
     - lr-intake.com
     - lsfinteractive.com
     - lucidel.com
+    - lucidmedia.com
     - luckyorange.com
     - luckyorange.net
+    - ludicrousarch.com
     - lumatag.co.uk
     - luminate.com
     - lxtrack.com
@@ -935,12 +1195,15 @@ condition:
     - lypn.net
     - lytics.io
     - lytiks.com
+    - lzjl.com
     - m-pathy.com
     - m6r.eu
     - magiq.com
     - magnetmail1.net
     - magnify360.com
+    - magsrv.com
     - mailstat.us
+    - mapcommand.com
     - maploco.com
     - mapmyuser.com
     - marinsm.com
@@ -953,16 +1216,22 @@ condition:
     - maxymiser.net
     - mbsy.co
     - mbww.com
+    - meadowlullaby.com
     - measuremap.com
     - measurementapi.com
+    - meatydime.com
     - media.fastclick.net
     - media.net
     - media01.eu
+    - media6degrees.com
     - mediaarmor.com
     - mediagauge.com
     - mediago.io
+    - mediamath.com
     - mediaplex.com
     - mediarithmics.com
+    - mediavine.com
+    - mediavoice.com
     - mediego.com
     - meetrics.net
     - mega-stats.com
@@ -971,12 +1240,15 @@ condition:
     - mercadoclics.com
     - mercent.com
     - merchant-center-analytics.goog
+    - merequartz.com
+    - metadsp.co.uk
     - meteorsolutions.com
     - metrics-logger.spot.im
     - metrics0.com
     - metricsdirect.com
     - metricswave.com
     - mezzobit.com
+    - mfadsrvr.com
     - mgid.com
     - microanalytics.io
     - midas-i.com
@@ -993,16 +1265,23 @@ condition:
     - mmccint.com
     - mmstat.com
     - mmtro.com
+    - moat.com
+    - moatads.com
+    - moatpixel.com
     - mobalyzer.net
+    - mobclix.com
+    - mobfox.com
     - mochibot.com
     - moengage.com
     - mon-va.byteoversea.com
     - mon.zijieapi.com
+    - monetate.net
     - mongoosemetrics.com
     - monitis.com
     - monitus.net
     - mookie1.com
     - mopinion.com
+    - mopub.com
     - motrixi.com
     - mouse3k.com
     - mousestats.com
@@ -1016,6 +1295,7 @@ condition:
     - msads.net
     - msgapp.com
     - mstrlytcs.com
+    - muteknife.com
     - mutinycdn.com
     - mvtracker.com
     - mxcdn.net
@@ -1023,6 +1303,7 @@ condition:
     - mxptint.net
     - myaffiliateprogram.com
     - mybloglog.com
+    - mybuys.com
     - mycounter.ua
     - myfastcounter.com
     - mynewcounter.com
@@ -1038,6 +1319,7 @@ condition:
     - mywebstats.org
     - n-analytics.io
     - naj.sk
+    - nappyattack.com
     - native.ai
     - nativo.com
     - natpal.com
@@ -1051,8 +1333,11 @@ condition:
     - ncaudienceexchange.com
     - ndg.io
     - neatstats.com
+    - nebulacrescent.com
     - nedstatbasic.net
+    - neighborlywatch.com
     - net-filter.com
+    - netaffiliation.com
     - netagent.cz
     - netapplications.com
     - netbiscuits.net
@@ -1062,37 +1347,50 @@ condition:
     - netmining.com
     - netmng.com
     - netratings.com
+    - netshelter.net
     - newrrb.bid
+    - nexac.com
+    - nexage.com
     - nextstat.com
     - ngmco.net
     - nik.io
     - nmrodam.com
     - noibu.com
+    - noiselessplough.com
+    - nondescriptcrowd.com
+    - nondescriptnote.com
     - noowho.com
     - nordicresearch.com
     - notifyvisitors.com
+    - nowaymail.com
     - nowinteract.com
     - npario-inc.net
     - nprove.com
+    - npttech.com
+    - nr-data.net
     - nr7.us
     - nrich.ai
     - ns1p.net
     - nstracking.com
+    - ntv.io
     - nuggad.net
     - nullitics.com
     - numerino.cz
+    - obscenesidewalk.com
     - observerapp.com
     - octavius.rocks
     - odoscope.com
     - offermatica.com
     - offerstrategy.com
-    - ogt.jp
+    - offshoregeology.com
     - ojrq.net
     - okt.to
     - oktopost.com
     - ometria.com
     - omguk.com
     - omniconvert.com
+    - omniture.com
+    - omtrdc.net
     - onaudience.com
     - onefeed.co.uk
     - onesignal.com
@@ -1105,22 +1403,32 @@ condition:
     - openstat.net
     - opentracker.net
     - openx.net
+    - operationchicken.com
+    - opmnstr.com
     - oproi.com
+    - optimallimit.com
     - optimix.asia
+    - optimizely.com
     - optimost.com
+    - optmd.com
+    - optnmstr.com
     - optoutadvertising.com
     - oracleinfinity.io
     - oranges88.com
+    - orbsrv.com
     - orcapia.com
     - ositracker.com
     - otoshiana.com
     - ournet-analytics.com
     - outbrain.com
+    - overconfidentfood.com
     - overstat.com
     - overtracking.com
+    - overture.com
     - owneriq.net
     - ownpage.fr
     - oxidy.com
+    - p-n.io
     - p-td.com
     - p7cloud.net
     - pa-oa.com
@@ -1129,25 +1437,30 @@ condition:
     - pages05.net
     - pagesense.io
     - pageview.click
+    - paleleaf.com
     - parklogic.com
     - parrable.com
     - parsely.com
     - partnerlinks.io
     - pass-1234.com
+    - paypopup.com
     - pbbl.co
     - pbstck.com
     - pcspeedup.com
+    - peer39.com
     - peerius.com
     - percentmobile.com
     - perfalytics.com
     - perfectaudience.com
     - perfiliate.com
     - performancerevenues.com
+    - performancing.com
     - perion.com
     - permutive.com
     - personyze.com
     - pexi.nl
     - pghub.io
+    - pheedo.com
     - phonalytics.com
     - phone-analytics.com
     - photorank.me
@@ -1169,39 +1482,61 @@ condition:
     - pjatr.com
     - pjtra.com
     - placemypixel.com
+    - placidactivity.com
     - platformpanda.com
     - plausible.avris.it
     - plausible.io
     - plavxml.com
+    - pleasantpump.com
     - pleisty.com
     - plexop.com
+    - plista.com
+    - plotrabbit.com
+    - pluckypocket.com
     - plugin.ws
     - pm0.net
     - pntra.com
     - pntrac.com
     - pntrs.com
+    - pocketfaucet.com
     - poeticmetric.com
     - pointmediatracker.com
+    - pointroll.com
     - polaranalytics.com
+    - polishedfolly.com
+    - popads.net
+    - popcash.net
+    - popplantation.com
     - popsample.com
     - populr.me
     - porngraph.com
+    - possibleboats.com
+    - possiblepencil.com
     - posst.co
+    - postrelease.com
     - prchecker.info
     - precisioncounter.com
     - predicta.net
+    - predictad.com
     - predictiveresponse.net
     - preflect.com
+    - priceypies.com
+    - pricklydebt.com
     - primis.tech
     - privacy-center.org
     - privymktg.com
     - prnx.net
+    - pro-market.net
+    - processplantation.com
     - proclivitysystems.com
     - prod.pyxis.atp.fox
     - proext.com
+    - programattik.com
     - projectsunblock.com
+    - projectwonderful.com
     - promotionengine.com
     - proofpositivemedia.com
+    - propellerads.com
     - props.id
     - protectcrev.com
     - protectsubrev.com
@@ -1213,15 +1548,19 @@ condition:
     - ptztvpremium.com
     - pubexchange.com
     - publicidees.com
+    - publicsofa.com
     - publishflow.com
     - pubmatic.com
+    - pubmine.com
     - pubperf.com
+    - puffyloss.com
     - pulselog.com
     - pulsemaps.com
     - purevideo.com
     - pushengage.com
     - px.mountain.com
     - pxaction.com
+    - pxf.io
     - pxi.pub
     - pymx5.com
     - q-counter.com
@@ -1229,19 +1568,27 @@ condition:
     - qbaka.net
     - qbop.com
     - qlitics.com
+    - qnsr.com
     - qoijertneio.com
     - qsstats.com
     - quadran.eu
     - qualaroo.com
+    - quantcast.com
     - quantcount.com
     - quantserve.com
     - quantummetric.com
     - qubitproducts.com
     - questradeaffiliates.com
+    - quietknowledge.com
     - quillion.com
     - quintelligence.com
+    - quirkysugar.com
+    - quisma.com
     - qzlog.com
     - r7ls.net
+    - rabbitrifle.com
+    - radiateprose.com
+    - railwayreason.com
     - rampanel.com
     - rampmetrics.com
     - ranking-charts.de
@@ -1249,24 +1596,30 @@ condition:
     - rankinteractive.com
     - rapidcounter.com
     - rapidtrk.net
+    - raresummer.com
     - rating.in
     - reachforce.com
     - reactful.com
     - readertracking.com
     - readnotify.com
     - realcounter.eu
+    - realsrv.com
     - realtracker.com
     - realytics.io
     - realzeit.io
+    - rebelhen.com
     - recapture.io
+    - receptivereaction.com
     - recoset.com
     - redcounter.net
     - redistats.com
     - redstatcounter.com
+    - reduxmedia.com
     - reedbusiness.net
     - referer.org
     - referforex.com
     - refersion.com
+    - regularplants.com
     - relead.com
     - relevant-digital.com
     - reliablecounter.com
@@ -1278,7 +1631,11 @@ condition:
     - rereddit.com
     - res-x.com
     - research-tool.com
+    - resonantbrush.com
+    - resonate.com
     - responsetap.com
+    - restrainstorm.com
+    - retargeter.com
     - retargetly.com
     - revcatch.com
     - revcontent.com
@@ -1290,18 +1647,24 @@ condition:
     - revprotect.com
     - rewardtv.com
     - rhinoseo.com
+    - rhythmone.com
     - riastats.com
     - richard-group.com
+    - richaudience.com
     - rightstats.com
     - ringsrecord.com
+    - ritzyrepresentative.com
     - rktu.com
     - rlcdn.com
     - rmtag.com
     - rnengage.com
     - rng-snp-003.com
     - rnlabs.com
+    - rockstarwriter.com
     - roiservice.com
+    - rollconnection.com
     - roosterfirework.com
+    - roxr.net
     - rqtrk.eu
     - rs6.net
     - rtmark.net
@@ -1311,6 +1674,9 @@ condition:
     - rubiconproject.com
     - rudderlabs.com
     - rumanalytics.com
+    - runads.com
+    - rundsp.com
+    - ruralrobin.com
     - rztrkr.com
     - s-onetag.com
     - s.adroll.com
@@ -1321,13 +1687,22 @@ condition:
     - sanity-dataplane.rudderstack.com
     - sapha.com
     - sas15k01.com
+    - savoryorange.com
     - scaledb.com
+    - scanscout.com
+    - scaredsnakes.com
+    - scatteredheat.com
     - sciencerevenue.com
+    - scintillatingsilver.com
     - scorecardresearch.com
+    - screechingstocking.com
+    - screechingstove.com
     - scripts21.com
     - scriptshead.com
+    - seadform.net
     - searchfeed.com
     - searchignite.com
+    - searchmarketing.com
     - securepaths.com
     - sedotracker.com
     - seedtag.com
@@ -1338,6 +1713,7 @@ condition:
     - segmentify.com
     - segmetrics.io
     - selaris.com
+    - selectivesummer.com
     - sellpoints.com
     - semanticverses.com
     - semasio.net
@@ -1357,14 +1733,17 @@ condition:
     - sexcounter.com
     - sexystat.com
     - sf14g.com
+    - shakegoldfish.com
     - shareasale.com
     - sharethrough.com
     - sharpspring.com
+    - shesubscriptions.com
     - shinystat.com
     - shinystat.it
     - shippinginsights.com
     - shoelace.com
     - shoplytics.com
+    - shrillspoon.com
     - siftscience.com
     - signalayer.com
     - signifyd.com
@@ -1379,6 +1758,7 @@ condition:
     - simpli.fi
     - simplycast.us
     - simplymeasured.com
+    - simulateswing.com
     - singlefeed.com
     - site24x7rum.com
     - siteapps.com
@@ -1397,9 +1777,11 @@ condition:
     - sitetagger.co.uk
     - sitetracker.com
     - skimresources.com
+    - skisofa.com
     - skyglue.com
     - sl-ct5.com
     - slingpic.com
+    - smaato.com
     - smaato.net
     - smart-digital-solutions.com
     - smart-ip.net
@@ -1411,7 +1793,9 @@ condition:
     - smartlook.com
     - smartocto.com
     - smartracker.net
+    - smartyads.com
     - smct.co
+    - smilewanted.com
     - smileyhost.net
     - smrtb.com
     - sniphub.com
@@ -1423,14 +1807,20 @@ condition:
     - socketviking.net
     - sodoit.com
     - softonic-analytics.net
+    - soggysponge.com
     - sokrati.com
     - sometrics.com
+    - somoaudience.com
+    - sonobi.com
     - sophi.io
     - sophus3.com
+    - sovrn.com
+    - sparkstudios.com
     - spectate.com
     - speed-trap.com
     - speedcurve.com
     - splyt.com
+    - sponsorads.de
     - sponsored.com
     - spotxchange.com
     - spring.de
@@ -1446,6 +1836,9 @@ condition:
     - srpx.net
     - srvtrck.com
     - stack-sonar.com
+    - stackadapt.com
+    - stakingsmile.com
+    - stalesummer.com
     - stapecdn.com
     - stat-track.com
     - stat.pl
@@ -1472,30 +1865,42 @@ condition:
     - stattrax.com
     - statun.com
     - statuncore.com
+    - steadfastsound.com
     - steadfastsystem.com
+    - steelhouse.com
     - steelhousemedia.com
     - stellaservice.com
     - ster.nl
+    - stickyadstv.com
     - stippleit.com
+    - stomachscience.com
+    - storetail.io
     - stormcontainertag.com
     - stormiq.com
     - storygize.net
+    - straightnest.com
     - stroeerdigitalmedia.de
-    - strs.jp
+    - stupendoussnow.com
     - sub2tech.com
     - submitnet.net
+    - succeedscene.com
     - successfultogether.co.uk
+    - sulkycook.com
     - sumatra.ai
+    - summerobject.com
     - sumo.com
     - sumome.com
     - sundaysky.com
     - supercounters.com
+    - supersonicads.com
     - superstats.com
     - surfcounters.com
     - surveyscout.com
     - surveywriter.com
     - survicate.com
+    - swankysquare.com
     - swetrix.org
+    - swingslip.com
     - swiss-counter.com
     - synergy-e.com
     - synthasite.net
@@ -1506,16 +1911,19 @@ condition:
     - tagcommander.com
     - tags.tiqcdn.com
     - tagsrvcs.com
+    - tailsweep.com
     - tamgrt.com
+    - tangibleteam.com
+    - tangyamount.com
     - tapad.com
     - tapfiliate.com
     - tapjoy.com
     - taplytics.com
+    - tappx.com
     - taps.io
     - tapstream.com
     - target.digitalaudience.io
     - targetfuel.com
-    - tatsumi-sys.jp
     - tcactivity.net
     - tctm.co
     - tdstats.com
@@ -1526,6 +1934,7 @@ condition:
     - teljari.is
     - tellapart.com
     - tend.io
+    - tendertest.com
     - tentaculos.net
     - terabytemedia.com
     - tetoolbox.com
@@ -1534,12 +1943,18 @@ condition:
     - theadex.com
     - thebestlinks.com
     - thecounter.com
+    - themangotea.com
+    - themoneytizer.com
     - thesearchagency.net
+    - thomastorch.com
     - tinycounter.com
     - tinypass.com
+    - tinytendency.com
+    - tiresomethunder.com
     - tiser.com.au
     - tkqlhce.com
     - tl813.com
+    - tlvmedia.com
     - tmvtp.com
     - tns-cs.net
     - top100webshops.com
@@ -1554,6 +1969,7 @@ condition:
     - touchclarity.com
     - trace-2000.com
     - trace.events
+    - tracecontent.com
     - traceworks.com
     - track.mailerlite.com
     - trackalyzer.com
@@ -1565,6 +1981,7 @@ condition:
     - tracking.markethero.io
     - tracking202.com
     - trackinglabs.com
+    - trackingsoft.com
     - trackkas.com
     - trackword.biz
     - trackyourstats.com
@@ -1573,15 +1990,19 @@ condition:
     - trafficby.net
     - trafficfacts.com
     - trafficjoint.com
+    - trafficjunky.net
     - trafficregenerator.com
     - trafic.ro
     - trail-web.com
     - trailheadapp.com
     - trakken.de
+    - tranquilplume.com
     - treasuredata.com
+    - tremorhub.com
     - trendcounter.com
     - trendemon.com
     - trialfire.com
+    - tribalfusion.com
     - triggit.com
     - triplelift.com
     - triptease.io
@@ -1589,6 +2010,7 @@ condition:
     - trk.techtarget.com
     - trkjmp.com
     - trkn.us
+    - truculentrate.com
     - trueanthem.com
     - truehits.in.th
     - truehits.net
@@ -1596,10 +2018,13 @@ condition:
     - tscounter.com
     - tsk4.com
     - tsk5.com
+    - tsyndicate.com
     - tubemogul.com
     - turn.com
     - twcount.com
+    - twyn.com
     - tynt.com
+    - tyroo.com
     - tyxo.com
     - u-on.eu
     - u5e.com
@@ -1607,17 +2032,25 @@ condition:
     - uarating.com
     - ub-analytics.com
     - ubertags.com
+    - ucfunnel.com
     - udkcrj.com
+    - ultraoranges.com
     - umami.is
     - umbel.com
+    - unaccountablepie.com
     - undertone.com
     - uniqodo.com
     - united-infos.net
     - unityads.unity3d.com
+    - unloadyourself.com
+    - unrulymedia.com
+    - unwieldyhealth.com
+    - unwieldyimpulse.com
     - uplift-platform.com
     - upscore.com
     - upsellit.com
     - uptracs.com
+    - urbanlaurel.com
     - urlbrief.com
     - usabilitytools.com
     - usabilla.com
@@ -1628,6 +2061,10 @@ condition:
     - userreport.com
     - usesfathom.com
     - usuarios-online.com
+    - valuead.com
+    - valueclick.com
+    - valueclickmedia.com
+    - valuecommerce.com
     - valuedopinions.co.uk
     - vbanalytics.com
     - vdna-assets.com
@@ -1638,21 +2075,25 @@ condition:
     - venetrigni.com
     - ventivmedia.com
     - vercel-insights.com
+    - vertamedia.com
     - vertical-leap.co.uk
     - vertical-leap.net
     - verticalscope.com
     - verticalsearchworks.com
     - vertster.com
     - viafoura.net
+    - vibrantsundown.com
     - vidazoo.com
     - video.oms.eu
     - videos.oms.eu
     - videostat.com
+    - viglink.com
     - vinlens.com
     - vinub.com
     - viralninjas.com
     - virool.com
     - virtualnet.co.uk
+    - visiblemeasures.com
     - visibli.com
     - visioncriticalpanels.com
     - visistat.com
@@ -1677,6 +2118,7 @@ condition:
     - w3counter.com
     - w55c.net
     - wa.and.co.uk
+    - warmafterthought.com
     - waudit.cz
     - wbtrk.net
     - wdfl.co
@@ -1695,6 +2137,7 @@ condition:
     - webleads-tracker.com
     - webmasterplan.com
     - weborama.com
+    - weborama.fr
     - webpageviews.click
     - websiteceo.com
     - websiteperform.com
@@ -1723,13 +2166,16 @@ condition:
     - widerplanet.com
     - widgets.pinterest.com
     - wikia-beacon.com
+    - wirecomic.com
     - wiredminds.de
+    - wisepops.com
     - wisetrack.net
     - withcabin.com
     - wizaly.com
     - woopra-ns.com
     - woopra.com
     - worldlogger.com
+    - worldrealize.com
     - wowanalytics.co.uk
     - wpdstat.com
     - wpfc.ml
@@ -1743,10 +2189,12 @@ condition:
     - wzrkt.com
     - x-stat.de
     - x-traceur.com
+    - xad.com
     - xandr.com
     - xg4ken.com
     - xiti.com
-    - xlisting.jp
+    - xplusone.com
+    - xtendmedia.com
     - xtremline.com
     - xxxcounter.com
     - y-track.com
@@ -1756,19 +2204,26 @@ condition:
     - yaudience.com
     - ybotvisit.com
     - yellowbrix.com
+    - yesads.com
     - yext-pixel.com
+    - yieldads.com
     - yieldbot.com
     - yieldify.com
     - yieldlab.net
+    - yieldmanager.net
+    - yieldmo.com
+    - yieldoptimizer.com
     - yieldsoftware.com
-    - yjtag.jp
     - ymetrica1.com
     - yoc.com
+    - yoggrt.com
     - youramigo.com
     - zanox-affiliate.de
     - zanox.com
     - zarget.com
     - zdbb.net
+    - zedo.com
+    - zemanta.com
     - zeotap.com
     - zesep.com
     - zeustechnology.com

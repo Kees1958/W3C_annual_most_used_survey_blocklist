@@ -17,7 +17,8 @@ The blocklists are based on surveys of most used advertising and tracking techno
 
                                                       SUGGESTED USE
 
-This list works fine with the English adfilter of Easylist or Adguard's base filter in combination with your local language filtering list. For people using Peter Lowe's list I would either use my list or Peter Low's. This list is half the size of Peter Low's. Because I use it myself alongside AdGuard (advertising) base filter this list focusses more on (third-party) tracking servers. As a result it has more overlap with Easylist Privacy (third-party trackers sublist) and Adguard (tracking servers sublist) than Peter Low's. 
+This list works fine with the English adfilter of Easylist or Brave's default ad filer of Adguard's base filter in combination with your local language filtering list. Thanks to AI this list is cleaned
+and updated annually and cross checked against some public available sources (when a domain is not categorised as advertising/tracking network in at least one of four leading sources it is removed).
 
                                                       ERRORS & ISSUES
 Please report site breakage on https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues.

@@ -2,7 +2,7 @@ AdBlockPlus 2.0]
 !
 ! Title: EU US most used adverisement and analytics networks
 ! 
-! Version: 2026.04.23
+! Version: 2026.04.24
 ! Expires: 7 days
 !
 ! You are free to use it at your own risk, please report website breakage at

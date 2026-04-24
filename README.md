@@ -24,4 +24,4 @@ and updated annually and cross checked against some public available sources (wh
 Please report site breakage on https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues.
 
                                               LESS IS MORE WITH YAML (DNR) FORMAT
-Besides ABP format, the list is now also available in YAML format used by uBol (over 2000 tracking domains blocked with just 1, yes 1 DNR rule shows why DNR is more effective than ABP rules)
+Besides ABP format, the list is now also available in YAML format used by uBol (over 2000 tracking domains blocked with just 1, yes 1 DNR rule shows why DNR rules are far more effective than ABP rules)

@@ -1,4 +1,4 @@
-# Version: 2026.04.23 in YAML format to be used in the CUSTOM DNR RULES section of uBlock Origin Lite 
+# Version: 2026.04.24 in YAML format to be used in the CUSTOM DNR RULES section of uBlock Origin Lite 
 # Please report issues related to website breakage at
 # https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
 # This filter list does not need regular updates as explained in the read me.
@@ -2109,6 +2109,7 @@ condition:
     - visitstreamer.com
     - visualdna.com
     - visualrevenue.com
+    - visualweboptimizer.com
     - vizisense.net
     - vizury.com
     - vmmpxl.com

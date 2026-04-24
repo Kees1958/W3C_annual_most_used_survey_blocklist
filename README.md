@@ -24,4 +24,4 @@ and updated annually and cross checked against some public available sources (wh
 Please report site breakage on https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues.
 
                                               LESS IS MORE WITH YAML (DNR) FORMAT
-When you import the YAML format rules in uBlock origin lite. you will notice the over 1700 ad & tracking domains blocked only count as 1 rule! Less is more :-)
+Besides ABP format, the list is now also available in DNR format (over 2000 tracking domains blocked with just 1, yes 1 DNR rule shows why Mv3 is more effective than ABP rules, less is more :-)

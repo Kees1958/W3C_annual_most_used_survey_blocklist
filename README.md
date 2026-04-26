@@ -18,7 +18,8 @@ The blocklists are based on surveys of most used advertising and tracking techno
                                                       SUGGESTED USE
 
 This list works fine with either EasyList English adfilter or Brave's default adfiler or Adguard's base filter in combination with your local language filtering list. Thanks to AI this list is cleaned
-and updated annually and cross checked against some public available sources (when a domain is not categorised as advertising/tracking network in at least one of four leading sources it is removed).
+and updated annually and cross checked against some public available sources (when a domain is not categorised as advertising/tracking network in at least one of four leading sources it is removed). 
+This cross check with four external should weed out trackers with a low prevalence (less is more). 
 
                                                       ERRORS & ISSUES
 Please report site breakage on https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues.

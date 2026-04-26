@@ -307,7 +307,6 @@ AdBlockPlus 2.0]
 ||gmads.net^
 ||go-mpulse.net^
 ||gondolagnome.com^
-||google-analytics.com^
 ||googleadservices.com^
 ||googlesyndication.com^
 ||googletagmanager.com^
@@ -327,8 +326,6 @@ AdBlockPlus 2.0]
 ||hitslink.com^
 ||hittail.com^
 ||hocgeese.com^
-||hollowafterthought.com^
-||honorableland.com^
 ||hotjar.com^
 ||hs-analytics.net^
 ||hs-banner.com^
@@ -365,7 +362,6 @@ AdBlockPlus 2.0]
 ||juicyads.com^
 ||jumptap.com^
 ||justpremium.com^
-||kanoodle.com^
 ||kargo.com^
 ||kissmetrics.com^
 ||kittycatking.com^
@@ -686,7 +682,6 @@ AdBlockPlus 2.0]
 ||xg4ken.com^
 ||xiti.com^
 ||xplusone.com^
-||xtendmedia.com^
 ||yesads.com^
 ||yieldads.com^
 ||yieldlab.net^

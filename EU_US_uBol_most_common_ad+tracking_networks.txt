@@ -1,4 +1,4 @@
-# Version: 2026.04.24 in YAML format to be used in the CUSTOM DNR RULES section of uBlock Origin Lite 
+# Version: 2026.04.29 in YAML format to be used in the CUSTOM DNR RULES section of uBlock Origin Lite 
 # Please report issues related to website breakage at
 # https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
 # This filter list does not need regular updates as explained in the read me.
@@ -131,7 +131,6 @@ condition:
     - aloofvest.com
     - amazingcounters.com
     - amazon-adsystem.com
-    - analytics.google.com
     - analytics.yahoo.com
     - ancientact.com
     - aniview.com
@@ -312,9 +311,7 @@ condition:
     - go-mpulse.net
     - gondolagnome.com
     - googleadservices.com
-    - googlesyndication.com
-    - googletagmanager.com
-    - googletagservices.com
+    - pagead2.googlesyndication.com
     - gostats.com
     - grandfatherguitar.com
     - grapeshot.co.uk

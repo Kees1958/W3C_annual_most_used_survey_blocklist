@@ -2,7 +2,7 @@ AdBlockPlus 2.0]
 !
 ! Title: EU US most used adverisement and analytics networks
 ! 
-! Version: 2026.04.28
+! Version: 2026.04.29
 ! Expires: 7 days
 !
 ! You are free to use it at your own risk, please report website breakage at
@@ -127,7 +127,6 @@ AdBlockPlus 2.0]
 ||aloofvest.com^$third-party
 ||amazingcounters.com^$third-party
 ||amazon-adsystem.com^$third-party
-||analytics.google.com^$third-party
 ||analytics.yahoo.com^$third-party
 ||ancientact.com^$third-party
 ||aniview.com^$third-party
@@ -308,7 +307,7 @@ AdBlockPlus 2.0]
 ||go-mpulse.net^$third-party
 ||gondolagnome.com^$third-party
 ||googleadservices.com^$third-party
-||googlesyndication.com^$third-party
+||pagead2.googlesyndication.com^$third-party
 ||gostats.com^$third-party
 ||grandfatherguitar.com^$third-party
 ||grapeshot.co.uk^$third-party

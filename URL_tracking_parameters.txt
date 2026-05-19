@@ -1,6 +1,6 @@
 [AdBlockPlus 2.0]
 !
-! Version: 2025
+! Version: 2026
 ! Title: EU US most used URL trackers (remove parameters from URL)
 !
 ! Expires: 365 days
@@ -10,14 +10,14 @@
 ! Privacy rules
 !
 ! Google search
-||google.*/search$removeparam=biw
-||google.*/search$removeparam=bih
-||google.*/search$removeparam=sa
-||google.*/search$removeparam=source
-||google.*/search$removeparam=aqs
-||google.*/search$removeparam=sourceid
-||google.*/search$removeparam=ei
-||google.*/search$removeparam=gs_lcp
+||google.com/search$removeparam=biw
+||google.com/search$removeparam=bih
+||google.com/search$removeparam=sa
+||google.com/search$removeparam=source
+||google.com/search$removeparam=aqs
+||google.com/search$removeparam=sourceid
+||google.com/search$removeparam=ei
+||google.com/search$removeparam=gs_lcp
 
 ! UTM
 $removeparam=utm_ad
@@ -82,6 +82,9 @@ $removeparam=pk_medium
 $removeparam=pk_source
 !
 ! adjust.com tracking
+$removeparam=adj_label
+$removeparam=adj_campaign
+$removeparam=adj_creative
 $removeparam=gps_adid
 $removeparam=unicorn_click_id
 $removeparam=adjust_creative
@@ -91,6 +94,7 @@ $removeparam=adjust_adgroup
 $removeparam=adjust_campaign
 
 ! Hubspot tracking 
+$removeparam=_hsmi
 $removeparam=__hsfp
 $removeparam=__hssc
 $removeparam=__hstc
@@ -114,8 +118,23 @@ $removeparam=_sgm_campaign
 $removeparam=_sgm_source
 $removeparam=_sgm_action
 
+! Rakuten
+$removeparam=ranMID
+$removeparam=ranEAID
+$removeparam=ranSiteID
+
+! True Anthem
+$removeparam=link_source
+$removeparam=taid
+
+! Adsterra
+$removeparam=adsterra_clid
+$removeparam=adsterra_placement_id
+
 ! Adobe 
 $removeparam=s_cid
+$removeparam=adobe_mc_ref
+$removeparam=adobe_mc_sdid
 
 ! Marketo 
 $removeparam=mkt_tok
@@ -123,21 +142,11 @@ $removeparam=mkt_tok
 ! Cxense
 $removeparam=cx_click
 
-! Twitter 
-$removeparam=twclid
-
 ! Branch.io 
 $removeparam=_branch_match_id
 
 ! Valuecommerce 
 $removeparam=vc_lpp
-
-! Olytics
-$removeparam=oly_anon_id
-$removeparam=oly_enc_id
-
-! AD EBiS
-$removeparam=ebisAdID
 
 ! Campaign link tracking
 $removeparam=xtor
@@ -147,22 +156,6 @@ $removeparam=admitad_uid
 
 ! Microsoft
 $removeparam=msclkid
-
-! Generic tracking parameters
-$removeparam=nx_source
-$removeparam=_zucks_suid
-$removeparam=cmpid
-$removeparam=asgtbndr
-$removeparam=guccounter
-$removeparam=guce_referrer
-$removeparam=guce_referrer_sig
-$removeparam=_openstat
-$removeparam=action_object_map
-$removeparam=action_ref_map
-$removeparam=action_type_map 
-$removeparam=adfrom
-$removeparam=retargeted
-$removeparam=adblocked
 
 ! Dutch DPG Media analytics
 $removeparam=dpg_source

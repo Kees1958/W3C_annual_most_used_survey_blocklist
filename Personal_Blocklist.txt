@@ -148,6 +148,8 @@ news.sky.com##div.ui-advert.sdc-site-au__leaderboard
 ||covatic.io^$domain=news.sky.com
 
 ! New York Times
+nytimes.com###fides-banner
+nytimes.com###fides-overlay-wrapper
 nytimes.com##div[class*="ad top-wrapper"]
 nytimes.com##div:has(> div[data-testid="StandardAd"]:only-child)
 nytimes.com##[data-testid="StandardAd"]

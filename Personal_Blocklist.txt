@@ -3,7 +3,7 @@
 ! Title: Kees1958 personal blocklist for bookmarked websites
 ! Expires: 7 days
 !
-! Version: 2026.05.19
+! Version: 2026.05.21
 !
 ! You are allowed to use this freely, but at your own risk. Works with Brave browser and AdBlocker Ultimate. 
 ! AdGuard and UBlockOrigin are depreciated because AG is developed in Russia and uBo is not Mv3 compliant
@@ -11,6 +11,7 @@
 !*** block rules for bookmarked websites
 !
 ! NOS
+nos.nl##ccm-notification
 nos.nl##div[id="regio-onboarding"]
 ccm-wrapper$script,domain=nos.nl
 ||cdn-ster-nl.akamaized.net/*.mp4$redirect=noopmp4-1s,domain=nos.nl
@@ -21,9 +22,10 @@ ccm-wrapper$script,domain=nos.nl
 
 ! BNR
 bnr.nl##.bnr-message, .ad
-bnr.nl##div[class*="Ticker-module"]
-bnr.nl##div[class*="StickyPlayer"]
+bnr.nl##div.bnr-message.ad
 bnr.nl##div[class*="BNRAd_ad_"]
+bnr.nl##div[class*="StickyPlayer"]
+bnr.nl##div[class*="Ticker-module"]
 ||consent.bnr.nl^$domain=bnr.nl
 ||messages-cdn.fdmg.nl^$domain=bnr.nl
 ||scorecardresearch.com^$domain=bnr.nl
@@ -36,11 +38,11 @@ bnr.nl##div[class*="BNRAd_ad_"]
 
 !Nu.nl
 nu.nl##.banner
+nu.nl##.blocks-container-consent-block, .consent-block
+nu.nl##.blocks-container-followtag
 nu.nl##.modal, .modal--breaking-push, .breaking-push-modal
 nu.nl##.modal-layer__shade
 nu.nl##.modal__container
-nu.nl##.blocks-container-followtag
-nu.nl##.blocks-container-consent-block, .consent-block
 nu.nl##.tm-login__body
 nu.nl##body:style(overflow: visible !important;)
 nu.nl##+js(rc, authorized-content, div.authorized-content, stay)
@@ -51,12 +53,15 @@ nu.nl##+js(rc, semi-authorized-content, div.semi-authorized-content, stay)
 ||ping.dpns-notifications.com^$domain=nu.nl
 
 ! Volkskrant.nl
-volkskrant.nl###top1
-volkskrant.nl##.top1-container
-volkskrant.nl##.h1-container
-volkskrant.nl##.AdSense
 volkskrant.nl###article_paragraph_3
+volkskrant.nl###top1
+volkskrant.nl##.AdSense
+volkskrant.nl##.top1-container
+volkskrant.nl##a.tm-overflow-scroll__space.fjs-tm-close
+volkskrant.nl##aside.marketing-banner[data-temptation-position]
+volkskrant.nl##div.h1-container
 volkskrant.nl##div[class="ad--top fjs-hide-on-paywall"]
+volkskrant.nl###PURCHASE_VERTICAL__OVERLAY
 volkskrant.nl##a.tm-overflow-scroll__space.fjs-tm-close
 volkskrant.nl##aside.marketing-banner[data-temptation-position]
 volkskrant.nl###PURCHASE_VERTICAL__OVERLAY
@@ -155,18 +160,31 @@ nytimes.com###story-ad-3-wrapper
 nytimes.com###story-ad-4-wrapper
 nytimes.com###story-ad-5-wrapper
 nytimes.com###story-ad-6-wrapper
+nytimes.com###story-ad-7-wrapper
+nytimes.com###story-ad-8-wrapper
 nytimes.com###ad-0
 nytimes.com###ad-1
 nytimes.com###ad-2
 nytimes.com###ad-3
 nytimes.com###ad-4
+nytimes.com###ad-5
+nytimes.com###ad-6
+nytimes.com###ad-7
+nytimes.com###ad-8
 nytimes.com###after-dfp-ad-mid0
 nytimes.com###after-dfp-ad-mid1
 nytimes.com###after-dfp-ad-mid2
 nytimes.com###after-dfp-ad-mid3
 nytimes.com###after-dfp-ad-mid4
+nytimes.com###after-dfp-ad-mid5
+nytimes.com###after-dfp-ad-mid6
+nytimes.com###after-dfp-ad-mid7
+nytimes.com###after-dfp-ad-mid8
 nytimes.com###top-wrapper
-nytimes.com###bottom-wrapper
+nytimes.com###bottom-
+nytimes.com##div:has(> div[data-testid="StandardAd"]:only-child)
+nytimes.com##div[class*="ad top-wrapper"]
+nytimes.com##div[id^="dfp-ad-"]
 ||nytimes.com/track^$domain=nytimes.com
 ||nytimes.com/meter.js^$domain=nytimes.com
 ||nytimes.com/svc/onsite-messaging^$domain=nytimes.com

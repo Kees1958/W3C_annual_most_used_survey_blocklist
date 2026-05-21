@@ -81,8 +81,9 @@ nrc.nl##div.paywall--topbanner
 nrc.nl##div[id$="modal__overlay"], div.header__subscribe-bar, div.banner
 ||privacy-center.org^$domain=nrc.nl
 ||nrc.nl/paywall-api/api/zephr$xmlhttprequest,~third-party
-||content2.nrc.nl^$domain=nrc.nl
 ||prod-nrcm.mhtr.be/public/tr/tracker.min.js$domain=nrc.nl
+||content2.nrc.nl^$domain=nrc.nl
+||privacy-center.org^$domain=nrc.nl
 ||chartbeat.com^$domain=nrc.nl
 ||scorecardresearch.com^$domain=nrc.nl
 ||parsely.com^$domain=nrc.nl

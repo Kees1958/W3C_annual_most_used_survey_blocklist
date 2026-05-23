@@ -51,6 +51,7 @@ nu.nl##+js(rc, semi-authorized-content, div.semi-authorized-content, stay)
 ||pexi.nl^$domain=nu.nl
 ||applets.ebxcdn.com^$domain=nu.nl
 ||ping.dpns-notifications.com^$domain=nu.nl
+||login-static.dpgmedia.net^$domain=nu.nl
 
 ! Volkskrant.nl
 volkskrant.nl###article_paragraph_3

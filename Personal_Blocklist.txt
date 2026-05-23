@@ -154,9 +154,6 @@ news.sky.com##div.ui-advert.sdc-site-au__leaderboard
 ||covatic.io^$domain=news.sky.com
 
 ! New York 
-nytimes.com###fides-overlay
-nytimes.com##+js(remove-class, fides-no-scroll, body)
-
 nytimes.com##div[class*="ad top-wrapper"]
 nytimes.com##div:has(> div[data-testid="StandardAd"]:only-child)
 nytimes.com##[data-testid="StandardAd"]

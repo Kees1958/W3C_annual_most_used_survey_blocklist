@@ -153,7 +153,10 @@ news.sky.com##div.ui-advert.sdc-site-au__leaderboard
 ||qualtrics.com^$domain=news.sky.com
 ||covatic.io^$domain=news.sky.com
 
-! New York Times
+! New York 
+nytimes.com###fides-overlay
+nytimes.com##+js(remove-class, fides-no-scroll, body)
+
 nytimes.com##div[class*="ad top-wrapper"]
 nytimes.com##div:has(> div[data-testid="StandardAd"]:only-child)
 nytimes.com##[data-testid="StandardAd"]
@@ -191,14 +194,17 @@ nytimes.com###bottom-
 nytimes.com##div:has(> div[data-testid="StandardAd"]:only-child)
 nytimes.com##div[class*="ad top-wrapper"]
 nytimes.com##div[id^="dfp-ad-"]
+||nyt.com/ads^$domain=nytimes.com
+||static01.nyt.com/ads/tpc-check.html^$domain=nytimes.com
+/.*adslot.*/$script,domain=nytimes.com
+
 ||nytimes.com/track^$domain=nytimes.com
 ||nytimes.com/meter.js^$domain=nytimes.com
 ||nytimes.com/svc/onsite-messaging^$domain=nytimes.com
-||nyt.com/ads^$domain=nytimes.com
-||als-svc.nytimes.com/als^$domain=nytimes.com
 ||purr.nytimes.com/v1/purr-cache^$domain=nytimes.com
-/.*adslot.*/$script,domain=nytimes.com
+||als-svc.nytimes.com/als^$domain=nytimes.com
 pay.js^$domain=nytimes.com
+
 ||warp.media.net/js/tags/clientag.js^$domain=nytimes.com
 ||datadoghq-browser-agent.com^$domain=nytimes.com
 ||rumcdn.geoedge.be^$domain=nytimes.com

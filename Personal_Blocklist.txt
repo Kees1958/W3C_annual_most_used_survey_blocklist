@@ -51,6 +51,7 @@ nu.nl##+js(rc, semi-authorized-content, div.semi-authorized-content, stay)
 ||login-static.dpgmedia.net^$domain=nu.nl
 ||web-sdk.dpns-notifications.com^$domain=nu.nl
 ||ping.dpns-notifications.com^$domain=nu.nl
+||optoutadvertising.com^$domain=nu.nl
 ||applets.ebxcdn.com^$domain=nu.nl
 ||pexi.nl^$domain=nu.nl
 

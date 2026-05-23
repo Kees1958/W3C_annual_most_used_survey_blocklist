@@ -113,6 +113,7 @@ bbc.com##div[data-component="ad-slot"]
 bbc.com##div[data-component="advertisement-block"]
 bbc.com##div[class*="-ConsentBanner"]
 ||bbc.com/*/dotcom-ads.js^$domain=bbc.com
+||gn-web-assets.api.bbc.com/*/dotcom-analytics.js$domain=bbc.com
 ||mybbc-analytics.files.bbci.co.uk^$domain=bbc.com
 ||dotcom.bbc-reporting-api.app^$domain=bbc.com
 ||a1-api-bbc-com-cddc.at-o.net^$domain=bbc.com

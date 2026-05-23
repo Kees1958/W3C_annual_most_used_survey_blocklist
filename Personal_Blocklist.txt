@@ -37,10 +37,6 @@ bnr.nl##div[class*="Ticker-module"]
 ||googletagmanager.com^$domain=bnr.nl
 
 ! DPGMedia cookiewall (on nu.nl & volkskrant)
-nu.nl,volkskrant.nl,dpgmedia.nl##+js(trusted-click-element, #onetrust-accept-btn-handler)
-nu.nl,volkskrant.nl,dpgmedia.nl##+js(trusted-click-element, button[title="Akkoord"])
-nu.nl,volkskrant.nl###pg-shadow-root-host
-nu.nl,volkskrant.nl###cookie_overlay
 dpgmedia.nl^$redirect=noop.js
 dpgmedia.com^$redirect=noop.js
 

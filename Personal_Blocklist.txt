@@ -36,6 +36,14 @@ bnr.nl##div[class*="Ticker-module"]
 ||chartbeat.com^$domain=bnr.nl
 ||googletagmanager.com^$domain=bnr.nl
 
+! DPGMedia cookiewall (on nu.nl & volkskrant)
+nu.nl,volkskrant.nl,dpgmedia.nl##+js(trusted-click-element, #onetrust-accept-btn-handler)
+nu.nl,volkskrant.nl,dpgmedia.nl##+js(trusted-click-element, button[title="Akkoord"])
+nu.nl,volkskrant.nl###pg-shadow-root-host
+nu.nl,volkskrant.nl###cookie_overlay
+dpgmedia.nl^$redirect=noop.js
+dpgmedia.com^$redirect=noop.js
+
 !Nu.nl
 nu.nl##.banner
 nu.nl##.blocks-container-consent-block, .consent-block

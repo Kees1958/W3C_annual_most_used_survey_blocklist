@@ -36,9 +36,14 @@ bnr.nl##div[class*="Ticker-module"]
 ||chartbeat.com^$domain=bnr.nl
 ||googletagmanager.com^$domain=bnr.nl
 
-! DPGMedia cookiewall (on nu.nl & volkskrant)
+! DPGMedia cookiewall and advertising on nu.nl & volkskrant
+||myprivacy-static.dpgmedia.net/consent.js$domain=volkskrant.nl|nu.nl
 dpgmedia.nl^$redirect=noop.js
 dpgmedia.com^$redirect=noop.js
+||advertising-cdn.dpgmedia.cloud^$domain=volkskrant.nl|nu.nl
+||web-sdk.dpns-notifications.com^$domain=volkskrant.nl|nu.nl
+||ping.dpns-notifications.com^$domain=volkskrant.nl|nu.nl
+||sp.dpgmedia.net^$domain=volkskrant.nl|nu.nl
 
 !Nu.nl
 nu.nl##.banner
@@ -51,9 +56,6 @@ nu.nl##.tm-login__body
 nu.nl##body:style(overflow: visible !important;)
 nu.nl##+js(rc, authorized-content, div.authorized-content, stay)
 nu.nl##+js(rc, semi-authorized-content, div.semi-authorized-content, stay)
-||advertising-cdn.dpgmedia.cloud^$domain=nu.nl
-||web-sdk.dpns-notifications.com^$domain=nu.nl
-||ping.dpns-notifications.com^$domain=nu.nl
 ||optoutadvertising.com^$domain=nu.nl
 ||applets.ebxcdn.com^$domain=nu.nl
 ||pexi.nl^$domain=nu.nl
@@ -74,14 +76,12 @@ volkskrant.nl###PURCHASE_VERTICAL__OVERLAY
 */gtm.js^$script,domain=volkskrant.nl
 /temptation/resolve$xmlhttprequest,~third-party,domain=volkskrant.nl
 ||temptation.*/temptation.js$script,~third-party,domain=volkskrant.nl
-||myprivacy-static.dpgmedia.net/consent.js$domain=volkskrant.nl|nu.nl
 ||pushengage.com^$domain=volkskrant.nl
 ||adnxs.com^$domain=volkskrant.nl
-||advertising-cdn.dpgmedia.cloud^$domain=volkskrant.nl
 ||usabilla.com^$domain=volkskrant.nl
 ||scorecardresearch.com^$domain=volkskrant.nl
 ||smartocto.com^$domain=volkskrant.nl
-||sp.dpgmedia.net^$domain=volkskrant.nl
+
 ||visualwebsiteoptimzer.com^$domain=volkskrant.nl
 
 ! NRC

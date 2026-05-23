@@ -36,7 +36,7 @@ bnr.nl##div[class*="Ticker-module"]
 ||chartbeat.com^$domain=bnr.nl
 ||googletagmanager.com^$domain=bnr.nl
 
-! DPGMedia media websites (nu.nl & volkskrant)
+! DPGMedia websites annoyances (nu.nl & volkskrant)
 dpgmedia.nl$redirect=noop.js
 dpgmedia.com$redirect=noop.js
 ||advertising-cdn.dpgmedia.cloud^$domain=nu.nl!volkskrant.nl

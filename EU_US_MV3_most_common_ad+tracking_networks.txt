@@ -9,10 +9,6 @@ AdBlockPlus 2.0]
 ! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
 !
 ! 
-[AdBlockPlus 2.0]
-! Title: Compressed Top Ad + Tracking Networks (max 500)
-! Focus: modern + common only
-
 ||2mdn.net^$third-party
 ||2o7.net^$third-party
 ||33across.com^$third-party

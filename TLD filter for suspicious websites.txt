@@ -14,8 +14,11 @@
 ! 1, Only allow connections to common domains and country codes
 ||*$document,subdocument,denyallow=com|edu|io|net|org|EU|NL|BE|DE|CH|AT|UK|IE|AU|NZ|CA|US
 
-! 2. Only allow connections using the default HTTPS port 443
-/https?:\/\/[^\/]+:[0-9]+/$document,subdocument
+! 2. Warn & sanatize connections not using the default HTTPS port 443
+/https?:\/\/[^\/]+:[0-9]+/$document,subdocument,script
+
+! 3. Warn & sanatize for domains with puny-code (non-latin characters)
+||xn--^$document,subdocument,script
 
 ! 3.Warn & sanatize DDNS and Free Hosting websites
 ||000webhostapp.com^$document,subdocument,script

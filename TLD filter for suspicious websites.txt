@@ -6,6 +6,8 @@
 ! Expires: 365 days
 ! You are free to copy and distribute this file, but use at your own risk
 !
+! ONLY WORKS IN ADGUARD for uBlock you need to change DENYALLOW to TO and add a not ` before all TLD's (e.g. tp=~com|~org|~net  etc)
+!
 !
 !***********************************************************
 ! Extra security                                           *

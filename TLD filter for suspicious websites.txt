@@ -20,7 +20,7 @@
 ! 3. Warn & sanatize for domains with puny-code (non-latin characters)
 ||xn--^$document,subdocument,script
 
-! 3.Warn & sanatize DDNS and Free Hosting websites
+! 4. Warn & sanatize DDNS and Free Hosting websites
 ||000webhostapp.com^$document,subdocument,script
 ||app.link^$document,subdocument,script
 ||azurestaticapps.net^$document,subdocument,script

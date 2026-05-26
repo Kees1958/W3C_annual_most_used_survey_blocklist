@@ -1,4 +1,4 @@
-# Version: 2026.04.29 in YAML format to be used in the CUSTOM DNR RULES section of uBlock Origin Lite 
+# Version: 2026.05.26 in YAML format to be used in the CUSTOM DNR RULES section of uBlock Origin Lite 
 # Please report issues related to website breakage at
 # https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
 # This filter list does not need regular updates as explained in the read me.
@@ -7,691 +7,566 @@
 # Block advertising and tracking networks (with just ! rule :-) in uBol
 # copy paste this into the customized DNR rules
 #
----
 action:
   type: block
 condition:
   domainType: thirdParty
   requestDomains:
-    - 1rx.io
-    - 24log.com
     - 2mdn.net
     - 2o7.net
     - 33across.com
-    - 360yield.com
     - 3lift.com
-    - 4info.com
-    - 82o9v830.com
-    - a-ads.com
-    - absorbingband.com
-    - abtasty.com
+    - 5gvci.com
+    - a.dnhmediagroup.com
+    - a.magsrv.com
+    - a.orbsrv.com
+    - a.pemsrv.com
+    - a.pub.network
+    - a.teads.tv
+    - activity-flow.vtex.com
     - actonsoftware.com
     - acuityads.com
-    - acuityplatform.com
-    - ad-delivery.net
     - ad-score.com
-    - ad4game.com
-    - ad4mat.de
-    - adadvisor.net
-    - adalliance.io
+    - ad.a-ads.com
+    - ad.vidverto.io
+    - ad.yieldlab.net
     - adblade.com
-    - adbrite.com
-    - adbroker.de
     - adbutler.com
     - adcash.com
     - adcell.de
     - adcolony.com
-    - adconion.com
-    - addfreestats.com
-    - addme.com
-    - adecn.com
-    - adengage.com
     - adform.com
     - adform.net
-    - adformdsp.net
-    - adhaven.com
     - adhese.com
-    - adhigh.net
     - adition.com
-    - adizio.com
-    - adjug.com
-    - adjuggler.com
     - adjust.com
-    - adlegend.com
+    - adkaora.space
     - adlightning.com
     - adloox.com
-    - adlooxtracking.com
-    - admailtiser.com
-    - admanmedia.com
     - admarketplace.net
-    - admarvel.com
-    - admedia.com
-    - admeld.com
-    - admixer.net
+    - admen.ru
     - admob.com
     - adnami.io
-    - adnet.de
-    - adnetwork.net
-    - adnium.com
-    - adnxs-simple.com
     - adnxs.com
-    - adotmob.com
-    - adperium.com
-    - adpushup.com
-    - adreactor.com
-    - adrta.com
-    - ads-twitter.com
-    - adsafeprotected.com
-    - adscale.de
-    - adscience.nl
-    - adserver.com
-    - adserverplus.com
-    - adserverpub.com
-    - adsfac.net
-    - adside.com
-    - adskeeper.co.uk
+    - ads.pubmatic.com
+    - ads.sportslocalmedia.com
+    - ads.talkscreativity.com
+    - ads.thesun.co.uk
+    - adsdk.microsoft.com
     - adskeeper.com
     - adsnative.com
-    - adspeed.net
-    - adspirit.de
-    - adstanding.com
-    - adsupply.com
     - adswizz.com
+    - adtcdn.unidadeditorial.es
     - adtech.com
-    - adtech.de
-    - adtechjp.com
-    - adtechus.com
-    - adtegrity.net
-    - adthrive.com
-    - adtiger.de
-    - adtng.com
-    - adv-adserver.com
-    - advangelists.com
-    - adventurousamount.com
+    - adtrafficquality.google
     - adverticum.com
-    - adverticum.net
-    - advertise.com
     - advertising.com
-    - advertserve.com
-    - adviva.net
-    - adworx.nl
-    - adxpansion.com
-    - adxpose.com
+    - adx.4strokemedia.com
     - adyoulike.com
-    - adzerk.net
-    - aerserv.com
-    - affili.net
-    - affiliatetracking.com
-    - afraidlanguage.com
+    - agent.marketingcloudfx.com
     - agkn.com
-    - aim4media.com
-    - airpush.com
-    - alenty.com
-    - aliasanvil.com
-    - aloofvest.com
-    - amazingcounters.com
     - amazon-adsystem.com
+    - amplify.outbrain.com
+    - analytics.ahrefs.com
+    - analytics.craftedcode.nl
+    - analytics.ikiweb.it
+    - analytics.kunruch.com
+    - analytics.pop2watch.com
+    - analytics.tiktok.com
+    - analytics.vitalsignstracker.com
+    - analytics.vixcloud.co
     - analytics.yahoo.com
-    - ancientact.com
     - aniview.com
-    - annoyedairport.com
-    - appboycdn.com
+    - annualrallybran.com
+    - api-secure.solvemedia.com
+    - api.at.getsocial.io
+    - api.fouanalytics.com
+    - api.kiprotect.com
+    - api.piano.io
+    - api.pushnami.com
+    - app.23degrees.io
+    - app.dynatondata.com
+    - app.fusebox.fm
+    - app.getreditus.com
+    - app.lemlist.com
+    - app.truepush.com
+    - app.varify.io
+    - applets.ebxcdn.com
     - applovin.com
     - appsflyer.com
-    - aralego.com
-    - askdriver.com
+    - aqle3.com
+    - assets.adobedtm.com
+    - assets.apollo.io
+    - assets.bonad.io
+    - assets.customer.io
+    - assets.freedomadnetwork.com
+    - assets.mediadelivery.net
+    - assets.poool.fr
+    - assets.speedvitals.com
+    - assets.strossle.com
     - assoc-amazon.com
-    - aswpsdkus.com
-    - at-o.net
-    - attractionbanana.com
     - atwola.com
-    - audience2media.com
-    - avocet.io
-    - backbeatmedia.com
+    - ay.delivery
+    - b-code.liadm.com
+    - b.delivery.consentmanager.net
+    - b.kavanga.ru
+    - b.sf-syn.com
     - bannerconnect.net
+    - bat.bing.com
     - beachfront.com
-    - behavioralengine.com
-    - belstat.com
-    - belstat.nl
-    - bfmio.com
-    - bidpapers.com
+    - beacon-v2.helpscout.net
+    - betteradsystem.com
     - bidr.io
     - bidswitch.net
     - bidtellect.com
     - bidvertiser.com
-    - bizible.com
-    - bizographics.com
-    - bizrate.com
     - bkrtx.com
-    - bleachbubble.com
     - blis.com
-    - blogads.com
-    - blogcounter.de
-    - blogherads.com
     - blueconic.net
     - bluekai.com
-    - bluelithium.com
-    - blushingbeast.com
-    - blushingbread.com
-    - boomtrain.com
+    - boot.pbstck.com
     - bounceexchange.com
-    - brand-display.com
-    - breakableinsurance.com
     - brealtime.com
-    - bridgetrack.com
-    - btrll.com
-    - bttrack.com
+    - browser.sentry-cdn.com
+    - btloader.com
+    - btttag.com
     - buysellads.com
-    - c1exchange.com
+    - buysellads.net
+    - c.delivery.consentmanager.net
+    - c.webtrends-optimize.com
+    - c2.taboola.com
+    - cache.consentframework.com
+    - cadmus.script.ac
     - callrail.com
-    - calypsocapsule.com
-    - carbonads.com
-    - carvecakes.com
+    - carsarace.com
     - casalemedia.com
-    - cautiouscredit.com
+    - cdn-4.convertexperiments.com
+    - cdn-alpha.adsinteractive.com
+    - cdn-cookieyes.com
+    - cdn-gl.imrworldwide.com
+    - cdn-loyalty.yotpo.com
+    - cdn-ukwest.onetrust.com
+    - cdn-widgetsrepository.yotpo.com
+    - cdn.adapex.io
+    - cdn.admixer.net
+    - cdn.adpushup.com
+    - cdn.adsafeprotected.com
+    - cdn.affonso.io
+    - cdn.amplitude.com
+    - cdn.appconsent.io
+    - cdn.appdynamics.com
+    - cdn.boomtrain.com
+    - cdn.carbonads.com
+    - cdn.carrotquest.io
+    - cdn.clerk.io
+    - cdn.cnstrc.com
+    - cdn.codesour.com
+    - cdn.confiant-integrations.net
+    - cdn.consentmanager.net
+    - cdn.cookiehub.eu
+    - cdn.cookielaw.org
+    - cdn.cquotient.com
+    - cdn.dataveu.com
+    - cdn.debugbear.com
+    - cdn.dialogapi.no
+    - cdn.engine.4dsply.com
+    - cdn.firstpromoter.com
+    - cdn.fuseplatform.net
+    - cdn.getadjacent.com
+    - cdn.gravitec.net
+    - cdn.heapanalytics.com
+    - cdn.insight.sitefinity.com
+    - cdn.insurads.com
+    - cdn.iubenda.com
+    - cdn.izooto.com
+    - cdn.leadmanagerfx.com
+    - cdn.madkudu.com
+    - cdn.matomo.cloud
+    - cdn.mouseflow.com
+    - cdn.onesignal.com
+    - cdn.optimizely.com
+    - cdn.p-n.io
+    - cdn.pbxai.com
+    - cdn.performax.cz
+    - cdn.permutive.app
+    - cdn.privacy-mgmt.com
+    - cdn.privacy.paramount.com
+    - cdn.quantummetric.com
+    - cdn.radiantmediatechs.com
+    - cdn.rollbar.com
+    - cdn.segment.com
+    - cdn.speakup.ai
+    - cdn.speedcurve.com
+    - cdn.taboola.com
+    - cdn.userway.org
+    - cdn.webpushr.com
+    - cdn1.adcdnx.com
+    - cdn1.pediaglobal.com
+    - cdn4-hbs.affinitymatrix.com
+    - cdns.symplr.de
+    - cdnt.netcoresmartech.com
+    - ced.sascdn.com
     - cedato.com
-    - cetrk.com
-    - channelintelligence.com
-    - chargecracker.com
-    - chartbeat.com
-    - chartbeat.net
+    - certify-js.alexametrics.com
+    - cervantes.ringier.ro
     - chartboost.com
-    - childlikecrowd.com
-    - chitika.net
+    - choices.consentframework.com
     - cj.com
-    - clickbooth.com
+    - cjs.ptengine.com
+    - cl.k5a.io
+    - clarity.ms
+    - click.pageview.click
     - clickcease.com
-    - clickdensity.com
-    - clickfuse.com
-    - clicktracks.com
-    - clickyab.com
-    - clientgear.com
-    - cloudflareinsights.com
-    - clustrmaps.com
-    - confiant-integrations.net
+    - clickiocmp.com
+    - client.crisp.chat
+    - cmg.video-player.arcpublishing.com
+    - cmp-cdn.cookielaw.org
+    - cmp.bonniernews.se
+    - cmp.gatekeeperconsent.com
+    - cmp.inmobi.com
+    - cmp.osano.com
+    - cmp.setupcmp.com
+    - code-eu1.jivosite.com
+    - collect.igodigital.com
+    - cometinclosesecretion.com
+    - components2.rcsobjects.it
     - connatix.com
-    - connectad.io
-    - connextra.com
-    - consciouscheese.com
+    - consent.app.relyance.ai
+    - consent.cmp.oath.com
+    - consent.cookiebot.com
+    - consent.trustarc.com
     - contextweb.com
     - conversantmedia.com
-    - conversionruler.com
-    - cootlogix.com
-    - copycarpenter.com
+    - cookie-cdn.cookiepro.com
+    - core.dpa-infocom.net
     - coremetrics.com
     - cpalead.com
     - cpmstar.com
-    - cpxinteractive.com
     - crashlytics.com
-    - cratecamera.com
     - crazyegg.com
-    - criteo.com
-    - criteo.net
-    - crsspxl.com
     - crwdcntrl.net
-    - cutechin.com
-    - cxense.com
-    - damageddistance.com
-    - dapper.net
-    - dc-storm.com
-    - de17a.com
-    - decisivebase.com
+    - cs.iubenda.com
+    - cs.moz.com
+    - cw-static.aditude.io
+    - d-cache.microad.jp
+    - d.adlpo.com
+    - datadoghq-browser-agent.com
+    - dclsrv.com
+    - deals.innocode.no
     - deepintent.com
+    - delivery.adrecover.com
     - demandbase.com
     - demdex.net
-    - deployads.com
-    - detectdiscovery.com
+    - dev.visualwebsiteoptimizer.com
     - dianomi.com
-    - disqusads.com
+    - diffuser-cdn.app-us1.com
     - districtm.io
-    - dmtracker.com
-    - dockdigestion.com
-    - domdex.com
-    - dotmetrics.net
+    - dmp.im-apps.net
+    - dotcomconsultancy.advertserve.com
     - dotomi.com
-    - doubleclick.net
-    - doublepimp.com
-    - doubleverify.com
     - dstillery.com
-    - dyntrk.com
+    - dtasrvr.com
+    - dubcdn.com
+    - dwin1.com
+    - dx.mountain.com
+    - dynamic.criteo.com
     - e-planning.net
-    - ebuzzing.com
-    - emerse.com
+    - easystat.de
+    - edge.permutive.app
+    - edge.quantserve.com
+    - embed.adabundle.com
+    - embed.bannerboo.com
+    - embed.chatnode.ai
+    - embed.tawk.to
     - emjcd.com
-    - emxdigital.com
-    - energeticladybug.com
     - engagebdr.com
-    - engineertrick.com
-    - enormousearth.com
-    - ensighten.com
-    - eqads.com
-    - ero-advertising.com
-    - etargetnet.com
+    - erba7.net
     - etracker.com
-    - etracker.de
+    - eu-assets.i.posthog.com
+    - eu.posthog.com
     - eulerian.net
-    - eventexistence.com
-    - everestads.net
+    - euob.seroundprince.com
     - everesttech.net
-    - evergage.com
-    - exampleshake.com
+    - exactdn.com
     - exelate.com
-    - exelator.com
-    - exhibitsneeze.com
     - exoclick.com
-    - exosrv.com
-    - exponential.com
-    - exportdialog.com
-    - extreme-dm.com
-    - extremetracking.com
-    - eyeota.net
-    - fadedsnow.com
-    - fakedisguise.com
-    - fallaciousfifth.com
-    - fastclick.com
-    - fastclick.net
-    - faultycanvas.com
-    - feedjit.com
-    - fimserve.com
-    - fixedfold.com
+    - experience-eu.piano.io
+    - experience.piano.io
+    - experience.tinypass.com
+    - ezoicanalytics.com
+    - ezojs.com
+    - fb.content-loader.com
+    - fb.html-load.com
+    - files.bettybot.ai
     - flashtalking.com
     - flurry.com
     - foresee.com
-    - fqtag.com
-    - fudgegenie.com
+    - fpyf8.com
+    - fservr.com
     - fullstory.com
-    - futuristicframe.com
-    - game-advertising-online.com
-    - gammamaximum.com
-    - getclicky.com
+    - gahfinallytame.com
+    - geo.cookie-script.com
+    - geotags.refinery89.com
+    - get.s-onetag.com
     - getintent.com
-    - glasscoyote.com
-    - gloriousbeef.com
-    - gmads.net
-    - go-mpulse.net
-    - gondolagnome.com
+    - global.ketchcdn.com
+    - go.ezodn.com
+    - google-analytics.com
     - googleadservices.com
-    - pagead2.googlesyndication.com
-    - gostats.com
-    - grandfatherguitar.com
+    - googleoptimize.com
+    - googletagmanager.com
+    - googletagservices.com
     - grapeshot.co.uk
-    - greystripe.com
-    - handyfireman.com
-    - harrenmedia.com
-    - harrenmedianetwork.com
-    - hellobar.com
+    - graphics.afpforum.com
+    - grasshoppergainfulexcavator.com
+    - groleegni.net
     - histats.com
-    - historytrade.com
-    - hit-parade.com
-    - hitbox.com
-    - hitslink.com
-    - hittail.com
-    - hocgeese.com
-    - hotjar.com
-    - hs-analytics.net
-    - hs-banner.com
-    - hsadspixel.net
-    - hsleadflows.net
-    - htlbid.com
-    - httpool.com
-    - hydraconcept.com
+    - html-load.cc
     - id5-sync.com
-    - iesnare.com
+    - img.macromill.com
     - improvedigital.com
-    - imrworldwide.com
+    - in1.clevertap-prod.com
     - indexexchange.com
-    - indexww.com
-    - indieclick.com
-    - industrybrains.com
+    - info.error-report.com
     - infolinks.com
-    - inmobi.com
-    - inner-active.com
     - innovid.com
-    - inquisitiveinvention.com
-    - insightexpress.com
-    - insightexpressai.com
     - inspectlet.com
-    - intergi.com
-    - ioam.de
-    - iperceptions.com
-    - ipredictive.com
-    - ivwbox.de
-    - j93557g.com
-    - jsrdn.com
-    - jubilantglimmer.com
-    - juiceblocks.com
+    - intg.snapchat.com
+    - jnbhi.com
+    - js-agent.newrelic.com
+    - js-eu1.hs-analytics.net
+    - js-eu1.hs-banner.com
+    - js-eu1.hs-scripts.com
+    - js.adsrvr.org
+    - js.appboycdn.com
+    - js.assemblyexchange.com
+    - js.datadome.co
+    - js.hs-analytics.net
+    - js.hs-banner.com
+    - js.hs-scripts.com
+    - js.hsforms.net
+    - js.pelcro.com
+    - js.ptengine.jp
+    - js.sentry-cdn.com
+    - js.tncid.app
+    - js.ubembed.com
+    - jsc.mgid.com
+    - jsc.native.azerion.com
     - juicyads.com
-    - jumptap.com
     - justpremium.com
+    - kameleoon.io
     - kargo.com
     - kissmetrics.com
-    - kittycatking.com
-    - knitstamp.com
-    - knottyswing.com
-    - kontera.com
     - krxd.net
-    - kueezrtb.com
+    - lcdn.tsyndicate.com
     - leadinfo.net
-    - leadplace.fr
-    - leftliquid.com
-    - lemmatechnologies.com
-    - lfstmedia.com
-    - liadm.com
-    - liftdna.com
-    - ligatus.com
     - lijit.com
-    - linksynergy.com
+    - link.rubiconproject.com
+    - live.primis.tech
+    - live.rezync.com
     - liveintent.com
-    - livelylaugh.com
-    - liverail.com
     - lkqd.com
-    - lockerdome.com
+    - log.gs3.goo.ne.jp
+    - log.medietall.no
     - loopme.com
-    - loudlunch.com
-    - lucidmedia.com
-    - luckyorange.com
-    - ludicrousarch.com
     - lytics.io
-    - lzjl.com
-    - magsrv.com
-    - mapcommand.com
-    - marinsm.com
+    - mainadv.com
     - marketo.com
-    - matheranalytics.com
     - mathtag.com
-    - meadowlullaby.com
-    - meatydime.com
+    - matomo.cloudfront.similarweb.io
+    - matomo.vibb.ax
+    - mc.webvisor.org
+    - mc.yandex.ru
+    - media.ethicalads.io
     - media.net
-    - media6degrees.com
+    - media.trafficjunky.net
     - mediamath.com
-    - mediaplex.com
-    - mediavine.com
-    - mediavoice.com
-    - merequartz.com
-    - metadsp.co.uk
-    - mfadsrvr.com
-    - mgid.com
+    - meglot.vercel.app
+    - messenger.customerly.io
+    - micro.rubiconproject.com
     - mixpanel.com
-    - mktoresp.com
-    - ml314.com
     - moat.com
     - moatads.com
-    - moatpixel.com
-    - mobclix.com
-    - mobfox.com
-    - monetate.net
+    - monetization.prod.invmed.co
     - mookie1.com
     - mopub.com
     - mparticle.com
-    - muteknife.com
-    - mxptint.net
-    - mybuys.com
-    - mypagerank.net
-    - nappyattack.com
+    - multiformat.rubiconproject.com
+    - mypopups.com
     - navegg.com
-    - nebulacrescent.com
-    - nedstatbasic.net
-    - neighborlywatch.com
-    - netaffiliation.com
-    - netmng.com
-    - netshelter.net
-    - nexac.com
-    - nexage.com
-    - noiselessplough.com
-    - nondescriptcrowd.com
-    - nondescriptnote.com
-    - nowaymail.com
+    - net-static.tcccdn.com
     - npttech.com
     - nr-data.net
-    - ntv.io
-    - obscenesidewalk.com
-    - offshoregeology.com
-    - ojrq.net
     - omniture.com
     - omtrdc.net
     - onaudience.com
-    - onestat.com
-    - online-metrix.net
-    - onthe.io
-    - openx.net
-    - operationchicken.com
-    - opmnstr.com
-    - optimallimit.com
-    - optimizely.com
-    - optmd.com
-    - optnmstr.com
-    - orbsrv.com
-    - outbrain.com
-    - overconfidentfood.com
-    - overture.com
-    - owneriq.net
-    - p-n.io
-    - p7cloud.net
-    - pagefair.com
-    - paleleaf.com
+    - openads-cdn.adsrvr.org
+    - pagead2.googlesyndication.com
+    - pahtch.tech
     - parsely.com
-    - partnerlinks.io
-    - paypopup.com
+    - paupsoborofoow.net
     - peer39.com
-    - percentmobile.com
-    - perfiliate.com
-    - performancing.com
     - permutive.com
-    - pheedo.com
-    - pippio.com
-    - placidactivity.com
-    - pleasantpump.com
+    - pi.pardot.com
+    - pj.l.liftdsp.com
+    - platform-api.sharethis.com
+    - plausible-analytics.qwayk.com
+    - plausible.io
+    - player.bidmatic.io
     - plista.com
-    - plotrabbit.com
-    - pluckypocket.com
-    - pocketfaucet.com
-    - pointroll.com
-    - polishedfolly.com
     - popads.net
     - popcash.net
-    - popplantation.com
-    - possibleboats.com
-    - possiblepencil.com
-    - postrelease.com
-    - predictad.com
-    - priceypies.com
-    - pricklydebt.com
-    - pro-market.net
-    - processplantation.com
-    - programattik.com
-    - projectwonderful.com
+    - prebid.openx.net
+    - privacy-proxy.usercentrics.eu
+    - privacy.gatekeeperconsent.com
     - propellerads.com
-    - publicidees.com
-    - publicsofa.com
+    - ps.eyeota.net
+    - psstentice.com
+    - pub.doubleverify.com
     - pubmine.com
-    - puffyloss.com
+    - push-sdk.com
+    - px.owneriq.net
     - pxf.io
-    - qnsr.com
     - quantcast.com
-    - quantcount.com
-    - quantserve.com
-    - quantummetric.com
-    - quietknowledge.com
-    - quirkysugar.com
-    - quisma.com
-    - rabbitrifle.com
-    - radiateprose.com
-    - railwayreason.com
-    - raresummer.com
-    - realsrv.com
-    - rebelhen.com
-    - receptivereaction.com
-    - reduxmedia.com
-    - regularplants.com
-    - resonantbrush.com
+    - quantcast.mgr.consensu.org
+    - rangergustav.com
+    - raven-edge.aditude.io
+    - rddywd.com
+    - refgrow.com
+    - res.cloudinary.com
     - resonate.com
-    - restrainstorm.com
-    - retargeter.com
     - revcontent.com
+    - revenuecpmgate.com
     - rhythmone.com
-    - richaudience.com
-    - ringsrecord.com
-    - ritzyrepresentative.com
     - rlcdn.com
-    - rockstarwriter.com
-    - rollconnection.com
-    - roxr.net
-    - rtmark.net
-    - ru4.com
-    - rubiconproject.com
-    - runads.com
-    - rundsp.com
-    - ruralrobin.com
-    - sail-horizon.com
-    - savoryorange.com
-    - scanscout.com
-    - scaredsnakes.com
-    - scatteredheat.com
-    - scintillatingsilver.com
-    - scorecardresearch.com
-    - screechingstocking.com
-    - screechingstove.com
-    - seadform.net
-    - searchmarketing.com
-    - sedotracker.com
-    - selectivesummer.com
+    - rum.hlx.page
+    - s.adplay.it
+    - s.dc-tag.jp
+    - s.fluxtech.ai
+    - s.go-mpulse.net
+    - s.ntv.io
+    - s.skimresources.com
+    - s.yjtag.jp
+    - s7.addthis.com
+    - saptorge.com
+    - sb.scorecardresearch.com
+    - sc.lfeeder.com
+    - scdn.cxense.com
+    - script.ioam.de
+    - scripts.cleverwebserver.com
+    - scripts.kataweb.it
+    - scripts.mediavine.com
+    - scripts.opti-digital.com
+    - scripts.simpleanalyticscdn.com
+    - sdk.gleap.io
+    - sdk.k-words.io
+    - sdk.mrf.io
+    - sdk.privacy-center.org
+    - secure.gaug.es
+    - secure.quantserve.com
+    - securepubads.g.doubleclick.net
     - semasio.net
-    - servedbyopenx.com
-    - sessioncam.com
-    - shakegoldfish.com
+    - servedby-buysellads.com
+    - servedby.indiegraf.com
+    - sg.mmstat.com
+    - shaiwourtijogno.net
     - shareasale.com
     - sharethrough.com
-    - shesubscriptions.com
-    - shinystat.com
-    - shrillspoon.com
-    - simulateswing.com
+    - sitebehaviour-cdn.fra1.cdn.digitaloceanspaces.com
     - siteimproveanalytics.com
-    - siteimproveanalytics.io
-    - sitemeter.com
-    - skimresources.com
-    - skisofa.com
+    - siteintercept.qualtrics.com
     - smaato.com
     - smartadserver.com
-    - smartclip.net
     - smartlook.com
     - smartyads.com
-    - smilewanted.com
-    - smrtb.com
-    - snoobi.com
-    - soggysponge.com
-    - somoaudience.com
-    - sonobi.com
+    - snap.licdn.com
     - sovrn.com
-    - sparkstudios.com
-    - sponsorads.de
+    - spl.zeotap.com
     - spotxchange.com
     - springserve.com
-    - spylog.com
+    - srvgl.com
     - stackadapt.com
-    - stakingsmile.com
-    - stalesummer.com
-    - stat-track.com
     - statcounter.com
-    - statistik-gallup.net
-    - steadfastsound.com
-    - steadfastsystem.com
-    - steelhouse.com
-    - steelhousemedia.com
+    - static-weekli.net
+    - static.addtoany.com
+    - static.ads-twitter.com
+    - static.adtrcdn.io
+    - static.adzerk.net
+    - static.chartbeat.com
+    - static.cloudflareinsights.com
+    - static.criteo.net
+    - static.doubleclick.net
+    - static.getclicky.com
+    - static.hotjar.com
+    - static.jvc.gg
+    - static.klaviyo.com
+    - static.kueezrtb.com
+    - static.multiview.com
+    - static.narrativ.com
+    - static.trafficjunky.com
+    - static.vocstatic.com
+    - stats.intmaker.com
+    - stats.monohost.com
+    - stats.wp.com
     - stickyadstv.com
-    - stomachscience.com
-    - storetail.io
-    - storygize.net
-    - straightnest.com
-    - stupendoussnow.com
-    - succeedscene.com
-    - sulkycook.com
-    - summerobject.com
-    - sumo.com
+    - stream.sociofyme.com
     - sumome.com
-    - supersonicads.com
-    - swankysquare.com
-    - swingslip.com
-    - taboola.com
+    - swrap.tradedoubler.com
+    - sync.go.sonobi.com
+    - tag.aticdn.net
+    - tag.clearbitscripts.com
+    - tag.escalated.io
+    - tag.getdrip.com
+    - tag.rmp.rakuten.com
+    - tag.wknd.ai
     - tagcommander.com
+    - tags.creativecdn.com
     - tags.tiqcdn.com
-    - tailsweep.com
-    - tangibleteam.com
-    - tangyamount.com
     - tapad.com
-    - tappx.com
+    - tb.rightmessage.com
     - tealiumiq.com
-    - tendertest.com
     - the-ozone-project.com
-    - themangotea.com
+    - the.gatekeeperconsent.com
     - themoneytizer.com
-    - thomastorch.com
-    - tinytendency.com
-    - tiresomethunder.com
-    - tlvmedia.com
-    - touchclarity.com
-    - tracecontent.com
-    - trackalyzer.com
-    - trackedlink.net
-    - trackedweb.net
-    - trackingsoft.com
-    - tradedoubler.com
-    - trafficjunky.net
-    - tranquilplume.com
+    - tools.luckyorange.com
+    - tools.pinpoll.com
+    - tracker.free-web-analytics.com
+    - tracker.metricool.com
+    - trc.lhmos.com
     - treasuredata.com
     - tremorhub.com
-    - tribalfusion.com
     - triplelift.com
-    - truculentrate.com
-    - tsyndicate.com
-    - tubemogul.com
-    - turn.com
-    - twyn.com
-    - tynt.com
-    - tyroo.com
-    - ucfunnel.com
-    - ultraoranges.com
-    - unaccountablepie.com
+    - try.abtasty.com
+    - u.heatmap.it
+    - ua.realtimely.io
+    - umami.trustcomponent.company
     - undertone.com
-    - unloadyourself.com
+    - unknownidea.com
     - unrulymedia.com
-    - unwieldyhealth.com
-    - unwieldyimpulse.com
-    - urbanlaurel.com
-    - valuead.com
+    - upskittyan.com
+    - urbn.quiq-api.com
+    - us-assets.i.posthog.com
+    - utt.impactcdn.com
+    - v2.zopim.com
     - valueclick.com
-    - valueclickmedia.com
-    - valuecommerce.com
-    - vertamedia.com
-    - vibrantsundown.com
     - viglink.com
-    - visiblemeasures.com
-    - visistat.com
-    - visualrevenue.com
-    - voicefive.com
-    - w55c.net
-    - warmafterthought.com
-    - web-stat.com
-    - webcontentassessor.com
+    - vtm-cdn.hbwrapper.com
+    - waiwaimetage.com
+    - watch.sociofyme.com
+    - wct-2.com
+    - web.cmp.usercentrics.eu
+    - web.webpushs.com
     - weborama.com
-    - weborama.fr
-    - wirecomic.com
+    - websdk.appsflyersdk.com
+    - widget.gspeech.io
+    - widget.intercom.io
+    - widget.senja.io
+    - widgets.tradingview-widget.com
     - wisepops.com
     - woopra.com
-    - worldrealize.com
-    - wt-eu02.net
-    - xad.com
+    - ws.zoominfo.com
     - xg4ken.com
-    - xiti.com
-    - xplusone.com
-    - yesads.com
-    - yieldads.com
-    - yieldlab.net
-    - yieldmanager.net
     - yieldmo.com
-    - yieldoptimizer.com
-    - yoggrt.com
-    - zanox-affiliate.de
-    - zanox.com
     - zedo.com
     - zemanta.com
----
+    - zipthelake.com

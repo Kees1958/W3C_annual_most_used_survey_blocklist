@@ -236,6 +236,9 @@ cnn.com###onetrust-consent-sdk:not([style])
 ||litix.io^$domain=edition.cnn.com
 ||brightline.tv^$domain=edition.cnn.com
 ||scorecardresearch.com^$domain=edition.cnn.com
+cnn.com#$#strip-fetch-query-parameter caid warnermediacdn.com; strip-fetch-query-parameter afid warnermediacdn.com; strip-fetch-query-parameter conf_csid warnermediacdn.com; strip-fetch-query-parameter app_csid warnermediacdn.com
+||warnermedia.com/api/v1/events?*=ad-break*^$xmlhttprequest,domain=cnn.com
+cnn.com#$#override-property-read Object.prototype._setAdsConfigurations noopFunc;
 
 ! NBC News
 nbcnews.com##div.adSlot.topbanner[data-ad-label]

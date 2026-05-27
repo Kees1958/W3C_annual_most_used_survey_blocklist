@@ -172,11 +172,10 @@
 ||getdrip.com^$third-party
 ||getintent.com^$third-party
 ||gleap.io^$third-party
-||google-analytics.com^$third-party
-||googleadservices.com^$third-party
-||googlesyndication.com^$third-party
-||googletagmanager.com^$third-party
-||googletagservices.com^$third-party
+||ads.google.com^$third-party
+||adservice.google.com^$third-party
+||pagead2.googleadservices.com^$third-party
+||pagead2.googlesyndication.com^$third-party
 ||grapeshot.co.uk^$third-party
 ||heapanalytics.com^$third-party
 ||hotjar.com^$third-party

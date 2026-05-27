@@ -44,6 +44,9 @@
 ||ads-twitter.com^$third-party
 ||ads.facebook.com^$third-party
 ||ads.google.com^$third-party
+||adservice.google.com^$third-party
+||pagead2.googleadservices.com^$third-party
+||pagead2.googlesyndication.com^$third-party
 ||ads.pinterest.com^$third-party
 ||ads.reddit.com^$third-party
 ||ads.tiktok.com^$third-party

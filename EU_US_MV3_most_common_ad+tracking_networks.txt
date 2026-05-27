@@ -2,7 +2,7 @@ AdBlockPlus 2.0]
 !
 ! Title: EU US most used adverisement and analytics networks
 ! 
-! Version: 2026.05.26
+! Version: 2026.05.27
 ! Expires: 7 days
 !
 ! You are free to use it at your own risk, please report website breakage at
@@ -15,9 +15,6 @@ AdBlockPlus 2.0]
 ||3lift.com^$third-party
 ||5gvci.com^$third-party
 ||a.dnhmediagroup.com^$third-party
-||a.magsrv.com^$third-party
-||a.orbsrv.com^$third-party
-||a.pemsrv.com^$third-party
 ||a.pub.network^$third-party
 ||a.teads.tv^$third-party
 ||activity-flow.vtex.com^$third-party
@@ -45,11 +42,19 @@ AdBlockPlus 2.0]
 ||admob.com^$third-party
 ||adnami.io^$third-party
 ||adnxs.com^$third-party
+||ads-twitter.com^$third-party
+||ads.facebook.com^$third-party
+||ads.google.com^$third-party
+||ads.pinterest.com^$third-party
 ||ads.pubmatic.com^$third-party
+||ads.reddit.com^$third-party
 ||ads.sportslocalmedia.com^$third-party
 ||ads.talkscreativity.com^$third-party
 ||ads.thesun.co.uk^$third-party
+||ads.tiktok.com^$third-party
+||ads.youtube.com^$third-party
 ||adsdk.microsoft.com^$third-party
+||adservice.google.com^$third-party
 ||adskeeper.com^$third-party
 ||adsnative.com^$third-party
 ||adswizz.com^$third-party
@@ -68,6 +73,7 @@ AdBlockPlus 2.0]
 ||analytics.craftedcode.nl^$third-party
 ||analytics.ikiweb.it^$third-party
 ||analytics.kunruch.com^$third-party
+||analytics.pinterest.com^$third-party
 ||analytics.pop2watch.com^$third-party
 ||analytics.tiktok.com^$third-party
 ||analytics.vitalsignstracker.com^$third-party
@@ -179,7 +185,6 @@ AdBlockPlus 2.0]
 ||cdn.leadmanagerfx.com^$third-party
 ||cdn.madkudu.com^$third-party
 ||cdn.matomo.cloud^$third-party
-||cdn.mouseflow.com^$third-party
 ||cdn.onesignal.com^$third-party
 ||cdn.optimizely.com^$third-party
 ||cdn.p-n.io^$third-party
@@ -299,6 +304,7 @@ AdBlockPlus 2.0]
 ||flurry.com^$third-party
 ||foresee.com^$third-party
 ||fpyf8.com^$third-party
+||freshmarketer.com^$third-party
 ||fservr.com^$third-party
 ||fullstory.com^$third-party
 ||gahfinallytame.com^$third-party
@@ -366,7 +372,10 @@ AdBlockPlus 2.0]
 ||log.gs3.goo.ne.jp^$third-party
 ||log.medietall.no^$third-party
 ||loopme.com^$third-party
+||luckyorange.com^$third-party
+||luckyorange.net^$third-party
 ||lytics.io^$third-party
+||magsrv.com^$third-party
 ||mainadv.com^$third-party
 ||marketo.com^$third-party
 ||mathtag.com^$third-party
@@ -376,7 +385,6 @@ AdBlockPlus 2.0]
 ||mc.yandex.ru^$third-party
 ||media.ethicalads.io^$third-party
 ||media.net^$third-party
-||media.trafficjunky.net^$third-party
 ||mediamath.com^$third-party
 ||meglot.vercel.app^$third-party
 ||messenger.customerly.io^$third-party
@@ -387,6 +395,7 @@ AdBlockPlus 2.0]
 ||monetization.prod.invmed.co^$third-party
 ||mookie1.com^$third-party
 ||mopub.com^$third-party
+||mouseflow.com^$third-party
 ||mparticle.com^$third-party
 ||multiformat.rubiconproject.com^$third-party
 ||mypopups.com^$third-party
@@ -398,13 +407,17 @@ AdBlockPlus 2.0]
 ||omtrdc.net^$third-party
 ||onaudience.com^$third-party
 ||openads-cdn.adsrvr.org^$third-party
+||orbsrv.com^$third-party
+||pagead2.googleadservices.com^$third-party
 ||pagead2.googlesyndication.com^$third-party
 ||pahtch.tech^$third-party
 ||parsely.com^$third-party
 ||paupsoborofoow.net^$third-party
 ||peer39.com^$third-party
+||pemsrv.com^$third-party
 ||permutive.com^$third-party
 ||pi.pardot.com^$third-party
+||pixel.facebook.com^$third-party
 ||pj.l.liftdsp.com^$third-party
 ||platform-api.sharethis.com^$third-party
 ||plausible-analytics.qwayk.com^$third-party
@@ -500,7 +513,6 @@ AdBlockPlus 2.0]
 ||static.kueezrtb.com^$third-party
 ||static.multiview.com^$third-party
 ||static.narrativ.com^$third-party
-||static.trafficjunky.com^$third-party
 ||static.vocstatic.com^$third-party
 ||stats.intmaker.com^$third-party
 ||stats.monohost.com^$third-party
@@ -525,10 +537,11 @@ AdBlockPlus 2.0]
 ||the-ozone-project.com^$third-party
 ||the.gatekeeperconsent.com^$third-party
 ||themoneytizer.com^$third-party
-||tools.luckyorange.com^$third-party
 ||tools.pinpoll.com^$third-party
 ||tracker.free-web-analytics.com^$third-party
 ||tracker.metricool.com^$third-party
+||trafficjunky.com^$third-party
+||trafficjunky.net^$third-party
 ||trc.lhmos.com^$third-party
 ||treasuredata.com^$third-party
 ||tremorhub.com^$third-party

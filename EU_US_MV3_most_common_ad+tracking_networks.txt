@@ -8,8 +8,6 @@
 ! You are free to use it at your own risk, please report website breakage at
 ! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
 !
-!
-
 ||2mdn.net^$third-party
 ||2o7.net^$third-party
 ||33across.com^$third-party

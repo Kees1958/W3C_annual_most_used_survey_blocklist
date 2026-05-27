@@ -1,4 +1,4 @@
-# Version: 2026.05.26 in YAML format to be used in the CUSTOM DNR RULES section of uBlock Origin Lite 
+# Version: 2026.05.27 in YAML format to be used in the CUSTOM DNR RULES section of uBlock Origin Lite 
 # Please report issues related to website breakage at
 # https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
 # This filter list does not need regular updates as explained in the read me.
@@ -7,6 +7,7 @@
 # Block advertising and tracking networks (with just ! rule :-) in uBol
 # copy paste this into the customized DNR rules
 #
+
 action:
   type: block
 condition:
@@ -18,9 +19,6 @@ condition:
     - 3lift.com
     - 5gvci.com
     - a.dnhmediagroup.com
-    - a.magsrv.com
-    - a.orbsrv.com
-    - a.pemsrv.com
     - a.pub.network
     - a.teads.tv
     - activity-flow.vtex.com
@@ -48,11 +46,19 @@ condition:
     - admob.com
     - adnami.io
     - adnxs.com
+    - ads-twitter.com
+    - ads.facebook.com
+    - ads.google.com
+    - ads.pinterest.com
     - ads.pubmatic.com
+    - ads.reddit.com
     - ads.sportslocalmedia.com
     - ads.talkscreativity.com
     - ads.thesun.co.uk
+    - ads.tiktok.com
+    - ads.youtube.com
     - adsdk.microsoft.com
+    - adservice.google.com
     - adskeeper.com
     - adsnative.com
     - adswizz.com
@@ -71,6 +77,7 @@ condition:
     - analytics.craftedcode.nl
     - analytics.ikiweb.it
     - analytics.kunruch.com
+    - analytics.pinterest.com
     - analytics.pop2watch.com
     - analytics.tiktok.com
     - analytics.vitalsignstracker.com
@@ -182,7 +189,6 @@ condition:
     - cdn.leadmanagerfx.com
     - cdn.madkudu.com
     - cdn.matomo.cloud
-    - cdn.mouseflow.com
     - cdn.onesignal.com
     - cdn.optimizely.com
     - cdn.p-n.io
@@ -302,6 +308,7 @@ condition:
     - flurry.com
     - foresee.com
     - fpyf8.com
+    - freshmarketer.com
     - fservr.com
     - fullstory.com
     - gahfinallytame.com
@@ -369,7 +376,10 @@ condition:
     - log.gs3.goo.ne.jp
     - log.medietall.no
     - loopme.com
+    - luckyorange.com
+    - luckyorange.net
     - lytics.io
+    - magsrv.com
     - mainadv.com
     - marketo.com
     - mathtag.com
@@ -379,7 +389,6 @@ condition:
     - mc.yandex.ru
     - media.ethicalads.io
     - media.net
-    - media.trafficjunky.net
     - mediamath.com
     - meglot.vercel.app
     - messenger.customerly.io
@@ -390,6 +399,7 @@ condition:
     - monetization.prod.invmed.co
     - mookie1.com
     - mopub.com
+    - mouseflow.com
     - mparticle.com
     - multiformat.rubiconproject.com
     - mypopups.com
@@ -401,13 +411,17 @@ condition:
     - omtrdc.net
     - onaudience.com
     - openads-cdn.adsrvr.org
+    - orbsrv.com
+    - pagead2.googleadservices.com
     - pagead2.googlesyndication.com
     - pahtch.tech
     - parsely.com
     - paupsoborofoow.net
     - peer39.com
+    - pemsrv.com
     - permutive.com
     - pi.pardot.com
+    - pixel.facebook.com
     - pj.l.liftdsp.com
     - platform-api.sharethis.com
     - plausible-analytics.qwayk.com
@@ -503,7 +517,6 @@ condition:
     - static.kueezrtb.com
     - static.multiview.com
     - static.narrativ.com
-    - static.trafficjunky.com
     - static.vocstatic.com
     - stats.intmaker.com
     - stats.monohost.com
@@ -528,10 +541,11 @@ condition:
     - the-ozone-project.com
     - the.gatekeeperconsent.com
     - themoneytizer.com
-    - tools.luckyorange.com
     - tools.pinpoll.com
     - tracker.free-web-analytics.com
     - tracker.metricool.com
+    - trafficjunky.com
+    - trafficjunky.net
     - trc.lhmos.com
     - treasuredata.com
     - tremorhub.com

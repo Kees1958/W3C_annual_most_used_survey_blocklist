@@ -2,7 +2,7 @@
 !
 ! Title: EU US most used adverisement and analytics networks
 ! 
-! Version: 2026.05.27
+! Version: 2026.05.28
 ! Expires: 7 days
 !
 ! You are free to use it at your own risk, please report website breakage at
@@ -300,11 +300,11 @@
 ||tremorhub.com^$third-party
 ||triplelift.com^$third-party
 ||trustarc.com^$third-party
+||tsyndicate.com^$third-party
 ||undertone.com^$third-party
 ||unrulymedia.com^$third-party
 ||usercentrics.eu^$third-party
 ||valueclick.com^$third-party
-||vercel.app^$third-party
 ||vidverto.io^$third-party
 ||viglink.com^$third-party
 ||weborama.com^$third-party

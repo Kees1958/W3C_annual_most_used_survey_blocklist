@@ -8,16 +8,6 @@
 !
 !
 ! Privacy rules
-!
-! Google search
-||google.com/search$removeparam=biw
-||google.com/search$removeparam=bih
-||google.com/search$removeparam=sa
-||google.com/search$removeparam=source
-||google.com/search$removeparam=aqs
-||google.com/search$removeparam=sourceid
-||google.com/search$removeparam=ei
-||google.com/search$removeparam=gs_lcp
 
 ! UTM
 $removeparam=utm_ad

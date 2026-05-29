@@ -276,4 +276,25 @@ foxnews.com##.item-newsletter
 ||omtrdc.net^$domain=foxnews.com
 ||wealthygeezwell.comt^$domain=foxnews.com
 
+! Remove Youtube in-video ads
+outube.com###rendering-content > video-display-compact-button-group-layout-view-model.videoDisplayCompactButtonGroupLayoutViewModelHost.style-scope.ytd-in-feed-ad-layout-renderer
+youtube.com###contents > ytd-ad-slot-renderer.style-scope.ytd-item-section-renderer:first-child
+youtube.com##ytd-in-feed-ad-layout-renderer
+youtube.com##+js(json-prune, playerResponse.adPlacements playerResponse.playerAds playerResponse.adSlots adPlacements playerAds adSlots)
+youtube.com##+js(set, ytInitialPlayerResponse.playerAds, undefined)
+youtube.com##+js(set, ytInitialPlayerResponse.adPlacements, undefined)
+youtube.com##+js(set, ytInitialPlayerResponse.adSlots, undefined)
+youtube.com##+js(trusted-replace-fetch-response, '"adPlacements"', '"no_ads"', player?)
+
+!
+! Remove Google search parameters
+||google.com/search$removeparam=biw
+||google.com/search$removeparam=bih
+||google.com/search$removeparam=sa
+||google.com/search$removeparam=source
+||google.com/search$removeparam=aqs
+||google.com/search$removeparam=sourceid
+||google.com/search$removeparam=ei
+||google.com/search$removeparam=gs_lcp
+
 ! END

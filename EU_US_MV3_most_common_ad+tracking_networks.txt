@@ -302,7 +302,6 @@
 ||s.union.360.cn^$third-party
 
 ! Social media
-||ads.youtube.com^
 ||facebook.net^$third-party,domain=~facebook.com|~instagram.com|~messenger.com|~meta.com|~threads.net|~whatsapp.com
 ||facebook.com^$third-party,domain=~facebook.com|~instagram.com|~messenger.com|~meta.com|~threads.net|~whatsapp.com
 ||tiktok.com/i18n/pixel^$third-party,domain=~tiktok.com
@@ -327,3 +326,5 @@
 ||sc-static.net^$third-party,domain=~snapchat.com
 ||tr.snapchat.com^$third-party,domain=~snapchat.com
 ||ads.snapchat.com^$third-party,domain=~snapchat.com
+
+! for youtube.com see personal blocklist

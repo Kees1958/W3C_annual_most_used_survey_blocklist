@@ -301,7 +301,6 @@ condition:
     - stat.baidustatic.com
     - cnzz.com
     - s.union.360.cn
-    - 360.cn
 ---
 # META (Facebook / Instagram / Threads / WhatsApp)
 action:

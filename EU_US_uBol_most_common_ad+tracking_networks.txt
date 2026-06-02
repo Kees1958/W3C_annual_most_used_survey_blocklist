@@ -1,4 +1,4 @@
-# Version: 2026.05.28 in YAML format to be used in the CUSTOM DNR RULES section of uBlock Origin Lite 
+# Version: 2026.06.02 in YAML format to be used in the CUSTOM DNR RULES section of uBlock Origin Lite 
 # Please report issues related to website breakage at
 # https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
 # This filter list does not need regular updates as explained in the read me.
@@ -7,13 +7,13 @@
 # Block advertising and tracking networks 
 # copy paste this into the customized DNR rules
 #
----
-# Advertising & tracking networks
+# Block most prevalent advertising & tracking networks in EU - US
 action:
   type: block
 condition:
   domainType: thirdParty
   requestDomains:
+# Advertising & analytics
     - 2mdn.net
     - 2o7.net
     - 33across.com
@@ -35,7 +35,6 @@ condition:
     - adcell.de
     - adcolony.com
     - adform.com
-    - adform.net
     - adhese.com
     - adition.com
     - aditude.io
@@ -65,24 +64,19 @@ condition:
     - adzerk.net
     - affinitymatrix.com
     - affonso.io
-    - afpforum.com
     - agkn.com
-    - ahrefs.com
     - alexametrics.com
     - amazon-adsystem.com
     - amplitude.com
     - analytics.google.com
     - analytics.yahoo.com
     - aniview.com
-    - apollo.io
     - app-us1.com
     - appboycdn.com
     - appconsent.io
     - appdynamics.com
     - appsflyer.com
     - appsflyersdk.com
-    - arcpublishing.com
-    - assemblyexchange.com
     - atwola.com
     - azerion.com
     - bat.bing.com
@@ -102,7 +96,6 @@ condition:
     - brealtime.com
     - browser-intake-datadoghq.com
     - buysellads.com
-    - buysellads.net
     - callrail.com
     - carbonads.com
     - casalemedia.com
@@ -110,40 +103,23 @@ condition:
     - chartbeat.com
     - chartboost.com
     - clarity.ms
-    - claritybt.com
-    - clearbitscripts.com
     - clevertap-prod.com
     - clickcease.com
-    - clickiocmp.com
     - cloudflareinsights.com
-    - cloudinary.com
-    - cnstrc.com
-    - consensu.org
-    - consentframework.com
-    - consentmanager.net
     - contentsquare.com
-    - contentsquare.net
     - contextweb.com
     - conversantmedia.com
     - convertexperiments.com
-    - cookie-script.com
-    - cookiebot.com
-    - cookiehub.eu
-    - cookielaw.org
-    - cookiepro.com
     - coremetrics.com
     - cpalead.com
     - cpmstar.com
     - crazyegg.com
     - creativecdn.com
-    - crisp.chat
     - criteo.com
-    - criteo.net
     - crwdcntrl.net
     - cxense.com
     - datadoghq-browser-agent.com
     - datadoghq.com
-    - datadome.co
     - debugbear.com
     - deepintent.com
     - demdex.net
@@ -176,51 +152,38 @@ condition:
     - fouanalytics.com
     - freshmarketer.com
     - fullstory.com
-    - gatekeeperconsent.com
     - gaug.es
-    - getdrip.com
     - getintent.com
     - getsocial.io
     - gleap.io
     - google-analytics.com
-    - googletagmanager.com
+    - googleadservices.com
+    - googlesyndication.com
     - grapeshot.co.uk
     - heapanalytics.com
     - hilltopads.net
     - hotjar.com
-    - hs-analytics.net
-    - hs-banner.com
-    - hs-scripts.com
-    - hsforms.net
-    - impactcdn.com
     - improvedigital.com
     - imrworldwide.com
     - indexexchange.com
     - infolinks.com
     - innovid.com
     - inspectlet.com
-    - intercom.io
-    - iubenda.com
-    - jivosite.com
     - juicyads.com
     - justpremium.com
     - kadam.net
     - kameleoon.io
     - kargo.com
     - kissmetrics.com
-    - klaviyo.com
     - krxd.net
     - leadinfo.net
     - liftdsp.com
     - lijit.com
     - liveintent.com
     - logrocket.com
-    - logrocket.io
     - loopme.com
     - luckyorange.com
-    - luckyorange.net
     - lytics.io
-    - marketo.com
     - mathtag.com
     - matomo.cloud
     - mc.yandex.ru
@@ -229,8 +192,6 @@ condition:
     - mgid.com
     - mixpanel.com
     - moat.com
-    - moatads.com
-    - mookie1.com
     - mopub.com
     - mouseflow.com
     - mparticle.com
@@ -241,27 +202,17 @@ condition:
     - omtrdc.net
     - onaudience.com
     - onclickads.net
-    - onesignal.com
-    - onetrust.com
     - openx.net
-    - optimizely.com
-    - outbrain.com
     - owneriq.net
-    - pagead2.googleadservices.com
-    - pagead2.googlesyndication.com
-    - pardot.com
     - parsely.com
     - peer39.com
-    - pelcro.com
     - pemsrv.com
     - permutive.app
     - permutive.com
-    - piano.io
     - piwik.pro
     - plausible.io
     - plista.com
     - plugrush.com
-    - plugrush.net
     - popads.net
     - popcash.net
     - popmyads.com
@@ -273,7 +224,6 @@ condition:
     - propellerads.com
     - pubmatic.com
     - pushnami.com
-    - qualtrics.com
     - quantcast.com
     - quantserve.com
     - quantummetric.com
@@ -283,17 +233,12 @@ condition:
     - revcontent.com
     - rhythmone.com
     - richads.com
-    - richwebmedia.com
     - rlcdn.com
     - rtbstream.com
     - rubiconproject.com
     - scorecardresearch.com
-    - segment.com
-    - segment.io
     - semasio.net
-    - sentry-cdn.com
     - shareasale.com
-    - sharethis.com
     - sharethrough.com
     - skimresources.com
     - smartadserver.com
@@ -305,7 +250,6 @@ condition:
     - springserve.com
     - stackadapt.com
     - statcounter.com
-    - stats.g.doubleclick.net
     - stickyadstv.com
     - taboola.com
     - tagcommander.com
@@ -317,31 +261,44 @@ condition:
     - tiqcdn.com
     - tradedoubler.com
     - trafficjunky.com
-    - trafficjunky.net
     - trafficstars.com
     - treasuredata.com
     - tremorhub.com
     - triplelift.com
-    - trustarc.com
     - tsyndicate.com
     - undertone.com
     - unrulymedia.com
-    - usercentrics.eu
     - valueclick.com
     - videocdnmetrika.com
     - vidverto.io
     - viglink.com
     - weborama.com
-    - wisepops.com
     - woopra.com
     - xapads.com
     - yieldlab.net
     - yieldmo.com
-    - yotpo.com
     - zedo.com
     - zemanta.com
+    - segment.com
+    - segment.io
+    - lotame.com
+    - id5-sync.com
+    - id5.io
+    - seedtag.com
+    - smartclip.net
+    - adnuntius.com
+# Search engine trackers
+    - analytics.bing.com
+    - c.bing.com
+    - analytics.duckduckgo.com
+    - improve.duckduckgo.com
+    - hm.baidu.com
+    - stat.baidustatic.com
+    - cnzz.com
+    - s.union.360.cn
+    - 360.cn
 ---
-# Block social media ads and trackers (with exceptions)
+# META (Facebook / Instagram / Threads / WhatsApp)
 action:
   type: block
 condition:
@@ -358,11 +315,21 @@ condition:
 action:
   type: block
 condition:
-  urlFilter: ||linkedin.com/px^
   domainType: thirdParty
+  requestDomains:
+    - facebook.net
+    - connect.facebook.net
+    - facebook.com
+    - pixel.facebook.com
   excludedInitiatorDomains:
-    - linkedin.com
+    - facebook.com
+    - instagram.com
+    - messenger.com
+    - meta.com
+    - threads.net
+    - whatsapp.com
 ---
+# TIKTOK
 action:
   type: block
 condition:
@@ -376,35 +343,20 @@ action:
 condition:
   domainType: thirdParty
   requestDomains:
-    - ads-twitter.com
-    - advertising.twitter.com
+    - analytics.tiktok.com
+    - analytics-sg.tiktok.com
+    - ads.tiktok.com
+    - business-api.tiktok.com
+    - log.tiktok.com
   excludedInitiatorDomains:
-    - twitter.com
-    - x.com
+    - tiktok.com
 ---
+# LINKEDIN
 action:
   type: block
 condition:
+  urlFilter: ||linkedin.com/px^
   domainType: thirdParty
-  requestDomains:
-    - ads.facebook.com
-    - facebook.net
-    - pixel.facebook.com
-  excludedInitiatorDomains:
-    - facebook.com
-    - instagram.com
-    - messenger.com
-    - meta.com
-    - threads.net
-    - whatsapp.com
----
-action:
-  type: block
-condition:
-  domainType: thirdParty
-  requestDomains:
-    - ads.linkedin.com
-    - snap.licdn.com
   excludedInitiatorDomains:
     - linkedin.com
 ---
@@ -413,31 +365,63 @@ action:
 condition:
   domainType: thirdParty
   requestDomains:
-    - ads.pinterest.com
-    - analytics.pinterest.com
+    - snap.licdn.com
+    - px.ads.linkedin.com
+    - ads.linkedin.com
   excludedInitiatorDomains:
-    - pinterest.com
+    - linkedin.com
 ---
+# X (TWITTER)
 action:
   type: block
 condition:
   domainType: thirdParty
   requestDomains:
+    - ads-twitter.com
+    - advertising.twitter.com
+    - static.ads-twitter.com
+    - analytics.twitter.com
+    - t.co
+  excludedInitiatorDomains:
+    - twitter.com
+    - x.com
+---
+# REDDIT
+action:
+  type: block
+condition:
+  domainType: thirdParty
+  requestDomains:
+    - events.redditmedia.com
     - ads.reddit.com
   excludedInitiatorDomains:
     - reddit.com
 ---
+# PINTEREST
 action:
   type: block
 condition:
   domainType: thirdParty
   requestDomains:
-    - ads.tiktok.com
-    - analytics-sg.tiktok.com
-    - analytics.tiktok.com
+    - ct.pinterest.com
+    - analytics.pinterest.com
+    - ads.pinterest.com
   excludedInitiatorDomains:
-    - tiktok.com
+    - pinterest.com
 ---
+# SNAPCHAT
+action:
+  type: block
+condition:
+  domainType: thirdParty
+  requestDomains:
+    - sc-static.net
+    - tr.snapchat.com
+    - ads.snapchat.com
+  excludedInitiatorDomains:
+    - snapchat.com
+---
+# YOUTUBE (minimal tracking layer)
 action:
   type: block
 condition:
@@ -447,13 +431,145 @@ condition:
   excludedInitiatorDomains:
     - youtube.com
 ---
+# Remove Google seach parameters
 action:
-  type: block
+  type: redirect
+  redirect:
+    transform:
+      queryTransform:
+        removeParams:
+          - aqs
+          - bih
+          - biw
+          - ei
+          - gs_lcp
+          - sa
+          - source
+          - sourceid
 condition:
-  domainType: thirdParty
-  requestDomains:
-    - sc-static.net
-    - tr.snapchat.com
-  excludedInitiatorDomains:
-    - snapchat.com
+  urlFilter: ||google.com/search
+  resourceTypes:
+    - main_frame
+    - sub_frame
+    - xmlhttprequest
+---
+# Remove URL tracking parameters
+action:
+  type: redirect
+  redirect:
+    transform:
+      queryTransform:
+        removeParams:
+          - __hsfp
+          - __hssc
+          - __hstc
+          - _branch_match_id
+          - _hsenc
+          - _hsmi
+          - _sgm_action
+          - _sgm_campaign
+          - _sgm_source
+          - adj_campaign
+          - adj_creative
+          - adj_label
+          - adjust_adgroup
+          - adjust_campaign
+          - adjust_creative
+          - adjust_tracker
+          - adjust_tracker_limit
+          - admitad_uid
+          - adobe_mc_ref
+          - adobe_mc_sdid
+          - adsterra_clid
+          - adsterra_placement_id
+          - cx_click
+          - dpg_campaign
+          - dpg_content
+          - dpg_medium
+          - dpg_source
+          - fb_action_ids
+          - fb_action_types
+          - fb_comment_id
+          - fb_ref
+          - fb_source
+          - fbclid
+          - gbraid
+          - gclid
+          - gclsrc
+          - gps_adid
+          - hsCtaTracking
+          - hsa_acc
+          - hsa_ad
+          - hsa_cam
+          - hsa_grp
+          - hsa_kw
+          - hsa_la
+          - hsa_mt
+          - hsa_net
+          - hsa_ol
+          - hsa_src
+          - hsa_tgt
+          - hsa_ver
+          - link_source
+          - mkt_tok
+          - msclkid
+          - mtm_campaign
+          - mtm_cid
+          - mtm_content
+          - mtm_group
+          - mtm_keyword
+          - mtm_medium
+          - mtm_placement
+          - mtm_source
+          - pk_campaign
+          - pk_medium
+          - pk_source
+          - ranEAID
+          - ranMID
+          - ranSiteID
+          - s_cid
+          - taid
+          - unicorn_click_id
+          - usqp
+          - utm_ad
+          - utm_affiliate
+          - utm_brand
+          - utm_campaign
+          - utm_campaignid
+          - utm_channel
+          - utm_cid
+          - utm_content
+          - utm_emcid
+          - utm_emmid
+          - utm_id
+          - utm_keyword
+          - utm_medium
+          - utm_name
+          - utm_place
+          - utm_product
+          - utm_pubreferrer
+          - utm_reader
+          - utm_referrer
+          - utm_serial
+          - utm_session
+          - utm_siteid
+          - utm_social
+          - utm_social-type
+          - utm_source
+          - utm_supplier
+          - utm_swu
+          - utm_term
+          - utm_umguk
+          - utm_userid
+          - utm_viz_id
+          - vc_lpp
+          - wbraid
+          - xtor
+          - yclid
+condition:
+  urlFilter: ?
+  resourceTypes:
+    - main_frame
+    - sub_frame
+    - xmlhttprequest
 ---

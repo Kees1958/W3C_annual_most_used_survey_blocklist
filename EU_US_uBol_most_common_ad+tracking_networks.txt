@@ -183,6 +183,7 @@ condition:
     - logrocket.com
     - loopme.com
     - luckyorange.com
+    - luckyorange.net
     - lytics.io
     - mathtag.com
     - matomo.cloud
@@ -292,6 +293,10 @@ condition:
     - c.bing.com
     - analytics.duckduckgo.com
     - improve.duckduckgo.com
+    - appmetrica.yandex.com
+    - metrica.yandex.ru
+    - adfox.yandex.ru
+    - advertising.yandex.ru
     - hm.baidu.com
     - stat.baidustatic.com
     - cnzz.com

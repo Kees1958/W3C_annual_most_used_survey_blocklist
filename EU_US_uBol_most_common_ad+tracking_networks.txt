@@ -7,7 +7,7 @@
 # Block advertising and tracking networks 
 # copy paste this into the customized DNR rules
 #
-
+---
 # Advertising & tracking networks
 action:
   type: block
@@ -340,7 +340,7 @@ condition:
     - yotpo.com
     - zedo.com
     - zemanta.com
-
+---
 # Block social media ads and trackers (with exceptions)
 action:
   type: block

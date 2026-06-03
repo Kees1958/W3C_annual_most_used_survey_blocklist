@@ -3,7 +3,7 @@
 ! Title: Kees1958 personal blocklist for bookmarked websites
 ! Expires: 7 days
 !
-! Version: 2026.05.31
+! Version: 2026.06.03
 !
 ! You are allowed to use this freely, but at your own risk. Works with Brave browser and AdBlocker Ultimate. 
 ! AdGuard and UBlockOrigin are depreciated because AG is developed in Russia and uBo is not Mv3 compliant
@@ -146,7 +146,7 @@ theguardian.com##[data-spacefinder-type="model.dotcomrendering.pageElements.News
 news.sky.com##div.sdc-article-strapline--default-layout
 news.sky.com##div.ui-advert.sdc-site-au__leaderboard
 ||googletagservices.com/tag/js/gpt.js/gpt.js$script,domain=news.sky.com
-||imasdk.googles.com^$script,domain=news.sky.com
+||imasdk.googleapis.com^$script,domain=news.sky.com
 ||widgets.outbrain.com/outbrain.js$script,domain=news.sky.com
 ||metrics.brightcove.com^$domain=news.sky.com
 ||doubleclick.net^$domain=news.sky.com
@@ -212,7 +212,7 @@ pay.js^$domain=nytimes.com
 ||pay.google.com^$domain=nytimes.com
 ||play.google.com^$domain=nytimes.com
 ||googletagmanager.com^$domain=nytimes.com
-||imasdk.googles.com/js/sdkloader^$domain=nytimes.com
+||imasdk.googleapis.com/js/sdkloader^$domain=nytimes.com
 ||privacymanager.io^$domain=nytimes.com
 ||doubleclick.net^$domain=nytimes.com
 ||accounts.google.com^$domain=nytimes.com
@@ -269,12 +269,12 @@ foxnews.com##.item-newsletter
 ||braze.com^$domain=foxnews.com
 ||demdex.net^$domain=foxnews.com
 ||knotch.com^$domain=foxnews.com
-||knotch.cdn.com^$domain=foxnews.com
+||knotch-cdn.com^$domain=foxnews.com
 ||trueanthem.com^$domain=foxnews.com
 ||amazon-adsystem.com^$domain=foxnews.com
 ||interactives.ap.org^$domain=foxnews.com
 ||omtrdc.net^$domain=foxnews.com
-||wealthygeezwell.comt^$domain=foxnews.com
+||wealthygeezwell.com^$domain=foxnews.com
 
 ! Remove Youtube ads & annoyances
 youtube.com###chatframe

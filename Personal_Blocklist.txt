@@ -218,7 +218,6 @@ pay.js^$domain=nytimes.com
 ||accounts.google.com^$domain=nytimes.com
 
 ! CNN.COM
-! CNN.COM
 cnn.com##.ad-slot-header__wrapper
 cnn.com###onetrust-consent-sdk:not([style])
 cnn.com#$#override-property-read Object.prototype._setAdsConfigurations noopFunc;

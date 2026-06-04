@@ -76,13 +76,17 @@ volkskrant.nl###PURCHASE_VERTICAL__OVERLAY
 */gtm.js^$script,domain=volkskrant.nl
 /temptation/resolve$xmlhttprequest,~third-party,domain=volkskrant.nl
 ||temptation.*/temptation.js$script,~third-party,domain=volkskrant.nl
+||volkskrant.nl/api/consent$domain=volkskrant.nl
+||volkskrant.nl/api/_next-api/v1/error/$domain=volkskrant.nl
+
+||optoutadvertising.com^$domain=volkskrant.nl
+||visualwebsiteoptimizer.com^$domain=volkskrant.nl
 ||pushengage.com^$domain=volkskrant.nl
 ||adnxs.com^$domain=volkskrant.nl
 ||usabilla.com^$domain=volkskrant.nl
 ||scorecardresearch.com^$domain=volkskrant.nl
 ||smartocto.com^$domain=volkskrant.nl
 
-||visualwebsiteoptimzer.com^$domain=volkskrant.nl
 
 ! NRC
 nrc.nl###adslot0-leaderboard

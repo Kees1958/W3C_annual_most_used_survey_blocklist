@@ -8,7 +8,6 @@
 ! You are free to use it at your own risk, please report website breakage at
 ! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
 !
-
 ! Block most prevalent advertising & tracking networks in EU - US
 ||2mdn.net^$third-party
 ||2o7.net^$third-party
@@ -271,6 +270,7 @@
 ||springserve.com^$third-party
 ||stackadapt.com^$third-party
 ||statcounter.com^$third-party
+||stats.wp.com^$third-party
 ||stickyadstv.com^$third-party
 ||taboola.com^$third-party
 ||tagcommander.com^$third-party
@@ -318,7 +318,7 @@
 ! Amazon
 ||amazon-adsystem.com^$third-party
 ||affiliationjs.s3.amazonaws.com^$third-party
-||||adtago.s3.amazonaws.com^$third-party
+||adtago.s3.amazonaws.com^$third-party
 
 ! Block other search engines ads & trackers
 ||analytics.bing.com^$third-party
@@ -341,6 +341,7 @@
 ! Social media
 ||facebook.net^$third-party,domain=~facebook.com|~instagram.com|~messenger.com|~meta.com|~threads.net|~whatsapp.com
 ||facebook.com^$third-party,domain=~facebook.com|~instagram.com|~messenger.com|~meta.com|~threads.net|~whatsapp.com
+||ads.youtube.com^$third-party
 ||tiktok.com/i18n/pixel^$third-party,domain=~tiktok.com
 ||analytics.tiktok.com^$third-party,domain=~tiktok.com
 ||analytics-sg.tiktok.com^$third-party,domain=~tiktok.com
@@ -362,6 +363,7 @@
 ||ads.pinterest.com^$third-party,domain=~pinterest.com
 ||analytics.pinterest.com^$third-party,domain=~pinterest.com
 ||ct.pinterest.com^$third-party,domain=~pinterest.com
+||log.pinterest.com^$third-party,domain=~pinterest.com
 ||ads.snapchat.com^$third-party,domain=~snapchat.com
 ||sc-static.net^$third-party,domain=~snapchat.com
 ||tr.snapchat.com^$third-party,domain=~snapchat.com

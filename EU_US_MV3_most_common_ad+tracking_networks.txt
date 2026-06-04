@@ -141,7 +141,7 @@
 ||exelate.com^$third-party
 ||exoclick.com^$third-party
 ||exosrv.com^$third-party
-||fastclick.com^$third-party^
+||fastclick.com^$third-party
 ||fastclick.net^$third-party
 ||flashtalking.com^$third-party
 ||flurry.com^$third-party

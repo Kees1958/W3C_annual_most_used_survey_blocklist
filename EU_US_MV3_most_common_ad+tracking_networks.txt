@@ -8,6 +8,7 @@
 ! You are free to use it at your own risk, please report website breakage at
 ! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
 !
+
 ! Block most prevalent advertising & tracking networks in EU - US
 ||2mdn.net^$third-party
 ||2o7.net^$third-party
@@ -47,7 +48,6 @@
 ||adnuntius.com^$third-party
 ||adnxs.com^$third-party
 ||adpushup.com^$third-party
-||ads.google.com^$third-party
 ||adsafeprotected.com^$third-party
 ||adsinteractive.com^$third-party
 ||adskeeper.com^$third-party
@@ -66,10 +66,7 @@
 ||affonso.io^$third-party
 ||agkn.com^$third-party
 ||alexametrics.com^$third-party
-||amazon-adsystem.com^$third-party
 ||amplitude.com^$third-party
-||analytics.google.com^$third-party
-||analytics.yahoo.com^$third-party
 ||aniview.com^$third-party
 ||app-us1.com^$third-party
 ||appboycdn.com^$third-party
@@ -130,7 +127,6 @@
 ||disqusads.com^$third-party
 ||districtm.io^$third-party
 ||dotomi.com^$third-party
-||doubleclick.net^$third-party
 ||doubleverify.com^$third-party
 ||dstillery.com^$third-party
 ||dtasrvr.com^$third-party
@@ -163,14 +159,12 @@
 ||getintent.com^$third-party
 ||getsocial.io^$third-party
 ||gleap.io^$third-party
-||google-analytics.com^$third-party
-||googleadservices.com^$third-party
-||googlesyndication.com^$third-party
 ||grapeshot.co.uk^$third-party
 ||heapanalytics.com^$third-party
 ||hightrafficads.com^$third-party
 ||hilltopads.net^$third-party
 ||hotjar.com^$third-party
+||hotjar-analytics.com^$third-party
 ||iadnet.com^$third-party
 ||id5-sync.com^$third-party
 ||id5.io^$third-party
@@ -312,6 +306,20 @@
 ||zedo.com^$third-party
 ||zemanta.com^$third-party
 
+! Google
+||ads.google.com^$third-party
+||adservice.google.com^$third-party
+||analytics.google.com^$third-party
+||google-analytics.com^$third-party
+||googleadservices.com^$third-party
+||googlesyndication.com^$third-party
+||doubleclick.net^$third-party
+
+! Amazon
+||amazon-adsystem.com^$third-party
+||affiliationjs.s3.amazonaws.com^$third-party
+||||adtago.s3.amazonaws.com^$third-party
+
 ! Block other search engines ads & trackers
 ||analytics.bing.com^$third-party
 ||c.bing.com^$third-party
@@ -340,20 +348,23 @@
 ||business-api.tiktok.com^$third-party,domain=~tiktok.com
 ||log.tiktok.com^$third-party,domain=~tiktok.com
 ||linkedin.com/px^$third-party,domain=~linkedin.com
-||snap.licdn.com^$third-party,domain=~linkedin.com
 ||ads.linkedin.com^$third-party,domain=~linkedin.com
+||analytics.pointdrive.linkedin.com^$third-party,domain=~linkedin.com
+||snap.licdn.com^$third-party,domain=~linkedin.com
 ||ads-twitter.com^$third-party,domain=~twitter.com|~x.com
 ||advertising.twitter.com^$third-party,domain=~twitter.com|~x.com
 ||static.ads-twitter.com^$third-party,domain=~twitter.com|~x.com
 ||analytics.twitter.com^$third-party,domain=~twitter.com|~x.com
 ||t.co^$third-party,domain=~twitter.com|~x.com
-||events.redditmedia.com^$third-party,domain=~reddit.com
 ||ads.reddit.com^$third-party,domain=~reddit.com
-||ct.pinterest.com^$third-party,domain=~pinterest.com
-||analytics.pinterest.com^$third-party,domain=~pinterest.com
+||events.redditmedia.com^$third-party,domain=~reddit.com
+||pixel.redditmedia.com^$third-party,domain=~reddit.com
 ||ads.pinterest.com^$third-party,domain=~pinterest.com
+||analytics.pinterest.com^$third-party,domain=~pinterest.com
+||ct.pinterest.com^$third-party,domain=~pinterest.com
+||ads.snapchat.com^$third-party,domain=~snapchat.com
 ||sc-static.net^$third-party,domain=~snapchat.com
 ||tr.snapchat.com^$third-party,domain=~snapchat.com
-||ads.snapchat.com^$third-party,domain=~snapchat.com
 
-! for youtube.com see personal blocklist
+
+! End

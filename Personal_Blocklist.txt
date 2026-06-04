@@ -218,14 +218,26 @@ pay.js^$domain=nytimes.com
 ||accounts.google.com^$domain=nytimes.com
 
 ! CNN.COM
+! CNN.COM
 cnn.com##.ad-slot-header__wrapper
 cnn.com###onetrust-consent-sdk:not([style])
-/.*adfuel\.min\.js.*/$script,domain=edition.cnn.com
+cnn.com#$#override-property-read Object.prototype._setAdsConfigurations noopFunc;
+cnn.com#$#strip-fetch-query-parameter caid warnermediacdn.com; strip-fetch-query-parameter afid warnermediacdn.com; strip-fetch-query-parameter conf_csid warnermediacdn.com; strip-fetch-query-parameter app_csid warnermediacdn.com
+/.*adfuel.*/$domain=edition.cnn.com
+||fave.api.cnn.io/*/runtime-configs$domain=edition.cnn.com
+||warnermedia.com/api/v1/events?*=ad-break*^$xmlhttprequest,domain=edition.cnn.com
 ||collector.cdp.cnn.com/com.snowplowanalytics.snowplow^$domain=ix.cnn.io
-||discomax.com/adtech/tracker^domain=edition.cnn.com
+||discomax.com/adtech/tracker^$domain=edition.cnn.com
+||mediamax.com/*/main.mpd^$domain=cnn.com
+||imasdk.googleapis.com/js/sdkloader/$domain=edition.cnn.com
+
 ||pagead2.googlesyndication.com^$domain=cnn.com
+||tpc.googlesyndication.com^$domain=cnn.com
 ||accounts.google.com^$domain=cnn.com
-||media.max.com/*/main.mpd^$domain=cnn.com
+
+||scorecardresearch.com^$domain=edition.cnn.com
+||doubleclick.net^$domain=edition.cnn.com
+||amazon-adsystem.com^$domain=edition.cnn.com
 ||ml314.com^$domain=edition.cnn.com
 ||quantserve.com^$domain=edition.cnn.com
 ||optimizely.com^$domain=edition.cnn.com
@@ -235,10 +247,11 @@ cnn.com###onetrust-consent-sdk:not([style])
 ||cxense.com^$domain=edition.cnn.com
 ||litix.io^$domain=edition.cnn.com
 ||brightline.tv^$domain=edition.cnn.com
-||scorecardresearch.com^$domain=edition.cnn.com
-cnn.com#$#strip-fetch-query-parameter caid warnermediacdn.com; strip-fetch-query-parameter afid warnermediacdn.com; strip-fetch-query-parameter conf_csid warnermediacdn.com; strip-fetch-query-parameter app_csid warnermediacdn.com
-||warnermedia.com/api/v1/events?*=ad-break*^$xmlhttprequest,domain=cnn.com
-cnn.com#$#override-property-read Object.prototype._setAdsConfigurations noopFunc;
+||stripe.com^$domain=edition.cnn.com
+||js-sec.indexww.com^$domain=edition.cnn.com
+||adsafeprotected.com^$domain=edition.cnn.com
+||adnxs.com^$domain=edition.cnn.com
+||segment-data-us-east.zqtk.net^$domain=edition.cnn.com
 
 ! NBC News
 nbcnews.com##div.adSlot.topbanner[data-ad-label]

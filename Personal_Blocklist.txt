@@ -43,6 +43,7 @@ dpgmedia.com$redirect=noop.js
 ||web-sdk.dpns-notifications.com^$domain=nu.nl|volkskrant.nl
 ||ping.dpns-notifications.com^$domain=nu.nl|volkskrant.nl
 ||sp.dpgmedia.net^$domain=nu.nl|volkskrant.nl
+||pg.dpgmedia.net/api/metrics$domain=nu.nl|volkskrant.nl
 nu.nl,volkskrant.nl###pg-shadow-host-dom
 
 !Nu.nl

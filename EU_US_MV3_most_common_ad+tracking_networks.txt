@@ -312,8 +312,6 @@
 ||zedo.com^$third-party
 ||zemanta.com^$third-party
 
-
-
 ! Block other search engines ads & trackers
 ||analytics.bing.com^$third-party
 ||c.bing.com^$third-party
@@ -324,6 +322,7 @@
 ||yads.yahoo.com^$third-party
 ||appmetrica.yandex.com^$third-party
 ||metrica.yandex.ru^$third-party
+||yandexadexchange.net^$third-party
 ||adfox.yandex.ru^$third-party
 ||advertising.yandex.ru^$third-party
 ||hm.baidu.com^$third-party

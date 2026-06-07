@@ -24,7 +24,6 @@ youtube.com#%#//scriptlet('trusted-click-element', 'ytd-consent-bump-v2-lightbox
 youtube.com#%#//scriptlet('trusted-click-element', 'ytd-consent-bump-v2-lightbox .eom-buttons > .ytd-consent-bump-v2-lightbox > .ytd-consent-bump-v2-lightbox button.ytSpecButtonShapeNextHost')
 ||youtube.com^$permissions=identity-credentials-get=()
 
-
 ! Hide CNN in video ads
 edition.cnn.com##.video-resource__wrapper > div[class*="video-resource__stuck"]
 cnn.com#%#//scriptlet('json-prune-fetch-response', 'ssaiInfo fallback.ssaiInfo', '', 'playbackInfo')

@@ -8,7 +8,6 @@
 ! You are allowed to use this freely, but at your own risk. 
 ! The scriptlets in uBo format are also prcessed by Brave (the domain##+js(...) rules)
 ! The AdGuard scriptlets are advanced (code containing) script injections only processed by AdGuard (Mv2+Mv3
-! AdGuard is only used for advanced blocking) on 4 websites !!!
 
 ! Unlock NU+ content
 nu.nl##+js(rc, authorized-content, div.authorized-content, stay)

@@ -1,6 +1,6 @@
 [AdBlockPlus 3.0]
 !
-! Title: Kees1958 personal blocklist for bookmarked websites
+! Title: Kees1958 advanced javascript injections for bookmarked websites
 ! Expires: 7 days
 !
 ! Version: 2026.07.04

@@ -19,10 +19,9 @@ youtube.com##+js(set, ytInitialPlayerResponse.playerAds, undefined)
 youtube.com##+js(set, ytInitialPlayerResponse.adPlacements, undefined)
 youtube.com##+js(set, ytInitialPlayerResponse.adSlots, undefined)
 youtube.com##+js(trusted-replace-fetch-response, '"adPlacements"', '"no_ads"', player?)
-
+||youtube.com^$permissions=identity-credentials-get=()
 youtube.com#%#//scriptlet('trusted-click-element', 'ytd-consent-bump-v2-lightbox .eom-buttons > .ytd-consent-bump-v2-lightbox > .ytd-consent-bump-v2-lightbox button.yt-spec-button-shape-next')
 youtube.com#%#//scriptlet('trusted-click-element', 'ytd-consent-bump-v2-lightbox .eom-buttons > .ytd-consent-bump-v2-lightbox > .ytd-consent-bump-v2-lightbox button.ytSpecButtonShapeNextHost')
-||youtube.com^$permissions=identity-credentials-get=()
 
 ! Hide CNN in video ads
 edition.cnn.com##.video-resource__wrapper > div[class*="video-resource__stuck"]

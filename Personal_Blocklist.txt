@@ -3,7 +3,7 @@
 ! Title: Kees1958 personal blocklist for bookmarked websites
 ! Expires: 7 days
 !
-! Version: 2026.07.04
+! Version: 2026.09.04
 !
 ! You are allowed to use this freely, but at your own risk. 
 ! List contains only default (basic) ABP rules
@@ -113,18 +113,12 @@ bbc.com##div[data-component="advertisement-block"]
 bbc.com##div[class*="-ConsentBanner"]
 ||bbc.com/*/dotcom-ads.js^$domain=bbc.com
 ||gn-web-assets.api.bbc.com/*/dotcom-analytics.js$domain=bbc.com
-||mybbc-analytics.files.bbci.co.uk^$domain=bbc.com
-||dotcom.bbc-reporting-api.app^$domain=bbc.com
-||a1-api-bbc-com-cddc.at-o.net^$domain=bbc.com
-||a1-api-bbc-co-uk-cddc.at-o.net^$domain=bbc.com
 /wrapperMessagingWithoutDetection.js^$domain=bbc.com
-||optimizely.com^$domain=bbc.com
 ||chartbeat.com^$domain=bbc.com
 ||scorecardresearch.com^$domain=bbc.com
 ||dotmetrics.net^$domain=bbc.com
 ||edigitalsurvey.com^$domain=bbc.com
 ||permutive.com^$domain=bbc.com
-||doubleverify.com^$domain=bbc.com
 ||cxense.com^$domain=bbc.com
 ||webcontentassessor.com^$domain=bbc.com
 ||doubleclick.net^$domain=bbc.com

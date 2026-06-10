@@ -17,7 +17,7 @@ My blocklist is based on surveys of most used advertising and tracking technolog
 
                                                       SUGGESTED USE
 
-This list works fine with either EasyList English adfilter or Brave's default adfiler or Adguard's base filter in combination with your local language filtering list. Thanks to AI this list is cleaned
+This list works fine with either EasyList English adfilter or Brave's adfilter or Adguard's base filter in combination with your local language filtering list. Thanks to AI this list is cleaned
 and updated annually and cross checked against some public available sources (when a domain is not categorised as advertising/tracking network in at least one of four leading sources it is removed). 
 This cross check with four external should weed out trackers with a low prevalence (less is more). 
 

@@ -3,7 +3,7 @@
 ! Title: Kees1958 personal blocklist for bookmarked websites
 ! Expires: 7 days
 !
-! Version: 2026.09.04
+! Version: 2026.06.10
 !
 ! You are allowed to use this freely, but at your own risk. 
 ! List contains only default (basic) ABP rules
@@ -150,69 +150,6 @@ news.sky.com##div.ui-advert.sdc-site-au__leaderboard
 ||dotmetrics.net^$domain=news.sky.com
 ||qualtrics.com^$domain=news.sky.com
 ||covatic.io^$domain=news.sky.com
-
-! New York 
-nytimes.com##div[class*="ad top-wrapper"]
-nytimes.com##div:has(> div[data-testid="StandardAd"]:only-child)
-nytimes.com##[data-testid="StandardAd"]
-nytimes.com##body .ad
-nytimes.com##div[id^="dfp-ad-"]
-nytimes.com###after-dfp-ad-top
-nytimes.com###story-ad-1-wrapper
-nytimes.com###story-ad-2-wrapper
-nytimes.com###story-ad-3-wrapper
-nytimes.com###story-ad-4-wrapper
-nytimes.com###story-ad-5-wrapper
-nytimes.com###story-ad-6-wrapper
-nytimes.com###story-ad-7-wrapper
-nytimes.com###story-ad-8-wrapper
-nytimes.com###ad-0
-nytimes.com###ad-1
-nytimes.com###ad-2
-nytimes.com###ad-3
-nytimes.com###ad-4
-nytimes.com###ad-5
-nytimes.com###ad-6
-nytimes.com###ad-7
-nytimes.com###ad-8
-nytimes.com###after-dfp-ad-mid0
-nytimes.com###after-dfp-ad-mid1
-nytimes.com###after-dfp-ad-mid2
-nytimes.com###after-dfp-ad-mid3
-nytimes.com###after-dfp-ad-mid4
-nytimes.com###after-dfp-ad-mid5
-nytimes.com###after-dfp-ad-mid6
-nytimes.com###after-dfp-ad-mid7
-nytimes.com###after-dfp-ad-mid8
-nytimes.com###top-wrapper
-nytimes.com###bottom-
-nytimes.com##div:has(> div[data-testid="StandardAd"]:only-child)
-nytimes.com##div[class*="ad top-wrapper"]
-nytimes.com##div[id^="dfp-ad-"]
-||nyt.com/ads^$domain=nytimes.com
-||static01.nyt.com/ads/tpc-check.html^$domain=nytimes.com
-/.*adslot.*/$script,domain=nytimes.com
-||static01.nyt.com/vi-assets/static-assets/fides*.js$domain=nytimes.com
-
-||nytimes.com/track^$domain=nytimes.com
-||nytimes.com/meter.js^$domain=nytimes.com
-||nytimes.com/svc/onsite-messaging^$domain=nytimes.com
-||purr.nytimes.com/v1/purr-cache^$domain=nytimes.com
-||als-svc.nytimes.com/als^$domain=nytimes.com
-pay.js^$domain=nytimes.com
-
-||warp.media.net/js/tags/clientag.js^$domain=nytimes.com
-||datadoghq-browser-agent.com^$domain=nytimes.com
-||rumcdn.geoedge.be^$domain=nytimes.com
-||amazon-adsystem.com^$domain=nytimes.com
-||pagead2.googlesyndication.com^$domain=nytimes.com
-||pay.google.com^$domain=nytimes.com
-||play.google.com^$domain=nytimes.com
-||googletagmanager.com^$domain=nytimes.com
-||imasdk.googleapis.com/js/sdkloader^$domain=nytimes.com
-||privacymanager.io^$domain=nytimes.com
-||doubleclick.net^$domain=nytimes.com
-||accounts.google.com^$domain=nytimes.com
 
 ! CNN.COM
 cnn.com##.ad-slot-header__wrapper

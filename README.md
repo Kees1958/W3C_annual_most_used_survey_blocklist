@@ -4,7 +4,7 @@ In advertising the number one (Google) has a marketshare of around 40 percent, F
 A study performed by Brave browser seems to support the claim that for the two billion plus websites a limited number of adserver networks deliver the ads. In nearly every business the 20-80 rule (parreto principle) applies, also in digital advertising. A study done by the Brave browser team confirmed this "WE FOUND THAT ONLY 201 RULES ACCOUNTED FOR 90% OF THE BLOCKING ACTIVITY" (see https://brave.com/the-mounting-cost-of-stale-ad-blocking-rules/).
 
                                                    LOW UPDATE FREQUENCY
-Like Peter Low explains on his website (https://pgl.yoyo.org/adservers/index.php), you need to focus on the advertising and tracking networks which place the adds on the websites you visit. Such a list is not subjective to a lot of changes for three reasons. Peter Low started his hostfile format adserver focussed blocklist in 2006.  
+Peter Low started his hostfile format adserver focussed blocklist in 2006. He explains on his website (https://pgl.yoyo.org/adservers/index.php), you need to focus on the advertising and tracking networks which place the adds on the websites you visit. Such a list is not subjective to a lot of changes for three reasons.   
 
 1. It takes a lot of time and money to build an (ad serving) backbone network. 
 

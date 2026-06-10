@@ -1,7 +1,7 @@
                    WHY USE AN ADVERTISING AND TRACKING NETWORKS BLOCK LIST WITH LIMITED NUMBER OF RULES? 
 In advertising the number one (Google) has a marketshare of around 40 percent, Facebook the number two hits the 20% mark while the number three (Comscore) just has a little over 2.5% marketshare. Just have a look at the usage statistics on the W3tech website (check the advertising, analysis and tag managers) see https://w3techs.com/technologies/overview/advertising. 
 
-A study performed by Brave browser seems to support above claim: Quote of that study "WE FOUND THAT ONLY 201 RULES ACCOUNTED FOR 90% OF THE BLOCKING ACTIVITY" (see https://brave.com/the-mounting-cost-of-stale-ad-blocking-rules/).
+Peter Low started his pgl.yoyo.org/adservers list focussung on the network delivering ads in 2003. A study performed by Brave browser seems to support the claim that for the two billion plus websites a limited number of adserver networks deliver the ads. In nearly every business the 20-80 rule (parreto principle) applies, also in digital advertising. A study done by the Brave browser team confirmed this "WE FOUND THAT ONLY 201 RULES ACCOUNTED FOR 90% OF THE BLOCKING ACTIVITY" (see https://brave.com/the-mounting-cost-of-stale-ad-blocking-rules/).
 
                                                    LOW UPDATE FREQUENCY
 Like Peter Low explains on his website (https://pgl.yoyo.org/adservers/index.php), you need to focus on the advertising and tracking networks which place the adds on the websites you visit. Such a list is not subjective to a lot of changes for three reasons. 
@@ -24,5 +24,5 @@ This cross check with four external should weed out trackers with a low prevalen
                                                       ERRORS & ISSUES
 Please report site breakage on https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues.
 
-                                              LESS IS MORE WITH YAML (DNR) FORMAT
-Besides ABP format, the list is now also available in YAML format used by uBol (over 2000 tracking domains blocked with just 1, yes 1 DNR rule shows why DNR rules are far more effective than ABP rules)
+                                              LESS IS MORE WITH DNR-RULE FORMAT
+Besides ABP format, the list is now also available in YAML format used by uBol (for comparison Peter Low's blocklist of 3500 host-file blockrules can be catched by just 1 DNR-rule). My list of 350 SBP-format rules translates to a dozen DNR-rules, because I included execptions for social networks to prevent website breakage. 

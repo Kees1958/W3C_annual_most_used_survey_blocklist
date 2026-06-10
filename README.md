@@ -1,10 +1,10 @@
                    WHY USE AN ADVERTISING AND TRACKING NETWORKS BLOCK LIST WITH LIMITED NUMBER OF RULES? 
 In advertising the number one (Google) has a marketshare of around 40 percent, Facebook the number two hits the 20% mark while the number three (Comscore) just has a little over 2.5% marketshare. Just have a look at the usage statistics on the W3tech website (check the advertising, analysis and tag managers) see https://w3techs.com/technologies/overview/advertising. 
 
-Peter Low started his pgl.yoyo.org/adservers list focussung on the network delivering ads in 2003. A study performed by Brave browser seems to support the claim that for the two billion plus websites a limited number of adserver networks deliver the ads. In nearly every business the 20-80 rule (parreto principle) applies, also in digital advertising. A study done by the Brave browser team confirmed this "WE FOUND THAT ONLY 201 RULES ACCOUNTED FOR 90% OF THE BLOCKING ACTIVITY" (see https://brave.com/the-mounting-cost-of-stale-ad-blocking-rules/).
+A study performed by Brave browser seems to support the claim that for the two billion plus websites a limited number of adserver networks deliver the ads. In nearly every business the 20-80 rule (parreto principle) applies, also in digital advertising. A study done by the Brave browser team confirmed this "WE FOUND THAT ONLY 201 RULES ACCOUNTED FOR 90% OF THE BLOCKING ACTIVITY" (see https://brave.com/the-mounting-cost-of-stale-ad-blocking-rules/).
 
                                                    LOW UPDATE FREQUENCY
-Like Peter Low explains on his website (https://pgl.yoyo.org/adservers/index.php), you need to focus on the advertising and tracking networks which place the adds on the websites you visit. Such a list is not subjective to a lot of changes for three reasons. 
+Like Peter Low explains on his website (https://pgl.yoyo.org/adservers/index.php), you need to focus on the advertising and tracking networks which place the adds on the websites you visit. Such a list is not subjective to a lot of changes for three reasons. Peter Low started his hostfile format adserver focussed blocklist in 2006.  
 
 1. It takes a lot of time and money to build an (ad serving) backbone network. 
 

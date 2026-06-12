@@ -1,4 +1,4 @@
-# Version: 2026.06.03 in YAML format to be used in the CUSTOM DNR RULES section of uBlock Origin Lite 
+# Version: 2026.06.11 in YAML format to be used in the CUSTOM DNR RULES section of uBlock Origin Lite 
 # Please report issues related to website breakage at
 # https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
 # This filter list does not need regular updates as explained in the read me.
@@ -127,7 +127,6 @@ condition:
     - districtm.io
     - dotomi.com
     - doubleclick.net
-    - doubleverify.com
     - dstillery.com
     - dtasrvr.com
     - dwin1.com

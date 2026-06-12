@@ -2,7 +2,7 @@
 !
 ! Title: EU US most used advertisement and analytics networks
 !
-! Version: 2026.06.04
+! Version: 2026.06.11
 ! Expires: 7 days
 !
 ! You are free to use it at your own risk, please report website breakage at
@@ -126,7 +126,6 @@
 ||disqusads.com^$third-party
 ||districtm.io^$third-party
 ||dotomi.com^$third-party
-||doubleverify.com^$third-party
 ||dstillery.com^$third-party
 ||dtasrvr.com^$third-party
 ||dwin1.com^$third-party

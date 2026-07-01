@@ -6,24 +6,7 @@
 ! Expires: 365 days
 ! You are free to copy and distribute this file, but use at your own risk
 !
-! ONLY WORKS IN ADGUARD for uBlock you need to change DENYALLOW to TO and add a not ` before all TLD's (e.g. tp=~com|~org|~net  etc)
 !
-!
-!***********************************************************
-! Extra security                                           *
-!***********************************************************
-! 1. Warn & sanatize for connections outside EU-zone and 5 eyes plus 10 most used common TLDś
-||*$document,denyallow=com|org|net|edu|gov|info|io|cloud|site|ai|app|dev|tech|EU|AT|BE|BG|HR|CY|CZ|DK|EE|FI|FR|DE|GR|HU|IE|IT|LV|LT|LU|MT|NL|PL|PT|RO|SK|SI|ES|SE|CH|LI|NO|IS|FX|US|CA|UK|AU|NZ
-
-! 2. Warn & sanatize connections not using the default HTTPS port 443
-/https?:\/\/[^\/]+:[0-9]+/$document,subdocument,script
-
-! 3. Warn & sanatize for domains with puny-code (non-latin characters)
-||xn--^$document,subdocument,script
-
-! 4. Warn & sanatize for connections to IPv4 IP addresses 
-/^https?:\/\/(?:\d{1,3}\.){3}\d{1,3}(?:\/|$)/$document
-
 ! 5. Warn & sanatize for DDNS and Free Hosting domains
 ||000webhostapp.com^$document,subdocument,script
 ||app.link^$document,subdocument,script

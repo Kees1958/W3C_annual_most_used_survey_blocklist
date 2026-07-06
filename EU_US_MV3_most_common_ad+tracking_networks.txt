@@ -2,7 +2,7 @@
 !
 ! Title: EU US most used advertisement and analytics networks
 !
-! Version: 2026.06.11
+! Version: 2026.07.06
 ! Expires: 7 days
 !
 ! You are free to use it at your own risk, please report website breakage at
@@ -281,6 +281,7 @@
 ||themoneytizer.com^$third-party
 ||tiqcdn.com^$third-party
 ||tradedoubler.com^$third-party
+||trafficforce.com^$third-party
 ||trafficjunky.com^$third-party
 ||trafficstars.com^$third-party
 ||treasuredata.com^$third-party

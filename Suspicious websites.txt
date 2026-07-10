@@ -1,13 +1,11 @@
 [AdBlockPlus 2.0]
 !
 ! Version: 2026
-! Title: TLD Filter warns for suspicious websites (and disables scripts for your safety)
+! Title: List of legitimate websites often used to distribute makware (DDNS & free hosting)
 !
 ! Expires: 365 days
 ! You are free to copy and distribute this file, but use at your own risk
 !
-!
-! 5. Warn & sanatize for DDNS and Free Hosting domains
 ||000webhostapp.com^$document,subdocument,script
 ||app.link^$document,subdocument,script
 ||azurestaticapps.net^$document,subdocument,script

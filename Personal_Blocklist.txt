@@ -222,14 +222,8 @@ foxnews.com##.item-newsletter
 ||omtrdc.net^$domain=foxnews.com
 ||wealthygeezwell.com^$domain=foxnews.com
 !
-! Remove Google search parameters
-||google.com/search$removeparam=biw
-||google.com/search$removeparam=bih
-||google.com/search$removeparam=sa
-||google.com/search$removeparam=source
-||google.com/search$removeparam=aqs
-||google.com/search$removeparam=sourceid
-||google.com/search$removeparam=ei
-||google.com/search$removeparam=gs_lcp
 
+!Block NY Timmes Paywall
+||meter-svc.nytimes.com/meter.js
+||nytimes.com/svc/onsite-messaging/query
 ! END

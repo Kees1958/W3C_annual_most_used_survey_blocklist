@@ -58,6 +58,8 @@ nu.nl##body:style(overflow: visible !important;)
 ||web-sdk.dpns-notifications.com/*/dpns.js$domain=nu.nl
 ||myprivacy-static.dpgmedia.net/consent.js$domain=nu.nl
 ||*$subdocument$domain=nu.nl
+nu.nl##+js(rc, authorized-content, div.authorized-content, stay)
+nu.nl##+js(rc, semi-authorized-content, div.semi-authorized-content, stay)
 ||optoutadvertising.com^$domain=nu.nl
 ||applets.ebxcdn.com^$domain=nu.nl
 ||pexi.nl^$domain=nu.nl

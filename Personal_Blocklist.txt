@@ -44,7 +44,7 @@ dpgmedia.com$redirect=noop.js
 ||ping.dpns-notifications.com^$domain=nu.nl|volkskrant.nl
 ||sp.dpgmedia.net^$domain=nu.nl|volkskrant.nl
 ||pg.dpgmedia.net/api/metrics$domain=nu.nl|volkskrant.nl
-nu.nl,volkskrant.nl###pg-shadow-host-dom
+
 
 !Nu.nl
 nu.nl##.banner
@@ -55,6 +55,9 @@ nu.nl##.modal-layer__shade
 nu.nl##.modal__container
 nu.nl##.tm-login__body
 nu.nl##body:style(overflow: visible !important;)
+||web-sdk.dpns-notifications.com/*/dpns.js$domain=nu.nl
+||myprivacy-static.dpgmedia.net/consent.js$domain=nu.nl
+||*$subdocument$domain=nu.nl
 ||optoutadvertising.com^$domain=nu.nl
 ||applets.ebxcdn.com^$domain=nu.nl
 ||pexi.nl^$domain=nu.nl
@@ -64,14 +67,12 @@ volkskrant.nl###article_paragraph_3
 volkskrant.nl###top1
 volkskrant.nl##.AdSense
 volkskrant.nl##.top1-container
-volkskrant.nl##a.tm-overflow-scroll__space.fjs-tm-close
 volkskrant.nl##aside.marketing-banner[data-temptation-position]
 volkskrant.nl##div.h1-container
+volkskrant.nl###PURCHASE_VERTICAL__OVERLAY
 volkskrant.nl##div[class="ad--top fjs-hide-on-paywall"]
-volkskrant.nl###PURCHASE_VERTICAL__OVERLAY
+volkskrant.nl###pg-shadow-host-dom
 volkskrant.nl##a.tm-overflow-scroll__space.fjs-tm-close
-volkskrant.nl##aside.marketing-banner[data-temptation-position]
-volkskrant.nl###PURCHASE_VERTICAL__OVERLAY
 */gtm.js^$script,domain=volkskrant.nl
 /temptation/resolve$xmlhttprequest,~third-party,domain=volkskrant.nl
 ||temptation.*/temptation.js$script,~third-party,domain=volkskrant.nl

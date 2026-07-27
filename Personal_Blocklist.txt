@@ -3,7 +3,7 @@
 ! Title: Kees1958 personal blocklist for bookmarked websites
 ! Expires: 7 days
 !
-! Version: 2026.06.10
+! Version: 2026.07.27
 !
 ! You are allowed to use this freely, but at your own risk. 
 ! List contains only default (basic) ABP rules

@@ -77,7 +77,6 @@ volkskrant.nl###PURCHASE_VERTICAL__OVERLAY
 ||temptation.*/temptation.js$script,~third-party,domain=volkskrant.nl
 ||volkskrant.nl/api/consent$domain=volkskrant.nl
 ||volkskrant.nl/api/_next-api/v1/error/$domain=volkskrant.nl
-
 ||optoutadvertising.com^$domain=volkskrant.nl
 ||visualwebsiteoptimizer.com^$domain=volkskrant.nl
 ||pushengage.com^$domain=volkskrant.nl
@@ -157,6 +156,11 @@ cnn.com###onetrust-consent-sdk:not([style])
 cnn.com#$#override-property-read Object.prototype._setAdsConfigurations noopFunc;
 cnn.com#$#strip-fetch-query-parameter caid warnermediacdn.com; strip-fetch-query-parameter afid warnermediacdn.com; strip-fetch-query-parameter conf_csid warnermediacdn.com; strip-fetch-query-parameter app_csid warnermediacdn.com
 /.*adfuel.*/$domain=edition.cnn.com
+cnn.com##+js(abp-override-property-read, Object.prototype._setAdsConfigurations, noopFunc)
+cnn.com##+js(abp-strip-fetch-query-parameter, caid, warnermediacdn.com)
+cnn.com##+js(abp-strip-fetch-query-parameter, afid, warnermediacdn.com)
+cnn.com##+js(abp-strip-fetch-query-parameter, conf_csid, warnermediacdn.com)
+cnn.com##+js(abp-strip-fetch-query-parameter, app_csid, warnermediacdn.com)
 ||fave.api.cnn.io/*/runtime-configs$domain=edition.cnn.com
 ||warnermedia.com/api/v1/events?*=ad-break*^$xmlhttprequest,domain=edition.cnn.com
 ||collector.cdp.cnn.com/com.snowplowanalytics.snowplow^$domain=ix.cnn.io

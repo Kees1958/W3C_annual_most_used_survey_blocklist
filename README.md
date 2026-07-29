@@ -1,7 +1,8 @@
                    WHY USE AN ADVERTISING AND TRACKING NETWORKS BLOCK LIST WITH LIMITED NUMBER OF RULES? 
-In advertising the number one (Google) has a marketshare of around 40 percent, Facebook the number two hits the 20% mark while the number three (Comscore) just has a little over 2.5% marketshare. Just have a look at the usage statistics on the W3tech website (check the advertising, analysis and tag managers) see https://w3techs.com/technologies/overview/advertising. 
+In advertising the number one (Google) has a marketshare of around 40 percent, Facebook the number two hits the 20% mark while the number three (Comscore) just has a little over 2.5% marketshare. Just have a look at the usage statistics on the W3tech website (check the advertising, analysis and tag managers) see https://w3techs.com/technologies/overview/advertising and https://www.ghostery.com/whotracksme/tracking-reach
 
-A study performed by Brave browser seems to support the claim that for the two billion plus websites a limited number of adserver networks deliver the ads. In nearly every business the 20-80 rule (parreto principle) applies, also in digital advertising. A study done by the Brave browser team confirmed this "WE FOUND THAT ONLY 201 RULES ACCOUNTED FOR 90% OF THE BLOCKING ACTIVITY" (see https://brave.com/the-mounting-cost-of-stale-ad-blocking-rules/).
+WHEN YOU ARE NOT CONVINCED AFTER LOOKING AT W3TECH AND WHOTRACKSME STATISTICS, STOP READING THIS REPO IS NOT FOR YOU
+                                             
 
                                                    LOW UPDATE FREQUENCY
 Peter Low started his hostfile format adserver focussed blocklist in 2006. He explains on his website (pgl.yoyo.org/adservers), that you need to focus on the advertising and tracking networks which place the adds on the websites you visit. Such a list is not subjective to a lot of changes for three reasons.   
@@ -17,12 +18,10 @@ My blocklist is based on surveys of most used advertising and tracking technolog
 
                                                       SUGGESTED USE
 
-This list works fine with either EasyList English adfilter or Brave's adfilter or Adguard's base filter in combination with your local language filtering list. Thanks to AI this list is cleaned
-and updated annually and cross checked against some public available sources (when a domain is not categorised as advertising/tracking network in at least one of four leading sources it is removed). 
-This cross check with four external should weed out trackers with a low prevalence (less is more). 
+This list works fine with either EasyList English adfilter or Brave's adfilter or Adguard's base filter in combination with your local language filtering list or better use
+uBol-stripped as adblocker: see https://github.com/Kees1958/uBol-stripped
 
                                                       ERRORS & ISSUES
 Please report site breakage on https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues.
 
-                                              LESS IS MORE WITH DNR-RULE FORMAT
-Besides ABP format, the list is now also available in YAML format used by uBol (for comparison Peter Low's blocklist of 3500 host-file blockrules can be catched by just 1 DNR-rule). My list of 350 SBP-format rules translates to a dozen DNR-rules, because I included execptions for social networks to prevent website breakage. 
+   

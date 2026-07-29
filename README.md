@@ -1,4 +1,4 @@
-                   WHY USE AN ADVERTISING AND TRACKING NETWORKS BLOCK LIST WITH LIMITED NUMBER OF RULES? 
+             WHY USE AN ADVERTISING AND TRACKING NETWORKS BLOCK LIST WITH LIMITED NUMBER OF RULES? 
 In advertising the number one (Google) has a marketshare of around 40 percent, Facebook the number two hits the 20% mark while the number three (Comscore) just has a little over 2.5% marketshare. Just have a look at the usage statistics on the W3tech website (check the advertising, analysis and tag managers) see https://w3techs.com/technologies/overview/advertising and https://www.ghostery.com/whotracksme/tracking-reach
 
 NOT CONVINCED AFTER LOOKING AT W3TECH AND WHOTRACKSME REAL WORLD STATS? STOP READING THIS IS NOT FOR YOU!

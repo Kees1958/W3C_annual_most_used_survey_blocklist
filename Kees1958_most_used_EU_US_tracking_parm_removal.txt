@@ -1,1 +1,80 @@
+! Standard campaign attribution
+*$removeparam=utm_source
+*$removeparam=utm_medium
+*$removeparam=utm_campaign
+*$removeparam=utm_id
+*$removeparam=utm_term
+*$removeparam=utm_content
+*$removeparam=utm_name
+*$removeparam=utm_campaignid
+*$removeparam=utm_cid
+*$removeparam=utm_reader
+*$removeparam=utm_referrer
+*$removeparam=utm_social
+*$removeparam=utm_social-type
+*$removeparam=utm_viz_id
 
+! Google Ads / Campaign Manager
+*$removeparam=gclid
+*$removeparam=gclsrc
+*$removeparam=gbraid
+*$removeparam=wbraid
+*$removeparam=dclid
+
+! Microsoft / Yahoo advertising
+*$removeparam=msclkid
+*$removeparam=yclid
+
+! Meta / Facebook
+*$removeparam=fbclid
+*$removeparam=fb_action_ids
+*$removeparam=fb_action_types
+*$removeparam=fb_comment_id
+*$removeparam=fb_ref
+*$removeparam=fb_source
+
+! Matomo / Piwik
+*$removeparam=mtm_campaign
+*$removeparam=mtm_cid
+*$removeparam=mtm_content
+*$removeparam=mtm_group
+*$removeparam=mtm_keyword
+*$removeparam=mtm_medium
+*$removeparam=mtm_placement
+*$removeparam=mtm_source
+*$removeparam=pk_campaign
+*$removeparam=pk_medium
+*$removeparam=pk_source
+
+! HubSpot
+*$removeparam=_hsenc
+*$removeparam=_hsmi
+*$removeparam=__hsfp
+*$removeparam=__hssc
+*$removeparam=__hstc
+*$removeparam=hsa_acc
+*$removeparam=hsa_ad
+*$removeparam=hsa_cam
+*$removeparam=hsa_grp
+*$removeparam=hsa_kw
+*$removeparam=hsa_mt
+*$removeparam=hsa_net
+*$removeparam=hsa_src
+*$removeparam=hsa_tgt
+*$removeparam=hsa_ver
+*$removeparam=hsCtaTracking
+
+! Adobe / Marketo / Branch
+*$removeparam=s_cid
+*$removeparam=adobe_mc_ref
+*$removeparam=adobe_mc_sdid
+*$removeparam=mkt_tok
+*$removeparam=_branch_match_id
+
+! Affiliate attribution
+*$removeparam=ranMID
+*$removeparam=ranEAID
+*$removeparam=ranSiteID
+*$removeparam=admitad_uid
+*$removeparam=vc_lpp
+*$removeparam=xtor

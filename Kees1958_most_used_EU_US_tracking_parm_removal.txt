@@ -1,3 +1,14 @@
+[AdBlockPlus 2.0]
+!
+! Title: EU US most used advertisement and analytics networks
+!
+! Version: 2026.07.06
+! Expires: 7 days
+!
+! You are free to use it at your own risk, please report website breakage at
+! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
+
+
 ! Standard campaign attribution
 *$removeparam=utm_source
 *$removeparam=utm_medium

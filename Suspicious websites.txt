@@ -1,26 +1,40 @@
 [AdBlockPlus 2.0]
 !
-! Version: 2027
+! Version: 2026.08.08
 ! Title: List of legitimate websites often used to distribute malware (DDNS & free hosting)
 !
-! Expires: 365 days
+! Expires: 31 days
 ! Maintained by: Kees1958
 ! You are free to copy and distribute this file, but use at your own risk
 !
-
+! ── EXCLUDED ON PURPOSE ──────────────────────────────────────────────────────────────
+! The following domains are deliberately NOT in this list even though they can host
+! attacker content, because they are also widely used as legitimate third-party
+! embeds/CDNs/backends, so blocking script/subdocument loads from them has a real chance
+! of breaking normal, non-malicious sites:
+!   sites.google.com        - embedded Google Forms/Docs/Sheets/Maps on many sites
+!   firebaseapp.com         - Firebase-hosted widgets/chat/auth embedded elsewhere
+!   herokuapp.com           - small SaaS backends called via script from client sites
+!   workers.dev             - Cloudflare Workers used as third-party backend APIs
+!   blob.core.windows.net   - Azure Blob Storage serving embedded images/video/assets
+!   web.core.windows.net    - Azure static-website storage serving embedded assets
+!   backblazeb2.com         - object storage CDN for embedded media
+!   r2.dev                  - Cloudflare R2 object storage CDN for embedded media
+! If you want maximum coverage over minimum breakage risk, you can add these back
+! yourself, ideally scoped to the specific abused subdomain rather than the whole domain.
+!
+! ***************************************************************************************
+!
 ! ── Modern free hosting & serverless platforms (confirmed active abuse 2024-2027) ──────
-
+!
 ||000webhostapp.com^$subdocument,script,third-party
 ||azurestaticapps.net^$subdocument,script,third-party
 ||azurewebsites.net^$subdocument,script,third-party
-||backblazeb2.com^$subdocument,script,third-party
-||blob.core.windows.net^$subdocument,script,third-party
 ||boxmode.io^$subdocument,script,third-party
 ||byethost*.com^$subdocument,script,third-party
 ||cpanel.site^$subdocument,script,third-party
 ||cprapid.com^$subdocument,script,third-party
 ||edgeone.app^$subdocument,script,third-party
-||firebaseapp.com^$subdocument,script,third-party
 ||flazio.site^$subdocument,script,third-party
 ||fleek.co^$subdocument,script,third-party
 ||flow.page^$subdocument,script,third-party
@@ -30,7 +44,6 @@
 ||gamer.gd^$subdocument,script,third-party
 ||glitch.me^$subdocument,script,third-party
 ||godaddysites.com^$subdocument,script,third-party
-||herokuapp.com^$subdocument,script,third-party
 ||hostingersite.com^$subdocument,script,third-party
 ||hstn.me^$subdocument,script,third-party
 ||infinityfreeapp.com^$subdocument,script,third-party
@@ -47,15 +60,12 @@
 ||page.gd^$subdocument,script,third-party
 ||page.tl^$subdocument,script,third-party
 ||pages.dev^$subdocument,script,third-party
-||r2.dev^$subdocument,script,third-party
 ||railway.app^$subdocument,script,third-party
 ||repl.co^$subdocument,script,third-party
 ||replit.dev^$subdocument,script,third-party
 ||run.app^$subdocument,script,third-party
-||sites.google.com^$subdocument,script,third-party
 ||sviluppo.host^$subdocument,script,third-party
 ||surge.sh^$subdocument,script,third-party
-||tem3.io^$subdocument,script,third-party
 ||temporary.site^$subdocument,script,third-party
 ||tiiny.host^$subdocument,script,third-party
 ||trycloudflare.com^$subdocument,script,third-party
@@ -65,7 +75,6 @@
 ||vercel.app^$subdocument,script,third-party
 ||w3spaces.com^$subdocument,script,third-party
 ||web.app^$subdocument,script,third-party
-||web.core.windows.net^$subdocument,script,third-party
 ||webcindario.com^$subdocument,script,third-party
 ||webflow.io^$subdocument,script,third-party
 ||website.yandexcloud.net^$subdocument,script,third-party
@@ -75,16 +84,14 @@
 ||weeblysite.com^$subdocument,script,third-party
 ||wixsite.com^$subdocument,script,third-party
 ||wixstudio.com^$subdocument,script,third-party
-||work.gd^$subdocument,script,third-party
-||workers.dev^$subdocument,script,third-party
 ||wpenginepowered.com^$subdocument,script,third-party
 ||wuaze.com^$subdocument,script,third-party
 ||xo.je^$subdocument,script,third-party
 ||yahoosites.com^$subdocument,script,third-party
 ||yolasite.com^$subdocument,script,third-party
-
-! ── DDNS providers ──────────────────────────────────────────────────────────────────────
-
+!
+! ── DDNS providers (confirmed active august 2026) ───────────────────────────────────────
+!
 ||1337.cx^$subdocument,script,third-party
 ||1cooldns.com^$subdocument,script,third-party
 ||25u.com^$subdocument,script,third-party
@@ -208,7 +215,6 @@
 ||est-a-la-masion.com^$subdocument,script,third-party
 ||est-le-patron.com^$subdocument,script,third-party
 ||est-mon-blogueur.com^$subdocument,script,third-party
-||evils.in^$subdocument,script,third-party
 ||ezua.com^$subdocument,script,third-party
 ||faqserv.com^$subdocument,script,third-party
 ||farted.net^$subdocument,script,third-party
@@ -218,7 +224,6 @@
 ||for-our.info^$subdocument,script,third-party
 ||for-some.biz^$subdocument,script,third-party
 ||for-the.biz^$subdocument,script,third-party
-||forgot.her.name^$subdocument,script,third-party
 ||forgot.his.name^$subdocument,script,third-party
 ||freeddns.com^$subdocument,script,third-party
 ||freeddns.me^$subdocument,script,third-party
@@ -321,7 +326,7 @@
 ||hs.vc^$subdocument,script,third-party
 ||https443.net^$subdocument,script,third-party
 ||https443.org^$subdocument,script,third-party
-||iamdocumentama.com^$subdocument,script,third-party
+||iamallama.com^$subdocument,script,third-party
 ||ignorelist.com^$subdocument,script,third-party
 ||iiiii.info^$subdocument,script,third-party
 ||ikwb.com^$subdocument,script,third-party
@@ -423,7 +428,7 @@
 ||justdied.com^$subdocument,script,third-party
 ||kicks-ass.net^$subdocument,script,third-party
 ||kicks-ass.org^$subdocument,script,third-party
-||knowsitdocument.info^$subdocument,script,third-party
+||knowsitall.info^$subdocument,script,third-party
 ||kozow.com^$subdocument,script,third-party
 ||land-4-sale.us^$subdocument,script,third-party
 ||lebtimnetz.de^$subdocument,script,third-party
@@ -540,7 +545,6 @@
 ||sexidude.com^$subdocument,script,third-party
 ||shacknet.biz^$subdocument,script,third-party
 ||shacknet.us^$subdocument,script,third-party
-||shaqnet.nu^$subdocument,script,third-party
 ||shit.vc^$subdocument,script,third-party
 ||simple-url.com^$subdocument,script,third-party
 ||smelly.cc^$subdocument,script,third-party
@@ -586,9 +590,7 @@
 ||ygto.com^$subdocument,script,third-party
 ||yourtrap.com^$subdocument,script,third-party
 ||zanity.net^$subdocument,script,third-party
-||zaptop.org^$subdocument,script,third-party
 ||zyns.com^$subdocument,script,third-party
 ||zzux.com^$subdocument,script,third-party
-
 
 ! **** END

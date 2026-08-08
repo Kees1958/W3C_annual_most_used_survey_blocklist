@@ -601,6 +601,6 @@
 
 !
 ! regex rule
-/.*byethost.*\.com/^$script,subdocument,websocket,third-party
+/^[a-z]+:\/\/([a-z0-9-]+\.)*byethost[a-z0-9-]*\.com([\/:]|$)/$script,subdocument,websocket,third-party
 
 ! **** END

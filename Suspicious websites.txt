@@ -1,4 +1,4 @@
-[AdBlockPlus 2.0]
+[AdBlockPlus 3.0]
 !
 ! Version: 2026.08.08
 ! Title: List of legitimate websites often used to distribute malware (DDNS & free hosting)

@@ -1,4 +1,4 @@
-[AdBlockPlus 2.0]
+[AdBlockPlus 3.0]
 !
 ! Version: 2027.3
 ! Title: List of legitimate websites often used to distribute malware (DDNS & free hosting)
@@ -38,7 +38,6 @@
 ||azurestaticapps.net^$script,subdocument,websocket,third-party
 ||azurewebsites.net^$script,subdocument,websocket,third-party
 ||boxmode.io^$script,subdocument,websocket,third-party
-||byethost*.com^$script,subdocument,websocket,third-party
 ||cpanel.site^$script,subdocument,websocket,third-party
 ||cprapid.com^$script,subdocument,websocket,third-party
 ||edgeone.app^$script,subdocument,websocket,third-party
@@ -599,5 +598,9 @@
 ||zanity.net^$script,subdocument,websocket,third-party
 ||zyns.com^$script,subdocument,websocket,third-party
 ||zzux.com^$script,subdocument,websocket,third-party
+
+!
+! regex rule
+/.*byethost.*\.com/^$script,subdocument,websocket,third-party
 
 ! **** END

@@ -2,13 +2,16 @@
 !
 ! Title: EU US most used advertisement and analytics networks
 !
-! Version: 2026.08.24.4
+! Version: 2026.08.25
 ! Expires: 7 days
 !
 ! You are free to use it at your own risk, please report website breakage at
 ! https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/issues
-!
-! Block most prevalent advertising & tracking networks in EU and 5eyes
+
+! ============================================================
+! ADVERTISING / AD EXCHANGES / PROGRAMMATIC
+! ============================================================
+
 ||00px.net^$third-party
 ||2mdn.net^$third-party
 ||2o7.net^$third-party
@@ -18,10 +21,8 @@
 ||3lift.com^$third-party
 ||4dsply.com^$third-party
 ||4strokemedia.com^$third-party
-||4u.pl^$third-party
 ||5gvci.com^$third-party
 ||a-ads.com^$third-party
-||actonsoftware.com^$third-party
 ||acuityads.com^$third-party
 ||ad-score.com^$third-party
 ||adabundle.com^$third-party
@@ -35,6 +36,7 @@
 ||adcolony.com^$third-party
 ||adform.com^$third-party
 ||adgibbon.com^$third-party
+||ad.gt^$third-party
 ||adhese.com^$third-party
 ||adhigh.net^$third-party
 ||adition.com^$third-party
@@ -51,6 +53,7 @@
 ||adnuntius.com^$third-party
 ||adnxs.com^$third-party
 ||adpushup.com^$third-party
+||adroll.com^$third-party
 ||adsafeprotected.com^$third-party
 ||adserver.com^$third-party
 ||adsinteractive.com^$third-party
@@ -86,24 +89,17 @@
 ||afterdownload.com^$third-party
 ||agentio.com^$third-party
 ||agkn.com^$third-party
-||aiactiv.io^$third-party
 ||aidata.io^$third-party
 ||aidemsrv.com^$third-party
 ||alexametrics.com^$third-party
 ||aniview.com^$third-party
-||anonymous-media.com^$third-party
-||apmebf.com^$third-party
-||app-us1.com^$third-party
-||appboycdn.com^$third-party
+||applovin.com^$third-party
 ||atomex.net^$third-party
 ||atwola.com^$third-party
-||awltovhc.com^$third-party
 ||azerion.com^$third-party
 ||bannerconnect.com^$third-party
-||bat.bing.com^$third-party
 ||beachfront.com^$third-party
 ||behavioralengine.com^$third-party
-||betgenius.com^$third-party
 ||betteradsystem.com^$third-party
 ||bidmatic.io^$third-party
 ||bidr.io^$third-party
@@ -113,7 +109,6 @@
 ||bkrtx.com^$third-party
 ||blis.com^$third-party
 ||blogads.com^$third-party
-||blogcounter.de^$third-party
 ||blueconic.net^$third-party
 ||bluekai.com^$third-party
 ||boomtrain.com^$third-party
@@ -121,26 +116,18 @@
 ||brealtime.com^$third-party
 ||bridgetrack.com^$third-party
 ||broadstreetads.com^$third-party
-||bugsnag.com^$third-party
 ||buysellads.com^$third-party
 ||carbonads.com^$third-party
 ||casalemedia.com^$third-party
 ||cedato.com^$third-party
-||chartbeat.com^$third-party
 ||chartboost.com^$third-party
-||clarity.ms^$third-party
-||clevertap-prod.com^$third-party
 ||clickcease.com^$third-party
-||cloudflareinsights.com^$third-party
 ||connectad.io^$third-party
 ||connextra.com^$third-party
-||contentsquare.com^$third-party
 ||contextweb.com^$third-party
 ||conversantmedia.com^$third-party
-||coremetrics.com^$third-party
 ||cpalead.com^$third-party
 ||cpmstar.com^$third-party
-||crazyegg.com^$third-party
 ||creativecdn.com^$third-party
 ||criteo.com^$third-party
 ||crwdcntrl.net^$third-party
@@ -160,10 +147,6 @@
 ||engagebdr.com^$third-party
 ||epsilon.com^$third-party
 ||ero-advertising.com^$third-party
-||ero-analytics.com^$third-party
-||etracker.com^$third-party
-||eulerian.net^$third-party
-||evadav.com^$third-party
 ||everesttech.net^$third-party
 ||ewaydirect.com^$third-party
 ||exelate.com^$third-party
@@ -173,33 +156,23 @@
 ||fastclick.net^$third-party
 ||flashtalking.com^$third-party
 ||flurry.com^$third-party
-||foresee.com^$third-party
-||fouanalytics.com^$third-party
-||freshmarketer.com^$third-party
-||ftjcfx.com^$third-party
-||fullstory.com^$third-party
+||fyber.com^$third-party
 ||gadsbee.com^$third-party
-||gaug.es^$third-party
 ||genesismedia.com^$third-party
 ||genesismediaus.com^$third-party
 ||geniuslinkcdn.com^$third-party
-||geniusmonkey.com^$third-party
 ||geoads.com^$third-party
 ||geoedge.be^$third-party
 ||getintent.com^$third-party
-||getsocial.io^$third-party
-||gfk.com^$third-party
 ||gfl85trk.com^$third-party
-||gleap.io^$third-party
 ||grapeshot.co.uk^$third-party
 ||greystripe.com^$third-party
-||heapanalytics.com^$third-party
+||gumgum.com^$third-party
 ||hightrafficads.com^$third-party
 ||hilltopads.net^$third-party
 ||hitslink.com^$third-party
 ||hitsprocessor.com^$third-party
-||hotjar-analytics.com^$third-party
-||hotjar.com^$third-party
+||htlbid.com^$third-party
 ||iadnet.com^$third-party
 ||improvedigital.com^$third-party
 ||imrworldwide.com^$third-party
@@ -208,60 +181,42 @@
 ||infolinks.com^$third-party
 ||innovid.com^$third-party
 ||inside-graph.com^$third-party
-||inspectlet.com^$third-party
 ||instinctiveads.com^$third-party
-||ipcounter.de^$third-party
 ||juicyads.com^$third-party
 ||justpremium.com^$third-party
 ||kadam.net^$third-party
 ||kargo.com^$third-party
 ||kindads.com^$third-party
-||kissmetrics.com^$third-party
 ||krxd.net^$third-party
 ||lduhtrp.net^$third-party
 ||leadboltads.net^$third-party
 ||leadinfo.net^$third-party
 ||liftdsp.com^$third-party
+||liftoff.ai^$third-party
+||liftoff.io^$third-party
 ||lijit.com^$third-party
 ||liveintent.com^$third-party
-||logrocket.com^$third-party
 ||loopme.com^$third-party
 ||lotame.com^$third-party
 ||lucidmedia.com^$third-party
-||luckyorange.com^$third-party
-||luckyorange.net^$third-party
-||lytics.io^$third-party
 ||marketingcloudfx.com^$third-party
 ||mathtag.com^$third-party
-||matomo.cloud^$third-party
-||mczbf.com^$third-party
 ||media.net^$third-party
 ||mediamath.com^$third-party
 ||mediaplex.com^$third-party
 ||mgid.com^$third-party
-||mixpanel.com^$third-party
-||mlytics.com^$third-party
 ||moat.com^$third-party
 ||moatads.com^$third-party
-||mongoosemetrics.com^$third-party
-||monitus.net^$third-party
 ||mopub.com^$third-party
-||mouseflow.com^$third-party
-||mparticle.com^$third-party
-||muxanalytics.com^$third-party
-||mxpnl.com^$third-party
 ||myads.net^$third-party
-||myfonts.net^$third-party
 ||mypagerank.net^$third-party
 ||narrativ.com^$third-party
 ||narrative.io^$third-party
 ||nedstatbasic.net^$third-party
 ||nereserv.com^$third-party
-||netapplications.com^$third-party
 ||newsinc.com^$third-party
 ||nielsen.com^$third-party
 ||nocodelytics.com^$third-party
-||noibu.com^$third-party
 ||nurago.com^$third-party
 ||nurago.de^$third-party
 ||omniture.com^$third-party
@@ -274,15 +229,12 @@
 ||opinary.com^$third-party
 ||outbrain.com^$third-party
 ||owneriq.net^$third-party
-||parsely.com^$third-party
+||pangleglobal.com^$third-party
 ||peer39.com^$third-party
 ||peerfly.com^$third-party
 ||pemsrv.com^$third-party
 ||permutive.app^$third-party
 ||permutive.com^$third-party
-||pingdom.net^$third-party
-||piwik.pro^$third-party
-||plausible.io^$third-party
 ||plista.com^$third-party
 ||plugrush.com^$third-party
 ||pmbmonetize.live^$third-party
@@ -292,14 +244,13 @@
 ||popunder.net^$third-party
 ||powerlinks.com^$third-party
 ||prebid.org^$third-party
-||pressflex.com^$third-party
 ||primis.tech^$third-party
-||privy.com^$third-party
 ||proclivitymedia.com^$third-party
 ||proclivitysystems.com^$third-party
 ||projectwonderful.com^$third-party
 ||propeller-tracking.com^$third-party
 ||propellerads.com^$third-party
+||propellerclick.com^$third-party
 ||pswec.com^$third-party
 ||publicidees.com^$third-party
 ||pubmatic.com^$third-party
@@ -322,22 +273,14 @@
 ||rubiconproject.com^$third-party
 ||rundsp.com^$third-party
 ||sapient.com^$third-party
-||scorecardresearch.com^$third-party
 ||seedtag.com^$third-party
-||sekindo.com^$third-party
 ||semasio.net^$third-party
-||sensic.net^$third-party
 ||sharethrough.com^$third-party
-||simpleanalyticscdn.com^$third-party
-||siteimproveanalytics.com^$third-party
-||siteimproveanalytics.io^$third-party
 ||smartadserver.com^$third-party
 ||smartclip.net^$third-party
-||smartlook.com^$third-party
 ||smartyads.com^$third-party
 ||snoobi.com^$third-party
 ||snplow.net^$third-party
-||solarwinds.com^$third-party
 ||somoaudience.com^$third-party
 ||sonobi.com^$third-party
 ||sovrn.com^$third-party
@@ -346,18 +289,15 @@
 ||spylog.com^$third-party
 ||stackadapt.com^$third-party
 ||stat-track.com^$third-party
-||statcounter.com^$third-party
-||statisfy.net^$third-party
-||stats.wp.com^$third-party
 ||statsit.com^$third-party
 ||stickyadstv.com^$third-party
+||supersonicads.com^$third-party
 ||taboola.com^$third-party
 ||tagcommander.com^$third-party
 ||tapad.com^$third-party
-||the-ozone-project.com^$third-party
+||teads.tv^$third-party
 ||theadex.com^$third-party
 ||themoneytizer.com^$third-party
-||tqlkg.com^$third-party
 ||trafficforce.com^$third-party
 ||trafficjunky.com^$third-party
 ||trafficstars.com^$third-party
@@ -367,8 +307,8 @@
 ||tsyndicate.com^$third-party
 ||ubermedia.com^$third-party
 ||undertone.com^$third-party
+||unityads.unity3d.com^$third-party
 ||unrulymedia.com^$third-party
-||usabilla.com^$third-party
 ||valueclick.com^$third-party
 ||valueclick.net^$third-party
 ||valueclickmedia.com^$third-party
@@ -376,11 +316,10 @@
 ||videocdnmetrika.com^$third-party
 ||vidverto.io^$third-party
 ||vizury.com^$third-party
+||vungle.com^$third-party
 ||webeyez.com^$third-party
-||webmecanik.com^$third-party
 ||weborama.com^$third-party
 ||webtrafficsource.com^$third-party
-||woopra.com^$third-party
 ||xapads.com^$third-party
 ||yieldlab.net^$third-party
 ||yieldmo.com^$third-party
@@ -390,7 +329,11 @@
 ||zedo.com^$third-party
 ||zemanta.com^$third-party
 
-! Google
+! ============================================================
+! GOOGLE ADVERTISING / ANALYTICS
+||click.googleanalytics.com^$third-party
+! ============================================================
+
 ||ads.google.com^$third-party
 ||adservice.google.com^$third-party
 ||analytics.google.com^$third-party
@@ -398,29 +341,46 @@
 ||googleadservices.com^$third-party
 ||googlesyndication.com^$third-party
 ||doubleclick.net^$third-party
+||ads.youtube.com^$third-party
 
-! Amazon
+! ============================================================
+! AMAZON ADVERTISING
+! ============================================================
+
 ||amazon-adsystem.com^$third-party
 ||affiliationjs.s3.amazonaws.com^$third-party
 ||adtago.s3.amazonaws.com^$third-party
 
-! Block other search engines ads & trackers
+! ============================================================
+! MICROSOFT / BING / YAHOO
+! ============================================================
+
 ||analytics.bing.com^$third-party
+||bat.bing.com^$third-party
 ||c.bing.com^$third-party
-||analytics.duckduckgo.com^$third-party
-||improve.duckduckgo.com^$third-party
 ||analytics.yahoo.com^$third-party
 ||ads.yahoo.com^$third-party
 ||yads.yahoo.com^$third-party
+||partnerads.ysm.yahoo.com^$third-party
+
+! ============================================================
+! DUCKDUCKGO / YANDEX / BAIDU
+! ============================================================
+
+||analytics.duckduckgo.com^$third-party
+||improve.duckduckgo.com^$third-party
+||adfox.yandex.ru^$third-party
 ||appmetrica.yandex.com^$third-party
 ||yandexadexchange.net^$third-party
 ||hm.baidu.com^$third-party
 ||stat.baidustatic.com^$third-party
 ||cnzz.com^$third-party
 
-! Social media
+! ============================================================
+! SOCIAL MEDIA ADVERTISING / TRACKING
+! ============================================================
+
 ||facebook.com^$third-party,domain=~facebook.com|~instagram.com|~messenger.com|~meta.com|~threads.net|~whatsapp.com
-||ads.youtube.com^$third-party
 ||tiktok.com/i18n/pixel^$third-party,domain=~tiktok.com
 ||analytics.tiktok.com^$third-party,domain=~tiktok.com
 ||analytics-sg.tiktok.com^$third-party,domain=~tiktok.com
@@ -438,6 +398,8 @@
 ||ads.reddit.com^$third-party,domain=~reddit.com
 ||events.redditmedia.com^$third-party,domain=~reddit.com
 ||pixel.redditmedia.com^$third-party,domain=~reddit.com
+||events.reddit.com^$third-party
+||trk.pinterest.com^$third-party
 ||ads.pinterest.com^$third-party,domain=~pinterest.com
 ||analytics.pinterest.com^$third-party,domain=~pinterest.com
 ||ct.pinterest.com^$third-party,domain=~pinterest.com
@@ -446,15 +408,118 @@
 ||sc-static.net^$third-party,domain=~snapchat.com
 ||tr.snapchat.com^$third-party,domain=~snapchat.com
 
-! Fingerprinting
+
+! ============================================================
+! TRACKING / AUDIENCE IDENTIFICATION
+! ============================================================
+
+||bluekai.com^$third-party
+||clarity.ms^$third-party
+||criteo.com^$third-party
+||criteo.net^$third-party
+||deepintent.com^$third-party
+||demdex.com^$third-party
+||epsilon.com^$third-party
+||everesttech.net^$third-party
+||everestads.net^$third-party
+||everestjs.net^$third-party
+||exelate.com^$third-party
+||flashtalking.com^$third-party
+||imrworldwide.com^$third-party
+||krxd.net^$third-party
+||lotame.com^$third-party
+||mathtag.com^$third-party
+||mediamath.com^$third-party
+||nielsen.com^$third-party
+||onaudience.com^$third-party
+||onetag-sys.com^$third-party
+||owneriq.net^$third-party
+||peer39.com^$third-party
+||permutive.com^$third-party
+||quantcast.com^$third-party
+||quantserve.com^$third-party
+||retargetly.com^$third-party
+||rlcdn.com^$third-party
+||scorecardresearch.com^$third-party
+||semasio.net^$third-party
+||tapad.com^$third-party
+||vizury.com^$third-party
+
+
+! ============================================================
+! FINGERPRINTING / DEVICE IDENTIFICATION
+! ============================================================
+
 ||24metrics.com^$third-party
 ||ai.trk42.net^$third-party
 ||wandzcdn.com^$third-party
 ||adsymptotic.com^$third-party
 ||auditude.com^$third-party
-||demdex.com^$third-party
 ||dmtracker.com^$third-party
 ||efrontier.com^$third-party
-||everestads.net^$third-party
-||everestjs.net^$third-party
 ||hitbox.com^$third-party
+||id5-sync.com^$third-party
+||pippio.com^$third-party
+
+! ============================================================
+! HEATMAPS / SESSION RECORDING / BEHAVIORAL TRACKING
+! ============================================================
+
+||hotjar.com^$third-party
+||hotjar-analytics.com^$third-party
+||events.hotjar.io^$third-party
+||hotjar.io^$third-party
+||mouseflow.com^$third-party
+||luckyorange.com^$third-party
+||luckyorange.net^$third-party
+||freshmarketer.com^$third-party
+||heapanalytics.com^$third-party
+||fullstory.com^$third-party
+||inspectlet.com^$third-party
+||kissmetrics.com^$third-party
+||logrocket.com^$third-party
+||smartlook.com^$third-party
+||woopra.com^$third-party
+
+! ============================================================
+! ANALYTICS / DATA COLLECTION
+! ============================================================
+
+||amplitude.com^$third-party
+||mixpanel.com^$third-party
+||posthog.com^$third-party
+||segment.com^$third-party
+||segment.io^$third-party
+||rudderlabs.com^$third-party
+||rudderstack.com^$third-party
+||snowplow.io^$third-party
+||snowplowanalytics.com^$third-party
+||omtrdc.net^$third-party
+||scorecardresearch.com^$third-party
+||mlytics.com^$third-party
+||mopub.com^$third-party
+
+! ============================================================
+! AD VERIFICATION / VIEWABILITY / FRAUD DETECTION
+! ============================================================
+
+||adsafeprotected.com^$third-party
+||clickcease.com^$third-party
+||doubleverify.com^$third-party
+||moat.com^$third-party
+||moatads.com^$third-party
+||geoedge.be^$third-party
+||insightexpressai.com^$third-party
+
+! ============================================================
+! AFFILIATE / COMMERCE TRACKING
+! ============================================================
+
+||affilimate.io^$third-party
+||geniuslinkcdn.com^$third-party
+||pepperjamnetwork.com^$third-party
+||rakutenadvertising.com^$third-party
+||refersion.com^$third-party
+||viglink.com^$third-party
+||zemanta.com^$third-party
+

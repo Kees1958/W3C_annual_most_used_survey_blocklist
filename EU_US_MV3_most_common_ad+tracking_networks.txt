@@ -331,12 +331,12 @@
 
 ! ============================================================
 ! GOOGLE ADVERTISING / ANALYTICS
-||click.googleanalytics.com^$third-party
 ! ============================================================
 
 ||ads.google.com^$third-party
 ||adservice.google.com^$third-party
 ||analytics.google.com^$third-party
+||click.googleanalytics.com^$third-party
 ||google-analytics.com^$third-party
 ||googleadservices.com^$third-party
 ||googlesyndication.com^$third-party

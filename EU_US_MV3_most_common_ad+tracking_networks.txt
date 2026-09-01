@@ -398,8 +398,8 @@
 ||ads.reddit.com^$third-party,domain=~reddit.com
 ||events.redditmedia.com^$third-party,domain=~reddit.com
 ||pixel.redditmedia.com^$third-party,domain=~reddit.com
-||events.reddit.com^$third-party
-||trk.pinterest.com^$third-party
+||events.reddit.com^$third-party,domain=~reddit.com
+||trk.pinterest.com^$third-party,domain=~pinterest.com
 ||ads.pinterest.com^$third-party,domain=~pinterest.com
 ||analytics.pinterest.com^$third-party,domain=~pinterest.com
 ||ct.pinterest.com^$third-party,domain=~pinterest.com

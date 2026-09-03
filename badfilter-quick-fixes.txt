@@ -1,0 +1,13 @@
+[AdBlockPlus 2.0]
+!
+! Title: Badfikter and quick fixes for uBlock Stripped - Dynamic filtering 
+! Expires: 7 days
+!
+! Version: 2026.09.03
+!
+! You are allowed to use this freely, but at your own risk. 
+! List contains only default (basic) ABP rules
+!
+!*** correct issues with filterlists used in uBlock-Stripped
+!
+!

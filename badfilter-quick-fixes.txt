@@ -11,3 +11,9 @@
 !*** correct issues with filterlists used in uBlock-Stripped
 !
 !
+! Pornhub block of in-video ad also blocks videos themselves
+@@||dl.phncdn.com/pics/$domain=pornhub.com|pornhub.org|pornhub.net
+@@||static.youporn.phncdn.com/cb/assets/css/$domain=youporn.com
+@@||pornhub.phncdn.com^$image,domain=pornhub.com|pornhub.org|pornhub.net|redtube.com|redtube.net|tube8.com|tube8.es|tube8.fr|youporn.com
+@@||ss.phncdn.com^$script,domain=redtube.com|redtube.net
+@@||phncdn.com/$media,domain=pornhub.com

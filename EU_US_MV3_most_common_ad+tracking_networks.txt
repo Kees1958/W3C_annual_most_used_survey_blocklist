@@ -24,7 +24,9 @@
 ||5gvci.com^$third-party
 ||a-ads.com^$third-party
 ||acuityads.com^$third-party
+||ad-maven.com^$third-party
 ||ad-score.com^$third-party
+||ad.gt^$third-party
 ||adabundle.com^$third-party
 ||adalliance.io^$third-party
 ||adapex.io^$third-party
@@ -34,9 +36,9 @@
 ||adcdnx.com^$third-party
 ||adcell.de^$third-party
 ||adcolony.com^$third-party
+||adcombo.com^$third-party
 ||adform.com^$third-party
 ||adgibbon.com^$third-party
-||ad.gt^$third-party
 ||adhese.com^$third-party
 ||adhigh.net^$third-party
 ||adition.com^$third-party
@@ -44,6 +46,8 @@
 ||adkaora.space^$third-party
 ||adloox.com^$third-party
 ||adlpo.com^$third-party
+||admachine.io^$third-party
+||admanmedia.com^$third-party
 ||admarketplace.net^$third-party
 ||admixer.net^$third-party
 ||admob.com^$third-party
@@ -52,14 +56,18 @@
 ||adnium.com^$third-party
 ||adnuntius.com^$third-party
 ||adnxs.com^$third-party
+||adoperator.com^$third-party
+||adprofex.com^$third-party
 ||adpushup.com^$third-party
 ||adroll.com^$third-party
 ||adsafeprotected.com^$third-party
+||adscompass.com^$third-party
 ||adserver.com^$third-party
 ||adsinteractive.com^$third-party
 ||adskeeper.com^$third-party
 ||adsnative.com^$third-party
 ||adsrvr.org^$third-party
+||adsterra.com^$third-party
 ||adswizz.com^$third-party
 ||adtech.com^$third-party
 ||adtng.com^$third-party
@@ -75,6 +83,7 @@
 ||adxbid.info^$third-party
 ||adxpansion.com^$third-party
 ||adxvalue.com^$third-party
+||adxxx.com^$third-party
 ||adyard.de^$third-party
 ||adyoulike.com^$third-party
 ||adzcentral.com^$third-party
@@ -100,6 +109,7 @@
 ||bannerconnect.com^$third-party
 ||beachfront.com^$third-party
 ||behavioralengine.com^$third-party
+||betterads.com^$third-party
 ||betteradsystem.com^$third-party
 ||bidmatic.io^$third-party
 ||bidr.io^$third-party
@@ -121,6 +131,9 @@
 ||casalemedia.com^$third-party
 ||cedato.com^$third-party
 ||chartboost.com^$third-party
+||clickadilla.com^$third-party
+||clickadu.com^$third-party
+||clickaine.com^$third-party
 ||clickcease.com^$third-party
 ||connectad.io^$third-party
 ||connextra.com^$third-party
@@ -147,17 +160,21 @@
 ||engagebdr.com^$third-party
 ||epsilon.com^$third-party
 ||ero-advertising.com^$third-party
+||eroadvertising.com^$third-party
+||evadav.com^$third-party
 ||everesttech.net^$third-party
 ||ewaydirect.com^$third-party
 ||exelate.com^$third-party
 ||exoclick.com^$third-party
 ||exosrv.com^$third-party
+||exoticads.com^$third-party
 ||fastclick.com^$third-party
 ||fastclick.net^$third-party
 ||flashtalking.com^$third-party
 ||flurry.com^$third-party
 ||fyber.com^$third-party
 ||gadsbee.com^$third-party
+||galaksion.com^$third-party
 ||genesismedia.com^$third-party
 ||genesismediaus.com^$third-party
 ||geniuslinkcdn.com^$third-party
@@ -169,6 +186,7 @@
 ||greystripe.com^$third-party
 ||gumgum.com^$third-party
 ||hightrafficads.com^$third-party
+||hilltopads.com^$third-party
 ||hilltopads.net^$third-party
 ||hitslink.com^$third-party
 ||hitsprocessor.com^$third-party
@@ -201,14 +219,19 @@
 ||lucidmedia.com^$third-party
 ||marketingcloudfx.com^$third-party
 ||mathtag.com^$third-party
+||maxbounty.com^$third-party
 ||media.net^$third-party
 ||mediamath.com^$third-party
 ||mediaplex.com^$third-party
 ||mgid.com^$third-party
 ||moat.com^$third-party
 ||moatads.com^$third-party
+||mobidea.com^$third-party
+||mondiad.com^$third-party
+||monetag.com^$third-party
 ||mopub.com^$third-party
 ||myads.net^$third-party
+||mybid.io^$third-party
 ||mypagerank.net^$third-party
 ||narrativ.com^$third-party
 ||narrative.io^$third-party
@@ -219,9 +242,11 @@
 ||nocodelytics.com^$third-party
 ||nurago.com^$third-party
 ||nurago.de^$third-party
+||olavivo.com^$third-party
 ||omniture.com^$third-party
 ||omtrdc.net^$third-party
 ||onaudience.com^$third-party
+||onclicka.com^$third-party
 ||onclickads.net^$third-party
 ||openadsnetwork.com^$third-party
 ||opentracker.net^$third-party
@@ -254,6 +279,8 @@
 ||pswec.com^$third-party
 ||publicidees.com^$third-party
 ||pubmatic.com^$third-party
+||push.house^$third-party
+||pushground.com^$third-party
 ||pushnami.com^$third-party
 ||qksz.com^$third-party
 ||qksz.net^$third-party
@@ -265,10 +292,13 @@
 ||reporo.net^$third-party
 ||retargetly.com^$third-party
 ||revcontent.com^$third-party
+||revenuehits.com^$third-party
 ||rhombusads.com^$third-party
 ||rhythmone.com^$third-party
 ||richads.com^$third-party
+||richpush.co^$third-party
 ||rlcdn.com^$third-party
+||roiads.co^$third-party
 ||rtbstream.com^$third-party
 ||rubiconproject.com^$third-party
 ||rundsp.com^$third-party
@@ -298,13 +328,20 @@
 ||teads.tv^$third-party
 ||theadex.com^$third-party
 ||themoneytizer.com^$third-party
+||traffea.com^$third-party
+||trafficfactory.com^$third-party
 ||trafficforce.com^$third-party
 ||trafficjunky.com^$third-party
+||trafficnomads.com^$third-party
 ||trafficstars.com^$third-party
+||traforama.com^$third-party
 ||treasuredata.com^$third-party
 ||tremorhub.com^$third-party
 ||triplelift.com^$third-party
 ||tsyndicate.com^$third-party
+||tubecorp.com^$third-party
+||tubecorporate.com^$third-party
+||twinred.com^$third-party
 ||ubermedia.com^$third-party
 ||undertone.com^$third-party
 ||unityads.unity3d.com^$third-party
@@ -312,6 +349,7 @@
 ||valueclick.com^$third-party
 ||valueclick.net^$third-party
 ||valueclickmedia.com^$third-party
+||veedx.com^$third-party
 ||vertamedia.com^$third-party
 ||videocdnmetrika.com^$third-party
 ||vidverto.io^$third-party
@@ -328,6 +366,8 @@
 ||yoads.net^$third-party
 ||zedo.com^$third-party
 ||zemanta.com^$third-party
+||zeropark.com^$third-party
+
 
 ! ============================================================
 ! GOOGLE ADVERTISING / ANALYTICS

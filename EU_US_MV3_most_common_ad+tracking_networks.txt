@@ -2,7 +2,7 @@
 !
 ! Title: EU US most used advertisement and analytics networks
 !
-! Version: 2026.08.25
+! Version: 2026.09.08
 ! Expires: 7 days
 !
 ! You are free to use it at your own risk, please report website breakage at

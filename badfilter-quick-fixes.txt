@@ -1,6 +1,6 @@
 [AdBlockPlus 2.0]
 !
-! Title: Badfikter and quick fixes for uBlock Stripped - Dynamic filtering 
+! Title: Badfilter and quick fixes for uBlock Stripped - Dynamic filtering 
 ! Expires: 7 days
 !
 ! Version: 2026.09.03

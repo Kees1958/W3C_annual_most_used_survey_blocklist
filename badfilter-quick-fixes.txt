@@ -10,7 +10,4 @@
 !
 !*** correct issues with filterlists used in uBlock-Stripped
 !
-!
-! AdGuard base and AdGyard German impact Google search
-!
-||google.com^$badfilter,first-party
+

@@ -10,4 +10,4 @@
 !
 !*** correct issues with filterlists used in uBlock-Stripped
 !
-
+@@adtrafficquality.google^$saferegions

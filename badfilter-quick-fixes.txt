@@ -10,7 +10,10 @@
 !
 !*** correct issues with filterlists used in uBlock-Stripped
 !
-||adtrafficquality.google^$badfilter,domain=google.com
+! bypass safe-regions for google.com
+@@google.com$saferegions
+
+! remove badfilter and disable two scriptlets in BBC.com in AdGuard Base, which might block video's showing
 ||fwmrm.net^$badfilter,domain=bbc.com
 bbc.com#@#//scriptlet('prevent-element-src-loading','script','pub.doubleverify.com')
 bbc.com#@#//scriptlet('set-constant','dotcom.reinitAds','noopFunc')

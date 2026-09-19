@@ -17,3 +17,4 @@
 ||fwmrm.net^$badfilter,domain=bbc.com
 bbc.com#@#//scriptlet('prevent-element-src-loading','script','pub.doubleverify.com')
 bbc.com#@#//scriptlet('set-constant','dotcom.reinitAds','noopFunc')
+@@bbc.com$saferegions

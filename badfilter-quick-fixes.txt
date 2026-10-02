@@ -13,7 +13,7 @@
 ! bypass safe-regions (and advanced) protections with $saferegions
 @@google.com$saferegions
 
-! bypass both the protections and extra filters with $worryfree
+! bypass the extra (worry-free and safe-regions) protections and extra filters with $worryfree
 @@bbc.com$worryfree
 
 ! remove badfilter and disable two scriptlets in BBC.com in AdGuard Base, which might block video's showing

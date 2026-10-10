@@ -1,6 +1,6 @@
 [AdBlockPlus 2.0]
 !
-! Title: Badfilter and quick fixes for uBlock Stripped - Dynamic filtering 
+! Title: Badfilter and quick fixes for uBlock Dynamic
 ! Expires: 7 days
 !
 ! Version: 2026.09.03
@@ -20,3 +20,7 @@
 ||fwmrm.net^$badfilter,domain=bbc.com
 bbc.com#@#//scriptlet('prevent-element-src-loading','script','pub.doubleverify.com')
 bbc.com#@#//scriptlet('set-constant','dotcom.reinitAds','noopFunc')
+
+! Hide invideo ads on CNN with SAFE scriptlets 
+cnn.com#%#//scriptlet('disable-fave-ssai')
+cnn.com#%#//scriptlet('stub-window-object', 'AdFuel', 'queueRegistry,destroySlots', '500')

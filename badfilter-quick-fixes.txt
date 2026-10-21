@@ -18,6 +18,6 @@
 bbc.com#@#//scriptlet('prevent-element-src-loading','script','pub.doubleverify.com')
 bbc.com#@#//scriptlet('set-constant','dotcom.reinitAds','noopFunc')
 
-! Hide invideo ads on CNN with SAFE scriptlets 
+! Hide invideo ads on CNN with uBlock Dynamic own SAFE scriptlets 
 cnn.com#%#//scriptlet('disable-fave-ssai')
 cnn.com#%#//scriptlet('stub-window-object', 'AdFuel', 'queueRegistry,destroySlots', '500')

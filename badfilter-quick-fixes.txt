@@ -10,9 +10,6 @@
 !
 !*** correct issues with filterlists used in uBlock-Stripped
 !
-! bypass safe-regions (and advanced) protections with $saferegions
-@@google.com$saferegions
-
 ! bypass the extra (worry-free and safe-regions) protections and extra filters with $worryfree
 @@bbc.com$worryfree
 

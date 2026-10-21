@@ -10,7 +10,7 @@
 !
 !*** correct issues with filterlists used in uBlock Dynamic - ad blocker
 !
-! bypass the extra (worry-free and safe-regions) protections and extra filters with $worryfree
+! bypass the extra worry-free filters  with $worryfree
 @@bbc.com$worryfree
 
 ! remove badfilter and disable two scriptlets in BBC.com in AdGuard Base, which might block video's showing

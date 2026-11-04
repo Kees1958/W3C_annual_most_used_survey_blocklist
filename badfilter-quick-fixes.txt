@@ -14,8 +14,6 @@
 ||fwmrm.net^$badfilter,domain=bbc.com
 ||emp.bbc.co.uk^$badfilter,domain=bbc.com
 ||pub.doubleverify.com^$badfilter,domain=bbc.com
-bbc.com#@#//scriptlet('prevent-element-src-loading','script','pub.doubleverify.com')
-bbc.com#@#//scriptlet('set-constant','dotcom.reinitAds','noopFunc')
 
 ! hide two ad placeholders
 bbc.com##div[class*="AdSlot"], div[id*="AdSlot"]

@@ -428,6 +428,7 @@
 ! ============================================================
 
 ||facebook.com^$third-party,domain=~facebook.com|~instagram.com|~messenger.com|~meta.com|~threads.net|~whatsapp.com
+||facebook.net^$third-party,domain=~facebook.com|~instagram.com|~messenger.com|~meta.com|~threads.net|~whatsapp.com
 ||tiktok.com/i18n/pixel^$third-party,domain=~tiktok.com
 ||analytics.tiktok.com^$third-party,domain=~tiktok.com
 ||analytics-sg.tiktok.com^$third-party,domain=~tiktok.com

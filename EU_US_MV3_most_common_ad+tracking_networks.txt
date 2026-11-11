@@ -383,6 +383,7 @@
 ||c.bing.com^$third-party
 ||analytics.yahoo.com^$third-party
 ||ads.yahoo.com^$third-party
+||udc.yahoo.com^$third-party
 ||yads.yahoo.com^$third-party
 ||partnerads.ysm.yahoo.com^$third-party
 ||analytics.duckduckgo.com^$third-party

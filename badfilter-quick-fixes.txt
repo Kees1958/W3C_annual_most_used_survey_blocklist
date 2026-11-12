@@ -26,3 +26,7 @@ cnn.com#%#//scriptlet('stub-window-object', 'AdFuel', 'queueRegistry,destroySlot
 ! Hide video ads on NOS.nl
 ||cdn-ster-nl.akamaized.net/*.mp4$redirect=noopmp4-1s,domain=nos.nl
 ||topspin.npo.nl^
+
+! This is a generic example on how to block a popunder or pupup to a specific domain
+! In this example on website xgroovy.com a popup or popunder to pemsrv,com is blocked
+xgroovy.com,xgroovy.tv#%#//scriptlet('prevent-window-open', 'pemsrv.com')

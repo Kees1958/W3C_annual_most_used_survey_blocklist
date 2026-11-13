@@ -8,15 +8,6 @@
 ! You are allowed to use this freely, but at your own risk. 
 ! List contains only default (basic) ABP rules
 
-!*** how to use uBlock Dynamic ad blocker scriptlets in your own ABP Import tab (in settings dashboard)
-
-! *** BLOCK ANNOYING POPUNDERS AND POPUP *************************************************************
-! In this example on website EXAMPLE.com an ANNOYING-POPUP oe ANNOYING-POPUNDER is blocked (try both)
-! EXAMPLE.COM#%#//scriptlet('prevent-window-open', 'ANNOYING-POPUP')
-! EXAMPLE.COM#%#//scriptlet('prevent-navigation', 'ANNOYING-POPUNDER')
-! ****************************************************************************************************
-
-
 !*** correct issues with filterlists used in uBlock Dynamic - ad blocker
 
 ! corrections to show videos on BBC.com 

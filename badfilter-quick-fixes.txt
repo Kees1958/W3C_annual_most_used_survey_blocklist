@@ -7,9 +7,15 @@
 !
 ! You are allowed to use this freely, but at your own risk. 
 ! List contains only default (basic) ABP rules
-!
+
+!*** how to use uBlock Dynamic ad blocker scriptlets in your ABP Import tab
+! This is a generic example on how to block a popunder or pupup to a specific domain
+! In this example on website EXAMPLE.com a popup or popunder to ANNOYING.NET is blocked
+! EXAMPLE.COM#%#//scriptlet('prevent-window-open', 'ANNOYING.NET')
+
+
 !*** correct issues with filterlists used in uBlock Dynamic - ad blocker
-!
+
 ! corrections to show videos on BBC.com 
 ||fwmrm.net^$badfilter,domain=bbc.com
 ||emp.bbc.co.uk^$badfilter,domain=bbc.com
@@ -27,7 +33,3 @@ cnn.com#%#//scriptlet('stub-window-object', 'AdFuel', 'queueRegistry,destroySlot
 ||cdn-ster-nl.akamaized.net/*.mp4$redirect=noopmp4-1s,domain=nos.nl
 ||topspin.npo.nl^
 
-! This is a generic example on how to block a popunder or pupup to a specific domain
-! In this example on website WebsiteYouAreBrowsing.com a popup or popunder to AnnoyingTabOpen.com is blocked
-! WebsiteYouAreBrowsing.com#%#//scriptlet('prevent-window-open', 'AnnoyingTabOpen.com')
-! When you encounter such a situation, just add a similar line to ABP import

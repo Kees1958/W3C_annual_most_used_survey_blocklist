@@ -28,6 +28,6 @@ cnn.com#%#//scriptlet('stub-window-object', 'AdFuel', 'queueRegistry,destroySlot
 ||topspin.npo.nl^
 
 ! This is a generic example on how to block a popunder or pupup to a specific domain
-! In this example on website xgroovy.com a popup or popunder to pemsrv,com is blocked
-xgroovy.com,xgroovy.tv#%#//scriptlet('prevent-window-open', 'pemsrv.com')
+! In this example on website WebsiteYouAreBrowsing.com a popup or popunder to AnnoyingTabOpen.com is blocked
+! WebsiteYouAreBrowsing.com#%#//scriptlet('prevent-window-open', 'AnnoyingTabOpen.com')
 ! When you encounter such a situation, just add a similar line to ABP import

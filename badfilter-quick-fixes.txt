@@ -9,7 +9,7 @@
 ! List contains only default (basic) ABP rules
 
 !*** how to use uBlock Dynamic ad blocker scriptlets in your own ABP Import tab (in settings dashboard)
-! This is a generic example on how to block a popunder or pupup to a specific domain
+
 ! In this example on website EXAMPLE.com a popup or popunder to ANNOYING.NET is blocked
 ! EXAMPLE.COM#%#//scriptlet('prevent-window-open', 'ANNOYING.NET')
 

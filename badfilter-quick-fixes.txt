@@ -27,9 +27,6 @@ cnn.com#%#//scriptlet('stub-window-object', 'AdFuel', 'queueRegistry,destroySlot
 ||cdn-ster-nl.akamaized.net/*.mp4$redirect=noopmp4-1s,domain=nos.nl
 ||topspin.npo.nl^
 
-! Hide Admiral anti-adblock
-foxnews.com#%#//scriptlet('abort-current-inline-script', 'document.createElement', '__apNoHold')
-
 ! Bork a nonsense test
 ||trackersimulator.org$domain=coveryourtracks.eff.org
 ||eviltracker.net$domain=coveryourtracks.eff.org

@@ -23,6 +23,9 @@ bbc.com##iframe[name*="offer"]
 cnn.com#%#//scriptlet('disable-fave-ssai')
 cnn.com#%#//scriptlet('stub-window-object', 'AdFuel', 'queueRegistry,destroySlots', '500')
 
+! Fox news anti-admiral
+foxnews.com#%#//scriptlet('abort-current-inline-script', 'document.createElement', '__apNoHold')
+
 ! Hide video ads on NOS.nl
 ||cdn-ster-nl.akamaized.net/*.mp4$redirect=noopmp4-1s,domain=nos.nl
 ||topspin.npo.nl^

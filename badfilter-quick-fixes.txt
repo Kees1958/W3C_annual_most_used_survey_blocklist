@@ -3,7 +3,7 @@
 ! Title: Badfilter and quick fixes for uBlock Dynamic
 ! Expires: 7 days
 !
-! Version: 2026.09.03
+! Version: 2026.11.19
 !
 ! You are allowed to use this freely, but at your own risk. 
 ! List contains only default (basic) ABP rules

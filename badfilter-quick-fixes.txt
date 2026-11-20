@@ -19,10 +19,6 @@
 bbc.com##div[class*="AdSlot"], div[id*="AdSlot"]
 bbc.com##iframe[name*="offer"]
 
-! Hide in-video ads on CNN with uBlock Dynamic own SAFE scriptlets 
-cnn.com#%#//scriptlet('disable-fave-ssai')
-cnn.com#%#//scriptlet('stub-window-object', 'AdFuel', 'queueRegistry,destroySlots', '500')
-
 ! Fox news anti-admiral
 foxnews.com#%#//scriptlet('abort-current-inline-script', 'document.createElement', '__apNoHold')
 

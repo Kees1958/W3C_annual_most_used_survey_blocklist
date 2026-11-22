@@ -26,6 +26,9 @@ foxnews.com#%#//scriptlet('abort-current-inline-script', 'document.createElement
 ||cdn-ster-nl.akamaized.net/*.mp4$redirect=noopmp4-1s,domain=nos.nl
 ||topspin.npo.nl^
 
+! Block XSS attack using optimizely snippets
+||cdn.optimizely.com/js/$script,redirect=optimizely.js
+
 ! Bork a nonsense test
 ||trackersimulator.org$domain=coveryourtracks.eff.org
 ||eviltracker.net$domain=coveryourtracks.eff.org

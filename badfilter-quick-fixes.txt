@@ -27,7 +27,8 @@ foxnews.com#%#//scriptlet('abort-current-inline-script', 'document.createElement
 ||topspin.npo.nl^
 
 ! Block XSS attack using optimizely snippets
-||cdn.optimizely.com/js/$script,redirect=optimizely.js
+||cdn.optimizely.com/js/*.js$script,redirect=optimizely.js
+||cdn.optimizely.com/public/*_edge_helper.js$script,redirect=optimizely.js
 
 ! Bork a nonsense test
 ||trackersimulator.org$domain=coveryourtracks.eff.org

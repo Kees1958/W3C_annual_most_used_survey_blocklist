@@ -1,4 +1,4 @@
-[AdBlockPlus 2.0]
+tra[AdBlockPlus 2.0]
 !
 ! Title: Badfilter and quick fixes for uBlock Dynamic
 ! Expires: 7 days
@@ -26,7 +26,7 @@ foxnews.com#%#//scriptlet('abort-current-inline-script', 'document.createElement
 ||cdn-ster-nl.akamaized.net/*.mp4$redirect=noopmp4-1s,domain=nos.nl
 ||topspin.npo.nl^
 
-! Block XSS attack using optimizely snippets
+! Neutralize optimizely snippets by redirecting to harmless version
 ||cdn.optimizely.com/js/*.js$script,redirect=optimizely.js
 ||cdn.optimizely.com/public/*_edge_helper.js$script,redirect=optimizely.js
 

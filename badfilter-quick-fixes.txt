@@ -17,6 +17,7 @@ tra[AdBlockPlus 2.0]
 
 ! hide two ad placeholders
 bbc.com##div[class*="AdSlot"], div[id*="AdSlot"]
+bbc.com##div[data-component="ad-slot"]
 bbc.com##iframe[name*="offer"]
 
 ! Fox news anti-admiral
@@ -26,10 +27,10 @@ foxnews.com#%#//scriptlet('abort-current-inline-script', 'document.createElement
 ||cdn-ster-nl.akamaized.net/*.mp4$redirect=noopmp4-1s,domain=nos.nl
 ||topspin.npo.nl^
 
-! Neutralize optimizely snippets by redirecting to harmless version
-||cdn.optimizely.com/js/*.js$script,redirect=optimizely.js
-||cdn.optimizely.com/public/*_edge_helper.js$script,redirect=optimizely.js
-
 ! Bork a nonsense test
 ||trackersimulator.org$domain=coveryourtracks.eff.org
 ||eviltracker.net$domain=coveryourtracks.eff.org
+
+! Neutralize optimizely snippets by redirecting to harmless version
+||cdn.optimizely.com/js/*.js$script,redirect=optimizely.js
+||cdn.optimizely.com/public/*_edge_helper.js$script,redirect=optimizely.js

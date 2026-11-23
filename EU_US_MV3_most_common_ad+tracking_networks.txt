@@ -2,7 +2,7 @@
 !
 ! Title: EU US most used advertisement and analytics networks
 !
-! Version: 2026.10.29
+! Version: 2026.11.23
 ! Expires: 7 days
 !
 ! In scope: third-party advertising, ad exchanges, audience/identity sync,
@@ -623,19 +623,3 @@
 ||rmp.rakuten.com^$third-party
 ||viglink.com^$third-party
 ||zemanta.com^$third-party
-
-! ============================================================
-! OUTSIDE EU / FIVE EYES ZONE (COMMON ON TOP 1M WEBSITES)
-! ============================================================
-
-||counter.yadro.ru^$third-party
-||adriver.ru^$third-party
-||tns-counter.ru^$third-party
-||stats.vk-portal.net^$third-party
-||vk.com/rtrg^$third-party,domain=~vk.com
-||wcs.naver.net^$third-party,domain=~naver.com
-||wcs.naver.com^$third-party,domain=~naver.com
-||nam.veta.naver.com^$third-party,domain=~naver.com
-||s.yjtag.jp^$third-party
-||ptengine.jp^$third-party
-||51.la^$third-party

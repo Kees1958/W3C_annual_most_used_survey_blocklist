@@ -20,7 +20,7 @@ bbc.com##div[class*="AdSlot"], div[id*="AdSlot"]
 bbc.com##div[data-component="ad-slot"]
 bbc.com##iframe[name*="offer"]
 
-! CNN com
+! CNN com hide ad place holder
 cnn.com##div.ad-slot-header__wrapper
 
 ! Fox news anti-admiral

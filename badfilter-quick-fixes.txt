@@ -20,6 +20,9 @@ bbc.com##div[class*="AdSlot"], div[id*="AdSlot"]
 bbc.com##div[data-component="ad-slot"]
 bbc.com##iframe[name*="offer"]
 
+! prevent Admiral block on Foxnews
+foxnews.com##+js(rmnt, script, __apEarlyInstalled)
+
 ! Hide video ads on NOS.nl
 ||cdn-ster-nl.akamaized.net/*.mp4$redirect=noopmp4-1s,domain=nos.nl
 

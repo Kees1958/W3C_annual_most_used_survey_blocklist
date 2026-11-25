@@ -1,4 +1,4 @@
-tra[AdBlockPlus 2.0]
+[AdBlockPlus 2.0]
 !
 ! Title: Badfilter fixes for uBlock Dynamic
 ! Expires: 7 days

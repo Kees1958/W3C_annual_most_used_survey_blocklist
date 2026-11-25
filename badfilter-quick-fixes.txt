@@ -23,9 +23,6 @@ bbc.com##iframe[name*="offer"]
 ! CNN com hide ad place holder
 cnn.com##div.ad-slot-header__wrapper
 
-! Fox news anti-admiral
-foxnews.com#%#//scriptlet('abort-current-inline-script', 'document.createElement', '__apNoHold')
-
 ! Hide video ads on NOS.nl
 ||cdn-ster-nl.akamaized.net/*.mp4$redirect=noopmp4-1s,domain=nos.nl
 ||topspin.npo.nl^

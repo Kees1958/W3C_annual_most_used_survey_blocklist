@@ -25,7 +25,6 @@ cnn.com##div.ad-slot-header__wrapper
 
 ! Hide video ads on NOS.nl
 ||cdn-ster-nl.akamaized.net/*.mp4$redirect=noopmp4-1s,domain=nos.nl
-||topspin.npo.nl^
 
 ! Bork a nonsense test
 ||trackersimulator.org$domain=coveryourtracks.eff.org

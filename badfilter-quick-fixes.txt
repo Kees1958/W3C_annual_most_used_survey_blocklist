@@ -19,6 +19,13 @@ bbc.com##div[class*="AdSlot"], div[id*="AdSlot"]
 bbc.com##div[data-component="ad-slot"]
 bbc.com##iframe[name*="offer"]
 
+! Hide in-video ads on CNN with uBlock Dynamic own SAFE scriptlets 
+cnn.com#%#//scriptlet('disable-fave-ssai')
+cnn.com#%#//scriptlet('stub-window-object', 'AdFuel', 'queueRegistry,destroySlots', '500')
+! Block server side stiched-in video-ads triggering ad-free fallback (prevents needing trusted-scriptlet)
+||prd.media.max.com^*/dash.mpd?rtype=s$domain=cnn.com
+||prd.media.cnn.com^*/dash.mpd?rtype=s$domain=cnn.com
+
 ! Hide video ads on NOS.nl
 ||cdn-ster-nl.akamaized.net/*.mp4$redirect=noopmp4-1s,domain=nos.nl
 
